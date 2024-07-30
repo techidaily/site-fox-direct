@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Yi Action Cam - Unleash 4K Videography\""
-date: 2024-07-11T19:47:59.009Z
-updated: 2024-07-12T19:47:59.009Z
+date: 2024-07-29T03:31:45.306Z
+updated: 2024-07-30T03:31:45.306Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/c275eb5c1cd312c42c74269cfb4e1589d2e9cb8ca
 
 # YI 4K Action Camera Review
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -30,6 +33,9 @@ thumbnail: https://thmb.techidaily.com/c275eb5c1cd312c42c74269cfb4e1589d2e9cb8ca
 
 **You may also like:** [Top 15 Best Action Cameras >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Complete Review for Yi 4k Action Camera
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01FU9ZIMU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01FU9ZIMU&linkId=8ffea9b2da130000b205cf9367ce3ccf)
@@ -38,6 +44,14 @@ thumbnail: https://thmb.techidaily.com/c275eb5c1cd312c42c74269cfb4e1589d2e9cb8ca
 
  Let us start with the hardware part. Yi 4k looks almost same as that of GoPro device, even the waterproof case appears somewhat like GoPro product. Some resemblance is found in mobile applications as well as in mounting systems. The front side of Yi 4k is equipped with a lens and LED that provides current camera status indication. The 2.2 inch wide LCD screen is protected with Gorilla Glass whereas on top portion you will find holes for speaker and dual microphone. On the right side, a small flap is covering MicroUSB charging port and the left side is left bare.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![yi-4k-product](https://images.wondershare.com/filmora/article-images/yi-4k-product.jpg)
 
 #### Specifications
@@ -72,6 +86,9 @@ thumbnail: https://thmb.techidaily.com/c275eb5c1cd312c42c74269cfb4e1589d2e9cb8ca
 
  Want to know more about the best accessories for Xiaomi Yi 4K action camera? Check [Best Accessories for YI 4K Action Camera in 2017](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![yi-4k-unboxing-](https://images.wondershare.com/filmora/article-images/yi-4k-unboxing-.jpg)
 
 #### Features
@@ -128,6 +145,9 @@ thumbnail: https://thmb.techidaily.com/c275eb5c1cd312c42c74269cfb4e1589d2e9cb8ca
 
  Need more information?[Check GoPro Hero5 Black vs Xiaomi Yi 4K Action Camera](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -156,3 +176,47 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-behind-the-screen-samsung-ue590-4k-freesync-analysis/"><u>[New] 2024 Approved  Behind the Screen  Samsung UE590 4K, FreeSync Analysis</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-instagram-aesthetics-tips-for-video-reversal/"><u>[New] 2024 Approved  Instagram Aesthetics  Tips for Video Reversal</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-pioneering-digital-expression-with-these-6-best-nft-makers/"><u>[New] 2024 Approved  Pioneering Digital Expression with These 6 Best NFT Makers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-crafting-your-virtual-identity-the-metaverse-simplified/"><u>[New] Crafting Your Virtual Identity - The Metaverse Simplified</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-elevate-your-editing-skills-with-pro-color-techniques-for-2024/"><u>[New] Elevate Your Editing Skills with Pro Color Techniques for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-exclusive-guide-best-10-cost-free-transformers-for-jpg-to-gif/"><u>[New] Exclusive Guide  Best 10 Cost-Free Transformers for JPG to GIF</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-masterclass-webcast-theme-builder-for-2024/"><u>[New] Masterclass Webcast Theme Builder for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-navigating-youtubes-creative-commons-framework-effectively/"><u>[New] Navigating YouTube's Creative Commons Framework Effectively</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-the-essential-android-update-for-vr-video-watchers-for-2024/"><u>[New] The Essential Android Update for VR Video Watchers for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-tips-and-tricks-for-streamlining-color-grading-with-luts-in-adobe-for-2024/"><u>[New] Tips and Tricks for Streamlining Color Grading with LUTs in Adobe for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-celebrating-artistry-top-20-anime-melodies/"><u>[Updated] 2024 Approved  Celebrating Artistry  Top 20 Anime Melodies</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-engage-enlighten-and-enthrall-with-immersive-facebook-sharing/"><u>[Updated] 2024 Approved  Engage, Enlighten and Enthrall with Immersive Facebook Sharing</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-top-25-instagram-hashtags-to-get-more-likes-and-followers/"><u>[Updated] 2024 Approved  Top 25 Instagram Hashtags to Get More Likes and Followers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-unlocking-windows-11-your-ultimate-cheat-sheet/"><u>[Updated] 2024 Approved  Unlocking Windows 11  Your Ultimate Cheat Sheet</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-force-youtube-cc-to-stay-on-and-get-more-views/"><u>[Updated] How to Force YouTube CC to Stay On and Get More Views</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-bring-laughs-home-for-free-mememakers-way/"><u>[Updated] In 2024, Bring Laughs Home for FREE - MemeMaker's Way</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-cameras-unveiled-the-beginners-guide-to-action-shooting/"><u>[Updated] In 2024, Cameras Unveiled  The Beginner's Guide to Action Shooting</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-download-essential-video-intros-for-beginners/"><u>[Updated] In 2024, Download Essential Video Intros for Beginners</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-emulate-action-with-kinetic-blur-effects/"><u>[Updated] In 2024, Emulate Action with Kinetic Blur Effects</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-navigate-high-speed-stories-on-instagram-effectively/"><u>[Updated] Navigate High-Speed Stories on Instagram Effectively</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-behind-the-scenes-10-underrated-aspects-of-reels-on-instagram/"><u>2024 Approved  Behind the Scenes  10 Underrated Aspects of Reels on Instagram</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-beyond-reality-jaunt-vr-breakdown/"><u>2024 Approved  Beyond Reality  Jaunt VR Breakdown</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-elevating-listeners-a-comprehensive-guide-to-podcast-seo/"><u>2024 Approved  Elevating Listeners  A Comprehensive Guide to Podcast SEO</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-oneplus-ace-3-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On OnePlus Ace 3? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/capturing-ps4-gaming-magic-in-full-detail-using-obs/"><u>Capturing PS4 Gaming Magic in Full Detail Using OBS</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/discovering-top-video-cameras-for-2024/"><u>Discovering Top Video Cameras for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-itel-p55t-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Itel P55T Phones with/without a PC</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On OnePlus 12R? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-realme-gt-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-motorola-moto-g84-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Motorola Moto G84 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-forgotten-pin-of-your-samsung-galaxy-m54-5g-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Samsung Galaxy M54 5G</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-from-novice-to-pro-the-funimate-guide/"><u>In 2024, From Novice to Pro - The Funimate Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-guide-to-producing-effective-youtube-promo-videos/"><u>In 2024, Guide to Producing Effective YouTube Promo Videos</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-nokia-c32-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Nokia C32 To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-vivo-v30-pro-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Vivo V30 Pro Phones? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-from-apple-iphone-7-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID From Apple iPhone 7 without Password?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/navigating-through-excellent-hdr-cam-choices/"><u>Navigating Through Excellent HDR Cam Choices</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/prime-fps-range-for-gradual-action-footage-for-2024/"><u>Prime FPS Range for Gradual Action Footage for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/the-seamless-media-magic-turning-xml-ssa-into-dynamic-srts-for-2024/"><u>The Seamless Media Magic  Turning XML, SSA Into Dynamic SRTs for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/timing-the-perfect-capture-and-labeling-for-2024/"><u>Timing the Perfect Capture and Labeling for 2024</u></a></li>
+</ul></div>
