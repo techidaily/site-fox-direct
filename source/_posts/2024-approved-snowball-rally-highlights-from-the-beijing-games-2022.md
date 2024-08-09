@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Snowball Rally  Highlights From the Beijing Games, 2022\""
-date: 2024-07-11T20:57:57.134Z
-updated: 2024-07-12T20:57:57.134Z
+date: 2024-08-08T04:57:57.142Z
+updated: 2024-08-09T04:57:57.142Z
 tags: 
   - screen-recording
   - ai video
@@ -22,12 +22,30 @@ Olympics Games are organized by International Olympic Committee after every four
 
 The grand opening ceremony was held on 4th February and the grand closing will be held on 20th February 2022 at Beijing National Stadium, China. There have already been some extraordinary and memorable moments in the various sports events and competitions in the Winter Olympics 2022\. Here are all the winter Olympics 2022 highlights you should not miss out. You can also check out Olympics video highlights 2022 whose link we have shared at the end of the article.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Watch Video: 10 Best Winter Olympics Highlight Moment \[2022\]
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Lindsey Jacobellis Gives US Its First Beijing Olympics Gold
 
 American snowboarder Lindsey Jacobellis wins the gold medal in the women's snowboard cross at Beijing Winter Olympics. She broke the deadlock for the United States at Winter Olympics by giving her country the first gold. In fact, Lindsey Jacobellis had to wait 16 years to wind her maiden gold at the Olympics.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![lindsey jacobellis wins the gold medal](https://images.wondershare.com/filmora/article-images/lindsey-jacobellis-wins-the-gold-medal.jpg)
 
 Lindsey Jacobellis become a viral internet figure after her premature celebration at Turin 2006 Winter Olympics that cost her medal at the event. The 36-year-old snowboarder has now become the oldest American to win a gold medal at Winter Games.
@@ -36,10 +54,16 @@ Lindsey Jacobellis become a viral internet figure after her premature celebratio
 
 Nathan Chen of the United States set a world-record score in men's figure skating short program held at Beijing Olympics. Chen scored 113.97 at Capital Indoor Stadium in Beijing. Four years after his dreams were shattered, Chen has not only come back stronger in his performance but managed to break the world record.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![nathan chen best male skater](https://images.wondershare.com/filmora/article-images/nathan-chen-breaks-world-record.jpg)
 
 Chen won the gold medal in men's figure skating with a combined score of 332.60 in the short program and free skate competitions. The defending champion Yuzuru Hanyu was not even in the top three and did not manage to win any medal which is naturally a major disappointment. On the contrary, Chen was elated and said that his performance is close to his best and that we could see even better performance going ahead.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Nina O'Brien Suffered a Terrifying Crash
 
 Injuries are part of sports events but some injuries are gruesome and are results of terrifying crashes. Team USA alpine racer Nina O'Brien was the victim of a terrifying crash this year at Winter Olympics. During her second run at the women's giant slalom event, she suffered a gruesome leg injury.
@@ -48,6 +72,9 @@ Injuries are part of sports events but some injuries are gruesome and are result
 
 She lost her balance before she could cross the finishing line and she slid across the finish. She was screaming in pain as she left the event on a stretcher. The good news is that she is alert and responding. She has returned home to Colorado and she has received a warm welcome back home.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ## 4\. US-Born Eileen Gu Wins Gold for China
 
 Born in America, Eileen Gu represented China at Winter Olympics and managed to win the gold medal in the inaugural freeski big air event. Therefore, she will go down in the history as the first woman to win the gold medal for freeski big air event. She stunned everyone by completing two off-axis rotations in the air.
@@ -68,10 +95,16 @@ Following the victory, he stated that he was sure to win the gold with eight lap
 
 Yan Wengang becomes the first medalist from China in a sliding sport. In a four-run total time of 4:01.77, he secured himself a bronze medal. The gold and silver went to Christopher Grotheer and Alex Jung of Germany. With the victory of Wengwang, there was a good feat for China as the nation sent its first skeleton athlete to the Olympics only 4 years ago.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![yan wen gang](https://images.wondershare.com/filmora/article-images/yan-wen-gang.jpg)
 
 The competitiveness of Wengwang has made him the first medalist for China in men's skeleton. The 24-year-old Tianjin native was happy as well as disappointed after the competition. With a fighting spirit, he gave everything he had in the last heat. His victory makes only the second time when a non-North American or non-European stood on the Olympic podium for skeleton.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 7\. Chloe Kim Wins Second Straight Olympic Gold
 
 21-year-old Chloe Kim became back-to-back Olympic champion by dominating in the halfpipe. The American confirmed a gold medal on the first run itself. Her runs had 1080, a switch 900, and a switch backside of 540\. It further added another 1080\. She dominated the Snowboarding Women's Halfpipe Final with 94 points. Spain's Queralkt Castellet won silver and the bronze went to Sena Tomita of Japan.
@@ -80,6 +113,9 @@ The competitiveness of Wengwang has made him the first medalist for China in men
 
 With the triumph, she joins Shaun White to be the only snowboarders to successfully defend their Olympic title. Following the victory, she was overwhelmed and emotional. Despite having the worst practice before the final, Kim went on to create history.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ## 8\. Ukrainian Athlete Shows ‘No War' Sign During Skeleton Event
 
 We are all aware of the tensions between Ukraine and Russia are at their peak and there are many experts who believe the countries are on the verge of declaring war. Even though The Winter Olympics should have ideally been an apolitical event, Ukrainian skeleton athlete Vladyslav Heraskevych flashed a sign that read “No War in Ukraine” to spark a political controversy.
@@ -100,6 +136,9 @@ Zhou is considering the silver win as a consolation prize but he could not showc
 
 Doping scandals have become a part of the Olympics and this year is no different. According to International Testing Agency, Russian skater Kamila Valieva failed the doping test. On further examination, she tested positive for a performance-enhancing banned substance. She was told that she could not train, compete and participate during the Olympic Winter Games.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![russian figure skater](https://images.wondershare.com/filmora/article-images/russian-figure-skater.jpg)
 
 However, due to some miscommunication, she was allowed to be a participant in the team figure skating competition. She led the team to win gold but the medal is yet to be awarded due to the big confusion regarding the timeline of her drug test, suspension order, and miscommunication. The issue has become a controversial Beijing winter Olympics highlights.
@@ -122,3 +161,45 @@ However, due to some miscommunication, she was allowed to be a participant in th
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-cinematic-wonders-with-hero5-black-a-filmmakers-companion/"><u>[New] 2024 Approved  Cinematic Wonders with Hero5 Black  A Filmmaker's Companion</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-elite-efficiency-enhancement-codes/"><u>[New] 2024 Approved  Elite Efficiency Enhancement Codes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-green-screen-journey-begins-on-yt-ideas-take-flight/"><u>[New] 2024 Approved  Green Screen Journey Begins on YT, Ideas Take Flight</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-laugh-out-loud-free-memetic-creators/"><u>[New] 2024 Approved  Laugh Out Loud  FREE Memetic Creators</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-elevating-your-online-presence-with-advanced-zoom-filters/"><u>[New] Elevating Your Online Presence with Advanced Zoom Filters</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-step-by-step-guide-to-image-text-overlay-online/"><u>[New] In 2024, Step-by-Step Guide to Image Text Overlay Online</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-unlock-social-potential-sharing-panoramic-content-with-facebook/"><u>[New] In 2024, Unlock Social Potential  Sharing Panoramic Content with Facebook</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-inshots-competitors-for-pclaptop-editors/"><u>[New] Inshot's Competitors for PC/Laptop Editors</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-making-the-most-of-both-worlds-tweeting-and-sending-videos-with-whatsapp/"><u>[New] Making the Most of Both Worlds  Tweeting & Sending Videos with WhatsApp</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-photo-perfection-at-your-fingertips-top-10-stickers-on-iphones-and-androids-for-2024/"><u>[New] Photo Perfection at Your Fingertips  Top 10 Stickers on iPhones & Androids for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-srt-extraction-procedure-from-zipped-contents/"><u>[New] Srt Extraction Procedure From Zipped Contents</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-acquire-and-setup-windows-xp-movie-creator/"><u>[Updated] 2024 Approved  Acquire & Setup Windows XP Movie Creator</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-craftsmanship-hub-top-after-effects-template-deals/"><u>[Updated] In 2024, Craftsmanship Hub  Top After Effects Template Deals</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-industrys-mightiest-drone-fleet-compilation/"><u>[Updated] In 2024, Industry's Mightiest Drone Fleet Compilation</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-potential-pitfalls-in-virtual-realms-for-2024/"><u>[Updated] Potential Pitfalls in Virtual Realms for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-blueprint-of-dynamic-dialogue-in-scripts/"><u>[Updated] The Blueprint of Dynamic Dialogue in Scripts</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-ultimate-framework-for-finding-the-right-podcast-title-plus-idea-compendium-for-2024/"><u>[Updated] Ultimate Framework for Finding the Right Podcast Title + Idea Compendium for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-dynamicvidxp-reviews-and-rating/"><u>2024 Approved  DynamicVidXP Reviews and Rating</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-enhance-photos-with-our-best-grid-app-list/"><u>2024 Approved  Enhance Photos with Our Best Grid App List</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-switching-on-windows-11s-adaptive-hdr-option/"><u>2024 Approved  Switching On Windows 11'S Adaptive HDR Option</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/a-curated-selection-best-stop-motion-movies-ever-made-for-2024/"><u>A Curated Selection  Best Stop-Motion Movies Ever Made for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-step-by-step-approach-to-mastering-360-video-edits-in-premiere-pro/"><u>A Step-by-Step Approach to Mastering 360° Video Edits in Premiere Pro</u></a></li>
+<li><a href="https://extra-information.techidaily.com/archiving-your-favorites-the-complete-list-of-9-podcast-recording-steps/"><u>Archiving Your Favorites  The Complete List of 9 Podcast Recording Steps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/configuring-codegpt-for-vs-code-enhancement/"><u>Configuring CodeGPT for VS Code Enhancement</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/distinguished-top-5-effortless-action-recorder-recommendations/"><u>Distinguished Top 5 Effortless Action Recorder Recommendations</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/fabricate-fascinating-face-painting-gifs-on-giphy/"><u>Fabricate Fascinating Face-Painting Gifs on Giphy</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-vivo-y100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-oppo-reno-10-5g-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-lava-yuva-3-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-maximizing-audience-reach-prime-dissemination-days/"><u>In 2024, Maximizing Audience Reach  Prime Dissemination Days</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-monetizing-mastery-comparing-streaming-giants-strategies/"><u>In 2024, Monetizing Mastery  Comparing Streaming Giants' Strategies</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-the-secrets-behind-top-performers-in-online-forums-like-reddit/"><u>In 2024, The Secrets Behind Top Performers in Online Forums Like Reddit</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/sony-blu-ray-player-s6500-fresh-perspective/"><u>Sony Blu-Ray Player S6500  Fresh Perspective</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/the-top-pick-for-new-dronists-a-deep-look-at-syma-x5c/"><u>The Top Pick for New Dronists – A Deep Look at Syma X5C</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/the-ultimate-playbook-top-20-best-practices-for-maximizing-facebook-video-success-for-2024/"><u>The Ultimate Playbook  Top 20 Best Practices for Maximizing Facebook Video Success for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/ultimate-tutorial-for-srt-tagging-in-mp4-videos-2024/"><u>Ultimate Tutorial for SRT Tagging in MP4 Videos 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-nubia-z50-ultra-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Nubia Z50 Ultra? Here Is the Answer | Dr.fone</u></a></li>
+</ul></div>

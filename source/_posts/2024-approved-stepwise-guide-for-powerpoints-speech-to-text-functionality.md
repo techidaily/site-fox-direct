@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Stepwise Guide for PowerPoint's Speech-to-Text Functionality\""
-date: 2024-07-11T20:59:29.357Z
-updated: 2024-07-12T20:59:29.357Z
+date: 2024-08-08T04:56:39.977Z
+updated: 2024-08-09T04:56:39.977Z
 tags: 
   - screen-recording
   - ai video
@@ -24,6 +24,10 @@ Speech-to-text is not new, especially if you are used to the internet and many a
 
 [Make PPT Videos Now](https://tools.techidaily.com/wondershare/filmora/download/) [Make PPT Videos Now](https://tools.techidaily.com/wondershare/filmora/download/) [Explore STT](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
 ## Part 1: How to enable speech-to-text in PowerPoint?
@@ -32,6 +36,9 @@ Using speech-to-text in PowerPoint is the same principle guiding other platforms
 
 Please note that “enabling speech-to-text” in PowerPoint differs from “using speech-to-text.” For example, you have to enable the speech-to-text first before you can use it. Also, how you enable speech-to-text in PowerPoint is based on the selected devices. Let's discuss enabling speech-to-text on Mac and Windows.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ### **Enable speech-to-text on Mac**
 
 * **Select the control button:** Mac allows you to select the control button for activating speech-to-text the first time you want to use the feature. Unlike other devices, the control option pops up when you select the speech-to-text option. It then displays some control options so that you can select the button suitable for you.
@@ -41,6 +48,9 @@ Please note that “enabling speech-to-text” in PowerPoint differs from “usi
 
 * **Select the dictation option:** select dictation from the keyboard option and check the **“on/off”** The option also has an advanced feature that allows additional commands.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![select the dictation option](https://images.wondershare.com/filmora/article-images/2022/07/can-you-do-speech-to-text-in-powerpoint-2.jpg)
 
 Once you activate the dictation from the command button, you can use the speech-to-text feature anywhere you can type on Mac - this applies to PowerPoint. However, you may need some tweaking on PowerPoint to finally use the feature as you prepare your slides.
@@ -57,14 +67,37 @@ Aside from the regular Cortana speech recognition on Windows, you can use the sp
 
 ![click on the search button](https://images.wondershare.com/filmora/article-images/2022/07/can-you-do-speech-to-text-in-powerpoint-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ## Part 2: How do I dictate PowerPoint for Mac?
 
 It is easy to use PowerPoint on a Mac after activating the **“dictation”** button.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ### **Add speak to the quick access toolbar**
 
 * Sign in to the PowerPoint on your Mac device, and locate the customized **quick access toolbar.** The quick access toolbar includes **“more commands”** and other options.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![more commands and other options](https://images.wondershare.com/filmora/article-images/2022/07/can-you-do-speech-to-text-in-powerpoint-5.jpg)
 
 * Reselect the option to “**all commands**.” The “all commands” should be enabled because they include many other commands, but you may not activate the options without selecting them.
@@ -79,14 +112,23 @@ It is easy to use PowerPoint on a Mac after activating the **“dictation”** b
 
 Now you can click on the microphone button and speak to add text.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### **Speak clearly, but conversationally**
 
 The smart engine needs to hear you clearly before interpreting the speech into text. Do not mumble or speak fast. Each word should be audible and clearly stated. You can use the keyboard to edit or remove excess words.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ### **Reduce background noise**
 
 Ensure the background noise does not interrupt your speech.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Use the user dictionary**
 
 Exploit the user dictionary. Visit Settings > **Languages**, and info > **Advanced** \> Personal word reference, and you can add last names and other “unofficial” words.
@@ -115,6 +157,9 @@ When you want to make perfect PPT videos, you can use Filmora's STT feature. Won
 
 What's more, now Filmora's STT feature supports direct transcription of bilingual subtitles with up to 27 languages of transcription in Filmora version 13.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Top Adavantages of Filmora STT
 
 * Supports direct transcription of bilingual subtitles.
@@ -131,14 +176,23 @@ What's more, now Filmora's STT feature supports direct transcription of bilingua
 
 Select the audio asset in the timeline, and click the "Speech-to-Text" icon in the toolbar; if there is no supported file type on the timeline, it will not be displayed.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![toolbar stt](https://images.wondershare.com/filmora/guide/guide-win/toolbar-stt.jpg)
 
 ##### Step 2
 
 Click the "Speech-to-Text" icon, and it will show the parameter settings. You can choose the languages to be transcribed and to be transcribed to. Filmora's STT feature supports direct transcription of bilingual subtitles with up to 27 languages of transcription
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![parameter setting](https://images.wondershare.com/filmora/guide/guide-win/setting-stt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## FAQs
 
 ### **Does speech-to-text require the internet?**
@@ -149,6 +203,9 @@ No, it doesn't. However, you may need the internet to set up some settings.
 
 No. The feature is free for all registered users on PowerPoint.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Do you need an additional microphone?**
 
 You can use your device's in-built microphone. However, you may need external gear for efficiency.
@@ -183,3 +240,52 @@ Speech-to-text is an additional feature for all users. Typing is, however, the d
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-essential-tips-for-smooth-youtube-content-trimming-for-2024/"><u>[New] Essential Tips for Smooth YouTube Content Trimming for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-shedding-light-on-brighter-hdr-approaches-with-high-quality-luminosity/"><u>[New] Shedding Light on Brighter HDR Approaches with High-Quality Luminosity</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-starting-an-impactful-fb-community-giving-campaign/"><u>[New] Starting an Impactful FB Community Giving Campaign</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/1718638662360-new-vmix-vs-wirecast-which-is-the-best-professional-live-streaming-software-in-2024/"><u>[New] VMix Vs. Wirecast- Which Is the Best Professional Live Streaming Software, In 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-digital-illustration-turning-your-favorite-vimeo-videos-into-gifs/"><u>[Updated] 2024 Approved  Digital Illustration  Turning Your Favorite Vimeo Videos Into GIFs</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-enhance-your-feed-efficiently-adding-multiple-photographs-and-videos-to-ig/"><u>[Updated] 2024 Approved  Enhance Your Feed  Efficiently Adding Multiple Photographs & Videos to IG</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-essential-choice-10-budget-friendly-caption-tools/"><u>[Updated] Essential Choice  10 Budget-Friendly Caption Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-learn-to-convert-youtube-videos-into-text-no-cost/"><u>[Updated] Learn to Convert YouTube Videos Into Text – No Cost</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-musical-enhancements-for-social-video-sharing-platforms-fb/"><u>[Updated] Musical Enhancements for Social Video Sharing Platforms (FB)</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-professional-insights-mastering-the-craft-of-creating-stunning-slow-motion-content-for-instagram/"><u>[Updated] Professional Insights  Mastering the Craft of Creating Stunning Slow Motion Content for Instagram</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-ultimate-guide-to-global-exploration-by-channel/"><u>[Updated] The Ultimate Guide to Global Exploration, By Channel</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-advanced-tips-and-tricks-for-speech-transcription-with-gdoc/"><u>2024 Approved  Advanced Tips and Tricks for Speech Transcription with GDoc</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-avoiding-camera-induced-image-disruption/"><u>2024 Approved  Avoiding Camera-Induced Image Disruption</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-best-text-effects-of-psd/"><u>2024 Approved  Best Text Effects of PSD</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-chuckletunes-directory-select-funny-ringtone-sources/"><u>2024 Approved  ChuckleTunes Directory  Select Funny Ringtone Sources</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-cinematic-clarity-choices-best-4k-monitors-for-filmmakers/"><u>2024 Approved  Cinematic Clarity Choices  Best 4K Monitors for Filmmakers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-desktoponline-passport-picture-creation-10-per-person/"><u>2024 Approved  Desktop/Online Passport Picture Creation - 10 Per Person</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-essential-zoom-techniques-for-chromebook-proficiency/"><u>2024 Approved  Essential Zoom Techniques for Chromebook Proficiency</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-exploring-free-superior-webm-video-playback-solutions/"><u>2024 Approved  Exploring Free, Superior WebM Video Playback Solutions</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-from-start-to-end-mastering-the-art-of-fading-in-pro/"><u>2024 Approved  From Start to End  Mastering the Art of Fading in Pro</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-groundbreaking-feedback-vllo-review/"><u>2024 Approved  Groundbreaking Feedback  VLLO Review</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-how-to-adjust-frame-rate-on-your-story-feed-in-instagram/"><u>2024 Approved  How to Adjust Frame Rate on Your Story Feed in Instagram</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-how-to-prevent-youtube-from-starting-video-before-you-watch/"><u>2024 Approved  How to Prevent YouTube From Starting Video Before You Watch</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-ideal-7-video-players-for-apple-devices/"><u>2024 Approved  Ideal 7 Video Players for Apple Devices</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-inject-photos-with-focal-spread-outer-radius-adobe-psx/"><u>2024 Approved  Inject Photos with Focal Spread Outer Radius Adobe PSX</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-innovative-windows-media-cutting-tools/"><u>2024 Approved  Innovative Windows Media Cutting Tools</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-instagram-sound-essentials-for-personalization/"><u>2024 Approved  Instagram Sound Essentials for Personalization</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-mastering-haul-vids-creation-and-editing-basics/"><u>2024 Approved  Mastering Haul Vids  Creation & Editing Basics</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-meme-crafters-den/"><u>2024 Approved  Meme Crafter's Den</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-microsofts-hololens-journey-from-vision-to-reality/"><u>2024 Approved  Microsoft’s HoloLens Journey – From Vision to Reality</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-navigating-metaverse-marketing-landscapes/"><u>2024 Approved  Navigating Metaverse Marketing Landscapes</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-navigating-srt-extensions-on-operating-systems/"><u>2024 Approved  Navigating SRT Extensions on Operating Systems</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-online-meme-maker/"><u>2024 Approved  Online MEME Maker</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-pilots-perspective-dji-dualsense-fpv-tech/"><u>2024 Approved  Pilot's Perspective  DJI DualSense FPV Tech</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-primeval-20-anime-series-opener-music/"><u>2024 Approved  Primeval 20 Anime Series Opener Music</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-sony-a6400-why-is-my-video-playback-failed/"><u>2024 Approved  Sony A6400  Why Is My Video Playback Failed?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-sony-bdp-s6700-review-updated/"><u>2024 Approved  Sony BDP-S6700 Review - Updated</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-speed-photography-showdown-gopro-hero-4-vs-ghost-s-drift/"><u>2024 Approved  Speed Photography Showdown  GoPro Hero 4 VS Ghost-S Drift</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-speedy-drawing-in-photos-a-win10-guide-to-efficient-edits/"><u>2024 Approved  Speedy Drawing in Photos  A Win10 Guide to Efficient Edits</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unrestricted-gaming-beats-digital-download/"><u>2024 Approved  Unrestricted Gaming Beats  Digital Download</u></a></li>
+<li><a href="https://network-issues.techidaily.com/immediate-action-plan-to-rectify-laptop-display-anomalies/"><u>Immediate Action Plan to Rectify Laptop Display Anomalies</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/iphones-role-in-the-revolution-of-animated-image-sharing-for-2024/"><u>IPhone's Role in the Revolution of Animated Image Sharing for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-how-to-merge-video-and-audio/"><u>New In 2024, How to Merge Video and Audio</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pinnacle-business-cloud-haven-for-2024/"><u>Pinnacle Business Cloud Haven for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Lava Blaze Pro 5G | Dr.fone</u></a></li>
+</ul></div>

@@ -1,0 +1,505 @@
+---
+title: Comprehensive Guide to Addressing Red Dead Redemption 2'S PC Crashes and Bugs
+date: 2024-08-08T05:07:41.381Z
+updated: 2024-08-09T05:07:41.381Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: This Article Describes Comprehensive Guide to Addressing Red Dead Redemption 2'S PC Crashes and Bugs
+excerpt: This Article Describes Comprehensive Guide to Addressing Red Dead Redemption 2'S PC Crashes and Bugs
+thumbnail: https://thmb.techidaily.com/e78eebe094750e644b67ba3878a187eacb185aa1a9fd411672fdcfadf6164da3.jpg
+---
+
+## Red Dead Redemption 2 Stuck? Here Are Proven Fixes for Incessant Loading Screens
+
+Many Red Dead Redemption 2 players are reporting that they can’t even get past the loading screen. Although Rockstar Games has released several patches both for the game and its own game launcher,**Red Dead Redemption 2 just stuck on the loading screen** every time you try playing.
+
+ If you run into an**infinite loading screen** ,**not responding** , or**crashing to desktop** error, don’t panic. You’re definitely not alone and many players have solved their issues with the fixes below:
+
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## Try these fixes
+
+ You don’t have to try them all; just work your way down the list until you find the one that works for you.
+
+1. **[Verify game integrity](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Disable antivirus software](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Update your graphics drivers](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Delete settings](https://tools.techidaily.com/drivereasy/download/)**
+5. **[Run Red Dead Redemption 2 as admin](https://tools.techidaily.com/drivereasy/download/)**
+6. **[Turn off Vsync](https://tools.techidaily.com/drivereasy/download/)**
+7. **[Add graphic tools](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/)
+8. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
+9. **[Repair your system files](https://tools.techidaily.com/drivereasy/download/)**
+
+ Before getting started, you need to make sure your PC meets **[Red Dead Redemption 2 PC System Requirements](https://support.rockstargames.com/articles/360037044893/Red-Dead-Redemption-2-PC-System-Requirements)**  .
+
+### Fix 1: Verify game integrity
+
+ Verifying game integrity works for most players when they run into the Red Redemption 2 forever loading issues. It will scan the Red Dead Redemption 2 files to verify their integrity and attempt to download and replace any missing or corrupt files.
+
+##### 1\. For Rockstar Games Launcher
+
+* Open the Rockstar Games Launcher
+* Go to the**Settings**
+* Click**My installed games** tab
+* Select**Red Dead Redemption 2**
+* Click the**Verify Integrity** button
+
+##### 2\. For Epic Games Launcher
+
+* Open the Epic Games launcher
+* Go to the**Library**
+* Find the**Red Dead Redemption 2** in the list.
+* Click the cog icon to the right of Red Dead Redemption 2
+* Click**Verify**
+
+ After verifying game integrity, launch Red Dead Redemption 2 to test the issue.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
+### Fix 2: Disable antivirus software
+
+ If you have the latest drivers installed but still have a problem playing the game, the culprit could be your antivirus software.
+
+ Players find it helps by disabling or uninstalling their antivirus app. If you don’t want to disable your antivirus, you can add the entire folder where Red Dead Redemption 2 is installed to its list of exclusions.
+
+Follow the links below to check how to do it:
+
+* **[Bitdefender](https://www.bitdefender.com/support/how-do-i-exclude-a-folder-from-being-scanned-[bitdefender-windows-8-security]-1067.html)**
+* **[Norton](https://support.norton.com/sp/en/uk/home/current/solutions/v3672136)**
+* [**McAfee**](https://service.mcafee.com/webcenter/portal/oracle/webcenter/page/scopedMD/s55728c97%5F466d%5F4ddb%5F952d%5F05484ea932c6/Page29.jspx;jsessionid=MBCMIPhgfxv2uvwwJ9syAAJNvbjVPDfsk7My-wLzV3qwclJELmvW!-1078478202!1296122140?showFooter=false&locale=en-US&articleId=TS102056&leftWidth=0%25&showHeader=false&wc.contextURL=%2Fspaces%2Fcp&rightWidth=0%25&centerWidth=100%25&%5Fadf.ctrl-state=10hnhe30lv%5F75&%5FafrLoop=1182792076880083#!%40%40%3FshowFooter%3Dfalse%26locale%3Den-US%26%5FafrLoop%3D1182792076880083%26articleId%3DTS102056%26leftWidth%3D0%2525%26showHeader%3Dfalse%26wc.contextURL%3D%252Fspaces%252Fcp%26rightWidth%3D0%2525%26centerWidth%3D100%2525%26%5Fadf.ctrl-state%3D1bupvyoag3%5F4)
+* **[ESET NOD32](https://support.eset.com/en/exclude-files-or-folders-from-scanning-in-eset-windows-home-products)**
+* **[Trend Micro](https://esupport.trendmicro.com/en-us/home/pages/technical-support/1059964.aspx)**
+* **[Avast](https://support.avast.com/en-eu/article/Antivirus-scan-exclusions)**
+* **[AVG Antivirus](https://support.avg.com/SupportArticleView?l=en&urlname=AVG-Antivirus-scan-exclusions)**
+
+---
+
+### Fix 3: Update your graphics drivers
+
+ Rockstar Games says the most common cause of**Red Dead Redemption 2** not loading problem is outdated graphics drivers. NVIDIA and AMD work closely with game developers to keep releasing new drivers to boost performance and fix bugs.
+
+ To improve your gaming experience, you should always update your graphics drivers to the latest version.
+
+**Note:** You may as well try**updating Windows** to the latest version. In addition, make sure to update your game launcher and Red Redemption 2.
+
+There are two ways you can update your graphics drivers:
+
+#### Option 1 – Manually
+
+ To update your graphics driver manually, you need to visit the manufacturer’s official website ([NVIDIA](https://tools.techidaily.com/drivereasy/download/) or[AMD](https://www.amd.com/en/support) ) to download the exact driver for your device and install it manually.
+
+#### Option 2 – Automatically
+
+ If you don’t have the time, patience or computer skills to update the graphics driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.
+
+ **All the drivers in Driver Easy come straight from the manufacturer. They’re all authorized and secure.**
+
+ You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  it takes just 2 clicks:
+
+ 1) **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+
+ 2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
+![click scan now](https://images.drivereasy.com/wp-content/uploads/2019/11/scan-now-3.png)
+
+ 3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. You get**full support** and a**30-day money back guarantee** .)
+
+![update all drivers with driver easy](https://images.drivereasy.com/wp-content/uploads/2019/11/update-all-your-drivers-1.jpg)
+
+Note: You can do it for free if you like, but it’s partly manual.
+
+ If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+4) Restart your computer for the changes to take effect.
+
+ Launch the game again to see if**Red Dead Redemption 2** continues to get stuck on the loading screen.
+
+---
+
+### Fix 4: Delete Settings
+
+ Many users find it works by deleting the configuration file. This will reset your game settings and let your**Red Dead Redemption 2** start again.
+
+ 1) Go to **Documents> Rockstar Games> Red Dead Redemption 2> Settings** and delete the setting file:**system.xml** .
+
+**Tips:** There’s a lot of issues with Vulkan and DX12, you can try both and see what works better for you. Vulcan works better for me and my game runs flawlessly.
+
+2) Launch your game again to test the issue.
+
+ If**Red Dead Redemption 2** works like a charm, then congrats! If the loading issue still persists, you can try to delete your local Rockstar Games Launcher profile details.
+
+ 3) Open your Rockstar Games Launcher, go to**SETTINGS** \>**Account information** \>**DELETE** local profile.
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
+![delete Rockstar launcher profiles](https://images.drivereasy.com/wp-content/uploads/2019/11/launcher-settings-1024x482.jpg)
+
+ 4) Sign in to the Rockstar Games Launcher again and launch Red Dead Redemption 2.
+
+If this method doesn’t work for you, you can try the next fix.
+
+---
+
+### Fix 5: Run Red Dead Redemption 2 as admin
+
+ Running Red Dead Redemption 2 as an administrator allows you to get full access to the game files.
+
+1) Navigate to where the game is installed.
+
+2) Right-click on**RDR2.exe** and select**Properties** .
+
+3) Click the**Compatibility** tab, tick both**Run this Program as an Administrator** and**Disable Fullscreen Optimizations** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![run Red Dead Redemption 2 as admin](https://images.drivereasy.com/wp-content/uploads/2019/11/drivereasy-run-as-admin.jpg)
+
+ 4) Click**Change high DPI settings** .
+
+ 5) Under the**High DPI scaling override** section, tick the**Override high DPI scaling behavior** . Make sure scaling is performed by the**Application** . Then click**OK** .
+
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
+![Override high DPI for Red Dead Redemption 2](https://images.drivereasy.com/wp-content/uploads/2019/11/drivereasy-over-ride.jpg)
+
+ 6) Go back to the**Properties** window, click**Apply** \>**OK** .
+
+ 7) Launch your game to see if the loading issue still persists.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 6: Turn off Vsync
+
+ Some players find that turning off Vsync helped them fix the Red Dead Redemption 2 not loading issue.
+
+1) Go to your game settings and turn off Vsync.
+
+2) Launch your Red Dead Redemption 2 again to see if it is loading normally.
+
+3) If the infinite loading issues still persist, then go to**NVIDIA Control Panel** .
+
+![NVIDIA control panel](https://images.drivereasy.com/wp-content/uploads/2019/11/NVIDIA-control-panel-1.jpg)
+
+ 4) Under Manage 3D settings, click**Program Settings** \>**Add** \> select your**Red Dead Redemption 2 exe.** program file.  
+  
+ Then scroll down the list and click**Vertical sync** and**Triple buffering** and select them both On. Click**Apply** to save the changes.
+
+![manage 3D settings](https://images.drivereasy.com/wp-content/uploads/2019/11/Turn-on-vsync-and-triple-buffering.jpg)
+
+ 5) If this method doesn’t work for you, go to**NVIDIA Control Panel** \>**Manage 3D settings** \>**Restore Defaults** .
+
+![Restore defaults in NVIDIA control panel](https://images.drivereasy.com/wp-content/uploads/2019/11/restore-defaults.jpg)
+
+ 6) Relaunch your Red Dead Redemption 2 to see if the infinite loading issue is gone.
+
+ If Red Dead Redemption 2 still keeps loading forever, please move on to the next fix.
+
+---
+
+### Fix 7: Add Graphics Tools
+
+[for Windows 10 users](https://tools.techidaily.com/drivereasy/download/) [for Windows 11 users](https://tools.techidaily.com/drivereasy/download/)
+
+#### in Windows 10
+
+ 1) In the Windows Search bar, start typing**feature** , and select**Manage** **optional features** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/optional-features.jpg)
+
+ 2) Click**Add a feature** and choose**Graphics Tools** .
+
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/add-a-feature-1.jpg)
+
+ 3) Select**Graphics Tools** and click**Install** .
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/add-a-graphics-tool.jpg)
+
+4) Once complete, restart your computer.
+
+#### in Windows 11
+
+ 1) On your keyboard, press the**Windows logo + I keys** simultaneously to open Settings.
+
+ 2) From the left navigation panel, select**Apps** , then find**Optional features** and click on it.
+
+![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Settings-Apps-Optional-features-1200x658.jpg)
+
+ 3) Click on the**View features** button.
+
+![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Settings-Apps-Optional-features-View-features-1200x658.jpg)
+
+ 4) Scroll down and find**Graphics Tools** , then check the box and click**Next** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Graphics-tools-1200x658.jpg)
+
+ 5) Click**Install** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Graphics-Tools-Install-1200x658.jpg)
+
+Wait for it to finish the process.
+
+ Now launch your Red Dead Redemption to test the issue. If this doesn’t work for you, try the next fix, below.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
+### Fix 8: Perform a clean boot
+
+ If Red Dead Redemption still fails to load, it may be caused by other software on your PC. You may need a clean boot to see if that’s your issue. Here is how to do it:
+
+ 1) Type**msconfig** in the Search box and select**System Configuration** .
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
+![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/11/system-configuration.jpg)
+
+ 2) Click the **Services** tab and check the **Hide all Microsoft services** box, then click **Disable all** .
+
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![disable all services](https://images.drivereasy.com/wp-content/uploads/2019/11/disable-all-services-1.png)
+
+ 3) Select the **Startup** tab and click **Open Task Manager** .
+
+![Open task manager](https://images.drivereasy.com/wp-content/uploads/2019/11/open-task-manager-1.png)
+
+ 4) Under the Startup tab, select each startup item and then click**Disable** .
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![disable all startup apps](https://images.drivereasy.com/wp-content/uploads/2019/11/image-1019-1.png)
+
+ 5) Go back to**System Configuration** , click**OK** .
+
+ 6) Restart your PC and launch Red Redemption 2 to see if the issue still persists.
+
+ If you can start your game again, congrats! However, you’ll need to find out the problematic software. Here is how to do it:
+
+* Open the System Configuration again.
+* Enable services and applications that you’ve disabled one by one until you find the problematic one.
+* After enabling each startup application, you need to restart your computer again to find the conflicting one.
+
+ Once you find out the problematic software, you may need to uninstall it to avoid running into the same issue in the future.
+
+### Fix 9: Repair your system files
+
+ It’s very likely that some system files are corrupt or missing, and your game is sharing the same files, thus causing your Red Dead Redemption to get stuck on the loading screen. To restore these files, here’s how:
+
+#### Option 1 – Automatically (Recommended)
+
+**[Fortect](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) is a computer repair software that can diagnose problems on your computer and fix them immediately.
+
+![](https://images.drivereasy.com/wp-content/uploads/2023/07/FORTECTLOG.png)
+
+**Fortect** Windows Repair is tailored to your specific system and is working in a private and automatic way. It will first check hardware-related issues to identify problems, and then security issues (powered by Avira Antivirus), and finally it detects programs that crash, missing system files. Once complete, it will find a solution to your specific problem.
+
+ Fortect is a trusted repair tool and it will do no harm to your PC. The best part is that you won’t need to worry about losing any programs and your personal data.
+
+ 1) **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Fortect.
+
+ 2) Open Fortect and run a free scan. This might take 3\~5 minutes to fully analyze your PC. Once complete, you will be able to review the detailed scan report.
+
+ 3) You’ll see the summary of detected issues on your PC. Click **Start Repair** and all the issues will be fixed automatically. (You’ll need to purchase the full version which comes with full technical support. )
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+#### Option 2 – Manually
+
+ To check and restore your system file might take time and computer skills. You will need to run numerous commands, wait for the process to complete, or risk your personal data.
+
+##### Step 1\. Scan**corrupt files with System File Checker**
+
+ System File Checker (SFC) is a Windows built-in tool to identify and repair corrupted system files.
+
+ 1) On your keyboard, press the Windows logo key and R at the same time to open the Run box. Type**cmd** and press**Ctrl+Shift+Enter** to run Command Prompt as administrator.
+
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2019/12/cmd-1.jpg)
+
+ Click**Yes** when prompted for permission to make changes to your device.
+
+ 2) In the Command Prompt, type the following command and hit**Enter** .
+
+sfc /scannow
+
+ 3) System File Check will begin to scan all system files and repair any corrupted or missing ones it detected. This may take 3-5 minutes.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/12/scan-now.jpg)
+
+ 4) You may receive something like the following messages after the verification.
+
+* no errors
+* it fixed some errors
+* could not fix all errors
+* could not fix errors at all
+* ……
+
+ No matter what message you receive, you can try running**dism.exe** (Deployment Image Servicing and Management) to further scan the health of your PC.
+
+##### Step 2.**Run dism.exe**
+
+1) Run Command Prompt as admin and enter the following commands.
+
+* This command line will scan the health of your PC:
+
+dism.exe /online /cleanup-image /scanhealth
+
+* This command line will restore the health of your PC:
+
+dism.exe /online /cleanup-image /restorehealth
+
+ 2) After the restore health process finishes, you may get some error messages.
+
+* If restore heath gave you errors, you can always try this command line. This will take up to 2 hours.
+
+dism /online /cleanup-image /startcomponentcleanup
+
+* If you get **Error: 0x800F081F** with the restore health scan, reboot your PC and run this command line.
+
+Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
+
+ If the System File Check finds any files corrupted, follow the on-screen instructions to repair them, and then restart your computer for the changes to take full effect.
+
+---
+
+ Hopefully, one of the fixes above solved your Red Dead Redemption problems. Please feel free to leave us a comment if you have any questions or suggestions.
+
+ If none of the methods solved your Red Redemption 2 not loading, the last solution is to update the Bios. Many players finally managed to start the game after updating the Bios, but still, it has varying success.
+
+* [crash](https://tools.techidaily.com/drivereasy/download/)
+* [games](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-blueprint-for-success-writing-captivating-documentaries/"><u>[New] Blueprint for Success  Writing Captivating Documentaries</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-introducing-efficient-speech-to-text-utilization-in-powerpoint/"><u>[New] Introducing Efficient Speech-to-Text Utilization in PowerPoint</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-optical-stabilization-advantage-in-mobile-cinematography/"><u>[New] Optical Stabilization Advantage in Mobile Cinematography</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-real-time-streaming-on-facebook-simplified-2023-for-2024/"><u>[New] Real-Time Streaming on Facebook, Simplified 2023 for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-revolutionizing-your-digital-presence-through-strategic-social-media-mastery/"><u>[New] Revolutionizing Your Digital Presence Through Strategic Social Media Mastery</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/1718638662360-new-vmix-vs-wirecast-which-is-the-best-professional-live-streaming-software-in-2024/"><u>[New] VMix Vs. Wirecast- Which Is the Best Professional Live Streaming Software, In 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-how-to-take-360-videos-on-iphone-for-facebook/"><u>[Updated] 2024 Approved  How to Take 360 Videos on iPhone for Facebook</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-from-play-to-perfection-ps3-playthroughs-captured/"><u>[Updated] From Play to Perfection  PS3 Playthroughs Captured</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-a-step-by-step-approach-to-lut-application-in-ae/"><u>2024 Approved  A Step-by-Step Approach to LUT Application in AE</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-acid-pro-analysis-and-related-tools-reviewed/"><u>2024 Approved  ACID Pro Analysis and Related Tools Reviewed</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-avoiding-camera-induced-image-disruption/"><u>2024 Approved  Avoiding Camera-Induced Image Disruption</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-beginners-bounty-understanding-screen-clarity-in-digital-media/"><u>2024 Approved  Beginner's Bounty  Understanding Screen Clarity in Digital Media</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-beyond-wirecast-top-video-broadcasting-software/"><u>2024 Approved  Beyond WireCast  Top Video Broadcasting Software</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-crafting-excellent-canon-temp-video-series/"><u>2024 Approved  Crafting Excellent Canon Temp Video Series</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-decoding-the-smudge-expertly-ranked-10-internet-photo-tools/"><u>2024 Approved  Decoding the Smudge  Expertly Ranked 10 Internet Photo Tools</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-desktoponline-passport-picture-creation-10-per-person/"><u>2024 Approved  Desktop/Online Passport Picture Creation - 10 Per Person</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-elite-corporate-space-for-secure-storage/"><u>2024 Approved  Elite Corporate Space for Secure Storage</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-essential-zoom-techniques-for-chromebook-proficiency/"><u>2024 Approved  Essential Zoom Techniques for Chromebook Proficiency</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-expanding-social-footprint-tying-igtv-and-facebook-together/"><u>2024 Approved  Expanding Social Footprint  Tying IGTV & Facebook Together</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-exploring-free-superior-webm-video-playback-solutions/"><u>2024 Approved  Exploring Free, Superior WebM Video Playback Solutions</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-framefusion-media-suite/"><u>2024 Approved  FrameFusion Media Suite</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-frolicsome-media-repository/"><u>2024 Approved  Frolicsome Media Repository</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-from-frame-to-phrase-expertly-ranked-29-video-translators-on-the-market/"><u>2024 Approved  From Frame to Phrase  Expertly Ranked 29 Video Translators on the Market</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-from-start-to-end-mastering-the-art-of-fading-in-pro/"><u>2024 Approved  From Start to End  Mastering the Art of Fading in Pro</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-groundbreaking-feedback-vllo-review/"><u>2024 Approved  Groundbreaking Feedback  VLLO Review</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-how-to-adjust-frame-rate-on-your-story-feed-in-instagram/"><u>2024 Approved  How to Adjust Frame Rate on Your Story Feed in Instagram</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-how-to-turnout-video-on-your-android-device/"><u>2024 Approved  How to Turnout Video on Your Android Device</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-ideal-7-video-players-for-apple-devices/"><u>2024 Approved  Ideal 7 Video Players for Apple Devices</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-inject-photos-with-focal-spread-outer-radius-adobe-psx/"><u>2024 Approved  Inject Photos with Focal Spread Outer Radius Adobe PSX</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-leveraging-cg-central-luts-for-cinematic-color-enhancement/"><u>2024 Approved  Leveraging CG Central LUTs for Cinematic Color Enhancement</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-mastering-haul-vids-creation-and-editing-basics/"><u>2024 Approved  Mastering Haul Vids  Creation & Editing Basics</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-navigating-metaverse-marketing-landscapes/"><u>2024 Approved  Navigating Metaverse Marketing Landscapes</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-navigating-srt-extensions-on-operating-systems/"><u>2024 Approved  Navigating SRT Extensions on Operating Systems</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-pilots-perspective-dji-dualsense-fpv-tech/"><u>2024 Approved  Pilot's Perspective  DJI DualSense FPV Tech</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-precision-editing-embedding-times-in-video-posts/"><u>2024 Approved  Precision Editing  Embedding Times in Video Posts</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-smartphone-security-systems-apples-x-vs-samsungs-facial-tech/"><u>2024 Approved  Smartphone Security Systems  Apple’s X Vs. Samsung's Facial Tech</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-the-art-of-cinematic-dying-in-pro/"><u>2024 Approved  The Art of Cinematic Dying in Pro</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-the-battle-of-video-players-vlc-vs-mx/"><u>2024 Approved  The Battle of Video Players  VLC Vs. MX</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/7-ways-to-lock-apps-on-apple-iphone-11-and-ipad-securely-drfone-by-drfone-ios/"><u>7 Ways to Lock Apps on Apple iPhone 11 and iPad Securely | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/abletons-soften-sound-strategies-for-2024/"><u>Ableton's Soften Sound Strategies for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/best-mobile-photography-tools-reviewed-iphone-and-android-comparisons/"><u>Best Mobile Photography Tools Reviewed  IPhone & Android Comparisons</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/chart-topping-storytellers-to-follow-on-youtube-this-year/"><u>Chart-Topping Storytellers to Follow on YouTube This Year</u></a></li>
+<li><a href="https://fox-http.techidaily.com/enhance-your-editing-with-fcps-top-10-plugins/"><u>Enhance Your Editing with FCP's Top 10 Plugins</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/explore-the-finest-top-8-android-mp3-downloader-apps-for-2024/"><u>Explore the Finest  Top 8 Android MP3 Downloader Apps for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-realme-c67-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Realme C67 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-apple-iphone-xs-passcode-easily-video-inside-by-drfone-ios/"><u>How to Bypass Apple iPhone XS Passcode Easily Video Inside</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-apple-iphone-se-by-drfone-ios/"><u>How To Change Your Apple ID Password On your Apple iPhone SE</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-metaverse-metaphors-discovering-6-detailed-instances/"><u>In 2024, Metaverse Metaphors  Discovering 6 Detailed Instances</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-samsung-galaxy-a14-5g-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Samsung Galaxy A14 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-xiaomi-redmi-k70e-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Xiaomi Redmi K70E</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-8-video-boosters-say-goodbye-to-slow-mo/"><u>In 2024, Top 8 Video Boosters  Say Goodbye to Slow Mo</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-the-secrets-of-lut-production/"><u>In 2024, Unlocking the Secrets of LUT Production</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-multiple-ways-how-to-remove-icloud-activation-lock-on-your-apple-iphone-xs-max-by-drfone-ios/"><u>New Multiple Ways How To Remove iCloud Activation Lock On your Apple iPhone XS Max</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-and-easy-solutions-resolving-the-steam-corrupted-disk-issue/"><u>Quick & Easy Solutions: Resolving the Steam Corrupted Disk Issue</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/quickly-change-digital-pictures-darkness-level-for-2024/"><u>Quickly Change Digital Pictures' Darkness Level for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-ten-tools-to-transform-your-picture-grids/"><u>Top Ten Tools to Transform Your Picture Grids</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshoot-serious-sam-4-gameplay-glitches-solving-pc-lag-crashes-and-hitches/"><u>Troubleshoot Serious Sam 4 Gameplay Glitches: Solving PC Lag, Crashes, and Hitches</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>What Pokémon Evolve with A Dawn Stone For Apple iPhone SE (2022)? | Dr.fone</u></a></li>
+</ul></div>
