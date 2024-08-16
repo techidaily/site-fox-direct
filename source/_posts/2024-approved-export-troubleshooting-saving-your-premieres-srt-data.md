@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Export Troubleshooting  Saving Your Premiere's SRT Data\""
-date: 2024-07-11T20:55:52.486Z
-updated: 2024-07-12T20:55:52.486Z
+date: 2024-08-15T12:38:50.419Z
+updated: 2024-08-16T12:38:50.419Z
 tags: 
   - screen-recording
   - ai video
@@ -53,12 +53,22 @@ The “Export Media” option in Adobe Premiere Pro is effective for exporting S
 Step1 Firstly, right-click on the SRT file from the Premiere pro software project panel. Then select 'Export Media.'
 
 ![select export media](https://images.wondershare.com/filmora/article-images/2022/07/fix-for-exporting-srt-file-from-premiere-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 
 Step2 Once you click on “Export Media” you’ll notice different options. Ignore the video export options (or tick off 'video' if you like), then navigate down to the “Captions tab”.
 
 Step3 Click on “Create Sidecar File” under 'Export Options.
 
 ![click on create sidecar file](https://images.wondershare.com/filmora/article-images/2022/07/fix-for-exporting-srt-file-from-premiere-2.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 
 Step4 Finally, navigate to 'File Format' and select SubRip Subtitle Format (.srt). Then hit the “Export” button to complete the operation.
 
@@ -72,6 +82,9 @@ Step1 Click on the “SRT File” from the Premiere Pro interface.
 
 Step2 Navigate to “File” and select Exports, then choose “Captions”. By doing so, you'll be able to export the SRT file.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 3: Export SRT File with Timestamps
 
 The previously mentioned methods will allow you to export SRT either with video or as a sidecar file. But if you’re looking to export SRT file with timestamps, this method will work for you. The process is straightforward as the prior discussed methods.
@@ -83,6 +96,9 @@ Step1 Firstly, select SEQUENCE in the project panel.
 Step2 Up next, click File -> Export -> Captions. Once you complete that, you’ll export the SRT file as a sidecar file with timestamps.
 
 ![open export settings](https://images.wondershare.com/filmora/article-images/2022/07/fix-for-exporting-srt-file-from-premiere-3.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
@@ -103,14 +119,24 @@ Here is the step-by-step process to edit band export SRT with Wondershare Filmor
 Step1 First, download and install the Filmora software on your computer, then start the program.
 
 ![download and install filmora software](https://images.wondershare.com/filmora/article-images/2022/07/fix-for-exporting-srt-file-from-premiere-4.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 
 Step2 Up next, upload the SRT file you want to edit to the Filmora interface using the “Import” button. Alternatively, you can Drag-n-drop the SRT file.
 
 ![click on import button](https://images.wondershare.com/filmora/article-images/2022/07/how-to-edit-and-export-srt-with-filmora-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3 Move the uploaded SRT file to the Timeline by dragging and dropping it there, then right-click on it from the Timeline and choose “Advance Edit” from the pop-up list.
 
 ![choose advanced edit](https://images.wondershare.com/filmora/article-images/2022/07/how-to-edit-and-export-srt-with-filmora-2.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 
 Step4 Start editing your SRT file. You can edit the text, time code, speed, text color, etc.
 
@@ -142,6 +168,9 @@ If, unfortunately, you select the wrong settings for your file during the export
 
 Fixing the Premiere pro export subtitles fail error is not a daunting task if you know the right tricks to execute the operation. Here, we’ve explained three methods that are not just reliable but also work for fixing export SRT from Premiere pro not working issue. Keep reading to find out more about these fixes.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1: Use Export Media Option
 
 The “Export Media” option in Adobe Premiere Pro is effective for exporting SRT without problems. However, using this method means you’re exploring the .srt file with a video file. The process to use this method is outlined below;
@@ -155,9 +184,15 @@ Step2 Once you click on “Export Media” you’ll notice different options. Ig
 Step3 Click on “Create Sidecar File” under 'Export Options.
 
 ![click on create sidecar file](https://images.wondershare.com/filmora/article-images/2022/07/fix-for-exporting-srt-file-from-premiere-2.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 
 Step4 Finally, navigate to 'File Format' and select SubRip Subtitle Format (.srt). Then hit the “Export” button to complete the operation.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 2: Export SRT as Sidecar File
 
 Another way to export SRT files from Adobe Premiere Pro is by exporting the file as a sidecar file. You might ask “What is a sidecar file?” A sidecar file refers to a computer file that stores data that is not supported by the format of its source file. The sidecar file from the source could be more than one, and it could contain meta databases.
@@ -168,6 +203,9 @@ Step1 Click on the “SRT File” from the Premiere Pro interface.
 
 Step2 Navigate to “File” and select Exports, then choose “Captions”. By doing so, you'll be able to export the SRT file.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ### Method 3: Export SRT File with Timestamps
 
 The previously mentioned methods will allow you to export SRT either with video or as a sidecar file. But if you’re looking to export SRT file with timestamps, this method will work for you. The process is straightforward as the prior discussed methods.
@@ -199,6 +237,9 @@ Here is the step-by-step process to edit band export SRT with Wondershare Filmor
 Step1 First, download and install the Filmora software on your computer, then start the program.
 
 ![download and install filmora software](https://images.wondershare.com/filmora/article-images/2022/07/fix-for-exporting-srt-file-from-premiere-4.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 
 Step2 Up next, upload the SRT file you want to edit to the Filmora interface using the “Import” button. Alternatively, you can Drag-n-drop the SRT file.
 
@@ -207,10 +248,22 @@ Step2 Up next, upload the SRT file you want to edit to the Filmora interface usi
 Step3 Move the uploaded SRT file to the Timeline by dragging and dropping it there, then right-click on it from the Timeline and choose “Advance Edit” from the pop-up list.
 
 ![choose advanced edit](https://images.wondershare.com/filmora/article-images/2022/07/how-to-edit-and-export-srt-with-filmora-2.jpg)
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 
 Step4 Start editing your SRT file. You can edit the text, time code, speed, text color, etc.
 
 ![edit text color](https://images.wondershare.com/filmora/article-images/2022/07/how-to-edit-and-export-srt-with-filmora-3.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 
 Step5 Once you’re done with the editing, right-click on the SRT file from the Timeline again and this time, select “Export Subtitle File” from the pop-up list and save it to your computer storage.
 
@@ -247,3 +300,40 @@ That being said, if you want to save yourself from unwanted errors during the ex
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-elevate-brand-presence-effective-instagram-video-marketing-techniques/"><u>[New] 2024 Approved  Elevate Brand Presence  Effective Instagram Video Marketing Techniques</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-strategies-to-solve-obs-fullscreen-breakdowns/"><u>[New] 2024 Approved  Strategies to Solve OBS Fullscreen Breakdowns</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-how-to-stay-grounded-in-virtual-reality-spaces-for-2024/"><u>[New] How to Stay Grounded in Virtual Reality Spaces for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-exclusive-guide-to-audio-alchemy-sites/"><u>[New] In 2024, Exclusive Guide to Audio Alchemy Sites</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-laughable-film-grabber-review-for-2024/"><u>[New] Laughable Film Grabber Review for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-mastering-backtracking-in-twitch-broadcasts/"><u>[New] Mastering Backtracking in Twitch Broadcasts</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-mastering-minute-by-minute-srt-conversion-to-text-txt-for-2024/"><u>[New] Mastering Minute-by-Minute SRT Conversion to Text (TXT) for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-revolutionize-visual-narratives-using-prime-text-extensions/"><u>[New] Revolutionize Visual Narratives Using Prime Text Extensions</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-scrutinizing-hero5s-performance-throughout-day-for-2024/"><u>[New] Scrutinizing Hero5's Performance Throughout Day for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-substitutes-for-winmovie-new-windows-editors/"><u>[New] Substitutes for WinMovie  New Windows Editors</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-10-essential-strategies-for-successful-instagram-reels/"><u>[New] The 10 Essential Strategies for Successful Instagram Reels</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-essential-hd-action-cameras-under-100/"><u>[Updated] 2024 Approved  Essential HD Action Cameras Under $100</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-how-to-adjust-frame-rate-on-your-story-feed-in-instagram/"><u>[Updated] 2024 Approved  How to Adjust Frame Rate on Your Story Feed in Instagram</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-scheduling-zoom-on-android-a-step-by-step-approach/"><u>[Updated] 2024 Approved  Scheduling Zoom on Android  A Step-by-Step Approach</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-eco-editing-tools-no-charge/"><u>[Updated] Eco Editing Tools  No Charge</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-high-definition-devices-top-15-for-uhd-video-for-2024/"><u>[Updated] High-Definition Devices  Top 15 for UHD Video for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-conduct-an-audiovisual-symphony-for-ppt/"><u>[Updated] In 2024, Conduct an Audiovisual Symphony for PPT</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-the-key-elements-for-effective-spotify-ad-execution/"><u>[Updated] In 2024, The Key Elements for Effective Spotify Ad Execution</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-premier-annual-update-best-free-livestream-software-and-apps-review-for-2024/"><u>[Updated] Premier Annual Update  Best Free Livestream Software & Apps Review for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-sharpen-focus-expert-tips-on-the-psx-eraser-tool-for-2024/"><u>[Updated] Sharpen Focus  Expert Tips on the PSX Eraser Tool for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-feature-a-podcast-in-one-quick-snap/"><u>2024 Approved  Feature a Podcast in One Quick Snap</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/critical-look-at-outstanding-online-streams-for-2024/"><u>Critical Look at Outstanding Online Streams for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-to-creating-content-top-10-inclusive-video-ideas-for-anyone/"><u>Guide to Creating Content  Top 10 Inclusive Video Ideas for Anyone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-eliminate-game-hiccups-essential-fixes-for-hogwarts-legacy/"><u>How to Eliminate Game Hiccups: Essential Fixes for Hogwarts Legacy</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Oppo Reno 10 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-capturing-thrills-is-gopros-hero-black-superior-to-x1000v/"><u>In 2024, Capturing Thrills  Is GoPro's Hero Black Superior to X1000V?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-innovative-strategies-to-enhance-video-craftsmanship-on-windows-10/"><u>In 2024, Innovative Strategies to Enhance Video Craftsmanship on Windows 10</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-reno-11-5g-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo Reno 11 5G Phone FRP Lock</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-the-ultimate-toolkit-powerdirectors-comprehensive-24-analysis/"><u>In 2024, The Ultimate Toolkit  PowerDirector's Comprehensive '24 Analysis</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/innovative-video-content-for-budding-vloggers/"><u>Innovative Video Content for Budding Vloggers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/integrating-soundscape-with-video-narrative-in-premiere-pro/"><u>Integrating Soundscape With Video Narrative in Premiere Pro</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-g54-5g-wont-play-mov-videos-how-to-fix-by-aiseesoft-video-converter-play-mov-on-android/"><u>Motorola G54 5G won't play MOV videos, how to fix ?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-role-of-authenticity-checks-in-social-media-posts-for-2024/"><u>The Role of Authenticity Checks in Social Media Posts for 2024</u></a></li>
+</ul></div>

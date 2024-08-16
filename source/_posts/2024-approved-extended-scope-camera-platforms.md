@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Extended Scope Camera Platforms\""
-date: 2024-07-11T20:49:48.511Z
-updated: 2024-07-12T20:49:48.511Z
+date: 2024-08-15T12:44:36.950Z
+updated: 2024-08-16T12:44:36.950Z
 tags: 
   - screen-recording
   - ai video
@@ -51,6 +51,9 @@ The freedom 360-degree mount allows users to join almost 6 Hero cameras that all
 #### 360RIZE (formerly 360Heros):
 
 ![360 camera rigs - 360Hero](https://images.wondershare.com/filmora/article-images/360-camera-rigs-360-hero.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 
 The workflow of 360RIZE is same as that of all other video creation processes and it also allows easy stitching of captured content to develop amazing spherical stuff. It comes with specialized color processing abilities and graphic overlays to create better outcome.
 
@@ -61,6 +64,9 @@ The workflow of 360RIZE is same as that of all other video creation processes an
 #### iZugar:
 
 ![360 camera rigs - iZugar](https://images.wondershare.com/filmora/article-images/360-camera-rigs-izugar.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 
 Everything is possible with latest iZugar rig as it comes with wider lens arrangements that have better focus on all directions leading to much better spherical content. You need to connect only 2 GoPro cameras with it to capture complete scene in all directions due to its ability to capture with wider angles.
 
@@ -71,6 +77,9 @@ Everything is possible with latest iZugar rig as it comes with wider lens arrang
 #### Entaniya Fisheye lens:
 
 ![360 camera rigs - Entaniya](https://images.wondershare.com/filmora/article-images/360-camera-rigs-entaniya-fisheye-lenses.png)
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Entaniya is believed to work on simplification of process to create 360 videos with its compatible GoPro cameras. The three associated fisheye lenses allows to focus over 220, 250 and 280 degrees with horizontal angles. If you don’t want to stitch the captured videos then it is also possible to use it with one 280 cam rig.
 
@@ -78,11 +87,17 @@ Entaniya is believed to work on simplification of process to create 360 videos w
 
 **Cons:** Little costly solution.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Rigs for other Cameras
 
 #### 360 Designs: Mini EYE:
 
 ![360 camera rigs - Mini EYE](https://images.wondershare.com/filmora/article-images/360-camera-rigs-mini-eye.jpg)
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Here is a latest rig design for VR content that can serve with 3 to 10 cameras connected per rig. It is one of the best solutions for the creation of stunning VR content that is essential for broadcasters, cinematographers, production companies as well as internet companies. The price range is much higher that goes up to $9000 to $55000 for the complete package which also contains all required accessories and applications.
 
@@ -103,6 +118,9 @@ This Pack is simply a wonderful advancement over original 360 video quality as i
 #### Elmo: QBiC Panorama:
 
 ![360 camera rigs - Elmo QBiC Panorama](https://images.wondershare.com/filmora/article-images/360-camera-rigs-qbic-panorama.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Here is a low cost solution for your 360-degree video recording needs and the best thing to know is that it is compatible with post production as well as live streaming where resolution goes up to 4K. It works with four QBiC MS XP Cameras that have wider focus and are able to record vertical portion with 180-degree ability and horizontal part with complete 360-degree view.
 
@@ -154,3 +172,46 @@ Follow @Benjamin Arango
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-the-top-10-screenshot-tools-of-2021/"><u>[New] In 2024, The Top 10 Screenshot Tools of 2021</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-top-tech-gadgets-for-effortless-virtual-meetings-capture/"><u>[New] Top Tech Gadgets for Effortless Virtual Meetings Capture</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-advanced-strategies-for-saving-vr-gameplay-moments/"><u>[Updated] In 2024, Advanced Strategies for Saving VR Gameplay Moments</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-audio-memo-fundamentals-a-complete-guidebook/"><u>2024 Approved  Audio Memo Fundamentals  A Complete Guidebook</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-best-storytelling-youtube-channels-to-follow-this-year/"><u>2024 Approved  Best Storytelling YouTube Channels to Follow This Year</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-calculating-best-podcast-debut-days/"><u>2024 Approved  Calculating Best Podcast Debut Days</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-cinema-excellence-in-home-recording-with-top-18-devices/"><u>2024 Approved  Cinema Excellence in Home Recording with Top 18 Devices</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-complete-activity-assessment-guide/"><u>2024 Approved  Complete Activity Assessment Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-cutting-edge-top-20-zero-copyright-pubg-screenshots/"><u>2024 Approved  Cutting-Edge Top 20 Zero-Copyright PUBG Screenshots</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-dji-mavic-pro-vs-gopro-karma/"><u>2024 Approved  Dji Mavic Pro Vs GoPro Karma</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-efficient-media-management-turning-videos-into-dvds-with-mac/"><u>2024 Approved  Efficient Media Management  Turning Videos Into DVDs with Mac</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-elevate-your-experience-with-windows-11-games/"><u>2024 Approved  Elevate Your Experience with Windows 11 Games</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-elevating-vistas-mastering-vertical-mobile-photography/"><u>2024 Approved  Elevating Vistas  Mastering Vertical Mobile Photography</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-exclusive-insight-into-mematics-app-features/"><u>2024 Approved  Exclusive Insight Into Mematic's App Features</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-exploring-the-differences-between-srgb-and-rgb/"><u>2024 Approved  Exploring the Differences Between Srgb & Rgb</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-frame-it-right-essential-2023-tools-and-sites-for-image-edits/"><u>2024 Approved  Frame It Right  Essential 2023 Tools & Sites for Image Edits</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-free-football-filmmaking-basics-from-screen-to-studio/"><u>2024 Approved  Free-Football Filmmaking Basics  From Screen to Studio</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-heaviest-inflight-lifters-unveiled-top-10-list/"><u>2024 Approved  Heaviest Inflight Lifters Unveiled - Top 10 List</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-innovative-ways-to-convey-your-story-through-videos/"><u>2024 Approved  Innovative Ways to Convey Your Story Through Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-is-asmr-good-for-you-learn-the-benefits-here/"><u>2024 Approved  Is ASMR Good for You? Learn the Benefits Here</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-mastery-guide-downloading-windows-movie-maker-6/"><u>2024 Approved  Mastery Guide  Downloading Windows Movie Maker 6</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-maximizing-your-search-for-stellar-pexels-artwork/"><u>2024 Approved  Maximizing Your Search for Stellar Pexels Artwork</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-phantom-pitches-is-this-magical-talker-an-illusion-or-reality-explore-more-options/"><u>2024 Approved  Phantom Pitches  Is This Magical Talker an Illusion or Reality? Explore More Options</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-pixeled-up-transform-your-shots-for-free/"><u>2024 Approved  Pixeled-Up  Transform Your Shots for Free</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-proven-methods-to-improve-zoom-efficiency-on-a-chromebook/"><u>2024 Approved  Proven Methods to Improve Zoom Efficiency on a Chromebook</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-simplifying-gif-design-for-beginners/"><u>2024 Approved  Simplifying GIF Design for Beginners</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-softened-screen-debut/"><u>2024 Approved  Softened Screen Debut</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-superb-alter-ego-voice-tools-for-aspiring-vtubers/"><u>2024 Approved  Superb Alter-Ego Voice Tools  For Aspiring VTubers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-superior-storytellers-sanctuary/"><u>2024 Approved  Superior Storyteller's Sanctuary</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/best-sniping-software-for-mac-users-for-2024/"><u>Best Sniping Software for Mac Users for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-into-windows-11-appsfolder-a-step-by-step-walkthrough/"><u>Breaking Into Windows 11 AppsFolder: A Step-by-Step Walkthrough</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-you-play-mp4-on-samsung-galaxy-f34-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Can you play MP4 on Samsung Galaxy F34 5G?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/exclusive-offer-20-free-luts-just-for-dji-mini-and-air-users/"><u>Exclusive Offer  20 FREE LUTS Just for DJI Mini & Air Users</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/harmonizing-with-hustle-a-day-in-the-life-synchronized-to-perfect-beats-on-my-mp3-player/"><u>Harmonizing with Hustle: A Day in the Life Synchronized to Perfect Beats on My MP3 Player</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-enable-and-fix-your-wi-fi-functionality-issues/"><u>How to Enable and Fix Your Wi-Fi Functionality Issues</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-infinix-zero-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-motorola-moto-g04-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Motorola Moto G04 Through Google Earth?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/minimizing-movement-blur-in-media/"><u>Minimizing Movement Blur in Media</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/unlocking-seamless-skype-group-communication-for-pcmac-for-2024/"><u>Unlocking Seamless Skype Group Communication for PC/Mac for 2024</u></a></li>
+</ul></div>
