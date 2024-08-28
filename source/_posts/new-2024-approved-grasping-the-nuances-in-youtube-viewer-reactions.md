@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Grasping the Nuances in YouTube Viewer Reactions\""
-date: 2024-07-11T20:37:36.217Z
-updated: 2024-07-12T20:37:36.217Z
+date: 2024-08-27T17:26:42.440Z
+updated: 2024-08-28T17:26:42.440Z
 tags: 
   - screen-recording
   - ai video
@@ -44,6 +44,9 @@ If you're wondering whether you really need to monitor your YouTube comments, he
 * YouTube comments present an opportunity for engagement: Responding quickly to negative comments could help you improve your image-not just with an unhappy viewers, but also with other YouTube viewers who see how you respond to conflict.
 * YouTube comments could help you develop new content: YouTube users aren't shy about expressing their opinions. Pay attentions to what they're saying about your content, and how can develop new content that they want to see.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Comment on a YouTube Video
 
 Moderating comments that appear on your video is important (and we'll get to the details of that in a minute) but as a brand, you'll want to pipe up with your own commentary, too.
@@ -78,16 +81,25 @@ Step2 On the YouTube homepage, click on the three horizontal parallel lines in t
 
 ![horizontal parallel lines youtube](https://images.wondershare.com/filmora/article-images/2022/11/horizontal-parallel-lines-youtube.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 Step3 From the drop down menu, select “History”.
 
 Step4 On the right side under the “Manage all history” section, click on “comments”.
 
 ![manage all history comments youtube](https://images.wondershare.com/filmora/article-images/2022/11/manage-all-history-comments-youtube.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step5 To edit your comment, click on the “vertical ellipsis” (three vertical dots) on the far right side of the listed video page.
 
 Step6 Make the necessary edits and choose “Save”.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Highlighted Comments and Replies on YouTube
 
 Among the comments you see on a video, you might notice some that YouTube has labeled “Highlighted Comment.” that label is specific to you, and only appears in your comments list. YouTube that you have a particular interest in a section of comments.
@@ -96,6 +108,9 @@ For example, you might click on a notification, and YouTube takes you to a parti
 
 Each time YouTube adds the “highlighted comment” or “highlighted reply” tags to a video, they create a unique URL. The version of the comment that you see uses this newly generated URL. Therefore, the only way to make these labels disappear (apart from reading the new comments) is to remove the addition to the URL.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ## Why Deleting YouTube Comments?
 
 If you consume a lot of YouTube content, you've likely posted hundreds or even thousands of comments on various channels. You might want to:
@@ -114,6 +129,14 @@ Comments history also contains the link to the video where you've left the comme
 
 ![delete unwanted youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/delete-unwanted-youtube-comments.jpg)
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 YouTube allows users to view and edit all the comments they have made on YouTube videos on both desktop and mobile apps. You can also edit or delete the comment if you so wish However you cannot delete any comments you made on YouTube from the Google my Activity page. It can be done from within the YouTube app only.
@@ -151,3 +174,44 @@ One way you can encourage people to leave comments on your videos is to finish t
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-advanced-strategies-for-precise-vr-gameplay-recording/"><u>[New] 2024 Approved  Advanced Strategies for Precise VR Gameplay Recording</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-next-gen-realities-navigating-vrs-future-trajectory/"><u>[New] 2024 Approved  Next-Gen Realities  Navigating VR's Future Trajectory</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-picture-perfect-in-the-sky-free-and-paid-cloud-solutions-reviewed/"><u>[New] 2024 Approved  Picture Perfect in the Sky  Free & Paid Cloud Solutions Reviewed</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-quintessential-preview-reels-set/"><u>[New] 2024 Approved  Quintessential Preview Reels Set</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-unveiling-past-moments-with-your-iphone/"><u>[New] 2024 Approved  Unveiling Past Moments with Your iPhone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-from-graphics-to-emojis-turning-gifs-into-stickers-on-telegram-and-more/"><u>[New] In 2024, From Graphics to Emojis  Turning GIFs Into Stickers on Telegram & More</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-latest-trends-in-360-cameras-a-shoppers-companion/"><u>[New] In 2024, Latest Trends in 360 Cameras – A Shopper's Companion</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-mastering-youtube-permanently-stop-video-snips-complete-guide/"><u>[New] In 2024, Mastering YouTube  Permanently Stop Video Snips [Complete Guide]</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-step-by-step-guide-to-capturing-and-embedding-speech-in-ppt/"><u>[New] In 2024, Step-by-Step Guide to Capturing and Embedding Speech in PPT</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-the-ultimate-toolkit-for-dominating-social-media-management-smm/"><u>[New] In 2024, The Ultimate Toolkit for Dominating Social Media Management (SMM)</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-top-windows-phone-video-players-essential-app-selections/"><u>[New] In 2024, Top Windows Phone Video Players  Essential App Selections</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-mastering-skewed-imagery-texts-for-2024/"><u>[New] Mastering Skewed Imagery Texts for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-maximize-viewership-with-smart-and-stylish-titles-for-2024/"><u>[New] Maximize Viewership With Smart and Stylish Titles for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-top-10-steadicam-choices-for-drone-cinematography-pros-for-2024/"><u>[New] Top 10 Steadicam Choices for Drone Cinematography Pros for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-15-ae-title-tricks-for-dynamic-content-headers/"><u>[New] Top 15 AE Title Tricks for Dynamic Content Headers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-chronological-tagging-adding-times-to-youtube-vids-for-2024/"><u>[Updated] Chronological Tagging  Adding Times to YouTube Vids for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-chuckle-centric-collection-premium-free-templates-for-you/"><u>[Updated] Chuckle-Centric Collection  Premium Free Templates for You</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-examining-the-efficacy-of-toolwiz-for-image-enhancement/"><u>[Updated] Examining the Efficacy of Toolwiz for Image Enhancement</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-iphone-laughs-and-lightheartedness/"><u>[Updated] In 2024, IPhone Laughs & Lightheartedness</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-investigating-new-horizons-past-manycams-realm-for-2024/"><u>[Updated] Investigating New Horizons Past ManyCam's Realm for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-leading-android-picture-perfection-apps-for-2024/"><u>[Updated] Leading Android Picture Perfection Apps for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-mirthful-methodology-making-memes-for-free/"><u>[Updated] Mirthful Methodology  Making Memes for Free</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-picart-strategies-for-stunning-image-purification-for-2024/"><u>[Updated] PicArt Strategies for Stunning Image Purification for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-xiaomi-redmi-note-13-proplus-5g-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Xiaomi Redmi Note 13 Pro+ 5G</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-insights-on-pc-components-by-toms-electronics-hub/"><u>Expert Insights on PC Components by Tom's Electronics Hub</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/from-concept-to-completion-a-stories-polling-handbook-for-2024/"><u>From Concept to Completion  A Stories Polling Handbook for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-business-slide-show-essentials-free-access-and-customization/"><u>In 2024, Business Slide Show Essentials  Free Access & Customization</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-onoff-switch-windows-11s-auto-hdr-feature/"><u>In 2024, On/Off Switch  Windows 11'S Auto-HDR Feature</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-optimal-aerial-vehicles-your-next-purchase/"><u>In 2024, Optimal Aerial Vehicles  Your Next Purchase</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-vidmore-screen-recorder-how-to-use-it/"><u>In 2024, Vidmore Screen Recorder - How to Use It</u></a></li>
+<li><a href="https://location-fake.techidaily.com/inside-the-delay-of-guilty-gear-strive-launch-current-status-explained/"><u>Inside the Delay of Guilty Gear Strive Launch – Current Status Explained</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/intro-excellence-app-your-device-friendly-solution/"><u>Intro Excellence App  Your Device-Friendly Solution</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/navigating-the-zoom-interface-for-effective-fb-lives/"><u>Navigating the Zoom Interface for Effective FB Lives</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/the-essential-guide-to-trimming-videos-in-your-windows-device/"><u>The Essential Guide to Trimming Videos in Your Windows Device</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-7-limitations-unanswerable-queries-and-tasks-beyond-chatgpts-reach/"><u>Top 7 Limitations: Unanswerable Queries & Tasks Beyond ChatGPT's Reach</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-realme-11-pro-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Realme 11 Pro Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/win11s-top-5-no-cost-screen-recorders-updated-guide-for-2024/"><u>Win11's Top 5 No-Cost Screen Recorders - Updated Guide for 2024</u></a></li>
+</ul></div>

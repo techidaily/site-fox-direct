@@ -1,7 +1,7 @@
 ---
 title: "\"Immersive Chronicles  Virtual Reality's History for 2024\""
-date: 2024-07-11T20:36:04.758Z
-updated: 2024-07-12T20:36:04.758Z
+date: 2024-08-27T17:28:03.335Z
+updated: 2024-08-28T17:28:03.335Z
 tags: 
   - screen-recording
   - ai video
@@ -43,14 +43,23 @@ In Pygmalions Spectacles, Stanley G. Weinbaum explains a goggle based game in wh
 
 VR headsets actually started development in the 1960s. Just 30 years from the original thought of a VR headset, Ivann Sutherland created the very first VR headset for use with military applications. Using a specialized military software as well as a motion control platform, the first VR headsets were designed for use in training exercises. These VR training tools have now become the standard in the military for training for flight exercises, combat situations and more. An immersive experience is definitely required to push military personnel and prepare them in a safe training environment before they enter into the field. Many air forces around the world require an extensive amount of VR training simulations before they will even let a pilot into one of their aircraft. With the initial development using specialized software and motion controls, VR research would continue to pave the way for training in the military and beyond. Today’s military VR headsets are far more advanced, compact and immersive and these training programs as well as the technology will continue to develop a little bit faster than some of the products that we might find as regular consumers.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## VR development in 1990s
 
 VR headsets begin to make their way into a few arcade games for simulations and Nintendo announced the first home VR system. Virtual Boy was one of the first home systems available for use with a widespread appeal. Sega also introduced a Sega VR headset for the Sega Genesis console in the year 1993\. These wraparound prototypes had stereo sound, LCD screens and head tracking. Technical development in this VR headset doom the project and the cost of the headset was extensive making it a massive flop for Sega. The Virtual Boy however was a 3-D game console that experienced a little more success. Virtual Boy was released in North America at a price of $180\. The games were entirely made in red and black and there were only a few pieces of software available with the device. Users would wear a VR headset and control the action on a regular Nintendo controller. Unfortunately the console was very uncomfortable to use and because of the lack of games as well as the lack of color, it didn't present the same strong sales as the other Nintendo consoles out at the time.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## VR development in 2014
 
 Oculus VR represents the latest revolution in VR technology. When Facebook officially acquired the Oculus VR system, this showed that virtual-reality was becoming a huge concern for many of the world's top developers. Although the Oculus Rift was formed out of a kickstarter campaign in 2012, the deal in 2014 represented a huge boost in their funding and confidence. Later in 2015, Oculus began to acquire other companies like Surreal Vision and built partnerships with Samsung to develop the Samsung gear VR. As one of the leading companies in VR development, Oculus has fully functioning VR systems for consumers to purchase and use at home. With support for a wide range of applications and further applications being developed for specific use with their VR systems, this was a huge leap forward for VR. After gaining international attention with the demand after the Facebook deal, this would propel many other developers into creating their own VR development firms. Oculus in a way started a brand-new VR renaissance with a call to create immersive and simulated experiences for the average consumer. Previous VR headsets were very technical and inaccessible for the average computer user, but with plug-and-play compatibility and a wide host of supported applications, Oculus gave the average consumer hope that they can enjoy VR again.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ## VR development in 2016 and beyond
 
 With the initial surge after Oculus Rift, companies all over the world began building their own VR headsets and producing some fantastic new tech. With so many new devices coming out from many of the world's top manufacturers, we are seeing huge developments when it comes to apps, 360° cameras, inexpensive headsets, VR glass experiences and more. As 3-D graphics continue to get better and is processing power lines at an exponential rate, VR is becoming a focus for many developers in the future. There are many consumer products coming out to compete with Oculus based off its demand as well as generic products for use with smart phone technology. As many smart phones have the accelerometer data, advanced soundcards and graphic sets for 3d rendering users are opting to watch 360 videos and try virtual-reality apps with their smartphone and home devices like Google Cardboard. Other users however are holding out for products like the Oculus Rift, Playstation VR and more. With all of these devices set to drop in mass circulation by the end of 2016 or the start of 2017 we are truly going to start seeing at home VR experiences which are widespread.
@@ -59,6 +68,9 @@ The future of VR looks very bright and with so many new devices in development i
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
@@ -85,3 +97,44 @@ Follow @Benjamin Arango
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-howtos.techidaily.com/fixed-computer-crashes-when-playing-games-in-windows-1011/"><u>[FIXED] Computer Crashes When Playing Games in Windows 10/11</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-prime-panzoid-layout-libraries/"><u>[New] 2024 Approved  Prime Panzoid Layout Libraries</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-amplify-your-iphone-films-with-free-audio-additions-discover-three-ways-for-2024/"><u>[New] Amplify Your iPhone Films with Free Audio Additions – Discover Three Ways for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-no-nonsense-tips-for-game-recording/"><u>[New] In 2024, No-Nonsense Tips for Game Recording</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-the-game-plan-for-getting-your-product-in-front-of-a-youtubers-audience/"><u>[New] In 2024, The Game Plan for Getting Your Product in Front of a Youtuber's Audience</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-ultimate-online-collaboration-conjurer-for-2024/"><u>[New] Ultimate Online Collaboration Conjurer for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-expert-advice-downloading-editing-and-personalizing-whatsapp-tones-for-both-platforms/"><u>[Updated] 2024 Approved  Expert Advice  Downloading, Editing & Personalizing WhatsApp Tones for Both Platforms</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-mastering-video-production-xstudio-deep-dive/"><u>[Updated] 2024 Approved  Mastering Video Production  XStudio Deep Dive</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-craft-the-perfect-picture-on-android-with-these-5-best-apps-for-2024/"><u>[Updated] Craft the Perfect Picture on Android with These 5 Best Apps for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exploring-the-spectrum-of-picture-alteration/"><u>[Updated] Exploring the Spectrum of Picture Alteration</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-all-about-srt-essential-information-made-easy/"><u>[Updated] In 2024, All About SRT  Essential Information Made Easy</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-deciphering-crossfade-techniques-in-music/"><u>[Updated] In 2024, Deciphering Crossfade Techniques in Music</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-enhance-your-edm-skills-with-free-online-beat-analysis-software/"><u>[Updated] In 2024, Enhance Your EDM Skills with Free Online Beat Analysis Software</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-masterclass-in-webinar-name-designer/"><u>[Updated] Masterclass in Webinar Name Designer</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-navigating-the-world-of-iphone-x-animoji-like-a-pro/"><u>[Updated] Navigating the World of iPhone X Animoji Like a Pro</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/best-focus-effects-iphone-vs-android-photo-solutions/"><u>Best Focus Effects  IPhone vs Android Photo Solutions</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/bigger-photos-uncompromised-clarity/"><u>Bigger Photos, Uncompromised Clarity</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/bring-your-photos-to-life-adding-radial-focus-effects-ps-for-2024/"><u>Bring Your Photos to Life  Adding Radial Focus Effects PS for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/capturing-life-in-new-ways-hero-4-and-hero-5-for-2024/"><u>Capturing Life in New Ways  Hero 4 & Hero 5 for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/elevate-your-audio-experience-with-audacity-on-the-mac/"><u>Elevate Your Audio Experience with Audacity on the Mac</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/enhance-your-audio-visual-experience-with-these-6-apps/"><u>Enhance Your Audio-Visual Experience with These 6 Apps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-machine-learning-is-revolutionizing-the-world-of-games/"><u>How Machine Learning Is Revolutionizing the World of Games</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-expert-tips-to-seamlessly-retrieve-youtube-srt-subtitles/"><u>In 2024, Expert Tips to Seamlessly Retrieve YouTube SRT Subtitles</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-maximize-your-zoom-experience-with-top-three-strategies/"><u>In 2024, Maximize Your Zoom Experience with Top Three Strategies</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-snapslowly-the-art-of-time-lapse-via-samsung/"><u>In 2024, SnapSlowly  The Art of Time-Lapse via Samsung</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-the-ultimate-guide-to-creating-catchy-youtube-channel-titles-for-blogging-and-filming-no-more-than-156-characters/"><u>In 2024, The Ultimate Guide to Creating Catchy Youtube Channel Titles For Blogging & Filming (No More than 156 Characters)</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-the-ultimate-list-of-free-windows-screenshot-apps/"><u>In 2024, The Ultimate List of Free Windows Screenshot Apps</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-ultimate-guide-integrating-visuals-into-windows-10-with-finesse/"><u>In 2024, Ultimate Guide  Integrating Visuals Into Windows 10 with Finesse</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/incredible-trend-trackers-monitor-highest-youtube-spots-for-2024/"><u>Incredible Trend Trackers  Monitor Highest YouTube Spots for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862838518-introducing-the-modos-paper-monitor-a-game-changer-in-open-source-1200p-e-ink-technology-for-stunning-clarity-and-speed/"><u>Introducing the Modos Paper Monitor - A Game Changer in Open-Source, 1200P E-Ink Technology for Stunning Clarity and Speed</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/latest-guide-on-ipad-23-and-apple-iphone-6-icloud-activation-lock-bypass-by-drfone-ios/"><u>Latest Guide on iPad 2/3 and Apple iPhone 6 iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/navigating-video-editing-with-apples-latest-m1-macbook-air-for-2024/"><u>Navigating Video Editing with Apple’s Latest M1 MacBook Air for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/reducing-sound-levels-gradually-with-easy-steps-in-lumafusion/"><u>Reducing Sound Levels Gradually with Easy Steps in Lumafusion</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/step-by-step-guide-to-instagram-image-uploads/"><u>Step-by-Step Guide to Instagram Image Uploads</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-infinix-note-30i-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Infinix Note 30i FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-nokia-c210-by-fonelab-android-recover-music/"><u>Undelete lost music from Nokia C210</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-or-repair-addressing-lg-monitor-drivers-across-windows-editions/"><u>Update or Repair: Addressing LG Monitor Drivers Across Windows Editions</u></a></li>
+</ul></div>
