@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Spectrum Perfection  Color Grading Basics\""
-date: 2024-07-11T20:28:01.531Z
-updated: 2024-07-12T20:28:01.531Z
+date: 2024-08-31T20:23:19.745Z
+updated: 2024-09-01T20:23:19.745Z
 tags: 
   - screen-recording
   - ai video
@@ -64,12 +64,19 @@ Then select the New Project to create a new project file and click Import to fin
 
 ![put video to filmora cd](https://images.wondershare.com/filmora/article-images/2022/08/put-video-to-filmora-cd.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ##### Step2There are 2 ways to color your video in Wondershare Filmora
 
 Advanced Color Tools icon – click the Advanced Color Tools icon in the toolbar to enter the advanced color tools window, where you can apply the preset templates or adjust the color coarsely. It is suggested to start with Presets for beginners, which will save you much time.
 
 ![advanced color tools filmora](https://images.wondershare.com/filmora/article-images/2022/08/advanced-color-tools-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 Color Panel Window - to perform color correction in Wondershare Filmora, switch to the Color tab. You can modify the white balance, saturation, tint, contrast, temperature, and brightness and apply 3D LUT immediately and quickly in this editing panel. You see the output in the Preview window.
 
 ![edit color grading video fx](https://images.wondershare.com/filmora/article-images/2022/08/edit-color-grading-video-fx.jpg)
@@ -92,6 +99,9 @@ Here, there are two options to select: The Color correction. It offers different
 
 ![open color correction filmora](https://images.wondershare.com/filmora/article-images/2022/08/open-color-correction-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ##### Step2Select the specific video portion
 
 #####
@@ -100,6 +110,9 @@ First, you need to select the specific video portion you want to change the colo
 
 ![split video into clips fx](https://images.wondershare.com/filmora/article-images/2022/08/split-video-into-clips-fx.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 * And I selected the end portion of the video. After that, choose the part of the video.
 
 ![selected end portion video filmora](https://images.wondershare.com/filmora/article-images/2022/08/selected-end-portion-video-filmora.jpg)
@@ -118,6 +131,9 @@ Once you've finished correcting the video color, press Play and go over the whol
 
 ![preview and save video filmora](https://images.wondershare.com/filmora/article-images/2022/08/preview-and-save-video-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 **Using the Color Panel Window**
 
 ##### Step1To perform color correction in Filmora, switch to the Color tab
@@ -132,6 +148,9 @@ Click the button Advanced at the lower corner, then the color grading window wil
 
 ![color grading with filmora](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-with-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 **Color Histogram**
 
 The color histogram informs you of the color condition of this video. This reflects the exact allotment of colors throughout a specific image, highlighting the various colors on the screen and the pixels for every color type. When the color histogram points out as “Three Color Histograms,” a specific assignment of the three primary colors (R, B, and G) is reflected.
@@ -201,3 +220,42 @@ Overall, Color grading is the process of video editing to have an excellent look
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-android-tricks-changing-video-ordering/"><u>[New] 2024 Approved  Android Tricks  Changing Video Ordering</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-convert-youtube-music-seamlessly-for-mac-users-2023-edition/"><u>[New] 2024 Approved  Convert YouTube Music Seamlessly for Mac Users, 2023 Edition</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-above-and-beyond-uavs-for-gopro-recording-excellence-for-2024/"><u>[New] Above and Beyond UAVs for GoPro Recording Excellence for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-audience-grade-sound-recording-with-audacity-for-2024/"><u>[New] Audience-Grade Sound Recording with Audacity for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-capture-lifes-movement-integrating-motion-blur-into-face-photography-with-picsart/"><u>[New] Capture Life's Movement  Integrating Motion Blur Into Face Photography with Picsart</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-elevate-your-footage-quality-with-top-handheld-stabilizers-for-2024/"><u>[New] Elevate Your Footage Quality with Top Handheld Stabilizers for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-enrich-experience-boost-productivity-top-podcast-tasks-for-2024/"><u>[New] Enrich Experience, Boost Productivity  Top Podcast Tasks for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-no-copyrights-required-best-10-melodies-for-zen-practice-for-2024/"><u>[New] No Copyrights Required - Best 10 Melodies for Zen Practice for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-professional-livestream-selector-pick-between-virusmix-and-castpro-for-2024/"><u>[New] Professional Livestream Selector  Pick Between VirusMix and CastPro for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-the-top-camcorders-to-consider-in-depth-analysis-for-2024/"><u>[New] The Top Camcorders to Consider – In-Depth Analysis for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-comprehensive-guide-to-effective-multiframe-use-in-edge/"><u>[Updated] 2024 Approved  Comprehensive Guide to Effective Multiframe Use in Edge</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-expert-setup-for-high-quality-video-transmission/"><u>[Updated] 2024 Approved  Expert Setup for High-Quality Video Transmission</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-full-disclosure-on-the-t5-cameras-action-features/"><u>[Updated] 2024 Approved  Full Disclosure on the T5 Camera's Action Features</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-how-to-record-and-incorporate-speech-into-powerpoint-decks/"><u>[Updated] 2024 Approved  How to Record & Incorporate Speech Into PowerPoint Decks</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-transform-videos-with-tiktok-effects/"><u>[Updated] 2024 Approved  Transform Videos with TikTok Effects</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-turn-the-last-scenes-first-with-android/"><u>[Updated] 2024 Approved  Turn the Last Scenes First with Android</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-achieving-stunning-iphone-hdr-results/"><u>[Updated] Achieving Stunning iPhone HDR Results</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-integrating-music-into-unboxing-videos-a-comprehensible-manual/"><u>[Updated] Integrating Music Into Unboxing Videos  A Comprehensible Manual</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-photobooth-frustration-unfreezing-video-playback/"><u>2024 Approved  Photobooth Frustration  Unfreezing Video Playback</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-superior-suggestions-top-websites-for-acquiring-snapalert-melodies/"><u>2024 Approved  Superior Suggestions  Top Websites for Acquiring SnapAlert Melodies</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-top-tier-steadicam-options-for-drone-video-production/"><u>2024 Approved  Top-Tier Steadicam Options for Drone Video Production</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/are-you-still-using-the-latest-version-of-an-obsolete-ipad/"><u>Are You Still Using the Latest Version of an Obsolete iPad?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-photos-from-vivo-y17s-by-fonelab-android-recover-photos/"><u>Best Android Data Recovery - Retrieve Lost Photos from Vivo Y17s.</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/best-options-cheap-but-premium-4k-projector-systems/"><u>Best Options  Cheap but Premium 4K Projector Systems</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/tial-tools-for-efficient-mp4-segmentation-on-mac-for-2024/"><u>Essential Tools for Efficient MP4 Segmentation on Mac for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/expert-webinar-label-builder-kit/"><u>Expert Webinar Label Builder Kit</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/how-to-infuse-sound-and-style-into-your-windows-10-photos-app/"><u>How to Infuse Sound and Style Into Your Windows 10 Photos App</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-cricket-iphone-15-for-free-by-drfone-ios/"><u>How To Unlock Cricket iPhone 15 for Free</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-extended-motion-systems-appraisal/"><u>In 2024, Extended Motion Systems Appraisal</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-depth-analysis-the-power-of-quantum-hdr/"><u>In-Depth Analysis  The Power of Quantum HDR</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-xiaomi-redmi-12-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Xiaomi Redmi 12</u></a></li>
+<li><a href="https://driver-install.techidaily.com/mastering-msi-driver-updates-across-windows-versions/"><u>Mastering MSI Driver Updates Across Windows Versions</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/quintessential-memes-the-creation-guide-for-2024/"><u>Quintessential Memes  The Creation Guide for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/step-by-step-how-to-upscalled-vids-on-instagram/"><u>Step-by-Step  How to Upscalled Vids on Instagram</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-solving-assassins-creed-origins-stability-issues/"><u>Ultimate Guide: Solving Assassin's Creed Origins Stability Issues</u></a></li>
+</ul></div>
