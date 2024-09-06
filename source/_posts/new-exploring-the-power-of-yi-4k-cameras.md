@@ -1,7 +1,7 @@
 ---
 title: "[New] Exploring the Power of YI 4K Cameras"
-date: 2024-08-31T20:37:34.022Z
-updated: 2024-09-01T20:37:34.022Z
+date: 2024-09-05T01:25:13.986Z
+updated: 2024-09-06T01:25:13.986Z
 tags: 
   - screen-recording
   - ai video
@@ -200,5 +200,8 @@ Follow @Max Wales
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
