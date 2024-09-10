@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Steady-Hand Techniques for Videographers\""
-date: 2024-07-11T20:17:44.617Z
-updated: 2024-07-12T20:17:44.617Z
+date: 2024-09-09T15:09:52.543Z
+updated: 2024-09-10T15:09:52.543Z
 tags: 
   - screen-recording
   - ai video
@@ -32,6 +32,12 @@ When taking photographs or filming videos, there are a lot of elements to worry 
 
 ![camera shake effect](https://images.wondershare.com/filmora/article-images/2022/04/camera-shake-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #### In this article
 
 01 [The Definition of Camera Shake](#part1)
@@ -46,6 +52,132 @@ Camera shake is the camera's movement during the exposure of a photograph. This 
 
 Anyone who takes pictures seriously will eventually face the problem of camera shake. This happens when the camera shakes during exposure due to the photographer pushing the shutter button or a shaky hand. This can result in blurry photos, but there are several ways to avoid it in most situations. Camera shake is one of the most common problems photographers and videographers face and is one of the easiest to fix.
 
+### In Videos
+
+Videos are made up of individual frames, each capturing one moment in time. When your video contains a scene that moves from left to right, the frames that make up that scene move from left to right as well. If there's any movement in the frame except for horizontal movements, such as vertical movement caused by camera shake, you'll see it in every frame of your video.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Is Camera Shake A Bad Thing?
+
+So, is camera shake a bad thing? Yes, most of the time, but there are times when you can actually use it to your advantage. For example, in a long exposure shot, you may want to introduce some camera shake on purpose to blur moving objects and create a creative effect.
+
+![is camera shake a bad thing](https://images.wondershare.com/filmora/article-images/2022/04/camera-shake-2.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Another example where a camera shake can work in your favour is handheld macro photography. When shooting handheld macro shots, the motion of your hands can help keep the lens aligned with an object in front of you—if you move too slowly, the lens might lose alignment with what you're shooting.
+
+So if you find yourself facing a situation where you don't have a tripod or monopod handy, and you need steady shots, try using different techniques like bracing your body against solid objects or using burst mode to capture multiple images and choosing the sharpest one from the bunch.
+
+### In Pictures
+
+A camera shake is a big problem for most photographers. It's the enemy of sharp images, and when you're shooting with a telephoto lens, even the smallest amount of camera shake can cause blurry images.
+
+A camera shake is generally a bad thing when you're shooting still photography. It can cause your images to be blurry (and therefore unusable), and the more you zoom in, the more pronounced that effect is.
+
+If you're shooting with a tripod, you'll know if you have a camera shake if the image looks blurry. If it does, don't worry — there are ways to fix it in post-processing. But it's better to not have to do that in the first place!
+
+There are various ways in which the camera can shake, but the important thing is that this is generally undesirable. If you're into abstract expressionism or "happy accidents", you may disagree with the latter statement, and that's your prerogative!
+
+It is usually preferable for the rest of us to have photos that aren't blurry due to camera shake. When we say "blurry," we're not referring to the depth of field or out-of-focus shots. Those are two entirely different things.
+
+### In Videos
+
+Many people already know about camera shake when it comes to photography. If you're taking a picture and your shutter speed is too slow, or you don't have a tripod handy, or your hands aren't steady enough, that can cause blur in your pictures. The same thing can happen when shooting a video. There are many times when camera shake is used as an artistic effect in videos.
+
+Like many filmmaking techniques, you're going to want to shoot plenty of footage and then pick the perfect clips later. However, when it comes to camera shake, you're better off overdoing it with your takes than underdoing it.
+
+![is camera shake a bad thing in video](https://images.wondershare.com/filmora/article-images/2022/04/camera-shake-3.jpg)
+
+A great way to add energy and intensity to your shots is camera movement. Whether you are walking with your camera or running, a bit of shake in your footage can give a sense of excitement and urgency to your shots.
+
+However, when shooting video, camera shake is often used as an artistic effect. A lot of Hollywood blockbusters will add blurriness and shake for dramatic effect. Some action sequences have been shot entirely on handheld cameras for this reason. But to pull off this technique successfully, you need to have extremely steady hands. If you don't have the steadiest hands, you can always use a good tripod instead.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Conclusion
+
+Eliminating **camera shake** and gaining better control over it are lessons that almost every photographer learns early on. Yet there is still a large amount of misunderstanding about how it works. The vast majority of people don't truly understand what causes the camera to shake or how they can control it within their shooting style to get the sharpest possible images. Whether you are a beginning or advanced amateur photographer or videographer, knowing how to exert pressure when handling your camera gear properly is key to obtaining images that show fewer signs of blur from camera shake.
+
+As we've seen, there are things you can do to ensure that your photos and videos are as steady as possible. Going into any shoot with an awareness of camera shake will help you avoid accidents, but the reality is that these accidents do happen. Even if you have an extremely steady hand, your camera may not be capable of capturing the blur-free photos or videos that you're looking for.
+
+That's why awareness can go a long way towards helping you catch potential problems and solve them before they become actual problems. Of course, once you notice a lack of stability in your photos, it can be easier said than done to address the issue. There are various tools out there to help smooth out shaky footage after it has been captured, but getting that footage off your camera in one piece will be the first step in being able to use those tools effectively.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+When taking photographs or filming videos, there are a lot of elements to worry about. Is the lighting correct? Is the focus autofocus or manual? Is the background distracting from the subject? But there's another thing you should be thinking about: camera shake. If you've ever looked at pictures online and thought they're blurred - that's probably because of camera shake. This isn't always easy to get rid of post-production if you've filmed on a DSLR camera, so it's better to get it right in camera. A few different things cause a camera shake, so here we'll take a look at what causes this and how you can stop it from happening when taking your next photograph.
+
+![camera shake effect](https://images.wondershare.com/filmora/article-images/2022/04/camera-shake-1.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+#### In this article
+
+01 [The Definition of Camera Shake](#part1)
+
+02 [Is Camera Shake A Bad Thing?](#part2)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## The Definition of Camera Shake
+
+Camera shake is the camera's movement during the exposure of a photograph. This can be caused by either a badly mounted camera or because the shutter speed was too slow for the lens's focal length. Camera shake is most noticeable when you shoot at telephoto focal lengths and at high magnifications (zoomed in) with a long exposure time.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### In Pictures
+
+Anyone who takes pictures seriously will eventually face the problem of camera shake. This happens when the camera shakes during exposure due to the photographer pushing the shutter button or a shaky hand. This can result in blurry photos, but there are several ways to avoid it in most situations. Camera shake is one of the most common problems photographers and videographers face and is one of the easiest to fix.
+
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### In Videos
 
 Videos are made up of individual frames, each capturing one moment in time. When your video contains a scene that moves from left to right, the frames that make up that scene move from left to right as well. If there's any movement in the frame except for horizontal movements, such as vertical movement caused by camera shake, you'll see it in every frame of your video.
@@ -84,6 +216,18 @@ A great way to add energy and intensity to your shots is camera movement. Whethe
 
 However, when shooting video, camera shake is often used as an artistic effect. A lot of Hollywood blockbusters will add blurriness and shake for dramatic effect. Some action sequences have been shot entirely on handheld cameras for this reason. But to pull off this technique successfully, you need to have extremely steady hands. If you don't have the steadiest hands, you can always use a good tripod instead.
 
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Eliminating **camera shake** and gaining better control over it are lessons that almost every photographer learns early on. Yet there is still a large amount of misunderstanding about how it works. The vast majority of people don't truly understand what causes the camera to shake or how they can control it within their shooting style to get the sharpest possible images. Whether you are a beginning or advanced amateur photographer or videographer, knowing how to exert pressure when handling your camera gear properly is key to obtaining images that show fewer signs of blur from camera shake.
@@ -104,14 +248,32 @@ When taking photographs or filming videos, there are a lot of elements to worry 
 
 02 [Is Camera Shake A Bad Thing?](#part2)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Definition of Camera Shake
 
 Camera shake is the camera's movement during the exposure of a photograph. This can be caused by either a badly mounted camera or because the shutter speed was too slow for the lens's focal length. Camera shake is most noticeable when you shoot at telephoto focal lengths and at high magnifications (zoomed in) with a long exposure time.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### In Pictures
 
 Anyone who takes pictures seriously will eventually face the problem of camera shake. This happens when the camera shakes during exposure due to the photographer pushing the shutter button or a shaky hand. This can result in blurry photos, but there are several ways to avoid it in most situations. Camera shake is one of the most common problems photographers and videographers face and is one of the easiest to fix.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### In Videos
 
 Videos are made up of individual frames, each capturing one moment in time. When your video contains a scene that moves from left to right, the frames that make up that scene move from left to right as well. If there's any movement in the frame except for horizontal movements, such as vertical movement caused by camera shake, you'll see it in every frame of your video.
@@ -122,6 +284,18 @@ So, is camera shake a bad thing? Yes, most of the time, but there are times when
 
 ![is camera shake a bad thing](https://images.wondershare.com/filmora/article-images/2022/04/camera-shake-2.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Another example where a camera shake can work in your favour is handheld macro photography. When shooting handheld macro shots, the motion of your hands can help keep the lens aligned with an object in front of you—if you move too slowly, the lens might lose alignment with what you're shooting.
 
 So if you find yourself facing a situation where you don't have a tripod or monopod handy, and you need steady shots, try using different techniques like bracing your body against solid objects or using burst mode to capture multiple images and choosing the sharpest one from the bunch.
@@ -146,6 +320,12 @@ Like many filmmaking techniques, you're going to want to shoot plenty of footage
 
 ![is camera shake a bad thing in video](https://images.wondershare.com/filmora/article-images/2022/04/camera-shake-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 A great way to add energy and intensity to your shots is camera movement. Whether you are walking with your camera or running, a bit of shake in your footage can give a sense of excitement and urgency to your shots.
 
 However, when shooting video, camera shake is often used as an artistic effect. A lot of Hollywood blockbusters will add blurriness and shake for dramatic effect. Some action sequences have been shot entirely on handheld cameras for this reason. But to pull off this technique successfully, you need to have extremely steady hands. If you don't have the steadiest hands, you can always use a good tripod instead.
@@ -164,6 +344,12 @@ When taking photographs or filming videos, there are a lot of elements to worry 
 
 ![camera shake effect](https://images.wondershare.com/filmora/article-images/2022/04/camera-shake-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #### In this article
 
 01 [The Definition of Camera Shake](#part1)
@@ -174,10 +360,22 @@ When taking photographs or filming videos, there are a lot of elements to worry 
 
 Camera shake is the camera's movement during the exposure of a photograph. This can be caused by either a badly mounted camera or because the shutter speed was too slow for the lens's focal length. Camera shake is most noticeable when you shoot at telephoto focal lengths and at high magnifications (zoomed in) with a long exposure time.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### In Pictures
 
 Anyone who takes pictures seriously will eventually face the problem of camera shake. This happens when the camera shakes during exposure due to the photographer pushing the shutter button or a shaky hand. This can result in blurry photos, but there are several ways to avoid it in most situations. Camera shake is one of the most common problems photographers and videographers face and is one of the easiest to fix.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### In Videos
 
 Videos are made up of individual frames, each capturing one moment in time. When your video contains a scene that moves from left to right, the frames that make up that scene move from left to right as well. If there's any movement in the frame except for horizontal movements, such as vertical movement caused by camera shake, you'll see it in every frame of your video.
@@ -204,6 +402,12 @@ There are various ways in which the camera can shake, but the important thing is
 
 It is usually preferable for the rest of us to have photos that aren't blurry due to camera shake. When we say "blurry," we're not referring to the depth of field or out-of-focus shots. Those are two entirely different things.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### In Videos
 
 Many people already know about camera shake when it comes to photography. If you're taking a picture and your shutter speed is too slow, or you don't have a tripod handy, or your hands aren't steady enough, that can cause blur in your pictures. The same thing can happen when shooting a video. There are many times when camera shake is used as an artistic effect in videos.
@@ -212,72 +416,12 @@ Like many filmmaking techniques, you're going to want to shoot plenty of footage
 
 ![is camera shake a bad thing in video](https://images.wondershare.com/filmora/article-images/2022/04/camera-shake-3.jpg)
 
-A great way to add energy and intensity to your shots is camera movement. Whether you are walking with your camera or running, a bit of shake in your footage can give a sense of excitement and urgency to your shots.
-
-However, when shooting video, camera shake is often used as an artistic effect. A lot of Hollywood blockbusters will add blurriness and shake for dramatic effect. Some action sequences have been shot entirely on handheld cameras for this reason. But to pull off this technique successfully, you need to have extremely steady hands. If you don't have the steadiest hands, you can always use a good tripod instead.
-
-## Conclusion
-
-Eliminating **camera shake** and gaining better control over it are lessons that almost every photographer learns early on. Yet there is still a large amount of misunderstanding about how it works. The vast majority of people don't truly understand what causes the camera to shake or how they can control it within their shooting style to get the sharpest possible images. Whether you are a beginning or advanced amateur photographer or videographer, knowing how to exert pressure when handling your camera gear properly is key to obtaining images that show fewer signs of blur from camera shake.
-
-As we've seen, there are things you can do to ensure that your photos and videos are as steady as possible. Going into any shoot with an awareness of camera shake will help you avoid accidents, but the reality is that these accidents do happen. Even if you have an extremely steady hand, your camera may not be capable of capturing the blur-free photos or videos that you're looking for.
-
-That's why awareness can go a long way towards helping you catch potential problems and solve them before they become actual problems. Of course, once you notice a lack of stability in your photos, it can be easier said than done to address the issue. There are various tools out there to help smooth out shaky footage after it has been captured, but getting that footage off your camera in one piece will be the first step in being able to use those tools effectively.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-When taking photographs or filming videos, there are a lot of elements to worry about. Is the lighting correct? Is the focus autofocus or manual? Is the background distracting from the subject? But there's another thing you should be thinking about: camera shake. If you've ever looked at pictures online and thought they're blurred - that's probably because of camera shake. This isn't always easy to get rid of post-production if you've filmed on a DSLR camera, so it's better to get it right in camera. A few different things cause a camera shake, so here we'll take a look at what causes this and how you can stop it from happening when taking your next photograph.
-
-![camera shake effect](https://images.wondershare.com/filmora/article-images/2022/04/camera-shake-1.jpg)
-
-#### In this article
-
-01 [The Definition of Camera Shake](#part1)
-
-02 [Is Camera Shake A Bad Thing?](#part2)
-
-## The Definition of Camera Shake
-
-Camera shake is the camera's movement during the exposure of a photograph. This can be caused by either a badly mounted camera or because the shutter speed was too slow for the lens's focal length. Camera shake is most noticeable when you shoot at telephoto focal lengths and at high magnifications (zoomed in) with a long exposure time.
-
-### In Pictures
-
-Anyone who takes pictures seriously will eventually face the problem of camera shake. This happens when the camera shakes during exposure due to the photographer pushing the shutter button or a shaky hand. This can result in blurry photos, but there are several ways to avoid it in most situations. Camera shake is one of the most common problems photographers and videographers face and is one of the easiest to fix.
-
-### In Videos
-
-Videos are made up of individual frames, each capturing one moment in time. When your video contains a scene that moves from left to right, the frames that make up that scene move from left to right as well. If there's any movement in the frame except for horizontal movements, such as vertical movement caused by camera shake, you'll see it in every frame of your video.
-
-## Is Camera Shake A Bad Thing?
-
-So, is camera shake a bad thing? Yes, most of the time, but there are times when you can actually use it to your advantage. For example, in a long exposure shot, you may want to introduce some camera shake on purpose to blur moving objects and create a creative effect.
-
-![is camera shake a bad thing](https://images.wondershare.com/filmora/article-images/2022/04/camera-shake-2.jpg)
-
-Another example where a camera shake can work in your favour is handheld macro photography. When shooting handheld macro shots, the motion of your hands can help keep the lens aligned with an object in front of you—if you move too slowly, the lens might lose alignment with what you're shooting.
-
-So if you find yourself facing a situation where you don't have a tripod or monopod handy, and you need steady shots, try using different techniques like bracing your body against solid objects or using burst mode to capture multiple images and choosing the sharpest one from the bunch.
-
-### In Pictures
-
-A camera shake is a big problem for most photographers. It's the enemy of sharp images, and when you're shooting with a telephoto lens, even the smallest amount of camera shake can cause blurry images.
-
-A camera shake is generally a bad thing when you're shooting still photography. It can cause your images to be blurry (and therefore unusable), and the more you zoom in, the more pronounced that effect is.
-
-If you're shooting with a tripod, you'll know if you have a camera shake if the image looks blurry. If it does, don't worry — there are ways to fix it in post-processing. But it's better to not have to do that in the first place!
-
-There are various ways in which the camera can shake, but the important thing is that this is generally undesirable. If you're into abstract expressionism or "happy accidents", you may disagree with the latter statement, and that's your prerogative!
-
-It is usually preferable for the rest of us to have photos that aren't blurry due to camera shake. When we say "blurry," we're not referring to the depth of field or out-of-focus shots. Those are two entirely different things.
-
-### In Videos
-
-Many people already know about camera shake when it comes to photography. If you're taking a picture and your shutter speed is too slow, or you don't have a tripod handy, or your hands aren't steady enough, that can cause blur in your pictures. The same thing can happen when shooting a video. There are many times when camera shake is used as an artistic effect in videos.
-
-Like many filmmaking techniques, you're going to want to shoot plenty of footage and then pick the perfect clips later. However, when it comes to camera shake, you're better off overdoing it with your takes than underdoing it.
-
-![is camera shake a bad thing in video](https://images.wondershare.com/filmora/article-images/2022/04/camera-shake-3.jpg)
-
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 A great way to add energy and intensity to your shots is camera movement. Whether you are walking with your camera or running, a bit of shake in your footage can give a sense of excitement and urgency to your shots.
 
 However, when shooting video, camera shake is often used as an artistic effect. A lot of Hollywood blockbusters will add blurriness and shake for dramatic effect. Some action sequences have been shot entirely on handheld cameras for this reason. But to pull off this technique successfully, you need to have extremely steady hands. If you don't have the steadiest hands, you can always use a good tripod instead.
@@ -315,3 +459,44 @@ That's why awareness can go a long way towards helping you catch potential probl
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-elevate-audio-standards-integrating-premium-srt-into-mp4-files/"><u>[New] 2024 Approved Elevate Audio Standards Integrating Premium SRT Into MP4 Files</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-top-tier-psd-drop-shadows/"><u>[New] 2024 Approved Top-Tier PSD Drop Shadows</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-premium-free-pubg-thumbnail-collections/"><u>[New] In 2024, Premium Free PUBG Thumbnail Collections</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-splitcam-assessment-best-video-recorder-ranking-in-2024/"><u>[New] SplitCam Assessment Best Video Recorder Ranking, In 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-step-up-your-photo-game-with-these-ingenious-pixlr-techniques/"><u>[New] Step Up Your Photo Game with These Ingenious Pixlr Techniques</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-ultimate-guide-to-choosing-podcast-ready-mics-for-2024/"><u>[New] Ultimate Guide to Choosing Podcast-Ready Mics for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-ultimate-streams-for-gamers-unveiled-for-2024/"><u>[New] Ultimate Streams for Gamers Unveiled for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-unpackaging-text-magic-the-best-after-effects-plugin-guide-for-2024/"><u>[New] Unpackaging Text Magic The Best After Effects Plugin Guide for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-social-splash-10-best-templates-for-online-shares/"><u>[Updated] 2024 Approved Social Splash 10 Best Templates for Online Shares</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-telehealth-advancements-with-vr-integrations/"><u>[Updated] 2024 Approved Telehealth Advancements with VR Integrations</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-uniting-windows-and-mac-users-with-skype-groups/"><u>[Updated] 2024 Approved Uniting Windows & Mac Users with Skype Groups</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-windows-10-apps-and-games-to-explore-and-download/"><u>[Updated] 2024 Approved Windows 10 Apps and Games to Explore and Download</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-advanced-color-techniques-incorporating-luts-for-cinematic-flair-for-2024/"><u>[Updated] Advanced Color Techniques Incorporating Luts for Cinematic Flair for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-effective-solutions-to-address-photos-app-issues-in-w10/"><u>[Updated] Effective Solutions to Address Photos App Issues in W10</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-enchanting-your-audience-podcast-opener-scripts/"><u>[Updated] Enchanting Your Audience Podcast Opener Scripts</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-facebook-cover-video-widthheight-recommendation-for-2024/"><u>[Updated] Facebook Cover Video Width/Height Recommendation for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-comprehensive-list-of-ios-compatible-ps2-games/"><u>[Updated] In 2024, Comprehensive List of iOS-Compatible PS2 Games</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-navigate-effortlessly-enablingdisabling-picture-in-picture-in-youtube/"><u>[Updated] In 2024, Navigate Effortlessly Enabling/Disabling Picture In Picture in Youtube</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-multiplayer-movies-review-poker-edition/"><u>[Updated] MULTIPLAYER MOVIES REVIEW Poker Edition</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-synchronized-intro-editing-across-all-your-devices-this-year/"><u>[Updated] Synchronized Intro Editing Across All Your Devices This Year</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-timeless-1980s-filters-and-techniques-in-editing/"><u>[Updated] Timeless 1980S Filters & Techniques in Editing</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-transform-spaceships-into-trees-youtubes-green-secrets-revealed/"><u>2024 Approved Transform Spaceships Into Trees – Youtube’s Green Secrets Revealed</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unleashing-creativity-harnessing-the-full-potential-of-movie-maker-windows-8/"><u>2024 Approved Unleashing Creativity Harnessing the Full Potential of Movie Maker (Windows 8)</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-motorola-moto-g34-5g-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Motorola Moto G34 5G</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/elite-4k-screens-the-ultimate-choice-for-2024/"><u>Elite 4K Screens – The Ultimate Choice for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/enhancing-productivity-with-azure-voice-recognition-for-2024/"><u>Enhancing Productivity with Azure Voice Recognition for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-behind-glasses-and-screens-vrs-evolutionary-tale/"><u>In 2024, Behind Glasses and Screens VR’s Evolutionary Tale</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-free-digital-artistry-the-meme-generator/"><u>In 2024, Free Digital Artistry The Meme Generator</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-sparkle-with-style-animating-text-in-your-insta-stories/"><u>In 2024, Sparkle with Style Animating Text in Your Insta Stories</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/mastering-easy-hdr-a-step-by-step-guide/"><u>Mastering Easy HDR A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/maximizing-visuals-a-step-by-step-guide-for-buying-a-4k-monitor-for-2024/"><u>Maximizing Visuals A Step-by-Step Guide for Buying a 4K Monitor for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-installer-obstacles-for-nvidia/"><u>Overcoming Installer Obstacles for NVIDIA</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/photopony-pro-exploring-affordable-filters-for-2024/"><u>PhotoPony Pro Exploring Affordable Filters for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/solving-the-arduino-uno-connection-problem-in-windows-systems/"><u>Solving the Arduino Uno Connection Problem in Windows Systems</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/tech-review-showdown-comparing-gopros-hero5-and-garmin-virb-2e/"><u>Tech Review Showdown Comparing GoPro's Hero5 and Garmin VIRB (2E)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-the-elusive-mfc71dll-tips-and-techniques-to-resolve-file-not-found-problems/"><u>Troubleshooting the Elusive mfc71.dll: Tips & Techniques to Resolve 'File Not Found' Problems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/what-makes-gpt-enterprises-stand-out/"><u>What Makes GPT Enterprises Stand Out?</u></a></li>
+</ul></div>
