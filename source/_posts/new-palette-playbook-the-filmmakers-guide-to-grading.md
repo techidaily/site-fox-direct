@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Palette Playbook  The Filmmaker's Guide to Grading\""
-date: 2024-09-09T15:29:21.884Z
-updated: 2024-09-10T15:29:21.884Z
+date: 2024-09-08T20:41:46.321Z
+updated: 2024-09-15T21:48:20.991Z
 tags: 
   - screen-recording
   - ai video
@@ -22,18 +22,6 @@ Everyone in the video editing world is full of lively and beautiful colors — j
 
 ![color grading panel filmora](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-panel-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What is Color Grading?
 
 Color grading is the video editing process wherein grading (arranging) colors in a video or film to give them a stylistic look. It is different from Color correction because color correction is the process of correcting (fixing) colors in a video or a film as a way to get them back to what they should look like for your project or output.
@@ -46,12 +34,6 @@ Color grading and color correction are processes that happen throughout postprod
 
 ![apply color grading to video](https://images.wondershare.com/filmora/article-images/2022/08/apply-color-grading-to-video.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 To summarize, Color grading can be used to make both technical and creative changes. Colorists use color grading for artistic purposes to ensure that the film's carefully curated color palette conveys a specific atmosphere, style, or emotion.
 
 ## Why is Color Grading Important?
@@ -68,12 +50,6 @@ The communication of emotion and story through the lens is one of the most power
 
 One of the most intimidating challenges a photographer or vlogger faces is creating a unique style that can result in a brand for their work. Making a visual style that viewers can recognize at a glance can tremendously impact the growth of a photographer's career. Color grading plays a vital part in that process. Customers will often come to you with a wide range of different photography outputs. By defining a consistent color grading work, you can tie it all into a dense brand that reflects strongly on you and construct a distinctive value that provides you something to sell that only you can offer to people.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to use Color Grading in Wondershare Filmora?
 
 There are many color grading software available on your Windows PC or Mac. Still, here I will show you how to use the Color grading and color tuning features in Wondershare Filmora video editing software. Filmora's natural interface allows learners or semi-pros to master this video editor speedily. And, the color tuning tools in Filmora are powerful enough.
@@ -94,22 +70,10 @@ Advanced Color Tools icon – click the Advanced Color Tools icon in the toolbar
 
 ![advanced color tools filmora](https://images.wondershare.com/filmora/article-images/2022/08/advanced-color-tools-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Color Panel Window - to perform color correction in Wondershare Filmora, switch to the Color tab. You can modify the white balance, saturation, tint, contrast, temperature, and brightness and apply 3D LUT immediately and quickly in this editing panel. You see the output in the Preview window.
 
 ![edit color grading video fx](https://images.wondershare.com/filmora/article-images/2022/08/edit-color-grading-video-fx.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Contrast**: is the variance in luminance or color that makes an object identifiable. By modifying this setting, control the dissimilarity in color and brightness in contrary parts of the video image.
 
 **Saturation:** This setting constitutes the amount of gray in proportion to the hue. You can adjust it to make the entire video image's colors look soaked or unnoticeable.
@@ -140,12 +104,6 @@ First, you need to select the specific video portion you want to change the colo
 
 ![selected end portion video filmora](https://images.wondershare.com/filmora/article-images/2022/08/selected-end-portion-video-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Step3Apply the color correction preset that you want then click ok
 
 ![apply color correction preset](https://images.wondershare.com/filmora/article-images/2022/08/apply-color-correction-preset.jpg)
@@ -160,12 +118,6 @@ Once you've finished correcting the video color, press Play and go over the whol
 
 ![preview and save video filmora](https://images.wondershare.com/filmora/article-images/2022/08/preview-and-save-video-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Using the Color Panel Window**
 
 ##### Step1To perform color correction in Filmora, switch to the Color tab
@@ -248,52 +200,26 @@ Overall, Color grading is the process of video editing to have an excellent look
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-10-exceptional-educational-sites-a-look-without-udemy/"><u>[New] 2024 Approved 10 Exceptional Educational Sites A Look without Udemy</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-av-and-acoustic-creatives-top-5-online-leaders-roundup/"><u>[New] 2024 Approved Av & Acoustic Creatives Top 5 Online Leaders' Roundup</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-charting-the-course-for-youtube-keyword-mastery/"><u>[New] 2024 Approved Charting the Course for YouTube Keyword Mastery</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-expert-review-of-advanced-parrot-ar-drone/"><u>[New] 2024 Approved Expert Review of Advanced Parrot AR Drone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-obs-audio-fix-strategies-quickly/"><u>[New] 2024 Approved OBS Audio Fix Strategies Quickly</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-unifying-visual-experience-in-iphone-recording/"><u>[New] 2024 Approved Unifying Visual Experience in iPhone Recording</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-a-comparative-journey-through-the-top-10-tv-streamers-for-2024/"><u>[New] A Comparative Journey Through the Top 10 TV Streamers for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-humor-unleashed-easymeme-tutorial-without-cost-for-2024/"><u>[New] Humor Unleashed EasyMeme Tutorial Without Cost for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-a-guide-to-the-avant-garde-of-the-internets-av-masters/"><u>[New] In 2024, A Guide to the Avant-Garde of the Internet's AV Masters</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-essential-free-editing-software-rankings/"><u>[New] In 2024, Essential Free Editing Software Rankings</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-frostbite-finishes-olympic-ice-classics/"><u>[New] In 2024, Frostbite Finishes Olympic Ice Classics</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-master-the-art-of-avi-gif-conversion-via-filmora-platform/"><u>[New] In 2024, Master the Art of AVI-GIF Conversion via Filmora Platform</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-mastering-instagram-reels-tips-and-techniques/"><u>[New] In 2024, Mastering Instagram Reels Tips & Techniques</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-ultimate-selections-top-rated-webcam-platforms/"><u>[New] In 2024, Ultimate Selections Top-Rated Webcam Platforms</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-virtual-universe-showdown-meta-and-omni-explored/"><u>[New] In 2024, Virtual Universe Showdown Meta & Omni Explored</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-inside-insights-proclaiming-rights-to-free-clip-art-legally-for-2024/"><u>[New] Inside Insights Proclaiming Rights to Free Clip Art Legally for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-mastering-the-art-of-video-from-still-photos-through-pixiz-techniques-for-2024/"><u>[New] Mastering the Art of Video From Still Photos Through Pixiz Techniques for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-meme-masterpieces-iphones-here-for-2024/"><u>[New] Meme Masterpieces, iPhones Here for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-thrifty-shoppers-guide-to-cameras-for-2024/"><u>[New] Thrifty Shopper's Guide to Cameras for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-unveiling-the-art-of-instagram-video-filming-for-2024/"><u>[New] Unveiling the Art of Instagram Video Filming for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-learn-how-to-rewind-video-ordering-on-android/"><u>[Updated] 2024 Approved Learn How to Rewind Video Ordering on Android</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-on-the-go-video-making-essentials/"><u>[Updated] 2024 Approved On-The-Go Video Making Essentials</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-prime-portfolio-exceptional-webcam-supports/"><u>[Updated] 2024 Approved Prime Portfolio Exceptional Webcam Supports</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-top-5-techniques-for-captivating-your-twitch-audience/"><u>[Updated] 2024 Approved Top 5 Techniques for Captivating Your Twitch Audience</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-unlocking-success-with-the-right-instagram-video-dimensions/"><u>[Updated] 2024 Approved Unlocking Success with the Right Instagram Video Dimensions</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-cost-efficient-pc-video-harvesters-for-2024/"><u>[Updated] Cost-Efficient PC Video Harvesters for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-crafting-memes-that-stand-out-the-9gag-way-for-2024/"><u>[Updated] Crafting Memes that Stand Out The 9GAG Way for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-mastering-podcast-seo-skyrocketing-your-popularity/"><u>[Updated] In 2024, Mastering Podcast SEO Skyrocketing Your Popularity</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-review-the-full-package-of-the-logitech-4k-webcam/"><u>[Updated] In 2024, Review The Full Package of the Logitech 4K Webcam</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-leading-sound-transformation-tools-magic-edition-included/"><u>[Updated] Leading Sound Transformation Tools, Magic Edition Included</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-lightning-speed-seamless-transformation-from-srt-to-text-format/"><u>[Updated] Lightning Speed Seamless Transformation From SRT to Text Format</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-mastering-zoom-for-enhanced-tiktok-streams-for-2024/"><u>[Updated] Mastering Zoom for Enhanced TikTok Streams for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-screenmasterrevolution-next-gen-recording-software-for-2024/"><u>[Updated] ScreenMasterRevolution Next-Gen Recording Software for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-the-perfect-resolution-for-immersive-vr/"><u>[Updated] The Perfect Resolution for Immersive VR</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-crafting-illusions-simulating-time-jumps-and-space-hopping/"><u>2024 Approved Crafting Illusions Simulating Time Jumps & Space Hopping</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-professional-portals-15-youtube-economic-insights/"><u>2024 Approved Professional Portals 15 YouTube Economic Insights</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-step-by-step-tutorial-for-efficient-video-capturing-via-zd/"><u>2024 Approved Step-by-Step Tutorial for Efficient Video Capturing via ZD</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/celebrating-the-premier-25-ones-to-watch-on-insta/"><u>Celebrating the Premier 25 Ones to Watch on Insta</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/easy-mp3-conversion-from-mp3-files-to-youtube-videos-3-ways-for-2024/"><u>Easy MP3 Conversion From MP3 Files to YouTube Videos [3 Ways] for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fortnite-lag-solutions-eliminate-latency-fast-and-simple/"><u>Fortnite Lag Solutions: Eliminate Latency Fast and Simple</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/hulu-vs-huluplus-identifying-unique-perks-of-each-streaming-service/"><u>Hulu Vs. Hulu+: Identifying Unique Perks of Each Streaming Service</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-realme-c53-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Realme C53 | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-quick-tempo-adjustment-application-selection/"><u>In 2024, Quick Tempo Adjustment Application Selection</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-snappy-strategies-for-reacquiring-deleted-posts/"><u>In 2024, Snappy Strategies for Reacquiring Deleted Posts</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-top-10-android-and-ios-timers-for-effortless-wedding-countdown-management/"><u>In 2024, Top 10 Android and iOS Timers for Effortless Wedding Countdown Management</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-top-10-filmora-editing-traits-for-fan-loyalty/"><u>In 2024, Top 10 Filmora Editing Traits for Fan Loyalty</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/seamless-transitions-the-top-6-mac-apps-to-cut-videos-in-big-sur/"><u>Seamless Transitions The Top 6 Mac Apps to Cut Videos in Big Sur</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/sequential-viewing-experience-the-matrix-trilogy-correctly/"><u>Sequential Viewing: Experience The Matrix Trilogy Correctly</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-ace-your-edits-pro-level-tips-for-lunapic-users/"><u>[New] 2024 Approved Ace Your Edits Pro-Level Tips for LunaPic Users</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-examining-the-tech-in-djis-phantom-3-prototype/"><u>[New] 2024 Approved Examining the Tech in DJI's Phantom 3 Prototype</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-elevate-your-facebook-ads-game-no-price-tag-for-video-kit/"><u>[New] Elevate Your Facebook Ads Game - No Price Tag for Video Kit</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-encompassing-details-inside-googles-podcast-application/"><u>[New] Encompassing Details Inside Google's Podcast Application</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-cutting-edge-techniques-for-powerful-youtube-thumbnail-designs/"><u>[New] In 2024, Cutting-Edge Techniques for Powerful YouTube Thumbnail Designs</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-filmora-edits-explained-addressing-common-concerns-and-questions/"><u>[New] In 2024, Filmora Edits Explained Addressing Common Concerns and Questions</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-elevate-visual-storytelling-with-windows-photos-and-story-remix-techniques-for-2024/"><u>[Updated] Elevate Visual Storytelling with Windows Photos & Story Remix Techniques for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-first-film-experience-selecting-best-gopro-gear/"><u>[Updated] First Film Experience Selecting Best GoPro Gear</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-novice-to-pro-with-kinemaster-essentials-techniques-and-top-digital-counterparts/"><u>[Updated] From Novice to Pro with KineMaster Essentials, Techniques & Top Digital Counterparts</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-motorola-g24-power-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Motorola G24 Power to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-eye-catching-podcast-logos-step-by-step-creation/"><u>2024 Approved Eye-Catching Podcast Logos Step-by-Step Creation</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-honor-90-pro-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Honor 90 Pro Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/masterful-tool-selection-top-6-windows-usage-measurers/"><u>Masterful Tool Selection: Top 6 Windows Usage Measurers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/sculpt-satirical-scenes-with-giphy/"><u>Sculpt Satirical Scenes with Giphy</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

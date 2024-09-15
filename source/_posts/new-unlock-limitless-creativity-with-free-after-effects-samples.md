@@ -1,7 +1,7 @@
 ---
 title: "[New] Unlock Limitless Creativity with Free After Effects Samples"
-date: 2024-07-11T20:11:06.325Z
-updated: 2024-07-12T20:11:06.325Z
+date: 2024-09-09T18:28:01.050Z
+updated: 2024-09-15T22:51:18.229Z
 tags: 
   - screen-recording
   - ai video
@@ -51,6 +51,19 @@ This is a relatively simple, but very effective title template that can be used 
 
 ![arrive ae title tempalte](https://images.wondershare.com/filmora/article-images/2022/07/arrive-ae-title-tempalte.jpg)
 
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Laser After Effects Title Templates
 
 Laser Titles template is the most ideal solution for retro-themed content. It is also one of the most customizable title templates that we have found. On top of being able to change the text color, there are also several unique 3D animations and effects to choose from.
@@ -86,6 +99,13 @@ The complete opposite of the previous title template, the Masonry Title Template
 This is an After Effects title template bundle that comes with different types of glitching animations. It is an ideal title to choose for a creative video project, although it may also be useful if your video is dramatic or meant to capture attention. All the templates in the bundle are fully customizable; you can change the color, text, and animation at will.
 
 ![glitch ae title tempalte](https://images.wondershare.com/filmora/article-images/2022/07/glitch-ae-title-tempalte.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 9\. Cinematic After Effects Title Template
 
@@ -197,6 +217,19 @@ Laser Titles template is the most ideal solution for retro-themed content. It is
 
 ![laser ae title tempalte](https://images.wondershare.com/filmora/article-images/2022/07/laser-ae-title-tempalte.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4\. Black & White After Effects Title Template
 
 This is another minimalistic title template that can be useful for just any video project although it is primarily designed to create an abstract effect. If you want your audience to be captivated more by the content of the video than the title, the Black & White Template may be the best solution. But like most After Effects title templates, it is entirely customizable, meaning that you can choose to keep its minimalistic design while changing the overall color scheme.
@@ -238,6 +271,26 @@ This is another great title template that you can choose if you want animations 
 If you are looking for a wide variety of choices when it comes to animations, this is a good template bundle to consider. The templates in this bundle have some of the best text effects that we have seen anywhere and there are multiple styles of title scenes to choose from. Each one of the titles is fully customizable and they are ideal for business or professional videos.
 
 ![abstract ae title tempalte](https://images.wondershare.com/filmora/article-images/2022/07/abstract-ae-title-tempalte.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Edit Video Title in After Effects
 
@@ -337,6 +390,21 @@ Step4 You can then use the “Effects Window” to change the color as desired.
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-a-complete-guide-to-videdit-studio-pro-features-and-more/"><u>[New] 2024 Approved A Complete Guide to VidEdit Studio Pro, Features and More</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-revolutionizing-broadcast-media-with-chroma-key-expertise-for-2024/"><u>[New] Revolutionizing Broadcast Media with Chroma Key Expertise for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-srgb-advantages-over-regular-rgb/"><u>[New] Srgb Advantages Over Regular Rgb</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-achieve-more-views-tailoring-and-scaling-youtube-images/"><u>[Updated] 2024 Approved Achieve More Views Tailoring and Scaling YouTube Images</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-advanced-strategies-for-chapter-insertion-in-youtube-videos/"><u>[Updated] Advanced Strategies for Chapter Insertion in YouTube Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-augmented-realities-transforming-movie-production-for-2024/"><u>[Updated] Augmented Realities Transforming Movie Production for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-enhance-your-browsing-experience-with-these-5-chrome-extensions-for-fb-vids-for-2024/"><u>[Updated] Enhance Your Browsing Experience with These 5 Chrome Extensions for FB Vids for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-elevating-marketing-through-real-peoples-endorsements/"><u>[Updated] In 2024, Elevating Marketing Through Real People’s Endorsements</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-optimize-audio-quality-while-recording-lectures-on-apple-devices/"><u>[Updated] Optimize Audio Quality While Recording Lectures on Apple Devices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1-top-non-adobe-software-options-for-boosting-your-design-work/"><u>1. Top Non-Adobe Software Options for Boosting Your Design Work</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixes-found-solving-total-war-warhammer-iii-pc-game-crash-issues/"><u>Fixes Found! Solving TOTAL WAR: WARHAMMER III PC Game Crash Issues</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-revolutionary-email-indexing-solutions-transform-your-inbox-management-a-closer-look-at-copernic/"><u>How Revolutionary Email Indexing Solutions Transform Your Inbox Management: A Closer Look at Copernic</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/precision-at-zero-price-best-free-video-recorder-software-for-2024/"><u>Precision at Zero Price Best Free Video Recorder Software for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/youtube2024pciphone/"><u>YouTube広告の遮断手引き：2024年度新版・簡単ガイド｜PC、スマートフォン、iPhoneで使える方法</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Incorporating Backgrounds  A Filmmaker's Guide\""
-date: 2024-07-11T20:11:58.917Z
-updated: 2024-07-12T20:11:58.917Z
+date: 2024-09-09T22:22:16.634Z
+updated: 2024-09-15T17:05:58.640Z
 tags: 
   - screen-recording
   - ai video
@@ -44,6 +44,13 @@ On the other hand, cutaways can show how different people react to what is being
 
 We'll examine the top 5 uses for B rolls across a variety of video genres and discuss how to implement them effectively in your own projects.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Archival b roll footage
 
 Aerial B roll is the solution when you like to show your viewers where your film is being recorded or when you are changing locations and want them to know it. The plane takes off and lands in another city, and then shots of the city, its landmarks, its famous streets, etc. are shown. You have probably seen this type of B roll footage in movies and TV shows. These images aid in putting the viewer in the character's current location. Check out this collection of setting images from the Neighbors television series.
@@ -72,9 +79,23 @@ A pick-up is a tiny shot added to previously captured material. Re-shoots involv
 
 If flaws were discovered during primary photography, the directors could have requested another take. The producer and director should weigh the cost of rejoining cast and crew against the need for pick-ups or re-shoots to address storyline flaws (or worse) in the final edit.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 7\. A roll vs b roll
 
 Imagine the A roll as part of the video's story. This could be a documentary film, news show, or scripted sketch. Everything else on your editing table must be rearranged to fit it. When the speaker in the following video is directly talking to the camera or interviewer, this is A roll footage. The video's most crucial segments were filmed with primary footage.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -108,6 +129,17 @@ We sincerely hope that this post will be of use to you in making your films more
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-eizo-coloredge-cg318-4k-monitor-review/"><u>[New] In 2024, EIZO ColorEdge CG318-4K Monitor Review</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-iphone-tips-bringing-out-the-best-with-hdr-photography/"><u>[Updated] 2024 Approved IPhone Tips Bringing Out the Best with HDR Photography</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-top-16-best-free-video-players-for-pc/"><u>[Updated] In 2024, Top 16 Best Free Video Players for PC</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-infinix-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from Infinix</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-11-must-know-tricks-for-effective-fb-video-seo-and-performance/"><u>In 2024, 11 Must-Know Tricks for Effective FB Video SEO and Performance</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-infinix-smart-7-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Infinix Smart 7 Phone that is Locked?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-through-the-upsides-and-downsides-of-ai-powered-creativity-with-chatgpt/"><u>Navigating Through the Upsides and Downsides of AI-Powered Creativity with ChatGPT</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-the-essential-guide-to-implementing-lame-for-high-quality-auditory-outputs-in-audacity/"><u>New The Essential Guide to Implementing Lame for High-Quality Auditory Outputs in Audacity</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-persistent-freezing-and-crashes-in-age-of-wonders-planetfall-for-pc-gamers/"><u>Resolving Persistent Freezing and Crashes in 'Age of Wonders: Planetfall' For PC Gamers</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-samsung-galaxy-a05-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Samsung Galaxy A05.</u></a></li>
+</ul></div>
 

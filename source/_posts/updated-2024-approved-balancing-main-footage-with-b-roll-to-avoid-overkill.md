@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Balancing Main Footage with B-Roll to Avoid Overkill\""
-date: 2024-07-11T20:13:24.217Z
-updated: 2024-07-12T20:13:24.217Z
+date: 2024-09-11T21:06:56.824Z
+updated: 2024-09-15T16:34:16.341Z
 tags: 
   - screen-recording
   - ai video
@@ -56,6 +56,13 @@ Including archival material in your video allows your audience to experience a p
 
 B roll footage can be used to tell a story that supports the narrative of your video. For example, in this video interview of Tom DeLonge, the speaker talks about living in a neighborhood. The B rolls show him driving around in his car, skateboarding on the street in the 90's. These add to the story the video creator wants to talk about not seeing people with a disability differently.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4\. Undirected b roll footage
 
 This particular kind of B roll film is captured without any direction being given to your character, as the name suggests. For the purposes of an interview video, for instance, these can be straightforward close-up views of your character's hands and facial expressions. On the other hand, while you're doing a documentary, you might record your subject participating in everyday activities.
@@ -72,9 +79,23 @@ A pick-up is a tiny shot added to previously captured material. Re-shoots involv
 
 If flaws were discovered during primary photography, the directors could have requested another take. The producer and director should weigh the cost of rejoining cast and crew against the need for pick-ups or re-shoots to address storyline flaws (or worse) in the final edit.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 7\. A roll vs b roll
 
 Imagine the A roll as part of the video's story. This could be a documentary film, news show, or scripted sketch. Everything else on your editing table must be rearranged to fit it. When the speaker in the following video is directly talking to the camera or interviewer, this is A roll footage. The video's most crucial segments were filmed with primary footage.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -108,6 +129,17 @@ We sincerely hope that this post will be of use to you in making your films more
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-dive-into-time-lapse-with-advanced-canon-tactics-for-2024/"><u>[New] Dive Into Time-Lapse with Advanced Canon Tactics for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-top-scratches-comparative-review-of-recorders/"><u>[New] Top Scratches Comparative Review of Recorders</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-vintage-visions-unearthing-free-art-treasures-for-2024/"><u>[New] Vintage Visions Unearthing Free Art Treasures for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-perfecting-post-production-on-tiktok-via-zoom/"><u>[Updated] 2024 Approved Perfecting Post-Production on TikTok via Zoom</u></a></li>
+<li><a href="https://win11.techidaily.com/adopting-new-visual-elements-the-microsoft-store-experience/"><u>Adopting New Visual Elements: The Microsoft Store Experience</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-huawei-nova-y71-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Huawei Nova Y71 for Free? | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/learn-local-language-speak-like-an-aussie/"><u>Learn Local Language: Speak Like an Aussie</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/quick-and-clean-method-to-live-podcast-for-2024/"><u>Quick & Clean Method to Live Podcast for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/soundtrack-your-life-a-complete-guide-to-adding-personalized-ringtones-and-sounds-for-2024/"><u>Soundtrack Your Life A Complete Guide to Adding Personalized Ringtones & Sounds for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-gadgets-with-tom-comprehensive-guides-on-pc-hardware/"><u>Unveiling Gadgets with Tom: Comprehensive Guides on PC Hardware</u></a></li>
+</ul></div>
 

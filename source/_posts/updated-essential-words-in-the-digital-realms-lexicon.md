@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Essential Words in the Digital Realm's Lexicon"
-date: 2024-07-11T20:09:51.859Z
-updated: 2024-07-12T20:09:51.859Z
+date: 2024-09-11T16:25:43.255Z
+updated: 2024-09-15T22:44:21.475Z
 tags: 
   - screen-recording
   - ai video
@@ -46,6 +46,19 @@ It is described in terms of the ability to record all movements in such a manner
 
 When you are looking at a series of images in the world of Virtual reality then refresh rate helps to control the movement of frames so that they can be managed to move at a faster or slower rate as per requirement. Refresh rate controls lead and lag of a series of images in such a manner that users avail a responsive experience. At the standard rate, users need 60 frames per second.
 
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Head Mounted Display (HMD)
 
 This term will be more often used when you enter the world of Virtual Reality because it is associated with reading and hearing abilities in VR technology. In simple terms, HMDs are the specialized form of hardware that is responsible to deliver VR experience to users. It is designed in shape of a helmet or goggle that users can strap on their faces easily or can wear on their heads. The usage depends upon the requirements of your VR gear because some sensors work with head tracking whereas others do not need such elements.
@@ -53,6 +66,19 @@ This term will be more often used when you enter the world of Virtual Reality be
 ## Latency
 
 If you have ever experienced the world of Virtual Reality then you surely might have noticed that whenever you move your head in the directive motion then the visuals do not keep up accordingly, this is called latency. This is an unpleasant thing about Virtual Reality that adds a limitation to match virtual world with the real world. The lag caused by this latency period is a complaint from VR content users and it occurs due to a variety of reasons.
+
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Immersion
 
@@ -65,6 +91,13 @@ The term Field of View presents the angle of the visual field in degrees where i
 ## Screen Resolution
 
 Screen resolution actually describes the number of pixels to be displayed on-screen during Virtual Reality scenes. Same as the concept of television monitor or computer screen, more number of pixels mean much better resolution and much clearer as well as the realistic quality of images. The technology of Virtual Reality serves with awesome resolution and cameras developed for capturing such images are designed to add more number of pixels per frame. With specially developed VR headsets, the screen is divided into two portions that are observed by each eye separately and the screen door effects added to VR technology makes users feel like they are watching through a door.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Virtual Reality
 
@@ -79,6 +112,13 @@ It is simply the process of overlaying digital elements or data on the real worl
 The convergence of Virtual and Augmented reality is known as mixed reality. MR creates a blend of the virtual world into the physical space and it has the power to bring life into digital elements resulted from highly advanced camera units and VR+AR gears.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -103,6 +143,17 @@ Follow @Benjamin Arango
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-cheap-vr-headsets-from-china/"><u>[New] 2024 Approved Cheap VR Headsets From China?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-unlock-image-potential-10plus-lut-samples-some-at-zero-cost/"><u>[New] Unlock Image Potential 10+ LUT Samples, Some at Zero Cost</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-push-boundaries-top-windows-10-innovations-in-games-and-apps/"><u>[Updated] Push Boundaries Top Windows 10 Innovations in Games and Apps</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-slimmed-down-cloud-keeping-at-low-cost-high-space/"><u>2024 Approved Slimmed-Down Cloud Keeping at Low Cost, High Space</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>Fixing Foneazy MockGo Not Working On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-dividing-drama-a-step-by-step-chapters-integration-on-vimeo/"><u>In 2024, Dividing Drama A Step-by-Step Chapters Integration on Vimeo</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/making-the-smart-choice-prioritizing-a-timeless-mobile-device-over-a-novelty-computer-accessory/"><u>Making the Smart Choice: Prioritizing a Timeless Mobile Device Over A Novelty Computer Accessory</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/pickus-prowess-in-android-photo-editing-a-thorough-examination-for-2024/"><u>PickU's Prowess in Android Photo Editing A Thorough Examination for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/twin-cultures-a-linguistic-voyage/"><u>Twin Cultures: A Linguistic Voyage</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-boost-your-gaming-performance-solutions-to-high-fps-issues-in-valorant/"><u>Ultimate Guide: Boost Your Gaming Performance - Solutions to High FPS Issues in VALORANT</u></a></li>
+</ul></div>
 
