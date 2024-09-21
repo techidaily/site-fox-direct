@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Crafting Illusions  The Art of Time & Space Manipulation\""
-date: 2024-07-11T20:02:52.286Z
-updated: 2024-07-12T20:02:52.286Z
+date: 2024-09-17T20:50:42.227Z
+updated: 2024-09-20T21:02:37.342Z
 tags: 
   - screen-recording
   - ai video
@@ -107,6 +107,13 @@ You can also create a marking by using anything in yours. We are using the midli
 ![marking for the cross line of transitions](https://images.wondershare.com/filmora/article-images/2023/04/marking-for-the-cross-line-of-transitions.jpg)
 
 ![note](https://images.wondershare.com/assets/images-common/icon-note.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note:** Ensure to match the **"stepping over"** of the character for better results in the transition video.
 
@@ -230,6 +237,13 @@ To apply the chromatic effect after the power pack effect, follow the below step
 
 ![note](https://images.wondershare.com/assets/images-common/icon-note.png)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note:** Change the settings of the effects as needed from the top left setting panel on filmora.
 
 ##### Step11Apply the laser effects
@@ -242,6 +256,13 @@ To get the thrilling look, you have to apply the laser effect between the two cl
 * Align with the start of the nighttime clip.
 
 ![apply the laser effect](https://images.wondershare.com/filmora/article-images/2023/04/apply-the-laser-effect.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Reposition and adjust it according to the requirements if needed.
 * Extend the laser effect to the end of the scene.
@@ -265,6 +286,13 @@ Create for you and add different effects and experiment with new features. You w
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2\. Filming Prerequisites for Time Travelling Effects
 
@@ -301,6 +329,13 @@ After setting the lights, now it's time to check the camera!
 It is a very important step that you don't have to change the camera position during filming. Because if the camera angle will not be same, it's difficult to show in the same alignment during editing.
 
 ![camera alignment](https://images.wondershare.com/filmora/article-images/2023/04/camera-alignment.gif)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 After setting all equipment, now it's time to allow the character to perform in front of the camera.
 
@@ -522,6 +557,22 @@ Create for you and add different effects and experiment with new features. You w
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-proven-tactics-for-unblemished-image-sourcing/"><u>[New] Proven Tactics for Unblemished Image Sourcing</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-regaining-exclusive-snap-privacy/"><u>[New] Regaining Exclusive Snap Privacy</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-transform-ideas-into-laughter-generate-text-memes/"><u>[New] Transform Ideas Into Laughter Generate Text Memes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-the-secrets-of-simultaneous-iphone-shots-and-videos/"><u>[New] Unveiling the Secrets of Simultaneous iPhone Shots & Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-expert-strategies-for-efficient-funimate-use-for-2024/"><u>[Updated] Expert Strategies for Efficient Funimate Use for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-gpu-excellence-in-4k-gameplay-experience/"><u>[Updated] In 2024, GPU Excellence in 4K Gameplay Experience</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-navigating-the-path-free-and-safe-vlc-installer-for-macos-users/"><u>[Updated] In 2024, Navigating the Path Free and Safe VLC Installer for macOS Users</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-pro-camera-drones-10-elevating-film-and-photography/"><u>[Updated] Pro Camera Drones #10 Elevating Film & Photography</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-secret-to-stability-overcoming-handheld-videography-challenges-for-2024/"><u>[Updated] The Secret to Stability Overcoming Handheld Videography Challenges for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/building-your-brands-buzz-on-youtube-with-fresh-insights/"><u>Building Your Brand's Buzz on Youtube with Fresh Insights</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-tips-and-tricks-for-gopro-get-the-most-from-your-gopro/"><u>In 2024, Tips and Tricks for GoPro Get the Most From Your GoPro</u></a></li>
+<li><a href="https://win-blog.techidaily.com/rainbow-six-siege-diagnose-and-fix-server-connection-difficulties-now/"><u>Rainbow Six Siege: Diagnose and Fix Server Connection Difficulties Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/streamlined-process-for-asus-z370-e-drivers-begin-your-update-today/"><u>Streamlined Process for ASUS Z370-E Drivers - Begin Your Update Today</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-infinix-note-30-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Infinix Note 30 FRP Bypass</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-samsung-galaxy-a14-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Art of Selecting and Using B-Roll in Productions for 2024\""
-date: 2024-09-13T20:05:46.895Z
-updated: 2024-09-15T23:22:57.472Z
+date: 2024-09-13T17:28:17.566Z
+updated: 2024-09-20T17:27:18.142Z
 tags: 
   - screen-recording
   - ai video
@@ -49,32 +49,26 @@ On the other hand, cutaways can show how different people react to what is being
 
 We'll examine the top 5 uses for B rolls across a variety of video genres and discuss how to implement them effectively in your own projects.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Archival b roll footage
 
 Aerial B roll is the solution when you like to show your viewers where your film is being recorded or when you are changing locations and want them to know it. The plane takes off and lands in another city, and then shots of the city, its landmarks, its famous streets, etc. are shown. You have probably seen this type of B roll footage in movies and TV shows. These images aid in putting the viewer in the character's current location. Check out this collection of setting images from the Neighbors television series.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Visual detail b roll footage
 
 Including archival material in your video allows your audience to experience a previously covered or historically significant story as it occurred. Look at this illustration from Netflix's 14 Peaks: Nothing Is Impossible, which was made utilizing old b roll film from the era to help the viewer connect with the narrative.
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Storytelling b roll footage
@@ -98,10 +92,10 @@ A pick-up is a tiny shot added to previously captured material. Re-shoots involv
 If flaws were discovered during primary photography, the directors could have requested another take. The producer and director should weigh the cost of rejoining cast and crew against the need for pick-ups or re-shoots to address storyline flaws (or worse) in the final edit.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 7\. A roll vs b roll
@@ -142,12 +136,16 @@ We sincerely hope that this post will be of use to you in making your films more
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-4k-clarity-comparison-projectors-vs-traditional-televisions/"><u>[New] 2024 Approved 4K Clarity Comparison Projectors vs Traditional Televisions</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-guide-to-producing-effective-youtube-promo-videos/"><u>[New] Guide to Producing Effective YouTube Promo Videos</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-mastering-close-up-cinematography-through-zooming/"><u>[New] In 2024, Mastering Close-Up Cinematography Through Zooming</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-mastering-facebook-live-broadcasting-recorded-videos-for-2024/"><u>[New] Mastering Facebook Live Broadcasting Recorded Videos for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/elevar-la-calidad-del-contenido-como-cambiar-el-angulo-de-los-archivos-mp4-a-giro-exacto-con-perfeccionamiento-visual-no-distorsionado/"><u>Elevar La Calidad Del Contenido: Cómo Cambiar El Ángulo De Los Archivos Mp4 a Giro Exacto Con Perfeccionamiento Visual No Distorsionado</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-realme-c67-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Realme C67 5G Phone? | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/masterworks-of-screenwriting-by-thematic-quarters/"><u>Masterworks of Screenwriting by Thematic Quarters</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-highlighted-top-5-minimalist-action-camera-picks-for-2024/"><u>[New] Highlighted Top 5 Minimalist Action Camera Picks for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-hit-top-rank-firstrow-pursuits-outside-sports/"><u>[New] Hit Top Rank Firstrow Pursuits Outside Sports</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-in-depth-technique-for-formulating-youtube-playlists/"><u>[New] The In-Depth Technique for Formulating YouTube Playlists</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-race-through-the-olympics-top-sections-2022/"><u>[Updated] 2024 Approved Race Through the Olympics Top Sections, 2022</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-from-forgotten-frames-to-captivating-clip-sequences-for-2024/"><u>[Updated] From Forgotten Frames to Captivating Clip Sequences for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-crafting-an-apple-powered-athletic-broadcast-platform/"><u>[Updated] In 2024, Crafting an Apple-Powered Athletic Broadcast Platform</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-inverted-screen-changing-video-ordering/"><u>[Updated] Inverted Screen Changing Video Ordering</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-superior-selection-ultimate-cloud-storage-picks-for-2024/"><u>[Updated] Superior Selection Ultimate Cloud Storage Picks for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/cut-out-the-clutter-specialized-strategies-for-background-clearance-in-figma-for-2024/"><u>Cut Out the Clutter Specialized Strategies for Background Clearance in Figma for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/demystifying-ray-tracing-technology-and-how-it-works/"><u>Demystifying Ray Tracing Technology and How It Works</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-oppo-a78-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Oppo A78 | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Filmmaker's Guide to Distorting Space & Time"
-date: 2024-07-11T20:04:03.681Z
-updated: 2024-07-12T20:04:03.681Z
+date: 2024-09-14T17:27:53.079Z
+updated: 2024-09-21T00:01:53.539Z
 tags: 
   - screen-recording
   - ai video
@@ -212,6 +212,19 @@ To show the energy pack between two time-travel clips, you have to add the effec
 
 ![note](https://images.wondershare.com/assets/images-common/icon-note.png)
 
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note:** After dropping the effect, ensure that it starts simultaneously when the nighttime clip appears on the screen.
 
 ![after adding the elemental energy effect](https://images.wondershare.com/filmora/article-images/2023/04/after-adding-the-elemental-energy-effect.jpg)
@@ -318,6 +331,13 @@ To film a night mode, you need a warmer light, which is used to make shots for t
 
 ![night time warmer light](https://images.wondershare.com/filmora/article-images/2023/04/night-time-warmer-light.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 You don't need to worry if you don't have enough budget to get this setup. Because plastic binders will make your way easy, and you can create your own at home, as told earlier.
 
 **Character performance**
@@ -327,6 +347,13 @@ For the second round, the subject has to change the costume according to nightti
 In this round, the subject should start from the right to left and perform stepping over to the nighttime dimension. This action should remain on the left side of the crossline.
 
 ![note](https://images.wondershare.com/assets/images-common/icon-note.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note:** Ensure to match the **"stepping over"** of the character for better results in the transition video.
 
@@ -404,6 +431,13 @@ To make sure that the video will play smoothly, you ensure the correct alignment
 
 ![align markers 2 and 3 with each other](https://images.wondershare.com/filmora/article-images/2023/04/align-markers-2-and-3-with-each-other.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step7Trim the clips
 
 For better alignment of the clips, trim the nighttime clip where marker one is pointed. It is the point where the subject presses the button from the remote.
@@ -423,6 +457,13 @@ Next, you have to apply the **"Shape Mask"** for smooth movements of the charact
 * Then download this effect and apply it to the nighttime clip.
 
 ![shape mask from the utility section](https://images.wondershare.com/filmora/article-images/2023/04/shape-mask-from-the-utility-section.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * After that, double-click on the nighttime clips, which will show the settings section of the clip.
 * Go to the Video Effects section and change the shape mask settings.
@@ -522,6 +563,22 @@ Create for you and add different effects and experiment with new features. You w
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-aim-higher-than-xsplit-top-video-editors-reviewed/"><u>[New] Aim Higher than Xsplit Top Video Editors Reviewed</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-converting-youtube-audio-securely-master-3-proven-techniques-for-2024/"><u>[New] Converting YouTube Audio Securely Master 3 Proven Techniques for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-enhancing-media-creation-skills-with-windows-movie-maker-windows-8-edition/"><u>[New] Enhancing Media Creation Skills with Windows Movie Maker (Windows 8 Edition)</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-delve-deep-into-powerdirector-comprehensive-review-and-tutorial/"><u>[New] In 2024, Delve Deep Into PowerDirector - Comprehensive Review & Tutorial</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-innovative-approaches-to-enhancing-google-meet-visibility/"><u>[New] In 2024, Innovative Approaches to Enhancing Google Meet Visibility</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-secrets-to-streamlining-lone-broadcasts-a-practical-guide/"><u>[New] In 2024, Secrets to Streamlining Lone Broadcasts A Practical Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-strategy-cradle-nurturing-market-gains/"><u>[New] Strategy Cradle Nurturing Market Gains</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-reimagining-commerce-through-immersive-technology/"><u>[Updated] 2024 Approved Reimagining Commerce Through Immersive Technology</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-color-fidelity-unleashed-in-hps-dreamcolor-monitor/"><u>[Updated] In 2024, Color Fidelity Unleashed in HP's DreamColor Monitor</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-stitching-photographs-into-an-eye-catching-canvas/"><u>2024 Approved Stitching Photographs Into an Eye-Catching Canvas</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/authenticate-your-account-with-a-blue-badge-a-complete-tutorial-for-what-was-once-twitter/"><u>Authenticate Your Account with a Blue Badge: A Complete Tutorial for What Was Once Twitter</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/harnessing-the-power-of-animated-graphics-for-2024/"><u>Harnessing the Power of Animated Graphics for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-version-release-for-logitech-extreme-3d-pro-peripheral-management-software/"><u>Latest Version Release for Logitech Extreme 3D PRO Peripheral Management Software</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/leading-5-monitors-unleashing-full-spectrum-colors-for-2024/"><u>Leading 5 Monitors Unleashing Full Spectrum Colors for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-resolving-windows-update-error-code-0x802eb3ae/"><u>Ultimate Guide: Resolving Windows Update Error Code 0X802eb3ae</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Professional Packing for Personal Filmmaking"
-date: 2024-09-11T21:19:15.416Z
-updated: 2024-09-15T19:20:07.540Z
+date: 2024-09-15T17:23:25.199Z
+updated: 2024-09-20T21:34:01.336Z
 tags: 
   - screen-recording
   - ai video
@@ -49,13 +49,6 @@ Sony a6400 is an APS-C mid-range compact camera that I use for vlogging and cine
 
 Lenses are the most vital part of your camera; it brings light to a fixed object. Will it make a huge impact on your cinematic shot? For your montage? For your b-roll? Yes, yes, and also yes. The use of lenses has a greater and different impact because it has a contrasting effect, especially for sharpness, depth of field, details, and background blur. It is the most important parameter depending on the situation that you might have for traveling. For example, I used Sigma 16mm, a wide lens, which is good for landscape photography or montage. Another one is Sigma 30mm, this lens is good for mid-range shot portraits and it creates a dramatic effect while capturing a person or an object.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Gimbal
 
 Nowadays, many filmmakers and famous vloggers are using gimbals. We often use these for better results in which it may form steady and stable shots compared to handheld cameras that produce shaky and unsteady video. The only question is do we need this? If you can still afford it and you want your videos to be smooth and stable, then I suggest getting one for yourself. This can be very useful when you're always moving while making videos. Gimbal can provide great support if we are struggling with our camera without in-body image stabilization (IBIS). This is a good match in my camera after all.
@@ -63,10 +56,10 @@ Nowadays, many filmmakers and famous vloggers are using gimbals. We often use th
 ![vlog gimbal](https://images.wondershare.com/filmora/article-images/2022/07/vlog-gimbal.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Action Camera
@@ -74,20 +67,6 @@ Nowadays, many filmmakers and famous vloggers are using gimbals. We often use th
 This is one of my favorite pieces of equipment and frequently used camera, the GoPro 9\. A lot of content creators that I know are using action cameras for their daily vlogging. No doubt and no questions at all because this are the smallest camera that you can get on the market. Is it too pricey? Unfortunately, yes, but some brands are not. Since it is the smallest of all, the price that you pay will be worth it. It is very convenient; you can put it in your small bag and it can also fit in your pocket. Very easy to use and the resolution you get is superior. Undeniably, this is my go-to camera. You can use it in any rough situation, that is why this cute little thing has a lot to offer.
 
 ![action camera](https://images.wondershare.com/filmora/article-images/2022/07/action-camera.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5\. Batteries, External SSD, and Memory card
 
@@ -100,6 +79,19 @@ In any case, we needed a few accessories to support our equipment better. Simple
 In my own experience, every time I go out and visit different places, I always have my laptop with me, so that I can easily transfer my files and start the editing process. Constantly, when I have spare time or I'm not doing anything while resting during the trip, I start editing to make progress gradually. This can save my time. I'm going to show you how I transfer my files and edit my video by **STABILIZING** your video that makes it better in **Wondershare Filmora.**
 
 ![laptop devices](https://images.wondershare.com/filmora/article-images/2022/07/laptop-devices.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For Win 7 or later(64-bit)
 
@@ -125,6 +117,13 @@ just drag and drop simple as that
 
 ![drag and drop](https://images.wondershare.com/filmora/guide/get-started-with-filmora-03.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step4STABILIZING THE VIDEO
 
 choose the TOOLS
@@ -132,6 +131,13 @@ choose the TOOLS
 select video and you can choose Stabilization
 
 ![stabulizing the video](https://images.wondershare.com/filmora/guide/stabilization-02.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step5ANALYZES THE SELECTED VIDEO TO STABILIZE
 
@@ -159,18 +165,18 @@ from there you can choose and select which video you would like to import
 
 ![import files](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step3DRAG AND DROP
 
 just drag and drop simple as that
 
 ![drag and drop](https://images.wondershare.com/filmora/guide/get-started-with-filmora-03.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step4STABILIZING THE VIDEO
 
@@ -214,18 +220,16 @@ So, all in all, those are the equipment and gears that I use for any travel vlog
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-hot-picks-best-free-screen-recorders-for-windows-users/"><u>[New] 2024 Approved Hot Picks Best Free Screen Recorders For Windows Users</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-ideal-internet-spots-curated-custom-tones-downloads/"><u>[New] 2024 Approved Ideal Internet Spots Curated Custom Tones Downloads</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-rush-and-reaction-sochis-speed-showdown/"><u>[New] In 2024, Rush & Reaction Sochi's Speed Showdown</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-screenshoting-made-easy-leveraging-ezvid-video-maker/"><u>[Updated] 2024 Approved Screenshoting Made Easy Leveraging Ezvid Video Maker</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-viewpoint-validation-digest-for-2024/"><u>[Updated] Viewpoint Validation Digest for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-infinix-smart-8-pro-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Infinix Smart 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-electrical-upgrades/"><u>2024 Approved Electrical Upgrades</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/experience-next-gen-mac-software-with-advanced-data-recovery-features/"><u>Experience Next-Gen Mac Software with Advanced Data Recovery Features</u></a></li>
-<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-from-iphone-15-pro-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email From iPhone 15 Pro? Heres the Best Fixes</u></a></li>
-<li><a href="https://article-files.techidaily.com/from-ground-to-sky-the-lifting-elite-drone-list-for-2024/"><u>From Ground to Sky The Lifting Elite Drone List for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/garmins-virb-ultra-30-action-cam-in-depth-features-analysis-for-2024/"><u>Garmin's VIRB Ultra 30 Action Cam – In-Depth Features Analysis for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-how-to-overcome-the-unable-to-connect-issue-error-0x80072fed-in-windows-10/"><u>Troubleshooting Tips: How to Overcome the 'Unable To Connect' Issue (Error 0X80072FED) in Windows 10</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-oppo-find-n3-flip-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Oppo Find N3 Flip without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-online-webinar-conduct-with-youtube/"><u>[New] In 2024, Free Online Webinar Conduct with YouTube</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-virtual-lookout-assessing-mobile-apps/"><u>[New] In 2024, Virtual Lookout Assessing Mobile Apps</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-quick-tips-for-quality-animation-in-movie-maker/"><u>[Updated] 2024 Approved Quick Tips for Quality Animation in Movie Maker</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-elite-camera-optics-for-cutting-edge-film-and-tv/"><u>[Updated] In 2024, Elite Camera Optics for Cutting-Edge Film & TV</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-adding-apple-music-a-guide-to-enhanced-videos/"><u>2024 Approved Adding Apple Music A Guide to Enhanced Videos</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ensure-compatibility-free-update-of-insignia-usb-and-ethernet-converters-software/"><u>Ensure Compatibility: Free Update of Insignia USB and Ethernet Converter's Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-netgear-a6100-wireless-adapter-drivers-for-windows-pcs/"><u>Get the Latest Netgear A6100 Wireless Adapter Drivers for Windows PCs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-basic-shapes-to-complex-realistic-3d-text-in-photos/"><u>In 2024, From Basic Shapes to Complex, Realistic 3D Text in Photos</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-realme-10t-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Realme 10T 5G Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-logitechs-advanced-gaming-steering-wheel-on-pc-windows-7810-download-drivers/"><u>Install Logitech's Advanced Gaming Steering Wheel on PC (Windows 7/8/10) - Download Drivers</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-your-win11-upgrades-eradicate-error-0xc1900101/"><u>Streamline Your Win11 Upgrades, Eradicate Error 0xC1900101</u></a></li>
 </ul></div>
 

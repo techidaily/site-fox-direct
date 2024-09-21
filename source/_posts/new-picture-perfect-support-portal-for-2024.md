@@ -1,7 +1,7 @@
 ---
 title: "[New] Picture Perfect Support Portal for 2024"
-date: 2024-09-09T19:54:45.900Z
-updated: 2024-09-15T16:38:23.590Z
+date: 2024-09-18T22:10:55.565Z
+updated: 2024-09-20T23:34:21.397Z
 tags: 
   - screen-recording
   - ai video
@@ -143,6 +143,13 @@ Step6 Export your clip, and you will notice a major difference in the audio qual
 
 ![export clip](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-25.png)
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Question 4: About Filmora settings
 
 ![questions from audience](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-26.png)
@@ -152,10 +159,10 @@ It is a great question. You might have noticed a crown icon next to some feature
 These features include 4K video export, keyframing, speed ramping, and many more. Purchase a Filmora license from their official website and enjoy these beautiful features.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Question 5: Filmora purchase
@@ -180,9 +187,23 @@ Step1 Launch Wondershare Filmora on your Windows PC or Mac.
 
 ![launch wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 Select one text title from the “Titles” tab, and drag-n-drop the text title onto the timeline.
 
 ![drag text to timeline](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3 Double-click it. In the text editor and then click animation.
 
@@ -192,25 +213,11 @@ Step4 Here you can choose a bunch of preset animations for your texts.
 
 ![choose any preset animation](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Another fantastic addition to Filmora is 3D plug-ins. You can also use NewBlue FX, which includes titler pro. These allow you to create your own text animation, even in 3D.
 
 ## Question 2: Video editing skills
 
 ![questions from audience](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-7.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The best way to make a string disappear in your video is masking. Here is how you can use this feature to remove something from your clip. Follow the steps explained below.
 
@@ -285,19 +292,6 @@ The first three dials of the equalizer usually control the bass, and these dials
 
 ![first three dials](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-22.png)
 
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step4 Start moving dials up and down and find the right balance for your clip.
 
 ![find the right balance for your clip](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-23.png)
@@ -322,14 +316,14 @@ These features include 4K video export, keyframing, speed ramping, and many more
 
 ![will next versions of filmora be valid on the lifetime license](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-27.png)
 
-If you bought Filmora 9 lifetime license years ago, you can upgrade to Filmora X and use the same license. However, since Filmora X, there is no lifetime license anymore. Instead, a perpetual license is made for a specific version of Filmora. It includes minor updates continually with payment of a single fee, but for major upgrades, like Filmora 11 to Filmora 12, there will be an additional fee. Therefore, the answer is no.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+If you bought Filmora 9 lifetime license years ago, you can upgrade to Filmora X and use the same license. However, since Filmora X, there is no lifetime license anymore. Instead, a perpetual license is made for a specific version of Filmora. It includes minor updates continually with payment of a single fee, but for major upgrades, like Filmora 11 to Filmora 12, there will be an additional fee. Therefore, the answer is no.
 
 ## Final Words
 
@@ -361,21 +355,15 @@ We hope you have found the answer to your question. If you still have any querie
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-detailed-walkthrough-implementing-microsoft-azure-speech-services/"><u>[New] 2024 Approved Detailed Walkthrough Implementing Microsoft Azure Speech Services</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-chinas-low-cost-vr-solutions-for-2024/"><u>[New] China's Low-Cost VR Solutions for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-say-goodbye-to-excess-master-the-art-of-editing-tiktok-drafters-for-2024/"><u>[New] Say Goodbye to Excess Master the Art of Editing TikTok Drafters for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-beginners-guide-to-video-production-free-course-series/"><u>[Updated] Beginner's Guide to Video Production Free Course Series</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-expert-level-quick-fixes-the-ultimate-5-diy-filmmaking-tricks/"><u>[Updated] In 2024, Expert-Level Quick Fixes The Ultimate 5 DIY Filmmaking Tricks</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-weave-humorous-patterns-with-adobe-tools-for-2024/"><u>[Updated] Weave Humorous Patterns with Adobe Tools for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-transforming-your-igtv-presence-with-new-covers/"><u>2024 Approved Transforming Your IGTV Presence with New Covers</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-whats-grabbing-twitter-users-attention/"><u>2024 Approved What's Grabbing Twitter Users' Attention</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discovering-chatgpts-inbuilt-plug-ins-uses-and-applications/"><u>Discovering ChatGPT's Inbuilt Plug-Ins: Uses and Applications</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/experience-next-gen-notetaking-with-mematic/"><u>Experience Next-Gen Notetaking with Mematic</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/from-everyday-use-to-extraordinary-virtual-adventures-smartphone-vr-conversion-guide/"><u>From Everyday Use to Extraordinary Virtual Adventures Smartphone-VR Conversion Guide</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ize-video-cuts-selective-mac-mp4-slicers/"><u>Optimize Video Cuts Selective Mac MP4 Slicers</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/charge-your-content-innovative-youtube-seo-tools-to-use-for-2024/"><u>Supercharge Your Content Innovative YouTube SEO Tools to Use for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-nubia-red-magic-9-proplus-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Nubia Red Magic 9 Pro+ Bricked Devices | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-huawei-p60-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Huawei P60 password or pattern lock</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-videopad-review-a-detailed-look-at-its-video-editing-capabilities/"><u>Updated 2024 Approved Videopad Review A Detailed Look at Its Video Editing Capabilities</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-prime-zero-fee-image-upgrade-for-smartphonespcs/"><u>[New] In 2024, Prime Zero-Fee Image Upgrade for Smartphones/PCs</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-mastering-zoom-discussion-essential-tactics-for-virtual-conversations-for-2024/"><u>[New] Mastering Zoom Discussion Essential Tactics for Virtual Conversations for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-top-8-sites-with-easy-access-to-free-3d-text-psd-images/"><u>[Updated] 2024 Approved Top 8 Sites with Easy Access to Free 3D Text PSD Images</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-crafting-wealth-with-facebook-video-ads-a-comprehensive-guide/"><u>[Updated] Crafting Wealth with Facebook Video Ads A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-visual-clarity-at-your-fingertips-removing-backgrounds-using-photopea/"><u>[Updated] Visual Clarity at Your Fingertips Removing Backgrounds Using Photopea</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-optimizing-youtube-profits-understanding-your-adsense-earnings-per-kv/"><u>2024 Approved Optimizing Youtube Profits Understanding Your AdSense Earnings per KV</u></a></li>
+<li><a href="https://os-tips.techidaily.com/expert-tips-for-reviving-a-dead-phone-battery-proven-methods-to-bring-your-device-back-to-life/"><u>Expert Tips for Reviving a Dead Phone Battery: Proven Methods to Bring Your Device Back to Life</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/from-underscrutinized-to-unforgettable-bio-hacks-for-love-success-for-2024/"><u>From Underscrutinized to Unforgettable Bio Hacks for Love Success for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-lava-blaze-2-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/mastering-instagram-video-length-constraints-explained/"><u>Mastering Instagram Video Length Constraints Explained</u></a></li>
 </ul></div>
 

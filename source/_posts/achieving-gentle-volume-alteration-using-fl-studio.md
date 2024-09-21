@@ -1,7 +1,7 @@
 ---
 title: "Achieving Gentle Volume Alteration Using FL Studio"
-date: 2024-07-11T20:03:39.029Z
-updated: 2024-07-12T20:03:39.029Z
+date: 2024-09-13T23:17:20.047Z
+updated: 2024-09-20T16:21:30.030Z
 tags: 
   - screen-recording
   - ai video
@@ -84,6 +84,19 @@ Step1 The first thing you have to do is successfully install the Filmora softwar
 
 ![install filmora software](https://images.wondershare.com/filmora/guide/adjust-video-1.png)
 
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 To fade audio in, you have to go to the audio setting. Then drag the pointer to the fade-in option which is present on the right and then apply the duration.
 
 ![fade audio in](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
@@ -91,6 +104,13 @@ Step2 To fade audio in, you have to go to the audio setting. Then drag the point
 Step3 If you want your audio to fade out, again go to the audio setting. Then drag the pointer to the fade-out option. Now set your duration and see the fade-out effect.
 
 No matter which audio editing software, what matters is the learning outcome. Learn the features of different editing software and choose what is suitable for you. If you are a beginner, then watch some tutorial videos on YouTube and read some Quora on google. Those who are just interested in audio editing and want to learn more should first try out [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), whereas if you have a basic idea about FL Studio then you can definitely go for it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Related FAQs of FL Studio Audio Editing
 
@@ -101,6 +121,13 @@ If you want to fade out your audio in FL on your mobile phone, tap on the wavefo
 ### 2\. How to crescendo in FL studio?
 
 If you want to do crescendo in FL Studio, you can apply certain automation on your volume slider and can use that for adding some dynamics. There is another way of doing this by manually changing all the notes’ velocities to the dynamics you want.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. What is declicking mode FL studio?
 
@@ -128,6 +155,19 @@ Declicking is an option that helps to remove ‘Clicks’ in the beginning or en
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-elevating-your-video-game-choosing-a-gimbal-for-drones-for-2024/"><u>[New] Elevating Your Video Game Choosing a Gimbal for Drones for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-behind-the-screen-scouting-the-hunt-for-pristine-paidless-tiktok-bgs-for-2024/"><u>[Updated] Behind-the-Screen Scouting The Hunt for Pristine, Paidless TikTok BGs for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-effortless-gif-integration-on-your-iphone/"><u>[Updated] Effortless GIF Integration on Your iPhone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-mastering-metaverse-laughter-how-to-make-unforgettable-meme-art/"><u>[Updated] Mastering Metaverse Laughter How to Make Unforgettable Meme Art</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-maximizing-marketing-the-best-highlight-techniques-for-brands/"><u>2024 Approved Maximizing Marketing The Best Highlight Techniques for Brands</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capture-the-catch-5-pro-fish-cameras-unveiled-for-2024/"><u>Capture the Catch 5 Pro-Fish Cameras Unveiled for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-the-art-of-professional-gopro-filming/"><u>In 2024, The Art of Professional GoPro Filming</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/reimagining-your-message-innovative-video-concepts-for-2024/"><u>Reimagining Your Message Innovative Video Concepts for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/relaxation-station-leisurely-phone-game-guide/"><u>Relaxation Station Leisurely Phone Game Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-and-science-of-crafting-your-ideal-podcast-naming-for-2024/"><u>The Art & Science of Crafting Your Ideal Podcast Naming for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-future-calls-unveiling-top-6-breakthroughs-with-chatgpt-code/"><u>The Future Calls: Unveiling Top 6 Breakthroughs with ChatGPT Code</u></a></li>
+</ul></div>
 

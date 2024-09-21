@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Slay the Game  Designing Quirky Text Memes\""
-date: 2024-07-11T20:04:21.787Z
-updated: 2024-07-12T20:04:21.787Z
+date: 2024-09-16T22:25:16.495Z
+updated: 2024-09-20T20:53:01.698Z
 tags: 
   - screen-recording
   - ai video
@@ -112,9 +112,23 @@ Step2 Go File> Import Media and click on Import Media Files option if you want t
 
 ![download filmora on computer](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If you want to start from scratch, select a video template from Stock Media> Pexels> Videos or Stock Media> Pixabay> Videos. Instead of videos, you can select photos as well for the meme background. You can select templates that have texts and titles and you can edit them as per your preference.
 
 ![pexels video filmora](https://images.wondershare.com/filmora/article-images/2022/07/pexels-video-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3 Go to Stock Media> GIPHY to bring in any trending meme. Drag and drop your selected GIF on the Timeline.
 
@@ -130,6 +144,13 @@ Step5 Drag and place the text in any desired place on the video From the Viewer.
 
 Once you have completed, click on Export button to save the video in any file format.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3\. How to Make a Meme Text on Mobile
 
 If you are a smartphone user and you are looking for a meme text generator app, we suggest you install Mematic to create amazing text memes instantly. Mematic is available for Android users as Meme Generator – Mematic and for iPhone users as Mematic - The Meme Maker. You can get to create text memes of different sizes of your requirements. You can select from meme templates and add texts as per the layout you select from your text memes. Here are the steps how to create text memes with Mematic in a few steps.
@@ -137,6 +158,13 @@ If you are a smartphone user and you are looking for a meme text generator app, 
 Step1 Visit Play Store(Android) or App Store(iPhone) and search for Mematic and install the app on your phone.
 
 ![mematic meme maker iphone](https://images.wondershare.com/filmora/article-images/2022/07/mematic-meme-maker-iphone.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step2 Select a style as per your requirements to get started.
 
@@ -153,6 +181,13 @@ Step4 Tap on any meme to use as the background and tap on Continue button.
 Step5 Tap on the text parts to change the default texts. You can tap on them and change the text style as well. Finally, tap on Export option to save the meme.
 
 ![export meme from mematic iphone](https://images.wondershare.com/filmora/article-images/2022/07/export-meme-from-mematic-iphone.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -180,6 +215,22 @@ Generating text memes on your device is no more an issue if you have no prior ex
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-complete-motion-evaluation-2023/"><u>[New] 2024 Approved Complete Motion Evaluation 2023</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-tips-and-tricks-erasing-unwanted-backdrops-for-2024/"><u>[New] Tips and Tricks Erasing Unwanted Backdrops for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-ultimate-list-premier-iphone-tone-producers/"><u>[New] Ultimate List Premier iPhone Tone Producers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-shutterbug-secrets-iphone-night-photography/"><u>[Updated] In 2024, Shutterbug Secrets IPhone Night Photography</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-logic-x-layers-building-audio-bridges-with-crossfades/"><u>[Updated] Logic X Layers Building Audio Bridges with Crossfades</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-why-are-videos-vanishing-from-a6400/"><u>[Updated] Why Are Videos Vanishing From A6400?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-iphone-11-pro-activation-lock-using-official-methods-by-drfone-ios-unlock-ios-unlock/"><u>Bypass iPhone 11 Pro activation lock using official methods</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/craft-corporate-emblems-from-available-graphic-samples-for-2024/"><u>Craft Corporate Emblems From Available Graphic Samples for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/freeloading-without-breaking-your-budget-on-aes-for-2024/"><u>Freeloading Without Breaking Your Budget on AEs for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-honor-magic-6-pro-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Honor Magic 6 Pro?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-full-guide-to-unlock-apple-iphone-12-pro-max-with-itunes-drfone-by-drfone-ios/"><u>In 2024, Full Guide to Unlock Apple iPhone 12 Pro Max with iTunes | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/proven-pathways-to-promoting-in-vr-lands-for-2024/"><u>Proven Pathways to Promoting in VR Lands for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/step-by-step-guide-transforming-viewers-into-profit/"><u>Step-By-Step Guide Transforming Viewers Into Profit</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/the-authoritative-periscope-users-bible-for-2024/"><u>The Authoritative Periscope User's Bible for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/unfolding-wxpxo11-dilemnas-fixes-for-non-openable-folders-after-double-clicks/"><u>Unfolding WXP/XO11 Dilemnas: Fixes for Non-Openable Folders After Double-Clicks</u></a></li>
+</ul></div>
 

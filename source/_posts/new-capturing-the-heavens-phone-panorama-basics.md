@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Capturing the Heavens  Phone Panorama Basics\""
-date: 2024-07-11T20:01:43.923Z
-updated: 2024-07-12T20:01:43.923Z
+date: 2024-09-19T00:03:04.875Z
+updated: 2024-09-20T18:13:29.550Z
 tags: 
   - screen-recording
   - ai video
@@ -68,6 +68,13 @@ thumbnail: https://thmb.techidaily.com/73f237caff1293d1dd4178031db987cf4821ccb81
 * Repeat the same with other dots as well. In other words, move camera towards the gray dots one by one until they get disappear.
 * Tap on "Done" when completed.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Some Beneficial Tips for shooting vertical panorama photo
 
 * Firstly, we would suggest you using a tripod when you need to take **vertical panorama on iPhone** or Android smoothly i.e. to avoid shakiness.
@@ -76,6 +83,13 @@ thumbnail: https://thmb.techidaily.com/73f237caff1293d1dd4178031db987cf4821ccb81
 * Leaving some space is another beautiful tip especially if you are a graphic designer and want to add some text into the picture. The panorama shot will look perfectly enhanced this way.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -100,6 +114,20 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-enhancing-team-dynamics-through-effective-video-calls/"><u>[New] 2024 Approved Enhancing Team Dynamics Through Effective Video Calls</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-highlighted-top-5-minimalist-action-camera-picks-for-2024/"><u>[New] Highlighted Top 5 Minimalist Action Camera Picks for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-choreographing-the-finale-for-your-tiktok-story/"><u>[New] In 2024, Choreographing the Finale for Your TikTok Story</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-customize-your-social-media-screenscape/"><u>[New] In 2024, Customize Your Social Media Screenscape</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-techniques-for-gh-video-logging/"><u>[New] Techniques for GH Video Logging</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-intermittent-brightness-on-dell-system/"><u>[Solved] Intermittent Brightness on Dell System</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-superior-selection-ultimate-cloud-storage-picks-for-2024/"><u>[Updated] Superior Selection Ultimate Cloud Storage Picks for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-unlocking-youtubes-secrets-for-profound-visibility-gains/"><u>2024 Approved Unlocking YouTube's Secrets for Profound Visibility Gains</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/avoid-browser-crashes-handling-jscriptdll-not-found-error-effectively/"><u>Avoid Browser Crashes: Handling 'jScript.dll Not Found' Error Effectively</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-precise-mac-recording-without-costs/"><u>In 2024, Precise Mac Recording Without Costs</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-screen-grab-specialists-top-apps-for-windows-10-users/"><u>In 2024, Screen Grab Specialists Top Apps for Windows 10 Users</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/perfect-iphone-silhouette-captures-101/"><u>Perfect iPhone Silhouette Captures 101</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/the-iphone-and-icloud-sync-a-step-by-step-photo-arrangement-guide-for-2024/"><u>The iPhone & iCloud Sync A Step-by-Step Photo Arrangement Guide for 2024</u></a></li>
+</ul></div>
 

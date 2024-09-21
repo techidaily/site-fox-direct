@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Leading 10 Apps for Sketching and Drawing on Chrome"
-date: 2024-09-11T17:27:33.248Z
-updated: 2024-09-15T17:19:42.682Z
+date: 2024-09-16T20:33:43.950Z
+updated: 2024-09-20T18:45:54.412Z
 tags: 
   - screen-recording
   - ai video
@@ -61,6 +61,19 @@ With the selection of 300 brushes, a rich selection of layer effects and a power
 
 Each brush can be easily customized in accordance with the needs of your project, as you can pick the brush style, adjust the rotation and spacing values, or change the gravity level. The Gradient Fill and Color Picker tools speed up the painting process and make it easier to switch between different colors. All images you create with Sumo Paint can either be saved on the cloud on your computer, although you can only choose between three different file formats.
 
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3. [Sketch.io](https://sketch.io/sketchpad/)
 
 **Price:** Free
@@ -70,13 +83,6 @@ Each brush can be easily customized in accordance with the needs of your project
 Sketch.io is a fun app that grants you access to a wide range of drawing tools directly from your Chromebook. You can use 18 different brushes, while the line and path tools enable you to trace your pictures and create perfectly realistic drawings.
 
 The platform also has a clipart collection that contains more than 5000 vector images you can use in your projects for free. There are more than 800 fonts to choose from, and you just need to create a textbox and type in the text you want to include the picture you’re creating. Afterward, you can pick the Blend Mode, choose the alignment or set new Letter and Word Spacing values. When done, you can save your images to your Chromebook or print them directly from the app.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4. [Infinite Painter](https://play.google.com/store/apps/details?id=com.brakefield.painter&hl=en)
 
@@ -88,6 +94,13 @@ As the app’s name suggests, the possibilities Infinite Painter offers are inde
 
 The app lets you add as many layers as you want to your creations, and it lets you choose from four different symmetry types. The Line, Ellipse, Pen, Lazy and Protractor line guides ensure that each line you draw is perfect. In addition, Infinite Painter is equipped with five perspective guides that are perfectly suited for 3D painting. What’s more the app’s Clone tool enables you to turn any photo into a painting with ease. However, you will have to make in-app purchases if you want to use all of the app’s features.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5. [ArtFlow: Paint Draw Sketchbook](https://play.google.com/store/apps/details?id=com.bytestorm.artflow&hl=en)
 
 **Price:** Free, offers in-app purchases
@@ -97,6 +110,19 @@ The app lets you add as many layers as you want to your creations, and it lets y
 You can create digital paintings from photos or scratch with the ArtFlow app effortlessly since it provides you with all the tools you’ll need during this process. You can choose from more than a hundred brushes and use the Smudge Tool or Gradient Fill to create your images. Furthermore, the maximum size of the canvas is 6144x6144, which means that each drawing or painting you make can be saved in high resolution.
 
 The maximum number of layers you can add to the canvas is limited to 50, but you should keep in mind that the canvas size can impact the number of layers you can create. The images you produce with ArtFlow can be exported as JPEG, PNG, or PSD files. Purchasing the Pro version of the app is mandatory if you want to gain access to all of its features.
+
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 6. [Gravit Designer](https://www.designer.io/en/)
 
@@ -117,13 +143,6 @@ Gravit Designer works both online and offline which enables you to work on new p
 If you are looking for a drawing app you can use from the Chrome browser to create quick sketches, Chrome Canvas may be the right choice for you. The app is equipped with just the basic drawing tools as you can only choose between Pencil, Pen, Marker, Chalk, and Eraser options.
 
 You can select the colors from the palette or use the Custom color picker that gives you access to all colors on the spectrum. In addition, the app lets you set the Size and Opacity of all drawing tools so that you can adjust them to the drawing you’re working on. However, you cannot use a stylus pen, create multiple layers, or create a digital painting from photos, which makes Chrome Canvas ill-suited for professional design tasks.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 8. [Boxy-SVG](https://boxy-svg.com/)
 
@@ -166,20 +185,13 @@ On the other hand, apps like Concepts or SketchBook are better suited for profes
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -206,19 +218,19 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-infinity-in-motion-aerospaces-longest-flying-wonders-for-2024/"><u>[New] Infinity in Motion Aerospace's Longest-Flying Wonders for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-visionmeld-digital-artistry-at-your-fingertips-for-2024/"><u>[New] VisionMeld Digital Artistry at Your Fingertips for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-transform-your-video-cover-image-with-easy-steps/"><u>[Updated] 2024 Approved Transform Your Video Cover Image with Easy Steps</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-plunge-into-metaverse-top-8-high-tech-goggles-and-helmets/"><u>[Updated] In 2024, Plunge Into Metaverse Top 8 High-Tech Goggles & Helmets</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-resolutionrefiner-x1-high-res-video-enhancer/"><u>[Updated] In 2024, ResolutionRefiner X1 - High-Res Video Enhancer</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-the-ultimate-selection-of-apps-to-tame-your-feed/"><u>[Updated] In 2024, The Ultimate Selection of Apps to Tame Your Feed</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-tips-to-get-your-video-staff-picked-on-vimeo/"><u>[Updated] Tips to Get Your Video “Staff Picked” On Vimeo</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-unlisted-headphone-devices-during-audio-playback-on-windows-10/"><u>How to Fix Unlisted Headphone Devices During Audio Playback on Windows 10</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-the-photographers-secret-to-color-inversion/"><u>In 2024, The Photographer's Secret to Color Inversion</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/optimizing-headlines-with-effective-slug-lines-for-2024/"><u>Optimizing Headlines with Effective Slug Lines for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/revitalize-your-photos-bringing-back-photo-viewer-in-win-11-for-2024/"><u>Revitalize Your Photos Bringing Back Photo Viewer in Win 11 for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/secrets-to-preventing-photo-app-problems-in-windows-11/"><u>Secrets to Preventing Photo App Problems in Windows 11</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solution-found-fixing-cyberpunk-2077s-persistent-chilling-glitches/"><u>Solution Found: Fixing Cyberpunk 2077'S Persistent Chilling Glitches</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-tecno-camon-20-pro-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Tecno Camon 20 Pro 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-onestream-integration-tips-for-seamless-livestreaming/"><u>[New] 2024 Approved OneStream Integration Tips for Seamless Livestreaming</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-detailed-review-of-the-sony-fdr-x1000-action-camera-for-2024/"><u>[New] Detailed Review of the Sony FDR-X1000 Action Camera for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-elite-alternatives-to-microsofts-official-gaming-recorder/"><u>[New] Elite Alternatives to Microsoft's Official Gaming Recorder</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-the-secret-sauce-to-swipe-right-crafting-captivating-bio-on-tinder-for-2024/"><u>[New] The Secret Sauce to Swipe Right Crafting Captivating Bio on Tinder for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-digital-dreamscapes-compared-metaverse-vs-omniverse-in-the-limelight-for-2024/"><u>[Updated] Digital Dreamscapes Compared Metaverse Vs. Omniverse in the Limelight for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-prime-15-gear-to-enhance-your-gopro-shots/"><u>[Updated] Prime 15 Gear to Enhance Your GoPro Shots</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-rhythm-and-reel-adding-music-to-ig-feeds/"><u>[Updated] Rhythm and Reel Adding Music to IG Feeds</u></a></li>
+<li><a href="https://extra-information.techidaily.com/comprehensive-report-editwave-suite-revamped/"><u>Comprehensive Report EditWave Suite Revamped</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elevating-your-tiktok-presence-by-merging-bio-and-linktree/"><u>Elevating Your TikTok Presence by Merging Bio & Linktree</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-oppo-k11xwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Oppo K11xwith/without a PC</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/how-to-skyrocket-likes-and-views-on-your-tiktok-unboxings/"><u>How to Skyrocket 'Likes' And Views on Your TikTok Unboxings</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-xiaomi-civi-3-disney-100th-anniversary-edition-frp-by-drfone-android/"><u>The Updated Method to Bypass Xiaomi Civi 3 Disney 100th Anniversary Edition FRP</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unraveling-the-mystery-addressing-uneven-volume-in-apple-airpods/"><u>Unraveling the Mystery: Addressing Uneven Volume in Apple AirPods</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Crafting Illusions  Spatial and Temporal Shifts\""
-date: 2024-07-11T20:03:03.221Z
-updated: 2024-07-12T20:03:03.221Z
+date: 2024-09-15T16:49:39.446Z
+updated: 2024-09-20T17:30:56.868Z
 tags: 
   - screen-recording
   - ai video
@@ -243,6 +243,13 @@ To get the thrilling look, you have to apply the laser effect between the two cl
 
 ![apply the laser effect](https://images.wondershare.com/filmora/article-images/2023/04/apply-the-laser-effect.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Reposition and adjust it according to the requirements if needed.
 * Extend the laser effect to the end of the scene.
 
@@ -253,6 +260,13 @@ Congratulations! You have all done with the time travel teleportation effects an
 ![final results of time travel teleportation effects](https://images.wondershare.com/filmora/article-images/2023/04/final-results-of-time-travel-teleportation-effects.gif)
 
 If you want to change the effects, then you can easily switch from the stock of the Wondershare Filmora. It gives unlimited creative and fun effects to interact with more audiences daily.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -328,6 +342,13 @@ In this round, the subject should start from the right to left and perform stepp
 
 ![note](https://images.wondershare.com/assets/images-common/icon-note.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note:** Ensure to match the **"stepping over"** of the character for better results in the transition video.
 
 ### #3 cross line between two rounds
@@ -395,6 +416,13 @@ After marking the daytime clip, drag and drop the clip of the second round (i.e.
 Find the spot where the subject steps over in the nighttime clip, and select the clip. Then mark it as marker three. This marker is shown when the character changes the transition.
 
 ![marker 3 on the nighttime clip](https://images.wondershare.com/filmora/article-images/2023/04/marker-3-on-the-nighttime-clip.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 After marking the points on the clips, then you have to align and adjust the clips!
 
@@ -464,6 +492,13 @@ To apply the chromatic effect after the power pack effect, follow the below step
 
 ![chromatic aberration effect from distortion](https://images.wondershare.com/filmora/article-images/2023/04/chromatic-aberration-effect-from-distortion.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![note](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** Change the settings of the effects as needed from the top left setting panel on filmora.
@@ -522,6 +557,18 @@ Create for you and add different effects and experiment with new features. You w
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-mastery-unleashed-top-10-no-cost-mac-painting-tools/"><u>[Updated] 2024 Approved Mastery Unleashed Top 10 No-Cost Mac Painting Tools</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-craft-impressive-clips-with-these-intros/"><u>[Updated] Craft Impressive Clips With These Intros</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-perfecting-your-srt-craft-a-compreran-guide-to-tips-and-tricks/"><u>[Updated] In 2024, Perfecting Your SRT Craft A Compreran Guide to Tips & Tricks</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-shutterbug-secrets-iphone-night-photography/"><u>[Updated] In 2024, Shutterbug Secrets IPhone Night Photography</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-unlock-full-screen-browsing-potential-in-safari-for-apple-for-2024/"><u>[Updated] Unlock Full-Screen Browsing Potential in Safari for Apple for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-integrating-tailored-thumbnails-in-your-videos/"><u>2024 Approved Integrating Tailored Thumbnails in Your Videos</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-as-a-dm-ally-strategies-for-enhancing-role-playing-with-ai-assistance/"><u>ChatGPT as a DM Ally: Strategies for Enhancing Role-Playing with AI Assistance</u></a></li>
+<li><a href="https://techidaily.com/1723808021228-common-logitech-mouse-malfunctions-on-windows-11-pcs-heres-how-to-get-them-working-again/"><u>Common Logitech Mouse Malfunctions on Windows 11 PCs? Here's How to Get Them Working Again!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/reimagining-storytelling-through-vr-screens/"><u>Reimagining Storytelling Through VR Screens</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/steps-to-enable-video-calls-via-facetime-on-your-windows-machine/"><u>Steps to Enable Video Calls via FaceTime on Your Windows Machine</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-12-prominent-xiaomi-redmi-12-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Xiaomi Redmi 12 5G Fingerprint Not Working Solutions</u></a></li>
+</ul></div>
 

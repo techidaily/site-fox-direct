@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Travel Video Setup  Must-Have Items Checklist\""
-date: 2024-07-11T20:06:15.704Z
-updated: 2024-07-12T20:06:15.704Z
+date: 2024-09-13T22:35:07.763Z
+updated: 2024-09-20T20:20:05.031Z
 tags: 
   - screen-recording
   - ai video
@@ -44,11 +44,25 @@ Sony a6400 is an APS-C mid-range compact camera that I use for vlogging and cine
 
 Lenses are the most vital part of your camera; it brings light to a fixed object. Will it make a huge impact on your cinematic shot? For your montage? For your b-roll? Yes, yes, and also yes. The use of lenses has a greater and different impact because it has a contrasting effect, especially for sharpness, depth of field, details, and background blur. It is the most important parameter depending on the situation that you might have for traveling. For example, I used Sigma 16mm, a wide lens, which is good for landscape photography or montage. Another one is Sigma 30mm, this lens is good for mid-range shot portraits and it creates a dramatic effect while capturing a person or an object.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Gimbal
 
 Nowadays, many filmmakers and famous vloggers are using gimbals. We often use these for better results in which it may form steady and stable shots compared to handheld cameras that produce shaky and unsteady video. The only question is do we need this? If you can still afford it and you want your videos to be smooth and stable, then I suggest getting one for yourself. This can be very useful when you're always moving while making videos. Gimbal can provide great support if we are struggling with our camera without in-body image stabilization (IBIS). This is a good match in my camera after all.
 
 ![vlog gimbal](https://images.wondershare.com/filmora/article-images/2022/07/vlog-gimbal.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Action Camera
 
@@ -112,6 +126,13 @@ So, all in all, those are the equipment and gears that I use for any travel vlog
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Stabilize the Video in Filmora
 
 ##### Step1NEW PROJECT
@@ -120,11 +141,25 @@ click on new project
 
 ![new project](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step2IMPORT FILES
 
 from there you can choose and select which video you would like to import
 
 ![import files](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step3DRAG AND DROP
 
@@ -172,6 +207,22 @@ So, all in all, those are the equipment and gears that I use for any travel vlog
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-top-10-tools-to-shield-photographic-work/"><u>[New] Top 10 Tools to Shield Photographic Work</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-vocalvault-recorder-reviewed/"><u>[New] VocalVault Recorder Reviewed</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-weave-soundscapes-into-premiere-pro-editing-workflows/"><u>[New] Weave Soundscapes Into Premiere Pro Editing Workflows</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-beginners-guide-going-live-with-ease-on-facebook/"><u>[Updated] In 2024, Beginner’s Guide Going Live with Ease on Facebook</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-how-to-listen-to-podcasts-on-your-iphone/"><u>[Updated] In 2024, How To Listen to Podcasts on Your iPhone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-perfect-kid-cameras-for-first-timers-and-wet-weather-filming-adventures/"><u>[Updated] In 2024, Perfect Kid Cameras for First-Timers & Wet Weather Filming Adventures</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-tips-for-perfect-iptv-stream-snapping/"><u>[Updated] Tips for Perfect IPTV Stream Snapping</u></a></li>
+<li><a href="https://fox-that.techidaily.com/defrosting-the-screen-solutions-for-unresponsive-iphones/"><u>Defrosting the Screen: Solutions for Unresponsive iPhones</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/detailed-exploration-lightroom-app-on-the-android-platform-for-2024/"><u>Detailed Exploration Lightroom App on the Android Platform for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/guide-facilite-a-utiliser-comment-installer-handbrake-avec-libdvdcss-pour-windowsmacosx-et-extraction-de-dvd/"><u>Guide Facilité À Utiliser Comment Installer Handbrake Avec Libdvdcss Pour Windows/MacOSX Et Extraction De DVD</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-fixing-setup-aborted-due-to-access-denied-when-executing-files-locally/"><u>Guide to Fixing 'Setup Aborted Due To Access Denied' When Executing Files Locally</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/money-matters-finns-financial-framework/"><u>Money Matters Finn's Financial Framework</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/ranking-top-online-tutorial-providers-excluding-udemy/"><u>Ranking Top Online Tutorial Providers Excluding Udemy</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/step-by-step-crafting-photos-into-engaging-videos-in-pixiz/"><u>Step-by-Step Crafting Photos Into Engaging Videos in Pixiz</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/superior-choice-of-8-free-uhd-software-for-pc-and-macos/"><u>Superior Choice of 8 Free UHD Software for PC & MacOS</u></a></li>
+</ul></div>
 

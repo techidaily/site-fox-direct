@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Crafting a Compelling Video Story with B-Roll Variety\""
-date: 2024-09-11T23:10:08.360Z
-updated: 2024-09-15T22:01:50.384Z
+date: 2024-09-18T17:16:50.840Z
+updated: 2024-09-20T22:13:03.689Z
 tags: 
   - screen-recording
   - ai video
@@ -58,10 +58,10 @@ Aerial B roll is the solution when you like to show your viewers where your film
 Including archival material in your video allows your audience to experience a previously covered or historically significant story as it occurred. Look at this illustration from Netflix's 14 Peaks: Nothing Is Impossible, which was made utilizing old b roll film from the era to help the viewer connect with the narrative.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Storytelling b roll footage
@@ -85,16 +85,16 @@ A pick-up is a tiny shot added to previously captured material. Re-shoots involv
 If flaws were discovered during primary photography, the directors could have requested another take. The producer and director should weigh the cost of rejoining cast and crew against the need for pick-ups or re-shoots to address storyline flaws (or worse) in the final edit.
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 7\. A roll vs b roll
@@ -102,10 +102,10 @@ If flaws were discovered during primary photography, the directors could have re
 Imagine the A roll as part of the video's story. This could be a documentary film, news show, or scripted sketch. Everything else on your editing table must be rearranged to fit it. When the speaker in the following video is directly talking to the camera or interviewer, this is A roll footage. The video's most crucial segments were filmed with primary footage.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -142,21 +142,12 @@ We sincerely hope that this post will be of use to you in making your films more
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-mastering-youtube-insights-for-channel-expansion/"><u>[New] 2024 Approved Mastering YouTube Insights for Channel Expansion</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-picture-perfect-support-portal-for-2024/"><u>[New] Picture Perfect Support Portal for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-pinnacle-of-intellect-trivia-videos-for-2024/"><u>[New] Pinnacle of Intellect Trivia Videos for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-high-definition-video-refiner-for-pcmacos/"><u>[Updated] 2024 Approved High Definition Video Refiner for PC/MacOS</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-are-instagrams-video-selfies-truly-genuine-in-2024/"><u>[Updated] Are Instagram's Video Selfies Truly Genuine, In 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-cloud-space-costs-analyzing-and-top-tier-savings-guide/"><u>[Updated] In 2024, Cloud Space Costs Analyzing & Top-Tier Savings Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-key-steps-in-manipulating-song-pace-in-spotify-app/"><u>2024 Approved Key Steps in Manipulating Song Pace in Spotify App</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/customizing-your-windows-10-experience-a-step-by-step-guide-to-changing-the-taskbar-color/"><u>Customizing Your Windows 10 Experience: A Step-by-Step Guide to Changing the Taskbar Color</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Realme 10T 5G? | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/fine-tuning-soundtracks-with-garageband-expertise-for-2024/"><u>Fine-Tuning Soundtracks with GarageBand Expertise for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-huawei-nova-y91-easily-by-drfone-android/"><u>In 2024, How To Unlock a Huawei Nova Y91 Easily?</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-propel-your-cinematic-vision-with-advanced-windows-10-video-tools/"><u>In 2024, Propel Your Cinematic Vision with Advanced Windows 10 Video Tools</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-installing-acer-aspire-device-drivers-on-your-pc/"><u>Step-by-Step Guide: Installing Acer Aspire Device Drivers on Your PC</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/synergizing-visual-elements-best-text-plugins-reviewed-for-2024/"><u>Synergizing Visual Elements Best Text Plugins Reviewed for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-apple-iphone-8-plus-by-drfone-ios/"><u>Top 11 Free Apps to Check IMEI on Apple iPhone 8 Plus</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/top-30-windows-film-editor-applications-reviewed-and-rated/"><u>Top 30 Windows Film Editor Applications Reviewed & Rated</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-master-the-digital-landscape-with-these-7-indispentic-devices/"><u>[New] 2024 Approved Master the Digital Landscape with These 7 Indispentic Devices</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-revolutionary-editing-video-tools-triumph-on-m1-power/"><u>[Updated] 2024 Approved Revolutionary Editing Video Tools Triumph on M1 Power</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-get-hooked-on-ez-grabber-a-step-by-step-downloading-guide/"><u>[Updated] Get Hooked on EZ Grabber A Step-by-Step Downloading Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-reviewing-the-gopro-hero5-session-series/"><u>[Updated] In 2024, Reviewing the GoPro Hero5 Session Series</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hdr-lighting-insight-does-it-merit-creation/"><u>2024 Approved HDR Lighting Insight Does It Merit Creation?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-complete-guide-to-oem-unlocking-on-samsung-galaxy-s24plus-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Samsung Galaxy S24+</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-to-uninstalling-bundled-software-on-ios-devices/"><u>Guide to Uninstalling Bundled Software on iOS Devices</u></a></li>
 </ul></div>
 

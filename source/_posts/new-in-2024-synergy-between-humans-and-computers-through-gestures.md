@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Synergy Between Humans & Computers Through Gestures"
-date: 2024-07-11T20:04:43.814Z
-updated: 2024-07-12T20:04:43.814Z
+date: 2024-09-18T00:45:54.593Z
+updated: 2024-09-21T00:45:08.717Z
 tags: 
   - screen-recording
   - ai video
@@ -138,6 +138,13 @@ Now, create a class for tracking and for the hands function to work, key in the 
 
 ![working with both hands](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step4 Creating Method For Tracking Hands In Input Image
 
 ![creating method for tracking hands](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-6.jpg)
@@ -149,6 +156,13 @@ Afterward, use the above code to create a method for using specifically to ident
 To create a method for finding the x and y coordinates of the z21 hand points and a list that you will use to keep the values of these, write the code below:
 
 ![locate x and y coordinate of hand point](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 In this method, use the code that you used to find the ID and hand landmark of each hand point. Moreover, put the code you will use to circle the hand point.
 
@@ -164,6 +178,13 @@ To execute the main method, copy and paste the following code lines:
 
 ![main method execution](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step8 Result
 
 The module and output of the program will be the same, and when they are complete without any errors, you will get your output, i.e., the module will track and identify your hand movements without any glitches.
@@ -171,6 +192,13 @@ The module and output of the program will be the same, and when they are complet
 ## Part 4\. Use Filmora to demonstarte your Hand Tracking skill
 
 After what has been explained above and what you have learned by now, we hope you have been equipped with hand tracking module knowledge and be ready to take action. Here, we will also sincerely recommend you a user-friendly and professional video edtior to show your hand motion scene – [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)![Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is available for all types of users. You can easily use it to edit your video, add effects to it and insert your hand motion part naturally.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Learn more about Filmora:
 
@@ -234,6 +262,13 @@ Right now, markerless Hand Tracking is still in its early stages, with a few lim
 Above we have learned what is Hand Tracking and the two types of it. Now let’s see how we can create a hand tracking with two Python Libraries - OpenCV and MediaPipe.
 
 Before we go further about them, let us learn about Python quickly. Python is a versatile language used for a wide range of tasks, including image processing and computer vision. We will use Python and two Python Libraries: OpenCV and MediaPipe, to create a Hand Tracking module.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What is OpenCV
 
@@ -360,6 +395,16 @@ We hope this guide helped resolve your queries, and you can now create a Hand Tr
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-critics-choice-best-5-web-recording-applications/"><u>[New] Critics' Choice Best 5 Web Recording Applications</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-essential-checklist-for-integrating-subtitle-track-into-mp4s/"><u>[Updated] 2024 Approved Essential Checklist for Integrating Subtitle Track Into MP4s</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-expert-tips-on-mastering-the-preview-application-on-mac-for-2024/"><u>[Updated] Expert Tips on Mastering the Preview Application on Mac for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-top-5-samsung-gear-vr-games-for-2024/"><u>[Updated] Top 5 Samsung Gear VR Games for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-practices-for-a-robust-spotify-ad-campaign-for-2024/"><u>Best Practices for a Robust Spotify Ad Campaign for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-and-solutions-resolving-half-life-alyx-graphics-issues-lags-and-stutters/"><u>Fixes & Solutions: Resolving 'Half-Life: Alyx' Graphics Issues - Lags & Stutters</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/maximize-online-engagement-through-cookiebot-seo-solutions/"><u>Maximize Online Engagement Through Cookiebot SEO Solutions</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/soaring-sights-dissecting-the-gopro-karma-drones-features-for-2024/"><u>Soaring Sights Dissecting the GoPro Karma Drone's Features for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/step-by-step-maximizing-your-longer-youtube-video-impact/"><u>Step-by-Step Maximizing Your Longer YouTube Video Impact</u></a></li>
+</ul></div>
 

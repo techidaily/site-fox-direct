@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Precision Subtitle Tweaking for the Mac Pro User"
-date: 2024-09-12T22:35:27.240Z
-updated: 2024-09-15T16:04:13.476Z
+date: 2024-09-17T16:03:40.454Z
+updated: 2024-09-20T23:03:36.715Z
 tags: 
   - screen-recording
   - ai video
@@ -119,6 +119,13 @@ Keep both the video you are adding the SRT into and the downloaded SRT file in o
 
 ![keep both video and srt file in one folder](https://images.wondershare.com/videoconverter/en/subtitles/add-subtitles-in-vlc-mac-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 Open your video file on the VLC player by double-clicking on the movie and choosing the “Open with VLC media player” option. Or, drag and drop it into the media player. Another way is to tap on the File tab in the software and press the “Open File” option.
 
 ![tap on the file tab](https://images.wondershare.com/videoconverter/en/subtitles/add-subtitles-in-vlc-mac-4.jpg)
@@ -190,16 +197,16 @@ Step4 After rechecking that you chose the right format, add your email address; 
 ![press the convert button](https://images.wondershare.com/filmora/article-images/2022/11/how-to-open-or-edit-srt-on-mac-10.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step5 On your Mac device, launch the QuickTime Pro software (upgrade the software to Pro beforehand if it is not already available).
@@ -242,6 +249,13 @@ Step4 Make customizations, like changing the text, editing the timecode, adjusti
 
 ![press ok after you are done](https://images.wondershare.com/filmora/article-images/2022/11/how-to-open-or-edit-srt-on-mac-14.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step5 Choose the edited SRT file on the editor timeline. Right-click and choose the “Export Subtitle File” option.
 
 ![choose the export subtitle file option](https://images.wondershare.com/filmora/article-images/2022/11/how-to-open-or-edit-srt-on-mac-15.jpg)
@@ -265,10 +279,10 @@ The SRT file is typically a plain text-based file with time markers, sequence nu
 However, the QuickTime player on Mac does not always support SRT in videos. You have to convert them to a format the QuickTime Player supports or utilize a third-party **SRT editor Mac** allows.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: What Programs can open SRT Files on Mac, and How to do it?
@@ -416,13 +430,6 @@ Step3 Choose the output format for the file. Choose QT available in the fourth s
 
 ![choose the output format](https://images.wondershare.com/filmora/article-images/2022/11/how-to-open-or-edit-srt-on-mac-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step4 After rechecking that you chose the right format, add your email address; you will receive the translated QT formatted file there. Press the Convert button to activate the conversion process.
 
 ![press the convert button](https://images.wondershare.com/filmora/article-images/2022/11/how-to-open-or-edit-srt-on-mac-10.jpg)
@@ -455,6 +462,13 @@ Step1 Launch Filmora on Mac and click on New Project. Add the video file and dra
 
 ![launch filmora on mac](https://images.wondershare.com/filmora/article-images/2022/11/how-to-open-or-edit-srt-on-mac-12.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 Click on the Media tab and import the SRT file.
 
 Step3 Right-click your cursor on the editor timeline > Choose the Advanced Edit option.
@@ -467,29 +481,9 @@ Step4 Make customizations, like changing the text, editing the timecode, adjusti
 
 ![press ok after you are done](https://images.wondershare.com/filmora/article-images/2022/11/how-to-open-or-edit-srt-on-mac-14.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step5 Choose the edited SRT file on the editor timeline. Right-click and choose the “Export Subtitle File” option.
 
 ![choose the export subtitle file option](https://images.wondershare.com/filmora/article-images/2022/11/how-to-open-or-edit-srt-on-mac-15.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Final Words
 
@@ -527,20 +521,20 @@ URL for VLC on Mac steps/pics: <https://videoconverter.wondershare.com/subtitle/
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-sony-a6400-screen-blackout-mystery/"><u>[New] Sony A6400 Screen Blackout Mystery</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-unveiling-lgs-monitor-magic-a-comprehensible-review-of-4k-tech/"><u>[New] Unveiling LG's Monitor Magic A Comprehensible Review of 4K Tech</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-amplify-your-videos-value-anywhere-on-multiple-devices/"><u>[Updated] 2024 Approved Amplify Your Video's Value Anywhere on Multiple Devices</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-detailed-audit-unveiling-the-dji-inspire-1/"><u>[Updated] 2024 Approved Detailed Audit Unveiling the DJI Inspire 1</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-discover-poi-delights-in-instant-from-coffee-shops-to-concert-venues/"><u>[Updated] In 2024, Discover POI Delights in Instant, From Coffee Shops to Concert Venues</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-new-horizons-in-video-codecs-comparing-av1-and-vp9-for-2024/"><u>[Updated] New Horizons in Video Codecs Comparing Av1 and VP9 for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-top-10-image-editors-and-annotation-tools-for-2024/"><u>[Updated] Top 10 Image Editors & Annotation Tools for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/achieve-cinematic-gaming-with-advanced-steam-recordings/"><u>Achieve Cinematic Gaming with Advanced Steam Recordings</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-profit-strategies-galore-top-13-income-opportunities-on-reddit/"><u>In 2024, Profit Strategies Galore Top 13 Income Opportunities on Reddit</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/maximizing-impact-on-insta-story-with-multiple-images-for-2024/"><u>Maximizing Impact on Insta Story with Multiple Images for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/pinnacle-visuals-for-the-modern-broadcaster-for-2024/"><u>Pinnacle Visuals for the Modern Broadcaster for 2024</u></a></li>
-<li><a href="https://discover-great.techidaily.com/srt-conversion-made-simple-transferring-subtitles-from-dvds-to-windows-or-mac/"><u>SRT Conversion Made Simple: Transferring Subtitles From DVDs to Windows or Mac</u></a></li>
-<li><a href="https://fox-access.techidaily.com/the-huawei-p10-examining-its-durability-and-build-quality/"><u>The Huawei P10 Examining Its Durability & Build Quality</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-ultimate-guide-to-picture-purity-erasing-images-excesses/"><u>The Ultimate Guide to Picture Purity Erasing Images' Excesses</u></a></li>
-<li><a href="https://solve-news.techidaily.com/transitioning-from-process-mining-to-advanced-process-intelligence-with-industry-insights-featuring-an-abbyy-specialist/"><u>Transitioning From Process Mining to Advanced Process Intelligence with Industry Insights - Featuring an ABBYY Specialist</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-pro-3-unboxed-a-comprehensive-review-of-ions-marvel-for-2024/"><u>[New] Pro 3 Unboxed A Comprehensive Review of ION's Marvel for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-tiny-thesis-for-film-storyline-for-2024/"><u>[New] Tiny Thesis for Film Storyline for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-vectors-unveiled-a-novices-path-through-types-and-apps/"><u>[New] Vectors Unveiled A Novice’s Path Through Types and Apps</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-top-screen-capture-contenders-a-comprehensive-review/"><u>[Updated] 2024 Approved Top Screen Capture Contenders A Comprehensive Review</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-the-playstation-experience-transform-your-voice/"><u>[Updated] In 2024, The PlayStation Experience Transform Your Voice</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-the-ultimate-film-guide-top-15-timeless-stop-motion-classics/"><u>[Updated] In 2024, The Ultimate Film Guide - Top 15 Timeless Stop Motion Classics</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-m1-edge-revolutionary-editors-uninterrupted-creativity/"><u>[Updated] M1 Edge Revolutionary Editors, Uninterrupted Creativity</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-transform-your-videos-comprehensive-guide-to-video-enhancer-22-for-2024/"><u>[Updated] Transform Your Videos Comprehensive Guide to Video Enhancer 2.2 for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/clevetura-clvx-1-wi-fi-keyboard-evaluation-featuring-tactile-response/"><u>Clevetura CLVX 1 Wi-Fi Keyboard Evaluation - Featuring Tactile Response</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-art-of-windows-11-slumber/"><u>Mastering the Art of Windows 11 Slumber</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-sony-vegas-audio-editor-how-to-edit-audio-in-vegas-pro/"><u>New Sony Vegas Audio Editor How to Edit Audio in Vegas Pro</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/premium-screen-reporter-the-ultimate-youtubers-friend-for-2024/"><u>Premium Screen Reporter The Ultimate YouTuber's Friend for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-iphone-vpn-connection-issues-discover-7-effective-solutions/"><u>Struggling with iPhone VPN Connection Issues? Discover 7 Effective Solutions!</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/tips-for-a-full-screen-facebook-video-experience/"><u>Tips for a Full-Screen Facebook Video Experience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unleash-the-full-potential-of-horizon-zero-dawn-with-optimized-frame-rates-and-stunning-visuals/"><u>Unleash the Full Potential of Horizon Zero Dawn with Optimized Frame Rates and Stunning Visuals</u></a></li>
 </ul></div>
 

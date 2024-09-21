@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Enhancing Visual Storytelling with Well-Chosen B-Roll\""
-date: 2024-09-14T18:48:01.339Z
-updated: 2024-09-15T17:11:27.482Z
+date: 2024-09-15T00:50:02.661Z
+updated: 2024-09-20T21:01:29.216Z
 tags: 
   - screen-recording
   - ai video
@@ -57,27 +57,20 @@ Aerial B roll is the solution when you like to show your viewers where your film
 
 Including archival material in your video allows your audience to experience a previously covered or historically significant story as it occurred. Look at this illustration from Netflix's 14 Peaks: Nothing Is Impossible, which was made utilizing old b roll film from the era to help the viewer connect with the narrative.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Storytelling b roll footage
 
 B roll footage can be used to tell a story that supports the narrative of your video. For example, in this video interview of Tom DeLonge, the speaker talks about living in a neighborhood. The B rolls show him driving around in his car, skateboarding on the street in the 90's. These add to the story the video creator wants to talk about not seeing people with a disability differently.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. Undirected b roll footage
 
 This particular kind of B roll film is captured without any direction being given to your character, as the name suggests. For the purposes of an interview video, for instance, these can be straightforward close-up views of your character's hands and facial expressions. On the other hand, while you're doing a documentary, you might record your subject participating in everyday activities.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5\. Atmospheric b roll footage
 
@@ -86,10 +79,10 @@ When you are sharing a narrative that has been told in the past or that has hist
 Have a look at the scenes from the episode "14 Peaks: Nothing Is Impossible" that can be found on Netflix. As a result of the use of archive film footage of b roll from the relevant time period in its production, the audience is able to connect with the narrative on a deeper level.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 6\. Pick-up shots
@@ -101,6 +94,13 @@ If flaws were discovered during primary photography, the directors could have re
 ### 7\. A roll vs b roll
 
 Imagine the A roll as part of the video's story. This could be a documentary film, news show, or scripted sketch. Everything else on your editing table must be rearranged to fit it. When the speaker in the following video is directly talking to the camera or interviewer, this is A roll footage. The video's most crucial segments were filmed with primary footage.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -136,20 +136,18 @@ We sincerely hope that this post will be of use to you in making your films more
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-loop-creator-pro/"><u>[New] 2024 Approved Loop Creator Pro</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-unveil-prodigious-profits-with-our-12-top-tycoon-gaming-selection/"><u>[New] 2024 Approved Unveil Prodigious Profits with Our #12 Top Tycoon Gaming Selection</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-social-media-self-proofing-deciphering-ig-identity/"><u>[New] In 2024, Social Media Self-Proofing Deciphering IG Identity</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-exclusive-tips-for-dominating-the-instagram-story-space/"><u>[Updated] 2024 Approved Exclusive Tips for Dominating the Instagram Story Space</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-the-search-for-prime-video-making-experts/"><u>[Updated] 2024 Approved The Search for Prime Video Making Experts</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-discover-the-depths-of-funimate-for-2024/"><u>[Updated] Discover the Depths of Funimate for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-tune-into-your-instagram-feed-music-integration-essentials-for-2024/"><u>[Updated] Tune Into Your Instagram Feed Music Integration Essentials for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-samsung-galaxy-a15-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Samsung Galaxy A15 5G without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/elite-hue-refiner-toolkit/"><u>Elite Hue Refiner Toolkit</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-huawei-nova-y91-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Huawei Nova Y91 Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-enabledisable-picture-in-picture-with-safari-on-ios-ipad/"><u>In 2024, Enable/Disable Picture-in-Picture with Safari on iOS, iPad</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-google-photos-and-your-creativity-quick-collages-made-simple/"><u>In 2024, Google Photos & Your Creativity Quick Collages Made Simple</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/professional-review-the-top-contenders-in-vertical-gaming-mice-2hemes/"><u>Professional Review: The Top Contenders in Vertical Gaming Mice - 2Hemes</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/vlc-screencasting-live-feed-webcam-integration/"><u>VLC Screencasting Live Feed – Webcam Integration</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/who-takes-the-prize-for-best-cinematic-recording-in-extreme-sports-for-2024/"><u>Who Takes the Prize for Best Cinematic Recording in Extreme Sports for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-request-for-full-media-sharing-viewability-via-messaging-platforms/"><u>[New] 2024 Approved Request for Full Media Sharing Viewability via Messaging Platforms</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-easy-guide-speed-up-videos-like-a-pro-new-user-style-for-2024/"><u>[New] Easy Guide Speed Up Videos Like a Pro, New User Style for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-maximizing-visibility-post-facebook-update/"><u>[New] In 2024, Maximizing Visibility Post-Facebook Update</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-techniques-for-chrono-synergy-effects/"><u>[New] In 2024, Techniques for Chrono-Synergy Effects</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-superior-commercial-cloud-vaulting/"><u>[New] Superior Commercial Cloud Vaulting</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-ultimate-picsart-analysis-and-tutorial/"><u>[New] Ultimate PicsArt Analysis & Tutorial</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-demystifying-facebooks-off-page-activity-review-for-2024/"><u>[Updated] Demystifying Facebook's Off-Page Activity Review for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-tailoring-soundtracks-for-impact-in-canva-videos-for-2024/"><u>[Updated] Tailoring Soundtracks for Impact in Canva Videos for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-nokia-c02-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Nokia C02 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-honor-play-40c-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Honor Play 40C?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-remedy-for-windows-network-error-0x800704b3/"><u>Mastering Remedy for Windows' Network Error 0X800704B3</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/ultimate-action-camera-selection-under-100-for-2024/"><u>Ultimate Action Camera Selection Under $100 for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/understanding-blockchain-a-guide-to-what-is-a-sidechain-in-cryptocurrency/"><u>Understanding Blockchain: A Guide to What Is a Sidechain in Cryptocurrency</u></a></li>
 </ul></div>
 

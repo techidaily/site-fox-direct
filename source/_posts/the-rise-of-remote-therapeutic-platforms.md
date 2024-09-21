@@ -1,7 +1,7 @@
 ---
 title: "The Rise of Remote Therapeutic Platforms"
-date: 2024-07-11T20:06:52.439Z
-updated: 2024-07-12T20:06:52.439Z
+date: 2024-09-15T00:26:01.529Z
+updated: 2024-09-21T00:54:28.085Z
 tags: 
   - screen-recording
   - ai video
@@ -44,11 +44,25 @@ thumbnail: https://thmb.techidaily.com/c77188d301673882c7bd2416a75ef28040661515c
 
  Usage of Robotic devices like arms however controlled by human surgeons enables them to be more accurate and reduces the amount of risk in surgeries which need more accuracy and precision, making it not only accurate but also a faster process. With accuracy and smaller incisions using robotic devices, it reduces the loss of blood and hence helps in minimising recovery time. The precise and small movement is often difficult for human surgeons, while it can be achieved with by robotic devices, and virtual reality in healthcare enables to control those movements. Training and education is required to learn the right kind of pressure required to perform such procedures. Robotic surgical procedure allows surgeons to ensure risk margins to prevent reoccurrence of the disease .Virtual fixtures for a robotic surgery has been introduces to make it more risk free. The skills required for the robotic surgery are required to perform an open or laparoscopic surgery. Proficiency is acquired by various educational and practical sessions to take those intricate decisions.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Virtual reality therapies
 
 ![vr-for-therapies](https://images.wondershare.com/filmora/article-images/vitrural-reality-for-therapies.jpg)
 
  Virtual reality in healthcare have therapies in a virtual environment which help psychiatrists to deal with patients with their fears, claustrophobia, anxiety, depression, post-traumatic stress disorder and severe pain cases by providing an environment where they can face their challenges in a controlled form and a risk free zone. They can experiment knowing that it’s a virtual and risk free environment, which can be stopped as per the situation and circumstances. Techniques like exposure therapy makes virtual reality in healthcare favourable for doctors and other health care professionals, it may also have an impact on increasing the overall treatment experience, making it very satisfactory. Studies are being conducted where virtual reality has positively impacted the quality and experience of their stay in the hospitals and rehabilitations. Virtual reality applications and software may also have a role to play in alleviate phantom limb pain, with sensors and its relations with the brain.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Virtual reality consumer and outpatient market
 
@@ -81,6 +95,19 @@ Follow @Liza Brown
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-navigating-instagrams-reel-downloads-with-ease-and-versatility/"><u>[New] 2024 Approved Navigating Instagram's Reel Downloads with Ease and Versatility</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-a-step-by-step-approach-to-masterful-screen-recordings-on-hp-systems-for-2024/"><u>[New] A Step-by-Step Approach to Masterful Screen Recordings on HP Systems for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-aim-higher-than-xsplit-top-video-editors-reviewed/"><u>[New] Aim Higher than Xsplit Top Video Editors Reviewed</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-enhancing-media-creation-skills-with-windows-movie-maker-windows-8-edition/"><u>[New] Enhancing Media Creation Skills with Windows Movie Maker (Windows 8 Edition)</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-reimagining-commerce-through-immersive-technology/"><u>[Updated] 2024 Approved Reimagining Commerce Through Immersive Technology</u></a></li>
+<li><a href="https://media-tips.techidaily.com/convert-rmvb-videos-effortlessly-to-mp4-the-new-and-improved-methods/"><u>Convert RMVB Videos Effortlessly to MP4 - The New and Improved Methods</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/guide-how-to-enable-and-view-dav-files-on-ios-devices/"><u>Guide: How to Enable and View DAV Files on iOS Devices</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-motorola-edge-40-neo-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Motorola Edge 40 Neo</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-guide-how-to-correct-windows-11s-keyboard-type-trouble-code-0x80049dd3/"><u>Quick Guide: How to Correct Windows 11'S Keyboard Type Trouble (Code: 0X80049DD3)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solve-your-dayz-frame-rate-drop-problems-in-a-jiffy-expert-guide/"><u>Solve Your DayZ Frame Rate Drop Problems in a Jiffy - Expert Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-rankings-leading-gopro-case-models/"><u>The Ultimate Rankings Leading GoPro Case Models</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-fixes-resolving-non-functioning-wacom-tablet-problems/"><u>Troubleshooting Fixes: Resolving Non-Functioning Wacom Tablet Problems</u></a></li>
+</ul></div>
 

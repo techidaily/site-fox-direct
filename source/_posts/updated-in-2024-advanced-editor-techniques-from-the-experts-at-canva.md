@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Advanced Editor Techniques From the Experts at Canva"
-date: 2024-09-12T19:44:49.498Z
-updated: 2024-09-15T20:20:11.791Z
+date: 2024-09-17T17:41:07.942Z
+updated: 2024-09-20T17:55:37.397Z
 tags: 
   - screen-recording
   - ai video
@@ -47,13 +47,6 @@ Other interesting effects include BadTV, through which you can add cinematic and
 
 ![search and apply filters](https://images.wondershare.com/filmora/article-images/2022/canva-photo-editor-tips-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Add Text to Images
 
 Do you like to post Instagram or Facebook stories with catchy captions embedded in them? Canva photo editor online gives you huge and diverse options to add text on the images with fancy styles and colors. You can add an aligned text by adjusting it to various angles such as right, left, or center. Afterward, you can select the font, color, and style of your added text through finger swipes.
@@ -63,10 +56,10 @@ You can also manage the size of your text to make it look appropriate and suitab
 ![add texts to photos](https://images.wondershare.com/filmora/article-images/2022/canva-photo-editor-tips-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Add Frames to the Image
@@ -76,6 +69,13 @@ Do you know that adding a single frame to your photo can change the whole dynami
 On the other hand, frames like film 1 and film 2 are extremely trendy, and many social media influencers apply them to their photos. You can also utilize other classic frames according to your choice to give a new look to your favorite photos. Isn’t this good?
 
 ![use different canva photo frames](https://images.wondershare.com/filmora/article-images/2022/canva-photo-editor-tips-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 5\. Create YouTube Thumbnails
 
@@ -92,20 +92,6 @@ Another amazing feature of the Canva image editor is to add numerous elements to
 Hence, explore various stickers and graphics from this platform and instantly apply them to your photos for a funky and vibrant look. Look into this!
 
 ![ add different canva elements](https://images.wondershare.com/filmora/article-images/2022/canva-photo-editor-tips-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 7\. Make Photo Collage
 
@@ -127,6 +113,26 @@ By combining both of these features, you can easily craft a professional illustr
 
 ![auto blur effect applied](https://images.wondershare.com/filmora/article-images/2022/canva-photo-editor-tips-9.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 10\. Mix the Colors
 
 What makes the photos look more captivating? It’s a simple rule to play with colors present in the graphics and stickers that you want to apply to the images. Canva photo editor gives a free hand to the users to be more creative and original while editing their photos. For instance, you can design a theme for your image by adding graphics and stickers of the same color.
@@ -136,10 +142,10 @@ Moreover, you can use filters and color palettes that match well with your theme
 ![play with picture colors canva](https://images.wondershare.com/filmora/article-images/2022/canva-photo-editor-tips-10.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -170,16 +176,15 @@ Anyone can learn photo editing skills if they are provided with accurate guideli
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-enhance-yi-4k-video-quality-with-essential-kits/"><u>[New] In 2024, Enhance YI 4K Video Quality with Essential Kits</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-essential-tactics-in-creating-convincing-testimonial-content/"><u>[Updated] 2024 Approved Essential Tactics in Creating Convincing Testimonial Content</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-nine-leading-iphone-image-watermarking-tools-analysis-for-2024/"><u>[Updated] Nine Leading iPhone Image Watermarking Tools Analysis for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-polaroid-xs-100i-action-camera-review-for-2024/"><u>[Updated] Polaroid XS 100I Action Camera Review for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-unraveling-the-mystery-behind-apples-m1-chip/"><u>[Updated] Unraveling the Mystery Behind Apple's M1 Chip</u></a></li>
-<li><a href="https://article-helps.techidaily.com/beginning-profits-periscope-income-strategies-for-novices-for-2024/"><u>Beginning Profits Periscope Income Strategies for Novices for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-comprehensive-breakdown-of-theta-s-specifications/"><u>In 2024, Comprehensive Breakdown of Theta S Specifications</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-free-video-conferencing-excellence-plus-screen-sharing-guide/"><u>In 2024, Free Video Conferencing Excellence + Screen Sharing Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-cheat-sheet-for-using-movie-maker-on-win11/"><u>In 2024, The Ultimate Cheat Sheet for Using Movie Maker on Win11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/step-by-step-winxdvd-installation-manual-a-comprehensive-tutorial/"><u>Step-by-Step WinXDVD Installation Manual: A Comprehensive Tutorial</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-no-more-crashes-in-nier-automata-gaming-experience/"><u>Troubleshooting Guide: No More Crashes in NieR: Automata Gaming Experience</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-intel-cpu-drivers-quickly-and-easily/"><u>[DOWNLOAD] Intel CPU Drivers | Quickly & Easily</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-boost-image-size-retain-resolution/"><u>[New] Boost Image Size, Retain Resolution</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-evaluating-dji-phantom-3-professional-goggles/"><u>[New] Evaluating DJI Phantom 3 Professional Goggles</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-hidden-gems-in-window-11s-interface-top-30-tips-and-tricks-unveiled/"><u>[New] In 2024, Hidden Gems in Window 11'S Interface Top 30 Tips and Tricks Unveiled</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-the-ultimate-checklist-for-recording-whatsapp-discussions/"><u>[New] The Ultimate Checklist for Recording WhatsApp Discussions</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-elevate-visual-experience-with-apple-music-inclusion/"><u>[Updated] In 2024, Elevate Visual Experience with Apple Music Inclusion</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-masterful-asmr-methods-by-leading-talents/"><u>[Updated] In 2024, Masterful ASMR Methods by Leading Talents</u></a></li>
+<li><a href="https://fox-access.techidaily.com/dynamic-voice-training-in-free-fire-games-for-2024/"><u>Dynamic Voice Training in Free Fire Games for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-analysis-the-full-spectrum-of-bublcam-360-for-2024/"><u>Expert Analysis The Full Spectrum of Bublcam 360 for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/three-unbeatable-excel-functions-that-outperform-chatgpts-limitations/"><u>Three Unbeatable Excel Functions That Outperform ChatGPT's Limitations</u></a></li>
 </ul></div>
 

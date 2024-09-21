@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Expert Tips on Mastering the Preview Application on Mac for 2024"
-date: 2024-09-09T19:01:46.667Z
-updated: 2024-09-15T19:22:31.371Z
+date: 2024-09-19T22:54:57.604Z
+updated: 2024-09-20T20:56:49.372Z
 tags: 
   - screen-recording
   - ai video
@@ -69,13 +69,6 @@ Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup 
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Crop in Preview
 
 In order to crop a photo in the **Preview app**:
@@ -92,13 +85,6 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Rotate Image in Preview
 
 Rotating an image in the **Preview app** is fairly simple. To do so:
@@ -110,6 +96,13 @@ Use the method explained above to open the photo in Preview.
 **Step 2: Rotate the Image**
 
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Add Text to Image in Preview
 
@@ -171,6 +164,13 @@ After opening an image, click **File** from the menu bar at the top, and click *
 
 Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Part 2: FAQs About Preview App on Mac
 
 #### What is the Preview App?
@@ -206,10 +206,10 @@ Choose a destination folder in the **Where** field, select your preferred format
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -237,18 +237,12 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-unleash-the-power-of-windows-11-with-auto-hdr-feature-activation/"><u>[New] In 2024, Unleash the Power of Windows 11 with Auto HDR Feature Activation</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-revealed-top-windows-11-gems-that-could-boost-your-user-performance/"><u>[Updated] 2024 Approved Revealed Top Windows 11 Gems That Could Boost Your User Performance</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-excellence-in-hd-conversion-elevate-your-views-for-2024/"><u>[Updated] Excellence in HD Conversion Elevate Your Views for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-top-storytelling-schools-1-8-rankings-and-insights/"><u>[Updated] In 2024, Top Storytelling Schools #1-#8 Rankings & Insights</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-top-tier-image-manipulations-for-2024/"><u>[Updated] Top-Tier Image Manipulations for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/28-exemplary-metaverse-experiences-for-in-depth-understanding-for-2024/"><u>28 Exemplary Metaverse Experiences for In-Depth Understanding for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/breaking-down-error-code-x80131500-at-store/"><u>Breaking Down Error Code: X80131500 at Store</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On OnePlus Ace 2V | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-oppo-reno-10-proplus-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Oppo Reno 10 Pro+ 5G Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-motorola-moto-e13-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Motorola Moto E13 to iOS not Working Problems | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/mastering-the-game-with-ibuypower-the-ultimate-gamers-custom-build-reviewed/"><u>Mastering the Game with IBuypower - The Ultimate Gamer's Custom Build Reviewed</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/syncing-audiovideo-online-collective/"><u>Syncing Audio/Video Online Collective</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-oppo-reno-9a-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Oppo Reno 9A FRP Bypass</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-groundbreaking-tools-for-analyzing-computer-sounds-and-mics/"><u>[Updated] Groundbreaking Tools for Analyzing Computer Sounds & Mics</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-elevate-edits-with-pixlr-ultimate-tips-list/"><u>[Updated] In 2024, Elevate Edits with Pixlr Ultimate Tips List</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-social-media-marketing-get-more-viewers-with-youtube/"><u>[Updated] Social Media Marketing Get More Viewers with YouTube</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-on-your-iphone-13-mini-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code On your iPhone 13 mini</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/clear-the-chaos-edit-and-cull-your-bulky-tiktok-collections-for-2024/"><u>Clear the Chaos Edit & Cull Your Bulky TikTok Collections for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/comprehensive-guide-to-the-top-10-cost-free-picture-archives/"><u>Comprehensive Guide to the Top 10 Cost-Free Picture Archives</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Realme V30? | Dr.fone</u></a></li>
 </ul></div>
 
