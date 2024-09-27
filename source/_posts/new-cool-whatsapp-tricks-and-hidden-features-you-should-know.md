@@ -1,7 +1,7 @@
 ---
 title: "[New] Cool Whatsapp Tricks and Hidden Features You Should Know"
-date: 2024-09-17T23:15:23.077Z
-updated: 2024-09-20T22:14:54.722Z
+date: 2024-09-25T23:44:30.738Z
+updated: 2024-09-26T18:41:18.028Z
 tags: 
   - screen-recording
   - ai video
@@ -103,6 +103,19 @@ While typing a WhatsApp message if you need to cross-check certain areas with so
 
 ![Whatsapp Typing Trick](https://images.wondershare.com/filmora/article-images/whatsapp-typing-trick.png)
 
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What are the Hidden Features of WhatsApp?
 
 Since most of the above-mentioned are owing to the tricks and trades of texting via WhatsApp, let us now jot down a WhatsApp hidden feature list that applies for general usability of the wonder-app. There are useful privacy settings and chat features that can make your user experience a lot more peaceful.
@@ -116,6 +129,13 @@ Never be caught up creating a group for a one-time cause and see it becoming som
 There are many ways how you can save mobile data consumed by WhatsApp. First, you can reduce the data consumption while on call, secondly, control the downloading of media when mobile data is running. You will find both the customization options under Data and Storage in your WhatsApp settings.
 
 ![Whatsapp Save More Data](https://images.wondershare.com/filmora/article-images/whatsapp-save-more-data.png)
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Source: androidauthority.com
 
@@ -151,6 +171,13 @@ If it is annoying to open a loved one’s story and then automatically sliding i
 
 ![Mute Whatsapp Stories](https://images.wondershare.com/filmora/article-images/mute-whatsapp-stories.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### 9.Reply Privately to Recipients in a WhatsApp Group
 
 This is as simple as it sounds. Tap and hold to select a message in a group and then open the 3-dot button at the top right to access the feature.
@@ -182,10 +209,10 @@ For this WhatsApp Video Editing Trick, you would need to have a third-party scre
 You can create an instant GIF out of the video file within WhatsApp. Do this, let the video download, and then freshly share it from Attach >> Gallery >> Videos. Before sending, the video editing panel would open, there, you can see the GIF option at the top right. It will shorten your video to 6 seconds, adjust the cursor to the portion you wish to use.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -195,13 +222,6 @@ When it comes to WhatsApp Tricks and Trades, you always have to look forward to 
 **You may also like:**[Best Bio for Whatsapp](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -226,5 +246,22 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-bring-your-photos-to-life-adding-radial-focus-effects-ps/"><u>[New] 2024 Approved Bring Your Photos to Life Adding Radial Focus Effects PS</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-frugal-flight-assemblies-budget-friendly-drones-ranking/"><u>[New] 2024 Approved Frugal Flight Assemblies Budget-Friendly Drones Ranking</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-instagrams-edge-the-best-practices-for-video-creation/"><u>[New] In 2024, Instagram's Edge The Best Practices for Video Creation</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-versatile-biz-decks-free-template-and-resource-options/"><u>[New] In 2024, Versatile Biz Decks FREE Template and Resource Options</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-solved-dead-obs-camera-for-2024/"><u>[New] Solved Dead OBS Camera for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-dynamic-color-grading-using-ae-luts/"><u>[Updated] In 2024, Dynamic Color Grading Using AE LUTs</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-innovative-10-ideas-thatll-boost-your-brand-on-igtv/"><u>[Updated] In 2024, Innovative 10 Ideas That'll Boost Your Brand on IGTV</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-mechanized-sky-dwellers-classes/"><u>[Updated] In 2024, Mechanized Sky-Dwellers' Classes</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-screen-recorder-apps-for-iphoneipad-users-for-2024/"><u>[Updated] Screen Recorder Apps for iPhone/iPad Users for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/conquering-image-search-a-pathway-to-stunning-pexels-visuals/"><u>Conquering Image Search A Pathway to Stunning Pexels Visuals</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-deep-dive-ultimate-ice-cream-viewer-analysis/"><u>In 2024, Deep Dive Ultimate Ice Cream Viewer Analysis</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-essential-video-communication-tools-list/"><u>In 2024, Essential Video Communication Tools List</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-pixel-pizzazz-top-10-screenshot-sticker-enhancers-for-iphonesandroids/"><u>In 2024, Pixel Pizzazz Top 10 Screenshot Sticker Enhancers for iPhones/Androids</u></a></li>
+<li><a href="https://techidaily.com/solution-found-thaw-your-stalled-windows-update-now/"><u>Solution Found: Thaw Your Stalled Windows Update Now</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/voice-driven-technology-evolution-best-speech-recognition-software-for-mac-for-2024/"><u>Voice-Driven Technology Evolution Best Speech Recognition Software for Mac for 2024</u></a></li>
+</ul></div>
 

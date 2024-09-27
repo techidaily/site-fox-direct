@@ -1,7 +1,7 @@
 ---
 title: "[New] Detailed Guide to Advanced Usage in Mac's Preview App for 2024"
-date: 2024-09-14T23:18:14.754Z
-updated: 2024-09-20T21:32:12.309Z
+date: 2024-09-23T19:12:07.787Z
+updated: 2024-09-27T02:11:19.506Z
 tags: 
   - screen-recording
   - ai video
@@ -41,6 +41,13 @@ Being the default image editor for Mac, Apple tried to make the **Preview app** 
 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to View and Edit Photos in Preview on Mac
 
 As mentioned earlier, the **Preview app** is a default photo viewer on Mac that also has many editing tools. Therefore:
@@ -54,6 +61,13 @@ As mentioned earlier, the **Preview app** is a default photo viewer on Mac that 
 
 * Use the tools present on the standard toolbar at the top of the interface
 * Alternatively, click **Tools** from the top, and choose your preferred editing option from the menu
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Show Markup Tools in Preview on Mac
 
@@ -85,13 +99,6 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Rotate Image in Preview
 
 Rotating an image in the **Preview app** is fairly simple. To do so:
@@ -120,13 +127,6 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Remove Background in Preview
 
 As it is with some of the advanced image manipulation programs, even the **Preview app** allows you to remove background from a photo, and that too pretty easily. To get this done:
@@ -142,6 +142,19 @@ Once the background portion of the image gets selected (colored in red), without
 **Note:** Removing background requires the image to be in PNG format. If the photo you are working on is JPG, Preview prompts with a confirmation box asking your permission to convert the photo from JPG to PNG. You must allow this conversion in order to proceed with the background removal process.
 
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
+
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Combine Images into One
 
@@ -160,10 +173,10 @@ Ensure that Preview opens with both the images listed in the sidebar in the left
 After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Save Images in Different Formats
@@ -235,5 +248,24 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-converting-iphone-photos-jpg-png-into-pdf-documents/"><u>[New] 2024 Approved Converting iPhone Photos (JPG, PNG) Into PDF Documents</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-starks-serenade-where-to-find-your-game-of-thrones-ringtones/"><u>[New] 2024 Approved Stark's Serenade Where to Find Your Game of Thrones Ringtones</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-streamline-editing-how-to-load-music-in-inshot/"><u>[New] 2024 Approved Streamline Editing How to Load Music in InShot</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-crafting-a-superior-fpv-drone-setup-choosing-right-propellers-for-2024/"><u>[New] Crafting a Superior FPV Drone Setup Choosing Right Propellers for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-framing-the-world-from-a-phone-angle/"><u>[New] In 2024, Framing the World From a Phone Angle</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-drone-motors-choose-the-5-best-motors-for-your-quadcopter-for-2024/"><u>[Updated] Drone Motors Choose the 5 Best Motors for Your Quadcopter for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-optimizing-zoom-video-fidelity-comprehensible-guides/"><u>[Updated] Optimizing Zoom Video Fidelity Comprehensible Guides</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-quintessential-queries-a-highlight-of-reddits-best-threads-for-2024/"><u>[Updated] The Quintessential Queries A Highlight of Reddit's Best Threads for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-ultimate-guide-10-superior-image-replacement-for-videos-for-2024/"><u>[Updated] The Ultimate Guide 10 Superior Image Replacement for Videos for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-ultimate-canon-editing-kit-freepay-for-luts-included-for-2024/"><u>[Updated] Ultimate Canon Editing Kit - Free/Pay for LUTs Included for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-love-the-cut-filmoras-top-10-edits-unveiled/"><u>2024 Approved Love the Cut Filmora's Top 10 Edits Unveiled</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-step-by-step-strategies-downloading-audio-on-iphones/"><u>2024 Approved Step-by-Step Strategies Downloading Audio on iPhones</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-remove-built-in-apps-on-an-iphone-a-step-by-step-guide/"><u>How to Remove Built-In Apps on an iPhone: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/premier-live-tv-service-showdown-a-comparative-look-for-2024/"><u>Premier Live TV Service Showdown A Comparative Look for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/reimagining-home-entertainment-with-lgs-bp550-update-for-2024/"><u>Reimagining Home Entertainment with LG's BP550 Update for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/1723075140713-the-elder-scrolls-v-unveiling-skyrim-for-nintendo-switch-a-must-play-adventure/"><u>The Elder Scrolls V: Unveiling Skyrim for Nintendo Switch – A Must-Play Adventure</u></a></li>
+</ul></div>
 
