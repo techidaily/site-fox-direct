@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Mastering Audacity  Pro Audio Capture Guide\""
-date: 2024-09-21T02:17:14.603Z
-updated: 2024-09-27T02:26:16.691Z
+date: 2024-09-30T16:49:13.183Z
+updated: 2024-10-02T01:49:40.815Z
 tags: 
   - screen-recording
   - ai video
@@ -42,10 +42,10 @@ Step3To choose the kind of track you want, click "Tracks" at the top of the page
 Step4To begin the recording, simply click the "Record" button. As soon as you press record, an audio graph of your voice should start to display. Using the "Shift + R" hotkeys on your keyboard, you can add a new recording if you'd like to.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Recording using Mac
@@ -61,10 +61,10 @@ Step3In the "Device" section of the Audacity preferences box, choose "Soundflowe
 Step4Launch audacity, then open the app whose audio you wish to record. To begin the recording, click the "Record" button.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Export your audio
@@ -115,16 +115,24 @@ Simply select the necessary file format from the drop-down box that appears next
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-top-11-innovative-sites-for-crafting-impactful-fb-cover-photos/"><u>[New] Top 11 Innovative Sites for Crafting Impactful FB Cover Photos</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-a-deep-dive-into-ideal-instagram-post-times/"><u>[Updated] A Deep Dive Into Ideal Instagram Post Times</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-the-essential-e-steps-your-pathway-from-preparation-to-production-in-a-reviews-channel/"><u>2024 Approved The Essential E-Steps Your Pathway From Preparation to Production in a Reviews Channel</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-the-ultimate-ipad-slow-motion-techniques-for-filming-and-video-modification/"><u>2024 Approved The Ultimate iPad Slow Motion Techniques for Filming and Video Modification</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-unlock-advanced-splitting-with-non-xsplit-apps/"><u>2024 Approved Unlock Advanced Splitting with Non-Xsplit Apps</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/a-comprehensive-approach-to-video-assisted-instruction-for-2024/"><u>A Comprehensive Approach to Video-Assisted Instruction for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/applying-luts-for-cinematic-color-grades-for-2024/"><u>Applying Luts for Cinematic Color Grades for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-on-iphone-15-pro-max-by-drfone-ios/"><u>How to Fix Locked Apple ID on iPhone 15 Pro Max</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-evaluating-inshots-capabilities-against-market-leaders/"><u>In 2024, Evaluating InShot's Capabilities Against Market Leaders</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-freshwater-frontiers-prime-camers-for-fishing-enthusiasts/"><u>In 2024, Freshwater Frontiers Prime Camers for Fishing Enthusiasts</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-innovating-informative-intros/"><u>In 2024, Innovating Informative Intros</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-techniques-for-interpreting-video-reactions-on-youtube/"><u>[New] 2024 Approved Techniques for Interpreting Video Reactions on YouTube</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-leading-e-learning-titling-toolkit/"><u>[New] In 2024, Leading E-Learning Titling Toolkit</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-leading-setups-in-professional-broadcast-equipment/"><u>[New] Leading Setups in Professional Broadcast Equipment</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-microsofts-hololens-journey-from-vision-to-reality-for-2024/"><u>[New] Microsoft’s HoloLens Journey – From Vision to Reality for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-automating-subtitles-for-social-media-visuals-on-instagram-for-2024/"><u>[Updated] Automating Subtitles for Social Media Visuals on Instagram for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-capturecraft-hd-top-10-freepaid-filters-list/"><u>[Updated] CaptureCraft HD Top 10 Free/Paid Filters List</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-explore-the-10-fastest-expanding-yt-hubs-for-wisdom/"><u>[Updated] In 2024, Explore the 10 Fastest-Expanding YT Hubs for Wisdom</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-pushing-boundaries-advanced-iphone-silhouette-techniques-for-2024/"><u>[Updated] Pushing Boundaries Advanced iPhone Silhouette Techniques for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-snap-edit-and-assemble-a-rapid-google-collage-how-to/"><u>[Updated] Snap, Edit & Assemble A Rapid Google Collage How-To</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-ultimate-fps-enhancement-choosing-the-best-extensions/"><u>[Updated] Ultimate FPS Enhancement Choosing the Best Extensions</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/ace-your-content-strategies-to-skyrocket-video-popularity/"><u>Ace Your Content Strategies to Skyrocket Video Popularity</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/beginners-aerial-adventure-top-10-best-kids-drones-for-2024/"><u>Beginner's Aerial Adventure Top 10 Best Kids' Drones for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/bringing-videos-to-life-in-vr-expert-conversion-techniques/"><u>Bringing Videos to Life in VR Expert Conversion Techniques</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-a05withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy A05with/without a PC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-the-risks-applying-chatgpt-securely-for-psychological-support-roles/"><u>Navigating the Risks: Applying ChatGPT Securely for Psychological Support Roles</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/peeling-back-sharex-critical-analysis-and-alternatives/"><u>Peeling Back ShareX Critical Analysis & Alternatives</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/prime-focus-best-photo-viewing-win11-app/"><u>Prime Focus Best Photo Viewing Win11 App</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/unveiling-the-secrets-to-flawless-gopro-4k-edits/"><u>Unveiling the Secrets to Flawless GoPro 4K Edits</u></a></li>
+<li><a href="https://win-forum.techidaily.com/windows-11-full-disk-issue-solutions-optimize-and-free-space-efficiently/"><u>Windows 11 Full Disk Issue Solutions: Optimize and Free Space Efficiently</u></a></li>
 </ul></div>
 

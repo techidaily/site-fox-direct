@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Devising Epoch Shifting Spectacles for 2024"
-date: 2024-09-25T21:50:37.289Z
-updated: 2024-09-26T18:42:07.634Z
+date: 2024-09-30T17:22:34.417Z
+updated: 2024-10-01T17:04:17.638Z
 tags: 
   - screen-recording
   - ai video
@@ -36,22 +36,15 @@ However, in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2\. Filming Prerequisites for Time Travelling Effects
 
 To create shots, we have to do two processing rounds. In the first round, we will film a shot for daytime activity. While in the next round, we will shoot a video for nighttime activity. Get straight into the filming mode and create according to your script.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### #1 daylight lighting setup
 
@@ -101,6 +94,13 @@ To film a night mode, you need a warmer light, which is used to make shots for t
 
 ![night time warmer light](https://images.wondershare.com/filmora/article-images/2023/04/night-time-warmer-light.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 You don't need to worry if you don't have enough budget to get this setup. Because plastic binders will make your way easy, and you can create your own at home, as told earlier.
 
 **Character performance**
@@ -125,13 +125,26 @@ You can also create a marking by using anything in yours. We are using the midli
 
 ![marking for the cross line of transitions](https://images.wondershare.com/filmora/article-images/2023/04/marking-for-the-cross-line-of-transitions.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![note](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:** Ensure to match the **"stepping over"** of the character for better results in the transition video.
@@ -180,13 +193,6 @@ After marking the daytime clip, drag and drop the clip of the second round (i.e.
 
 ![nighttime clip in the second video track](https://images.wondershare.com/filmora/article-images/2023/04/nighttime-clip-in-the-second-video-track.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step5Mark the nightime clip
 
 Find the spot where the subject steps over in the nighttime clip, and select the clip. Then mark it as marker three. This marker is shown when the character changes the transition.
@@ -220,13 +226,6 @@ Next, you have to apply the **"Shape Mask"** for smooth movements of the charact
 * Then download this effect and apply it to the nighttime clip.
 
 ![shape mask from the utility section](https://images.wondershare.com/filmora/article-images/2023/04/shape-mask-from-the-utility-section.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * After that, double-click on the nighttime clips, which will show the settings section of the clip.
 * Go to the Video Effects section and change the shape mask settings.
@@ -286,13 +285,6 @@ To get the thrilling look, you have to apply the laser effect between the two cl
 * Reposition and adjust it according to the requirements if needed.
 * Extend the laser effect to the end of the scene.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Final Results
 
 Congratulations! You have all done with the time travel teleportation effects and get a bombing video. Check out the results below!
@@ -313,6 +305,13 @@ Create for you and add different effects and experiment with new features. You w
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2\. Filming Prerequisites for Time Travelling Effects
 
 To create shots, we have to do two processing rounds. In the first round, we will film a shot for daytime activity. While in the next round, we will shoot a video for nighttime activity. Get straight into the filming mode and create according to your script.
@@ -326,6 +325,13 @@ Catch us at the below tips to make your video shots more skilled! First, you nee
 You can also use a light that is 5,600 kelvins, which indicates blue light. We can easily change the light from its remote, as shown below.
 
 ![blue light lighting setup](https://images.wondershare.com/filmora/article-images/2023/04/blue-light-lighting-setup.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If you don't have an asset to get the lighting set up, then don't worry; we have another option.
 
@@ -365,13 +371,6 @@ To film a night mode, you need a warmer light, which is used to make shots for t
 
 ![night time warmer light](https://images.wondershare.com/filmora/article-images/2023/04/night-time-warmer-light.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 You don't need to worry if you don't have enough budget to get this setup. Because plastic binders will make your way easy, and you can create your own at home, as told earlier.
 
 **Character performance**
@@ -403,6 +402,13 @@ You can also create a marking by using anything in yours. We are using the midli
 ![cross line between two rounds](https://images.wondershare.com/filmora/article-images/2023/04/cross-line-between-two-rounds.jpg)
 
 After shooting all the clips, it's time to edit them on Filmora. To do this, check out the step to step guide below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3\. Edit Teleportation Effects in Filmora
 
@@ -437,6 +443,13 @@ The marking of the clips will give better trimming points. For this, mark the ex
 * Select the clip, and mark it as marker two by pressing on the letter **'M.'**
 
 ![marker 2 on the daytime clip](https://images.wondershare.com/filmora/article-images/2023/04/marker-2-on-the-daytime-clip.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step4Drag the nighttime clip
 
@@ -487,13 +500,6 @@ Next, you have to apply the **"Shape Mask"** for smooth movements of the charact
 Play the video again and check out the smoothness of the actions. As we have already marked the points, that's why the actions match with each other and give an equivalent look!
 
 ![note](https://images.wondershare.com/assets/images-common/icon-note.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note:** If your video actions are not aligning with each other, then adjust again according to the requirements.
 
@@ -585,19 +591,19 @@ Create for you and add different effects and experiment with new features. You w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-navigating-new-horizons-a-tech-upgrade-blueprint/"><u>[New] In 2024, Navigating New Horizons A Tech Upgrade Blueprint</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-step-by-step-method-to-share-subtitle-text-online-for-2024/"><u>[New] Step-by-Step Method to Share Subtitle Text Online for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-10-best-inspirational-movies-that-will-bring-you-hope-and-power/"><u>[Updated] 10 Best Inspirational Movies That Will Bring You Hope and Power</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-identifying-ideal-pace-for-premium-slow-motion-cinematography/"><u>[Updated] Identifying Ideal Pace for Premium Slow Motion Cinematography</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-decoding-wirecast-other-broadcasting-software/"><u>[Updated] In 2024, Decoding WireCast Other Broadcasting Software</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-navigating-through-windows-11s-new-frontier/"><u>[Updated] In 2024, Navigating Through Windows 11'S New Frontier</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-mastering-images-in-your-instagram-profile-for-2024/"><u>[Updated] Mastering Images in Your Instagram Profile for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-hitpaw-screen-recorder-review/"><u>2024 Approved HitPaw Screen Recorder Review</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/decoding-the-essence-of-asmr-videos-for-2024/"><u>Decoding the Essence of ASMR Videos for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-secrets-behind-how-ai-black-boxes-work-and-why-they-matter/"><u>Exploring the Secrets Behind How AI Black Boxes Work and Why They Matter</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-bad-image-issue-in-windows-11-and-10-a-step-by-step-guide/"><u>Resolving the 'Bad Image' Issue in Windows 11 & 10: A Step-by-Step Guide</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/the-best-8-iphone-text-message-recovery-tools-a-comprehensive-guide/"><u>The Best 8 iPhone Text Message Recovery Tools: A Comprehensive Guide</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-messages-from-motorola-edge-40-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Motorola Edge 40</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-lava-agni-2-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Lava Agni 2 5G Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-crafting-illusions-spatial-and-temporal-shifts/"><u>[New] Crafting Illusions Spatial and Temporal Shifts</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-navigating-media-landsranking-with-magix-video-pro-x/"><u>[Updated] 2024 Approved Navigating Media Landsranking with Magix Video Pro X</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-cutting-edge-techniques-for-gopro-users/"><u>[Updated] Cutting-Edge Techniques for GoPro Users</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-discovering-collective-chat-content-in-messenger-for-2024/"><u>[Updated] Discovering Collective Chat Content in Messenger for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-exploring-digital-dimensions-understanding-metaverse-vs-multiverse/"><u>[Updated] Exploring Digital Dimensions Understanding Metaverse V/S Multiverse</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-elevate-views-prime-seo-equipment-for-videos/"><u>[Updated] In 2024, Elevate Views Prime SEO Equipment for Videos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-beat-coffee-stain-effects-with-ioss-complimentary-red-eye-fix-app/"><u>2024 Approved Beat Coffee Stain Effects with iOS's Complimentary Red-Eye Fix App</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-funnyface-creator/"><u>2024 Approved FunnyFace Creator</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-unlocking-the-potential-of-videoleaps-zoom-functionality/"><u>2024 Approved Unlocking the Potential of VideoLeap's Zoom Functionality</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/choosing-arc-over-safari-top-3-benefits-for-my-macos-experience/"><u>Choosing Arc over Safari: Top 3 Benefits for My macOS Experience</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-y27-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo Y27 5G to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/master-your-pc-knowledge-with-toms-hardware-experts/"><u>Master Your PC Knowledge with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-guide-fixing-intel-hd-graphics-630-problems-on-your-windows-pc/"><u>Troubleshooting Guide: Fixing Intel HD Graphics 630 Problems on Your Windows PC</u></a></li>
 </ul></div>
 

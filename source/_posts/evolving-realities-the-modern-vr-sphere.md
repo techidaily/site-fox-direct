@@ -1,7 +1,7 @@
 ---
 title: "\"Evolving Realities  The Modern VR Sphere\""
-date: 2024-09-18T17:19:18.472Z
-updated: 2024-09-20T17:23:38.986Z
+date: 2024-09-29T08:13:25.505Z
+updated: 2024-10-02T04:16:10.050Z
 tags: 
   - screen-recording
   - ai video
@@ -40,11 +40,25 @@ thumbnail: https://thmb.techidaily.com/45a1460bb3d83c14f6fab217fbb0ba6456c10cd4a
 ![google-cardbaorad-1]( https://images.wondershare.com/filmora/resource/google-cardbaorad-1.jpg
  )
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The VR gaming development is truly rising then
 
  Is it really the right time to make comment like virtual reality is really uprising as a gaming platform? If you take the year of year survey report, yes the result shows a significant uptick for the interest of this platform. If we look back at the last year’s survey, it revealed that only 33.4 percent of the developers were interested to develop games for VR platforms. If you consider in terms of interest, VR was placed behind the PC/Mac, PlayStation 4, smartphones or tablets. But, considering this year’s data, we can see more advancement in the interest for the VR platform! More and more European developers are now getting interested to develop games for VR platforms that the smartphones or tablets.
 
 ![vr-gaming ](https://images.wondershare.com/filmora/resource/vr-gaming1.jpg )
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This clears the air that VR is turning to be an emerging platform for the European game developers but, which one is preferred more by the professional game developers – is it the Oculus Rift or HTC Vive or something else for that matter? The survey also includes a detailed report on that as well. Asking about which VR platform they are using – 23.1 percent developers said they are using Rift, Vive is slightly behind with 22 percent developers’ preferences. There is PlayStation VR headset as well with 11.8 percent preferences.
 
@@ -56,11 +70,25 @@ thumbnail: https://thmb.techidaily.com/45a1460bb3d83c14f6fab217fbb0ba6456c10cd4a
 
 ![ vr-developer](https://images.wondershare.com/filmora/resource/vr-developer.jpg )
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  We know that crowdsourced funding is also a preferable way to manage funds but, this seems not very convenient for the VR game developers since a very poor percentage (5.2) of the developers replied that they are working on games the fund of which is crowdsourced. While some developers consider this as an awful idea, some mentioned this to be a tricky process.
 
  Overall, this is what cooking inside the VR gaming world and this survey report explains the different aspects of virtual reality that clearly presents the state of the VR industry on this year – 2016\. Hopefully, we will come across much more advancement to this process in the coming years since gaming on VR headsets is massively exciting and fun.
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -85,12 +113,23 @@ Follow @Liza Brown
      data-full-width-responsive="true"></ins>
 
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-step-by-step-techniques-for-crafting-breathtakingly-long-lasting-time-movies-using-photo-apps-and-online-services/"><u>[New] 2024 Approved Step by Step Techniques for Crafting Breathtakingly Long Lasting Time Movies Using Photo Apps & Online Services</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-chinas-low-cost-vr-solutions-for-2024/"><u>[New] China's Low-Cost VR Solutions for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-complete-preview-control-essentials-for-mac-users/"><u>[New] Complete Preview Control Essentials for Mac Users</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-say-goodbye-to-excess-master-the-art-of-editing-tiktok-drafters-for-2024/"><u>[New] Say Goodbye to Excess Master the Art of Editing TikTok Drafters for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-fancy-filter-fest-snapping-with-snapchats-colorful-cartoons/"><u>[New] The Fancy Filter Fest Snapping with Snapchat's Colorful Cartoons</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-the-ultimate-guide-to-launching-hit-online-streams/"><u>[New] The Ultimate Guide to Launching Hit Online Streams</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/outube-video-ranking-what-factors-affect-your-rank-for-2024/"><u>[New] YouTube Video Ranking - What Factors Affect Your Rank for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-transform-everyday-alerts-into-signature-sounds-with-android-tips/"><u>[Updated] 2024 Approved Transform Everyday Alerts Into Signature Sounds with Android Tips</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-five-premier-extensions-to-hoard-fb-videos-for-2024/"><u>[Updated] Five Premier Extensions to Hoard FB Videos for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-expert-level-quick-fixes-the-ultimate-5-diy-filmmaking-tricks/"><u>[Updated] In 2024, Expert-Level Quick Fixes The Ultimate 5 DIY Filmmaking Tricks</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-on-iphone-6-plus-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled On iPhone 6 Plus? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-techniques-for-optimizing-meta-quest-microphone-performance/"><u>Effective Techniques for Optimizing Meta Quest Microphone Performance</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/from-everyday-use-to-extraordinary-virtual-adventures-smartphone-vr-conversion-guide/"><u>From Everyday Use to Extraordinary Virtual Adventures Smartphone-VR Conversion Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-essential-techniques-in-producing-persuasive-video-testimonials/"><u>In 2024, Essential Techniques in Producing Persuasive Video Testimonials</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/iphones-secrets-for-stunning-time-lapse-videos-for-2024/"><u>IPhone's Secrets for Stunning Time-Lapse Videos for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/riconverti-video-in-formato-mp4-senza-costi-il-modo-facile-di-cambiare-ts-con-movavi/"><u>Riconverti Video in Formato MP4 Senza Costi: Il Modo Facile Di Cambiare TS Con Movavi</u></a></li>
+</ul></div>
 

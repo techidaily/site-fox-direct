@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Capturing Panoramic Views  Fisheye Techniques\""
-date: 2024-09-19T23:34:55.543Z
-updated: 2024-09-26T16:16:39.205Z
+date: 2024-09-29T17:42:58.633Z
+updated: 2024-10-01T20:25:21.833Z
 tags: 
   - screen-recording
   - ai video
@@ -35,18 +35,18 @@ thumbnail: https://thmb.techidaily.com/33f7a6674447c8f7173ff1c687707de6ab2b192d4
 
  The process of shooting panoramas with fisheye lenses involves a number of considerations and they are as follows-:
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1. The equipment and setup
 
  To shoot quality 360 degrees panoramas with fisheye, it is imperative to get the equipment as well as the set up right. Your equipment needs to be calibrated properly to make the stitching process nice and easy. To find the best setting for your equipment, the grid method is recommended on the panohead.
 
 ![Panohead for Fisheye lens](https://images.wondershare.com/filmora/article-images/panohead-for-fishlens.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2. Leveling and rotating
 
@@ -66,6 +66,13 @@ thumbnail: https://thmb.techidaily.com/33f7a6674447c8f7173ff1c687707de6ab2b192d4
 
  In normal photography, it always pays to remember what to include and what to exclude in your shots. When it comes to shooting 360s, it becomes more complicated since everything is included. For you to take successful 360s with fisheye therefore, you need to consider keenly where you stand. The fisheye lens will introduce a lot of space between you and the subject, hence you must consider how close or far away you are from the subject so that the pieces of the compositional puzzle will fall in place smoothly both in the horizontal and vertical planes.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Stitching 360 degrees panoramas after shooting
 
  To stitch 360s taken by fisheye lenses after shooting, you will need panorama software like [Autopano Pro](http://www.kolor.com/) or [PTGui](https://www.ptgui.com/). For Autopano Pro, you begin by importing the images into the software and ensuring that the EXIF are displayed correctly on the program. With the right settings in place, the next step is to launch the direct stitching feature if you don’t want to go the manual way. Once the stitching is done, it will be important to present the output online. This can be done using [Pano2VR](http://www.ggnome.com/pano2vr) or you could simply upload the finished panoramas to [360cities](https://www.360cities.net/) for online viewing.
@@ -75,10 +82,10 @@ thumbnail: https://thmb.techidaily.com/33f7a6674447c8f7173ff1c687707de6ab2b192d4
 [How to stitch GoPro clips into 360 videos >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What's fisheye lenses
@@ -91,13 +98,6 @@ thumbnail: https://thmb.techidaily.com/33f7a6674447c8f7173ff1c687707de6ab2b192d4
 
 ![create 360 photos with fisheye lens](https://images.wondershare.com/filmora/article-images/fisheye-lens-image.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Conclusion
 
  Fisheye lenses have been around for a while now and the process of creating 360 panoramas with them may not be very challenging, but great results are achieved through practice and proper stitching. Once the photos are taken, you can use premium panorama software like Autopano Pro or you can use free options like the Microsoft ICE or Hugin. Ones stitching are done, it is imperative to have the final works uploaded online for others to view.
@@ -105,16 +105,10 @@ thumbnail: https://thmb.techidaily.com/33f7a6674447c8f7173ff1c687707de6ab2b192d4
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -142,20 +136,18 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-pros-and-cons-of-inshot-is-it-the-ultimate-editor/"><u>[New] Pros and Cons of InShot Is It the Ultimate Editor?</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-stardew-essentials-unveiling-ginger-islands-secrets/"><u>[New] Stardew Essentials Unveiling Ginger Island's Secrets</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-the-first-lessons-in-frame-rate-and-fidelity-for-newbies/"><u>2024 Approved The First Lessons in Frame Rate and Fidelity for Newbies</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-top-tier-pdf-visual-improvements/"><u>2024 Approved Top-Tier PDF Visual Improvements</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-ultimate-software-guide-for-tempo-alteration/"><u>2024 Approved Ultimate Software Guide for Tempo Alteration</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-your-guide-to-masterful-mememaking-on-9gag/"><u>2024 Approved Your Guide to Masterful Mememaking on 9GAG</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/8-best-free-websites-for-3d-text-psd-files-for-2024/"><u>8 Best Free Websites for 3D Text PSD Files for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/avatar-assembly-the-no-frills-guide-to-virtual-realms-for-2024/"><u>Avatar Assembly The No-Frills Guide to Virtual Realms for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/enhance-your-printing-experience-updating-epson-wf-7720-driver-for-windows-users/"><u>Enhance Your Printing Experience: Updating Epson WF-7720 Driver for Windows Users</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-the-art-of-uploading-videos-into-personalized-playlists/"><u>In 2024, Mastering the Art of Uploading Videos Into Personalized Playlists</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/perfecting-speech-interpretation-using-google-tools/"><u>Perfecting Speech Interpretation Using Google Tools</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/seamless-conversion-of-acast-files-to-mp3-format-step-by-step-guide-for-pc-and-mac/"><u>Seamless Conversion of Acast Files to MP3 Format - Step-by-Step Guide for PC & Mac</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/seamless-media-transformation-mastering-the-art-of-m2t-to-multiple-video-formats/"><u>Seamless Media Transformation: Mastering the Art of M2T to Multiple Video Formats</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-meme-design-collection-for-2024/"><u>The Ultimate Meme Design Collection for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/unusual-message-content-finding-myself-online-for-2024/"><u>Unusual Message Content Finding Myself Online for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-2023s-premier-action-cameras-on-motorcycle-gear-guide/"><u>[New] 2024 Approved 2023'S Premier Action Cameras on Motorcycle Gear Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-revolutionize-your-editing-approach-with-these-top-methods-in-obs-studio/"><u>[New] 2024 Approved Revolutionize Your Editing Approach with These Top Methods in OBS Studio</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-techniques-to-rectify-iphone-photo-out-of-focus-for-2024/"><u>[New] Techniques to Rectify iPhone Photo Out-of-Focus for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-xiaomi-mi-11-a-guide-to-screen-recording-pro/"><u>[New] Xiaomi Mi 11 A Guide to Screen Recording Pro</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-cutting-edge-4k-recordings-our-choice-of-the-best/"><u>[Updated] 2024 Approved Cutting-Edge 4K Recordings Our Choice of the Best</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-seamless-fileshift-android-media-to-iphone/"><u>[Updated] 2024 Approved Seamless Fileshift Android Media to iPhone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-incorporating-backgrounds-a-filmmakers-guide/"><u>[Updated] In 2024, Incorporating Backgrounds A Filmmaker's Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-the-artists-guide-to-dynamic-palette-alteration/"><u>[Updated] In 2024, The Artist's Guide to Dynamic Palette Alteration</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-pro-android-pixel-perfect-techniques-for-2024/"><u>[Updated] Pro Android Pixel Perfect Techniques for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/30-quick-steps-to-metaverse-humor-from-copycat-to-creator/"><u>30 Quick Steps to Metaverse Humor From Copycat to Creator</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-xiaomi-redmi-note-13-pro-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Xiaomi Redmi Note 13 Pro 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/simplified-techniques-for-correcting-profile-ages/"><u>Simplified Techniques for Correcting Profile Ages</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-a-closer-look-at-avs-video-editor-2023-review-and-ratings/"><u>Updated In 2024, A Closer Look at AVS Video Editor 2023 Review and Ratings</u></a></li>
 </ul></div>
 

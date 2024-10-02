@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Night Owls' Techniques for Long-Exposure iPhone Pics\""
-date: 2024-09-15T22:06:37.067Z
-updated: 2024-09-20T22:24:24.301Z
+date: 2024-09-29T08:57:55.095Z
+updated: 2024-10-01T17:45:43.665Z
 tags: 
   - screen-recording
   - ai video
@@ -42,17 +42,44 @@ thumbnail: https://thmb.techidaily.com/a1fb4c80fe9c0ad6ff9e8bbff720026cb07010c4b
 
  When you take long exposure shots using a digital SLR, the physical shutter which captures the image stays open for longer. You can also fiddle with the aperture size, to make it easier to capture these images in different light levels. This process is meticulously replicated by the iPhone's newest Photos app, so if you're already on iOS 11, here's how to use it:
 
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Users on iOS 11
 
  First of all, make sure Live Photos is switched on. Within the camera app, simply tap the circular button in the middle of the top menu bar to turn it on. Once activated, the button will turn yellow and the 'live' notification will be shown on screen.
 
 ![take-live-photo-on-iphone](https://images.wondershare.com/filmora/article-images/take-live-photo-on-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Image resource: imore
 
  Next, take a live photo. This is a moving image, a bit like recording with your video camera, but much shorter. Try to keep the iPhone steady as you take your shot, and choose to shoot something that is continually moving, but with a relatively stable background. Something like cars going down a street is a great place to start.
 
 ![long-exposure-effect-iphone](https://images.wondershare.com/filmora/article-images/long-exposure-effect-iphone.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Image resource: iPhoneMod
 
@@ -91,38 +118,17 @@ thumbnail: https://thmb.techidaily.com/a1fb4c80fe9c0ad6ff9e8bbff720026cb07010c4b
 
 ![long-trails-exposure](https://images.wondershare.com/filmora/article-images/long-trails-exposure.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Image resource: WallDevil
 
 * **Motion blur:** To give the sense of something really moving fast, a motion blur can be a captivating effect. From vehicles on the city street to a galloping horse, allowing the moving object to blur whilst everything else around it stays in focus can add a dose of drama to your shots.
 
 ![motion-blur-long-exposure](https://images.wondershare.com/filmora/article-images/motion-blur-long-exposure.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Image resource: Digital Photo Secrets
 
 * **Low light photography:** With a longer exposure, things which were previously un-snappable are suddenly within your grasp. Beautiful fountains at night, bridges, buildings… anything which would previously have been little more than a shadow can now become part of your collection, simply by extending the exposure length.
 
 ![low-light-long-exposure](https://images.wondershare.com/filmora/article-images/low-light-long-exposure.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image resource: Nikonites
 
@@ -135,6 +141,13 @@ thumbnail: https://thmb.techidaily.com/a1fb4c80fe9c0ad6ff9e8bbff720026cb07010c4b
  With the iPhone camera long exposure shots could really up your game on social media. Whether you're a budding travel photographer, a wannabe stock photo entrepreneur or simply an Instagram lover who wants to impress their friends, have a play with the technology available to you and see what you can create. Long exposure shots are massively popular right now, so grab your iPhone and get snapping!
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -159,5 +172,23 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-zoomed-up-enhancing-action-movies-clarity/"><u>[New] 2024 Approved Zoomed Up Enhancing Action Movies Clarity</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-exploring-the-new-frontier-what-makes-triller-stand-out/"><u>[New] Exploring the New Frontier What Makes Triller Stand Out?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-cosmic-realms-unveiled-metaverse-vs-multiverse/"><u>[Updated] Cosmic Realms Unveiled Metaverse vs Multiverse</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-download-free-tools-for-converting-fb-video-to-premium-mp4-quality-for-2024/"><u>[Updated] Download-Free Tools for Converting FB Video to Premium MP4 Quality for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-enhancing-workflow-meeting-management-on-zoom-for-2024/"><u>[Updated] Enhancing Workflow Meeting Management on Zoom for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-gaming-galore-top-10-virtual-reality-for-phones/"><u>[Updated] In 2024, Gaming Galore Top 10 Virtual Reality for Phones</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-master-level-insights-into-crafting-unique-and-memorable-instagram-vids/"><u>[Updated] Master Level Insights Into Crafting Unique and Memorable Instagram Vids</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-ultimate-adventure-companion-a-garmin-ultra-30-analysis-for-2024/"><u>[Updated] The Ultimate Adventure Companion - A Garmin Ultra 30 Analysis for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-winged-mambo-birds/"><u>[Updated] Winged Mambo Birds</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-buyers-guide-to-the-supreme-game-console-innovations-of-2024/"><u>A Buyer's Guide to the Supreme Game Console Innovations of 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/best-fb-videos-top-10-watcher-tools/"><u>Best FB Videos Top 10 Watcher Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/four-hacks-stopping-automatic-windows-and-office-updates/"><u>Four Hacks: Stopping Automatic Windows & Office Updates</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-tecno-spark-10-4g-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Tecno Spark 10 4G</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-the-fastest-way-to-scan-windows-files/"><u>In 2024, The Fastest Way to Scan Windows Files</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/stop-ghost-recon-breakpoint-from-freezing-and-crashing-a-comprehensive-guide-to-a-smooth-gaming-experience/"><u>Stop Ghost Recon Breakpoint From Freezing and Crashing - A Comprehensive Guide to a Smooth Gaming Experience</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-ultimate-guide-to-unlocking-your-iphone-14-pro-on-metropcs-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Your iPhone 14 Pro on MetroPCS</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Epic Evolutions  Digitizing Decades of Documentary Photographs for 2024\""
-date: 2024-09-24T19:40:24.164Z
-updated: 2024-09-26T23:04:39.478Z
+date: 2024-09-30T07:15:20.454Z
+updated: 2024-10-01T19:24:55.007Z
 tags: 
   - screen-recording
   - ai video
@@ -92,10 +92,10 @@ To start with, you can just launch Filmora on your system and import your photos
 ![import Digitized Photos](https://images.wondershare.com/filmora/article-images/import-digitized-photos.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### 2\. Create a timeline for your photos
@@ -104,18 +104,24 @@ Once you have imported your photos, you can include them in the timeline. To do 
 
 ![create timeline for photos ](https://images.wondershare.com/filmora/article-images/create-timeline-for-photos.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### 3\. Edit the video
 
 Just above the timeline, you can find all kinds of tools to edit your video. For instance, you can crop your photos, split the video, delete pictures, correct their coloring, and so on. To explore more options, you can click on the edit icon here.
 
 ![Edit Digitized Photos ](https://images.wondershare.com/filmora/article-images/edit-digitized-photos.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The edit option will present tons of additional features that you can implement on the video. Here, you can go to the “Motion” feature to get different transitions for your photos. This will let you select how any photo would appear in the video collage.
 
@@ -125,13 +131,6 @@ As stated above, you can find a wide range of video editing options to explore i
 
 ![Add Effects to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-effects-to-old-photo-video.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 To add text to your videos, just go to the “Titles” option here. This will let you select a text effect, letting you add the content of your choice.
 
 ![Add Title to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-title-old-photo-video.jpg)
@@ -140,11 +139,31 @@ Besides that, you can also add a track to the video by visiting the “Audio” 
 
 ![Add Audio to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-audio-old-photo-video.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### 5\. Export your video
 
 That’s it! After making all the changes, you can preview your video on the right side. If you are satisfied with the results, then click on the “Export” button from the top. This will open a dedicated window, letting you select a preferred format to export your file. You can also select a resolution for your video to adjust its size as well.
 
 ![Export Book Trailer File](https://images.wondershare.com/filmora/article-images/book-trailer-export-file.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Find more fancy ways to make the best photo and video slideshow with Filmora!
 
@@ -176,13 +195,6 @@ Most importantly, pick a user-friendly and effective video editor like Filmora. 
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 There you go! I’m sure that after reading this guide, you would be able to digitize photos pretty easily. Not just that, you can also come up with memorable videos using your old photographs with a tool like Filmora. The resourceful application offers a wide range of video editing tools that will certainly come handy to you on numerous occasions.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
@@ -212,15 +224,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-replay-the-art-of-twitch-livestream-control/"><u>[New] Replay The Art of Twitch Livestream Control</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-streamline-color-correction-with-easy-techniques/"><u>[New] Streamline Color Correction with Easy Techniques</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-15-must-use-hashtags-for-popularity-on-instagram-feed/"><u>[Updated] 2024 Approved 15 Must-Use Hashtags for Popularity on Instagram Feed</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-behind-the-scenes-changing-video-pace-in-social-media/"><u>[Updated] 2024 Approved Behind the Scenes Changing Video Pace in Social Media</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-mastering-the-art-of-fcp-freedom-for-2024/"><u>[Updated] Mastering the Art of FCP Freedom for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-navigating-the-nuances-zoom-and-youtube-live-streaming-explored-for-2024/"><u>[Updated] Navigating the Nuances Zoom and YouTube Live Streaming Explored for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/dont-get-fooled-theres-no-trustworthy-chatgpt-client-on-windows-only-scams-and-viruses/"><u>Don't Get Fooled - There's No Trustworthy ChatGPT Client on Windows, Only Scams & Viruses!</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-smart-8-pro-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Smart 8 Pro</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-vivo-y100i-power-5g-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Vivo Y100i Power 5G</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlock-your-gionee-f3-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Gionee F3 Pro Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-android-tricks-changing-video-ordering/"><u>[New] 2024 Approved Android Tricks Changing Video Ordering</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-above-and-beyond-uavs-for-gopro-recording-excellence-for-2024/"><u>[New] Above and Beyond UAVs for GoPro Recording Excellence for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-elevate-your-footage-quality-with-top-handheld-stabilizers-for-2024/"><u>[New] Elevate Your Footage Quality with Top Handheld Stabilizers for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-transform-videos-with-tiktok-effects/"><u>[Updated] 2024 Approved Transform Videos with TikTok Effects</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-copyright-clash-violation-removal-came-quick/"><u>[Updated] In 2024, Copyright Clash Violation, Removal Came Quick</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-top-tier-steadicam-options-for-drone-video-production/"><u>2024 Approved Top-Tier Steadicam Options for Drone Video Production</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-guide-on-evaluating-macbook-battery-condition-and-longevity/"><u>A Guide on Evaluating MacBook Battery Condition and Longevity</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-how-to-guide-on-bypassing-iphone-12-pro-max-icloud-activation-lock-by-drfone-ios/"><u>A How-To Guide on Bypassing iPhone 12 Pro Max iCloud Activation Lock</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/complete-guide-downloading-and-installing-auto-gpt-a-step-by-step-tutorial/"><u>Complete Guide: Downloading & Installing Auto-GPT - A Step-By-Step Tutorial</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/script-to-splendor-animating-effects-unbound/"><u>From Script to Splendor Animating Effects Unbound</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/how-to-infuse-sound-and-style-into-your-windows-10-photos-app/"><u>How to Infuse Sound and Style Into Your Windows 10 Photos App</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/premier-2024-cops-communication-gadgets/"><u>Premier 2024 Cops' Communication Gadgets</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-realme-11-pro-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Realme 11 Pro Phones</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-reliable-spankbang-video-downloader-apps-revealed/"><u>Top Reliable SpankBang Video Downloader Apps Revealed</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/winning-the-subscriber-race-on-youtube/"><u>Winning the Subscriber Race on YouTube</u></a></li>
 </ul></div>
 

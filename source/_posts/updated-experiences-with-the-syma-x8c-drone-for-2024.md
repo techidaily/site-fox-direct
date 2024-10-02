@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Experiences with the Syma X8C Drone for 2024"
-date: 2024-09-20T01:26:23.133Z
-updated: 2024-09-26T19:17:55.792Z
+date: 2024-09-30T21:25:24.159Z
+updated: 2024-10-01T18:38:38.980Z
 tags: 
   - screen-recording
   - ai video
@@ -60,13 +60,6 @@ thumbnail: https://thmb.techidaily.com/51c7e118bec96598bc9d2d2c18cf903e1dca3cd52
 
  There are loads of pros as well as cons related Syma H8C device but they appear different to various kinds of users. Professionals may be worried about its camera quality whereas beginners will find its controls little complex. But in case if you need something at low price with all acceptable features then Syma H8C is really a good choice for your needs.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Complete Review
 
 #### 1. Basic Specs Info
@@ -85,13 +78,6 @@ thumbnail: https://thmb.techidaily.com/51c7e118bec96598bc9d2d2c18cf903e1dca3cd52
 
 ![syma vs phantom design](https://images.wondershare.com/filmora/article-images/syma-vs-phantom-design.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If we consider the appearance then it looks close to the Phantom drone but no doubt to say that few variations exists and they make it unique. The overall dimension of this drone unit is 20x20x6.5 whereas maximum weight goes up to 450 grams thus it cannot be called as a tiny drone. When weighted with camera and prop guards, then this unit has overall weight of 600 grams. This dimension and weight makes this drone much stable in air.
 
  This device can also be used without propeller guards because they do not have much role to play in its flights but the added benefit is that removal of prop guards leads to reduced weight and hence flight time gets little improved. The overall length of propeller is about 9” and they are designed of very high quality material.
@@ -108,6 +94,13 @@ thumbnail: https://thmb.techidaily.com/51c7e118bec96598bc9d2d2c18cf903e1dca3cd52
 
 ![syma x8c controller](https://images.wondershare.com/filmora/article-images/syma-x8c-controller.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Controller or the transmitter of X8C device is small enough that fits perfectly in user’s hands. Construction is completed with ABS plastic material that leads to light weight structure and this controller makes use of 2.4GHz frequency band to send control signals towards drone in air. The best thing to know about Syma X8C is that it can cover the 100 meter range impressively.
 
 #### 6\.  Camera
@@ -115,19 +108,20 @@ thumbnail: https://thmb.techidaily.com/51c7e118bec96598bc9d2d2c18cf903e1dca3cd52
 ![syma x8c camera](https://images.wondershare.com/filmora/article-images/syma-x8c-camera.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  A drone cannot be complete without a camera mounted on its top; hence Syma has taken care of users need and they developed Syma X8C with a camera that can record everything in air. Although, it is not able to collect video information with HD quality but you will be glad to know that it is detachable and one can also make additional adjustments over its angles to adjust focus. All the recorded videos are stored inside a 4GB MicroSD card. Further, the attached gimbal assists in much stable footage.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -136,10 +130,10 @@ thumbnail: https://thmb.techidaily.com/51c7e118bec96598bc9d2d2c18cf903e1dca3cd52
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -167,24 +161,22 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-budget-analysis-for-youtube-promotion/"><u>[New] 2024 Approved Budget Analysis for YouTube Promotion</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-the-secrets-of-selecting-a-powerful-streaming-device-for-2024/"><u>[New] The Secrets of Selecting a Powerful Streaming Device for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-exploring-the-mechanisms-of-noteworthy-youtube-discussions/"><u>[Updated] 2024 Approved Exploring the Mechanisms of Noteworthy YouTube Discussions</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-how-to-combine-videos-into-one-on-iphone/"><u>[Updated] How to Combine Videos Into One on iPhone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-how-to-for-effortless-apple-podcast-acquisition-swift-and-smooth-for-2024/"><u>[Updated] How-To for Effortless Apple Podcast Acquisition – Swift & Smooth for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-master-multi-screen-video-streaming-with-microsoft-edges-pip/"><u>[Updated] In 2024, Master Multi-Screen Video Streaming with Microsoft Edge's PIP</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-the-ultimate-checklist-of-key-elements-in-tagging-a-video/"><u>[Updated] In 2024, The Ultimate Checklist of Key Elements in Tagging a Video</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-swiftly-sharpen-images-with-windows-11-pro/"><u>[Updated] Swiftly Sharpen Images with Windows 11 Pro</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-ultimate-audio-compilations-for-video-production-for-2024/"><u>[Updated] Ultimate Audio Compilations for Video Production for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-ultimate-guide-to-economical-high-performance-asmr-microphones/"><u>[Updated] Ultimate Guide to Economical, High-Performance ASMR Microphones</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-infinix-gt-10-pro-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Infinix GT 10 Pro Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Infinix Smart 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/clear-cache-to-run-facebook-games-smoothly-in-chrome/"><u>Clear Cache to Run Facebook Games Smoothly in Chrome</u></a></li>
-<li><a href="https://blog-min.techidaily.com/fastest-iphone-video-transfer-apps-from-dvd-for-mac-users-a-comprehensive-guide/"><u>Fastest iPhone Video Transfer Apps From DVD for Mac Users: A Comprehensive Guide</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-icloud-on-apple-iphone-12-mini-smoothly-by-drfone-ios/"><u>In 2024, How To Remove iCloud On Apple iPhone 12 mini Smoothly</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-spectacular-8-cam-enhancers-for-improved-video-feeds/"><u>In 2024, Spectacular 8 Cam Enhancers for Improved Video Feeds</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-unmatched-closure-in-cyberspace-quest/"><u>In 2024, Unmatched Closure in Cyberspace Quest</u></a></li>
-<li><a href="https://program-issues.techidaily.com/internet-explorer-display-problem-solutions-for-website-accessibility/"><u>Internet Explorer Display Problem Solutions for Website Accessibility</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/narrowing-down-dji-action-gopro-max-and-insta360-series-for-2024/"><u>Narrowing Down DJi Action, GoPro Max, and Insta360 Series for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-elevate-your-editing-skills-with-pro-color-techniques-for-2024/"><u>[New] Elevate Your Editing Skills with Pro Color Techniques for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-hire-harmony-a-collection-of-inspirational-clips-for-2024/"><u>[New] Hire Harmony A Collection of Inspirational Clips for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-the-essential-android-update-for-vr-video-watchers-for-2024/"><u>[New] The Essential Android Update for VR Video Watchers for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-tweeting-visuals-integrating-youtube-and-snapchat/"><u>[Updated] 2024 Approved Tweeting Visuals Integrating YouTube and Snapchat</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-unlocking-windows-11-your-ultimate-cheat-sheet/"><u>[Updated] 2024 Approved Unlocking Windows 11 Your Ultimate Cheat Sheet</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-cameras-unveiled-the-beginners-guide-to-action-shooting/"><u>[Updated] In 2024, Cameras Unveiled The Beginner's Guide to Action Shooting</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-emulate-action-with-kinetic-blur-effects/"><u>[Updated] In 2024, Emulate Action with Kinetic Blur Effects</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-strategies-to-enhance-gopros-electric-efficiency/"><u>[Updated] In 2024, Strategies to Enhance GoPro's Electric Efficiency</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-navigate-high-speed-stories-on-instagram-effectively/"><u>[Updated] Navigate High-Speed Stories on Instagram Effectively</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-unmasking-how-to-locate-my-comments-posts-online-for-2024/"><u>[Updated] Unmasking How To Locate My Comments Posts Online for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-flawless-image-reader-with-quick-access/"><u>2024 Approved Flawless Image Reader with Quick Access</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/apple-showdown-ipad-pro-vs-macbook-pro-which-is-right-for-you/"><u>Apple Showdown: IPad Pro Vs. MacBook Pro - Which Is Right For You?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-realme-narzo-n55-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Realme Narzo N55 Device</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/master-mac-hd-management-a-video-guide-to-hdd-arrangement/"><u>Master Mac HD Management: A Video Guide to HDD Arrangement</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/navigating-through-excellent-hdr-cam-choices/"><u>Navigating Through Excellent HDR Cam Choices</u></a></li>
+<li><a href="https://common-error.techidaily.com/securing-authorization-altering-files-with-trustedinstallers-approval/"><u>Securing Authorization: Altering Files with TrustedInstaller's Approval</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-to-fixing-rtmp-streams-in-premiere-for-2024/"><u>The Ultimate Guide to Fixing RTMP Streams in Premiere for 2024</u></a></li>
 </ul></div>
 

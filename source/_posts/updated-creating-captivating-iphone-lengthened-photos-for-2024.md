@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Creating Captivating iPhone Lengthened Photos for 2024"
-date: 2024-09-22T18:23:43.086Z
-updated: 2024-09-27T00:50:06.657Z
+date: 2024-09-24T19:11:39.534Z
+updated: 2024-10-01T18:03:42.307Z
 tags: 
   - screen-recording
   - ai video
@@ -42,18 +42,18 @@ thumbnail: https://thmb.techidaily.com/00e1438c22966a36d893eecd9042143ec66d34204
 
  When you take long exposure shots using a digital SLR, the physical shutter which captures the image stays open for longer. You can also fiddle with the aperture size, to make it easier to capture these images in different light levels. This process is meticulously replicated by the iPhone's newest Photos app, so if you're already on iOS 11, here's how to use it:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Users on iOS 11
 
  First of all, make sure Live Photos is switched on. Within the camera app, simply tap the circular button in the middle of the top menu bar to turn it on. Once activated, the button will turn yellow and the 'live' notification will be shown on screen.
 
 ![take-live-photo-on-iphone](https://images.wondershare.com/filmora/article-images/take-live-photo-on-iphone.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Image resource: imore
 
@@ -61,9 +61,29 @@ thumbnail: https://thmb.techidaily.com/00e1438c22966a36d893eecd9042143ec66d34204
 
 ![long-exposure-effect-iphone](https://images.wondershare.com/filmora/article-images/long-exposure-effect-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Image resource: iPhoneMod
 
  Now bring up your live photo within the Photos app and bring up the effects selector. You can see this either by tapping 'details' or by simply swiping up whilst viewing the photo. There are lots of effects you can apply to your live photo, but the one we're looking for here is 'long exposure'. Simply tap this and your clever iPhone will make all the adjustments necessary to produce an awesome pro-looking photograph using long exposure.
+
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Not a user of iOS 11?
 
@@ -72,13 +92,6 @@ thumbnail: https://thmb.techidaily.com/00e1438c22966a36d893eecd9042143ec66d34204
  There are a number of these apps available on the app store, each with its own set of pros and cons. Take a look at [Slow Shutter Cam](https://itunes.apple.com/app/slow-shutter-cam/id357404131?mt=8), [Ultra Slow Shutter Cam PRO](https://itunes.apple.com/us/app/ultra-slow-shutter-cam-pro-professional-long-exposure/id741508910?mt=8), [Slow Shutter Insta](https://itunes.apple.com/ca/app/slow-shutter-insta-free-long-exposure-photo-cam-for/id730352755?mt=8) and [LongExpo](https://itunes.apple.com/us/app/longexpo-slow-shutter-and-long-exposure-camera/id594078421?mt=8) to discover some of the most popular apps of this type. Try them out, and see what works best for you.
 
 **You may also like:** [iPhone Night Photography Tips: Take Night Photos with iPhone >>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Long Exposure Photography Tips
 
@@ -99,31 +112,11 @@ thumbnail: https://thmb.techidaily.com/00e1438c22966a36d893eecd9042143ec66d34204
 
 ![flowing-water-long-exposure](https://images.wondershare.com/filmora/article-images/flowing-water-long-exposure.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Image resource: Photography Mad
 
 * **Light trails:** Light is everywhere, and if you take your iPhone camera long exposure trick out of the house at night, you'll find some amazing opportunities to shoot. Cars on the highway, Ferris wheels at the fair and even the stars in the sky can become something amazing with a longer exposure.
 
 ![long-trails-exposure](https://images.wondershare.com/filmora/article-images/long-trails-exposure.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image resource: WallDevil
 
@@ -140,6 +133,13 @@ thumbnail: https://thmb.techidaily.com/00e1438c22966a36d893eecd9042143ec66d34204
  Image resource: Nikonites
 
  Play around, try different things and get to know how variations in settings can change the outcome of your shots. Tinkering with exposure length is great fun, and will almost certainly result in some totally Facebook-worthy additions to your gallery.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## To conclude
 
@@ -174,17 +174,16 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-discovering-soft-amplification-techniques-in-garageband/"><u>[New] Discovering Soft Amplification Techniques in Garageband</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-transform-your-media-projects-uploading-images-to-youtube/"><u>[New] In 2024, Transform Your Media Projects Uploading Images to YouTube</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-leading-photo-and-tune-recorders-for-immersive-experience/"><u>[New] Leading Photo & Tune Recorders for Immersive Experience</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-critically-acclaimed-top-8-oculus-rift-games-for-2024/"><u>[Updated] Critically Acclaimed Top 8 Oculus Rift Games for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-eco-film-frameworks-unlimited-free-template-access-for-pros-and-amateurs-for-2024/"><u>[Updated] Eco-Film Frameworks Unlimited Free Template Access for Pros & Amateurs for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-speed-racers-remarkable-22-run/"><u>[Updated] Speed Racers' Remarkable '22 Run</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-expert-tips-efficiently-download-igtv-on-windows-and-macos/"><u>2024 Approved Expert Tips Efficiently Download IGTV on Windows & MacOS</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on HTC U23 Pro | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quick-correction-clear-legends-crashes/"><u>Quick Correction: Clear Legends Crashes</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/sizing-up-best-practices-for-instagram-videos-in-2eary-2023/"><u>Sizing Up Best Practices for Instagram Videos in 2Eary 2023</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-pc-gaming-issues-fix-crashes/"><u>Troubleshooting PC Gaming Issues: Fix Crashes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-secrets-quick-fixed-for-11-windows-issues/"><u>Unveiling Secrets: Quick Fixed for 11 Windows Issues</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-how-to-choose-between-portable-and-plugged-in-virtual-reality-whats-your-preference-wireless-or-connected-in-2024/"><u>[Updated] How to Choose Between Portable and Plugged-In Virtual Reality What's Your Preference, Wireless or Connected, In 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-the-ultimate-battle-ultrawide-vs-uhd-4k-display-options/"><u>[Updated] In 2024, The Ultimate Battle UltraWide vs UHD 4K Display Options</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-preparing-for-peak-vr-performance/"><u>2024 Approved Preparing For Peak VR Performance</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/aprende-la-hora-en-aplicaciones-con-botones/"><u>Aprende La Hora en Aplicaciones Con Botones</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/expertly-crafted-the-best-8-convertor-list-for-sub-to-srt/"><u>Expertly Crafted The Best 8 Convertor List for Sub to Srt</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fix-the-error-when-you-cant-find-d3dx926dll-a-comprehensive-tutorial/"><u>Fix the Error When You Can't Find d3dx9_26.dll - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-7-superior-mac-video-applications/"><u>In 2024, 7 Superior Mac Video Applications</u></a></li>
+<li><a href="https://win-studio.techidaily.com/installing-odds-n-ends-extension-for-enhanced-viewing-in-kodi-v200-leia/"><u>Installing Odds N Ends Extension for Enhanced Viewing in Kodi v20.0 Leia</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/revolutionizing-photos-through-automated-hdr-techniques/"><u>Revolutionizing Photos Through Automated HDR Techniques</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ultimate-guide-to-installing-and-updating-zebra-zp450-printer-drivers/"><u>Ultimate Guide to Installing & Updating Zebra ZP450 Printer Drivers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unleashing-creativity-making-photo-based-videos-using-pixiz-for-2024/"><u>Unleashing Creativity Making Photo-Based Videos Using Pixiz for 2024</u></a></li>
 </ul></div>
 

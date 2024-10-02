@@ -1,7 +1,7 @@
 ---
 title: "[New] Incorinastrating Supplementary Imagery in Projects"
-date: 2024-09-22T04:46:28.083Z
-updated: 2024-09-26T18:08:53.297Z
+date: 2024-09-30T20:19:06.228Z
+updated: 2024-10-01T17:31:23.797Z
 tags: 
   - screen-recording
   - ai video
@@ -37,6 +37,13 @@ B roll can be utilized for establishing shots as well as close-ups of items. It 
 
 For instance, wider shots are frequently used when someone is giving a speech while seated behind a podium so that we can see both them and their surroundings, such as audience members standing close and applauding or security personnel.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Methods to use b roll
 
 Now that there are so many stock footage platforms, you have a lot of choices when you need just the right scene for your project. Most of the time, filmmakers don't use B roll footage. One good way to use it is to use it as a way to move from one scene to the next. It can also be used to set the mood for an event or show what time of day it is when filming.
@@ -45,34 +52,20 @@ The ideal way to use B roll is to put it behind interviews. This kind of footage
 
 On the other hand, cutaways can show how different people react to what is being said in an interview. After all, transitions are commonly used to switch from one person's experience with a certain topic to another person's experience with the same topic. All of these different kinds of footage give filmmakers and videographers more freedom to tell their stories without relying too much on dialogue or narration.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. What types of b roll are there?
 
 We'll examine the top 5 uses for B rolls across a variety of video genres and discuss how to implement them effectively in your own projects.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Archival b roll footage
 
 Aerial B roll is the solution when you like to show your viewers where your film is being recorded or when you are changing locations and want them to know it. The plane takes off and lands in another city, and then shots of the city, its landmarks, its famous streets, etc. are shown. You have probably seen this type of B roll footage in movies and TV shows. These images aid in putting the viewer in the character's current location. Check out this collection of setting images from the Neighbors television series.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Visual detail b roll footage
 
@@ -87,10 +80,10 @@ B roll footage can be used to tell a story that supports the narrative of your v
 This particular kind of B roll film is captured without any direction being given to your character, as the name suggests. For the purposes of an interview video, for instance, these can be straightforward close-up views of your character's hands and facial expressions. On the other hand, while you're doing a documentary, you might record your subject participating in everyday activities.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. Atmospheric b roll footage
@@ -108,6 +101,13 @@ If flaws were discovered during primary photography, the directors could have re
 ### 7\. A roll vs b roll
 
 Imagine the A roll as part of the video's story. This could be a documentary film, news show, or scripted sketch. Everything else on your editing table must be rearranged to fit it. When the speaker in the following video is directly talking to the camera or interviewer, this is A roll footage. The video's most crucial segments were filmed with primary footage.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -143,20 +143,18 @@ We sincerely hope that this post will be of use to you in making your films more
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-increasing-clarity-and-detail-in-team-meets/"><u>[New] 2024 Approved Increasing Clarity and Detail in Team Meets</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-iphones-best-camera-recording-aid/"><u>[New] In 2024, IPhone's Best Camera Recording Aid</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-superior-platforms-10-android-gba-simulator-picks/"><u>[Updated] 2024 Approved Superior Platforms 10 Android GBA Simulator Picks</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-effective-use-of-audiotracks-in-slideshows-for-2024/"><u>[Updated] Effective Use of Audiotracks in Slideshows for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-immersive-play-samsung-vr-classics/"><u>[Updated] Immersive Play Samsung VR Classics</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-crafting-a-chorus-of-images-and-sound-on-instagram/"><u>[Updated] In 2024, Crafting a Chorus of Images & Sound on Instagram</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-cutting-edge-top-8-free-online-video-tools/"><u>[Updated] In 2024, Cutting Edge Top 8 Free Online Video Tools</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-top-15-no-cost-web-image-editors-review-for-2024/"><u>[Updated] Top 15 No-Cost Web Image Editors Review for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-realme-11-5g-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Realme 11 5G</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/health-communication-winning-on-social-networks/"><u>Health Communication Winning on Social Networks</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-motorola-edge-40-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Motorola Edge 40 Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-meizu-21-pro-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Meizu 21 Pro FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-top-picks-for-perfect-stabilization-in-dslr-and-mirrorless/"><u>In 2024, Top Picks for Perfect Stabilization in DSLR & Mirrorless</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/perfecting-your-speech-and-writing-the-role-of-english-contractions/"><u>Perfecting Your Speech & Writing: The Role of English Contractions</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-meizu-21-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Meizu 21 Phone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-perfecting-iphone-cinematic-work-top-8-tips-for-excellent-pro-video-production/"><u>[New] 2024 Approved Perfecting iPhone Cinematic Work Top 8 Tips for Excellent Pro Video Production</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-streamline-your-views-the-ultimate-8-fb-movie-download-guide-for-2024/"><u>[New] Streamline Your Views The Ultimate #8 FB Movie Download Guide for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-the-path-to-profitable-product-placements-on-youtube/"><u>[New] The Path to Profitable Product Placements on YouTube</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-rapidly-crafting-valorant-image-highlights-for-gamers/"><u>[Updated] In 2024, Rapidly Crafting Valorant Image Highlights for Gamers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-depth-analysis-unveiling-the-best-5-racer-simulations/"><u>[Updated] In-Depth Analysis Unveiling the Best 5 Racer Simulations</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-unlocking-the-secrets-quickly-change-your-characters-vocal-tone-pubg-for-2024/"><u>[Updated] Unlocking the Secrets Quickly Change Your Character's Vocal Tone (PUBG) for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-infinix-smart-8-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Infinix Smart 8 FRP Bypass Instantly</u></a></li>
+<li><a href="https://win-forum.techidaily.com/complete-tutorial-on-deleting-profiles-in-windows-nvme-storage-with-revos-tools/"><u>Complete Tutorial on Deleting Profiles in Windows Nvme Storage with Revo's Tools</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/deciphering-the-magic-behind-magixs-pixel-editor-for-2024/"><u>Deciphering the Magic Behind MAGIX's Pixel Editor for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-tutorial-to-bypass-your-motorola-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Motorola Face Lock?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-install-your-hp-laserjet-pro-mfp-m127fn-drivers-correctly/"><u>How to Install Your HP Laserjet Pro MFP M127FN Drivers Correctly</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-poco-x6-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Poco X6 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/unlock-age-old-wisdom-effortlessly-send-documents-from-pc-to-mobile-device/"><u>Unlock Age-Old Wisdom: Effortlessly Send Documents From PC to Mobile Device</u></a></li>
 </ul></div>
 

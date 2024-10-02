@@ -1,7 +1,7 @@
 ---
 title: "\"Money Matters  Finn's Financial Framework\""
-date: 2024-09-19T21:13:50.583Z
-updated: 2024-09-20T16:33:53.407Z
+date: 2024-09-29T19:52:16.903Z
+updated: 2024-10-02T01:28:29.182Z
 tags: 
   - screen-recording
   - ai video
@@ -134,11 +134,31 @@ This is an interesting video of PewDiePie that features a collection of funny mo
 
 ![funny gaming montage](https://images.wondershare.com/filmora/article-images/2022/11/how-much-does-pewdiepie-make-2022-updated-07.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3\. [Jabba the Hutt ( PewDiePie song by Schmoyoho)](https://www.youtube.com/watch?v=lxw3C5HJ2XU&feature=emb%5Fimp%5Fwoyt)
 
 This is another popular video of PewDiePie that features a song which is dedicated to one of PewDiePie’s pet dogs- Maya. The video also has a collection of moments from his videos.
 
 ![jabba the hutt](https://images.wondershare.com/filmora/article-images/2022/11/how-much-does-pewdiepie-make-2022-updated-08.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4: How to be a YouTuber and make videos like PewDiePie
 
@@ -164,27 +184,20 @@ Step1 Launch the software and open the Auto Reframe function. The tool offers mu
 
 ![wondershare filmora auto reframe 1a](https://images.wondershare.com/filmora/article-images/2022/11/how-much-does-pewdiepie-make-2022-updated-09.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Add the media file by clicking File > Import Media, and then right-click and select the Auto Reframe function.
 
 ![wondershare filmora auto reframe 1b](https://images.wondershare.com/filmora/article-images/2022/11/how-much-does-pewdiepie-make-2022-updated-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 And the last option is to choose Auto reframe from the Tools section on the menu bar.
 
 ![wondershare filmora auto reframe 1c](https://images.wondershare.com/filmora/article-images/2022/11/how-much-does-pewdiepie-make-2022-updated-11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step2 After the Auto Reframe feature is selected, a new dialogue box will open. Choose to add the media file by clicking on the Import Media button (if the file is not yet added).
 
@@ -192,27 +205,20 @@ If you wish to change the added file, tap on Replace File option.
 
 ![wondershare filmora auto reframe 2](https://images.wondershare.com/filmora/article-images/2022/11/how-much-does-pewdiepie-make-2022-updated-12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3 Next, you need to adjust the aspect ratio and the motion speed. You can choose aspect ratio from multiple options- square (1:1), vertical (9:16), standard (4:3), widescreen (16:9), and cinema (21:9). The motion speed can be kept as Auto, Fast, or Slow as needed.
 
 ![wondershare filmora auto reframe 3](https://images.wondershare.com/filmora/article-images/2022/11/how-much-does-pewdiepie-make-2022-updated-13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step4 After all the settings are done, click on the Analysis option and the software will do the video analysis.
 
 ![wondershare filmora auto reframe 4a](https://images.wondershare.com/filmora/article-images/2022/11/how-much-does-pewdiepie-make-2022-updated-14.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The tool will reframe the video automatically as per the speed and the aspect ratio selected. Clicking on the Restart button will let you change the aspect ratio and the speed.
 
@@ -222,11 +228,25 @@ Step5 Preview of the video can now be checked and if further editing is needed, 
 
 ![wondershare filmora auto reframe 5](https://images.wondershare.com/filmora/article-images/2022/11/how-much-does-pewdiepie-make-2022-updated-16.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step6 Finally, tap on the Export button, and choose the desired file and the destination to save the video.
 
 ![wondershare filmora auto reframe 6](https://images.wondershare.com/filmora/article-images/2022/11/how-much-does-pewdiepie-make-2022-updated-17.jpg)
 
 You can check the other AI Editing and more features at [Wondershare Filmora Guide.](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Final Words
 
@@ -264,18 +284,18 @@ The revenue earned from YouTube depends on multiple factors like daily video vie
 
 ![youtube money calculator](https://images.wondershare.com/filmora/article-images/2022/11/how-much-does-pewdiepie-make-2022-updated-03.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Bar-chart depicting the annual income of PewDiePie over the years**
 
 To give you an idea, about how **much money does PewDiePie make** and how the channel has grown over the years in terms of revenue or income, below given are the charts and a table.
 
 ![pewdiepie wealth growth](https://images.wondershare.com/filmora/article-images/2022/11/how-much-does-pewdiepie-make-2022-updated-04.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![pewdiepie bar chart](https://images.wondershare.com/filmora/article-images/2022/11/how-much-does-pewdiepie-make-2022-updated-05.jpg)
 
@@ -367,6 +387,19 @@ And the last option is to choose Auto reframe from the Tools section on the menu
 
 ![wondershare filmora auto reframe 1c](https://images.wondershare.com/filmora/article-images/2022/11/how-much-does-pewdiepie-make-2022-updated-11.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 After the Auto Reframe feature is selected, a new dialogue box will open. Choose to add the media file by clicking on the Import Media button (if the file is not yet added).
 
 If you wish to change the added file, tap on Replace File option.
@@ -425,5 +458,22 @@ PewDiePie is an apt example of earning fortunes by uploading videos and being po
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-the-smart-way-to-shop-for-drones-must-know-information/"><u>[New] 2024 Approved The Smart Way to Shop for Drones Must-Know Information</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-clear-skies-in-video-learn-to-trim-logitech-feeds/"><u>[New] Clear Skies in Video – Learn to Trim Logitech Feeds</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-entering-the-metaverse-discovering-6-rich-examples-for-2024/"><u>[New] Entering the Metaverse Discovering 6 Rich Examples for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-darklight-studio-lightrooms-cheap-equivalents/"><u>[New] In 2024, Darklight Studio Lightroom's Cheap Equivalents</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-step-by-step-analysis-mastering-xmedia-studio-software/"><u>[New] In 2024, Step by Step Analysis Mastering XMedia Studio Software</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-the-insiders-tips-on-conveniently-setting-up-google-meet/"><u>[New] In 2024, The Insider's Tips on Conveniently Setting Up Google Meet</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-top-10-windows-film-and-multimedia-editors-reviewed-and-ranked-for-2024/"><u>[New] Top 10 Windows Film & Multimedia Editors Reviewed and Ranked for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-flamegrab-firefox-add-ons/"><u>[Updated] 2024 Approved FlameGrab Firefox Add-Ons</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-elevating-your-4k-entertainment-tvs-vs-projection-technology-for-2024/"><u>[Updated] Elevating Your 4K Entertainment TVs vs Projection Technology for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-essential-guide-to-selecting-the-best-8-open-source-calls/"><u>[Updated] In 2024, Essential Guide to Selecting the Best 8 Open Source Calls</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-unveiling-facetunes-potential-photo-editing-like-never-before/"><u>[Updated] Unveiling Facetune's Potential Photo Editing Like Never Before</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-the-resurrected-world-in-depth-review-of-7-days-to-die/"><u>Exploring the Resurrected World: In-Depth Review of '7 Days to Die'</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-motorola-moto-g24-by-drfone-android-unlock-android-unlock/"><u>How to unlock Motorola Moto G24</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-streamlining-your-viewing-vlc-versus-mx-comparison/"><u>In 2024, Streamlining Your Viewing VLC Versus MX Comparison</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-capabilities-of-asus-zenwifi-xt8-an-authoritative-guide-on-ax6600-mesh-networking/"><u>Unveiling The Capabilities of ASUS ZenWiFi XT8: An Authoritative Guide on AX6600 Mesh Networking</u></a></li>
+</ul></div>
 

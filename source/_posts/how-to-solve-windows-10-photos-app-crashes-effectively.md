@@ -1,7 +1,7 @@
 ---
 title: "How to Solve Windows 10 Photos App Crashes Effectively"
-date: 2024-09-19T19:47:37.855Z
-updated: 2024-09-20T17:01:42.233Z
+date: 2024-09-29T21:58:31.066Z
+updated: 2024-10-02T01:36:27.875Z
 tags: 
   - screen-recording
   - ai video
@@ -58,8 +58,28 @@ Here is how to troubleshoot –
 
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/Troubleshooter.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. From the list of Apps displayed on the screen, click ‘Windows Store Apps’ and press the ‘Next’ button.
 2. Now, the troubleshooter will troubleshoot every app within the Windows Store Applications and fix them in a jiffy.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 2: Restore Default Libraries
 
@@ -72,14 +92,14 @@ Restoring the default libraries would resolve the Windows 10 Photos App crash is
 
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/windows-10-photos-app-crashes-restore.jpg)
 
-1. Lastly, click on ‘Apply’ followed by ‘OK’ and the issue will be resolved.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+1. Lastly, click on ‘Apply’ followed by ‘OK’ and the issue will be resolved.
 
 ### Solution 3: Reset it
 
@@ -113,13 +133,6 @@ Here is how to reinstall the Windows 10 Photos App –
 2. Now, visit the ‘Microsoft Store on your computer and find ‘Microsoft Photos.’
 3. Install ‘Microsoft Photos’ after downloading it from there. Your Windows 10 Photos App crashing issue is well taken care of now.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 From the above article, we have concluded that experiencing Windows 10 Photos App crashes is not uncommon. But, resolving them shouldn’t give you nightmares as well. From the above-mentioned process guides, you can fix the Windows 10 Photos App crashes effectively without any hassle. Try following each method until you get the Photos App crash issue fixed, so you can view your photos without any trouble.
@@ -127,6 +140,13 @@ From the above article, we have concluded that experiencing Windows 10 Photos Ap
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -151,5 +171,18 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-integrate-efficiently-with-azures-speech-technology/"><u>[New] In 2024, Integrate Efficiently with Azure's Speech Technology</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-mastering-memes-top-ten-template-showcase/"><u>[New] In 2024, Mastering Memes Top Ten Template Showcase</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-reigning-tiktoks-on-twitter-a-viral-analysis/"><u>[New] Reigning TikToks on Twitter A Viral Analysis</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-affordable-aaa-gaming-websites-and-streaming-services/"><u>[Updated] 2024 Approved Affordable AAA Gaming Websites and Streaming Services</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-unleashing-potential-essential-upgrades-and-supplemental-gear-for-drones/"><u>[Updated] In 2024, Unleashing Potential Essential Upgrades & Supplemental Gear for Drones</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-sunset-to-silhouette-adobe-guide/"><u>2024 Approved Sunset to Silhouette Adobe Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/apples-new-m4-silicon-chip-launch-details-and-specifications/"><u>Apple's New M4 Silicon Chip - Launch Details & Specifications</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/cutting-edge-background-switchers-lightart-masters/"><u>Cutting-Edge Background Switchers LightArt Masters</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/explore-top-10-no-cost-digital-photography-tools/"><u>Explore Top 10 No-Cost Digital Photography Tools</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-craft-a-compelling-metaverse-presence-with-these-tools/"><u>In 2024, Craft a Compelling Metaverse Presence with These Tools</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-samsung-galaxy-f54-5g-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Samsung Galaxy F54 5G</u></a></li>
+</ul></div>
 

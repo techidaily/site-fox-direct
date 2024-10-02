@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Harnessing Background Video to Enrich Primary Scenes for 2024"
-date: 2024-09-20T00:55:32.420Z
-updated: 2024-09-26T23:36:17.139Z
+date: 2024-09-28T16:27:31.186Z
+updated: 2024-10-02T00:57:56.904Z
 tags: 
   - screen-recording
   - ai video
@@ -37,6 +37,19 @@ B roll can be utilized for establishing shots as well as close-ups of items. It 
 
 For instance, wider shots are frequently used when someone is giving a speech while seated behind a podium so that we can see both them and their surroundings, such as audience members standing close and applauding or security personnel.
 
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Methods to use b roll
 
 Now that there are so many stock footage platforms, you have a lot of choices when you need just the right scene for your project. Most of the time, filmmakers don't use B roll footage. One good way to use it is to use it as a way to move from one scene to the next. It can also be used to set the mood for an event or show what time of day it is when filming.
@@ -46,33 +59,19 @@ The ideal way to use B roll is to put it behind interviews. This kind of footage
 On the other hand, cutaways can show how different people react to what is being said in an interview. After all, transitions are commonly used to switch from one person's experience with a certain topic to another person's experience with the same topic. All of these different kinds of footage give filmmakers and videographers more freedom to tell their stories without relying too much on dialogue or narration.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. What types of b roll are there?
 
 We'll examine the top 5 uses for B rolls across a variety of video genres and discuss how to implement them effectively in your own projects.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Archival b roll footage
 
 Aerial B roll is the solution when you like to show your viewers where your film is being recorded or when you are changing locations and want them to know it. The plane takes off and lands in another city, and then shots of the city, its landmarks, its famous streets, etc. are shown. You have probably seen this type of B roll footage in movies and TV shows. These images aid in putting the viewer in the character's current location. Check out this collection of setting images from the Neighbors television series.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Visual detail b roll footage
 
@@ -85,6 +84,13 @@ B roll footage can be used to tell a story that supports the narrative of your v
 ### 4\. Undirected b roll footage
 
 This particular kind of B roll film is captured without any direction being given to your character, as the name suggests. For the purposes of an interview video, for instance, these can be straightforward close-up views of your character's hands and facial expressions. On the other hand, while you're doing a documentary, you might record your subject participating in everyday activities.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 5\. Atmospheric b roll footage
 
@@ -103,16 +109,10 @@ If flaws were discovered during primary photography, the directors could have re
 Imagine the A roll as part of the video's story. This could be a documentary film, news show, or scripted sketch. Everything else on your editing table must be rearranged to fit it. When the speaker in the following video is directly talking to the camera or interviewer, this is A roll footage. The video's most crucial segments were filmed with primary footage.
 
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -149,16 +149,17 @@ We sincerely hope that this post will be of use to you in making your films more
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-effortlessly-record-audio-on-your-mac-using-audacity/"><u>[New] 2024 Approved Effortlessly Record Audio on Your Mac Using Audacity</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-top-ranked-mobile-cloud-storage-for-android-guidebook/"><u>[New] 2024 Approved Top Ranked Mobile Cloud Storage for Android Guidebook</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-screensphere-comprehensively-global-plus-locally-connected/"><u>[New] In 2024, ScreenSphere Comprehensively Global + Locally Connected</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-love-and-light-nine-essential-filmora-elements-for-2024/"><u>[New] Love and Light Nine Essential Filmora Elements for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-mastering-multitasking-with-picture-in-picture-mode-on-microsoft-edge-browser-for-2024/"><u>[New] Mastering Multitasking with Picture-in-Picture Mode on Microsoft Edge Browser for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-from-monotonous-to-mesmerizing-grading-guidance-for-editors/"><u>[Updated] In 2024, From Monotonous to Mesmerizing Grading Guidance for Editors</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-unlock-the-potential-of-audience-feedback-on-youtube-for-2024/"><u>[Updated] Unlock the Potential of Audience Feedback on YouTube for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/5-prized-mac-compatible-live-streamers/"><u>5 Prized Mac-Compatible Live Streamers</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-utilize-the-power-of-chatgpt-copilot-for-enhanced-productivity/"><u>How to Utilize the Power of ChatGPT Copilot for Enhanced Productivity</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Honor 90 GT | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-honor-magic-6-pro-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Honor Magic 6 Pro to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-tracing-treasure-trails-fast-friending-fundamentals/"><u>[New] Tracing Treasure Trails Fast Friending Fundamentals</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-10-sandbox-innovations-you-shouldnt-skip/"><u>[Updated] 2024 Approved 10 Sandbox Innovations You Shouldn't Skip</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-top-10-innovative-gloves-for-virtual-immersion/"><u>[Updated] Top 10 Innovative Gloves for Virtual Immersion</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-vivo-s17-pro-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Vivo S17 Pro by Name | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-comprehensive-review-of-the-more-reasonable-apple-iphone-se-202-1/"><u>A Comprehensive Review of the More Reasonable Apple iPhone SE (202 1)</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/filmora-tutorial-converting-avi-to-gif-seamlessly-for-2024/"><u>Filmora Tutorial Converting AVI to GIF Seamlessly for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-12-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 12 to other iPhone 11 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-streamlining-podcast-feed-creation-techniques/"><u>In 2024, Streamlining Podcast Feed Creation Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-future-without-vlc-media-player-insights/"><u>In 2024, The Future Without VLC - Media Player Insights</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/monetary-aspects-of-shopping-reviews-vlogs/"><u>Monetary Aspects of Shopping Reviews Vlogs?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/riding-ahead-with-clarity-hats-cam-excellence-in-the-year-of-23-for-2024/"><u>Riding Ahead with Clarity Hats Cam Excellence in the Year of '23 for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/transforming-footage-into-high-quality-content/"><u>Transforming Footage Into High-Quality Content</u></a></li>
 </ul></div>
 

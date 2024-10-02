@@ -1,7 +1,7 @@
 ---
 title: "In 2024, How to Do Color Correction in GoPro Studio"
-date: 2024-09-25T17:15:30.936Z
-updated: 2024-09-26T19:14:27.731Z
+date: 2024-09-29T07:40:35.863Z
+updated: 2024-10-01T19:12:33.345Z
 tags: 
   - screen-recording
   - ai video
@@ -66,10 +66,16 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 3. It fully supports  encoded MP4 format, MTS and Mov videos shot on any action cams, camcorders and phones.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## GoPro Footage Color Correction in Wondershare Filmora
@@ -80,38 +86,38 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 
 ![color correction](https://images.wondershare.com/filmora/guide/1-action-cam-tool-fix-entrance.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2:** Color Tuning. Now you need to choose the Color Tab on the left of your control panel. Here you will be able to drag the individual slider so as to alter the contrast, brightness, tint, vignette and saturation.
 
 ![correct gopro footage color](https://images.wondershare.com/filmora/article-images/color-corretion-in-gopro-studio-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The compare button located on the top right lets you check all the segments before and after the correction simultaneously. While the Reset button ![color-tuning-reset-button](https://images.wondershare.com/filmora/guide/color-tuning-reset-button.png) would allow you to clear all the color corrections anytime.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 3:** Save and Share- Once the edit is finished you need to hit the Export button in order to save the edited clip as MOV or MP4 format. You can also alter the video res and the frames per sec. Now just hit the OK button to start the export.
 
 ![Export](https://images.wondershare.com/filmora/guide/8-action-cam-tool-export.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
@@ -140,19 +146,19 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-transforming-dull-interviews-into-engaging-assessments/"><u>[New] 2024 Approved Transforming Dull Interviews Into Engaging Assessments</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-unveiling-the-secrets-to-using-vivavideo-app/"><u>[New] In 2024, Unveiling the Secrets to Using VivaVideo App</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-simplify-multitasking-with-picture-in-picture-feature-ios/"><u>[New] Simplify Multitasking with Picture in Picture Feature (iOS)</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-core-principles-of-crafting-convincing-video-endorsements-for-2024/"><u>[Updated] Core Principles of Crafting Convincing Video Endorsements for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-prodigious-palette-top-10-free-sketch-apps-for-mac-users/"><u>[Updated] In 2024, Prodigious Palette Top 10 Free Sketch Apps for Mac Users</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-metaversal-journey-versus-omniverse-quest-for-2024/"><u>[Updated] Metaversal Journey Versus Omniverse Quest for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-youtube-dimensions-demystified-a-complete-aspect-ratio-handbook/"><u>[Updated] YouTube Dimensions Demystified A Complete Aspect Ratio Handbook</u></a></li>
-<li><a href="https://common-error.techidaily.com/diy-repair-techniques-making-your-laptops-touchpad-work-again/"><u>DIY Repair Techniques: Making Your Laptop's Touchpad Work Again</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-immersive-e-commerce-advancements/"><u>In 2024, Immersive E-Commerce Advancements</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-professional-video-recorder-for-windows-pcs/"><u>In 2024, Professional Video Recorder for Windows PCs</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mondly-joins-collective-with-pearson-edu-sphere/"><u>Mondly Joins Collective With Pearson Edu-Sphere</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Sony Xperia 10 V? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-realme-c53-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Realme C53 | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/formative-beauty-tutorials-for-everyone-for-2024/"><u>Transformative Beauty Tutorials for Everyone for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-inside-spaces-weaving-in-the-essence-of-daylight/"><u>[New] 2024 Approved Inside Spaces Weaving in the Essence of Daylight</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-prime-avi-media-reader-superior-on-every-platform/"><u>[New] 2024 Approved Prime Avi Media Reader - Superior on Every Platform</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-mastering-windows-11-with-top-tips/"><u>[New] In 2024, Mastering Windows 11 with Top Tips</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-shine-through-the-game-fixes-for-dark-capture-by-obs/"><u>[New] In 2024, Shine Through the Game Fixes for Dark Capture by OBS</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-from-talk-to-text-proven-strategies-for-quality-recordings/"><u>[Updated] 2024 Approved From Talk To Text Proven Strategies for Quality Recordings</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-enhancing-playback-speed-in-tiktok-videos/"><u>[Updated] Enhancing Playback Speed in TikTok Videos</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-stock-photos-without-watermarks-a-guide-for-2024/"><u>[Updated] Stock Photos Without Watermarks – A Guide for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-crafting-illusions-the-art-of-time-and-space-manipulation/"><u>2024 Approved Crafting Illusions The Art of Time & Space Manipulation</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-transforming-ideas-into-reality-best-6-nft-services-explored/"><u>In 2024, Transforming Ideas Into Reality Best 6 NFT Services Explored</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-how-to-reset-final-cut-pro-x-to-troubleshoot-issues-for-2024/"><u>New How to Reset Final Cut Pro X to Troubleshoot Issues for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-your-silent-phone-a-guide-to-restoring-ringtones-on-your-iphone/"><u>Solving Your Silent Phone: A Guide to Restoring Ringtones on Your iPhone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/vital-vittles-visuals-the-7-keys-to-creating-tasty-video-recipes/"><u>Vital Vittles Visuals - The 7 Keys to Creating Tasty Video Recipes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/youtube-premium-on-a-budget-saving-strategies-for-college-scholars-and-their-discounts/"><u>YouTube Premium on a Budget: Saving Strategies for College Scholars and Their Discounts</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/44oe44kk44kt44oj44k55psplus6ycb5b6m44gr6kaw6ig044gx44ke44gz44ge44ki44gg44gq6yyy55s744ov44kh44kk44or5yyw77ya5oml6acg44ks44kk44oj/"><u>ツイキャス放送後に視聴しやすいような録画ファイル化：手順ガイド</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Zoom In, Zoom Out  Managing Close-Up Footage in Videoleap for 2024\""
-date: 2024-09-18T18:43:13.321Z
-updated: 2024-09-20T20:34:38.833Z
+date: 2024-09-29T01:41:12.070Z
+updated: 2024-10-01T16:49:08.090Z
 tags: 
   - screen-recording
   - ai video
@@ -51,6 +51,19 @@ Videoleap is famous for providing the best video editing features to its users a
 * Now play the video after zooming in by clicking on the "play" button and check whether the zoom effect has been added to your video project or not.
 * After you are satisfied, save the project and export it at your preference to your computer.
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Animate the Zoom effect in Videoleap
 
 Sometimes the video contents need a dramatic zoom effect that should take place while the video is still playing. And this is called an animated zoom in the Videoleap application. In other words, using the animated zoom effect in Videoleap, you will be able to zoom into your footage. And a major way to apply this effect is by considering the keyframes of the raw footage. These keyframes help the users by animating a zoom effect while there is a movement taking place in the video. And if you also want to animate the zoom effect in Videoleap, here is how you can do it:
@@ -60,6 +73,13 @@ Sometimes the video contents need a dramatic zoom effect that should take place 
 
 ![preview timeline videoleap](https://images.wondershare.com/filmora/article-images/2022/07/preview-timeline-videoleap.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Then select the "keyframes" tool from the toolbar at the bottom of your screen.
 * Add the keyframes to the desired portion of the video and then navigate the timecode to the place on the timeline where you want to stop it. After that add another keyframe at that point and pinch in to zoom the video.
 
@@ -67,6 +87,19 @@ Sometimes the video contents need a dramatic zoom effect that should take place 
 
 * Now head to the second time code where you want to focus the subject and then click on it. Then click on the "Preview" icon and see whether it needs further changes.
 * When you are satisfied, simply export the project and your animated zoom video will be saved successfully.
+
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternative way to Zoom Video on Computer
 
@@ -86,13 +119,6 @@ If for some reason you are not able to install and use Videoleap on your system 
 * The third and fourth tools will help you achieve the Pan function from left to right and right to left respectively. This panning will be on a horizontal axis. You can also pan your video screen by using your mouse too.
 * You can select any of these options to zoom in, out, or pan your videos and create a stunning zoom effect on your videos.
 * When you are done with your editing process, save the video and the file will be exported to your PC.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -114,10 +140,10 @@ Videoleap is one of the leading video editing platforms available out there. The
 * When you are done with your editing process, save the video and the file will be exported to your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -150,5 +176,20 @@ Videoleap is one of the leading video editing platforms available out there. The
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-how-to-make-money-with-a-beauty-channel/"><u>[New] 2024 Approved How to Make Money with a Beauty Channel?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-enhancing-your-feed-with-new-instagram-filters-for-2024/"><u>[New] Enhancing Your Feed with New Instagram Filters for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-explore-the-best-ways-to-record-sound-in-your-latest-windows-11-pc/"><u>[Updated] Explore the Best Ways to Record Sound in Your Latest Windows 11 PC</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-pixels-to-populations-best-windowsmac-software-conversion/"><u>[Updated] Pixels to Populations Best Windows/Mac Software Conversion</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-top-10-sites-for-high-end-vector-graphics-for-2024/"><u>[Updated] Top 10 Sites for High-End Vector Graphics for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-transform-your-video-content-using-story-remix-on-windows-photos-for-2024/"><u>[Updated] Transform Your Video Content Using Story Remix on Windows Photos for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/beginning-gaming-adventures-on-linux-with-steam-your-ultimate-guide/"><u>Beginning Gaming Adventures on Linux with Steam - Your Ultimate Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/breakdown-of-ai-prowess-llamas-3-against-the-mighty-gpt-4-which-prevails-in-performance/"><u>Breakdown of AI Prowess: Llamas 3 Against the Mighty GPT-4 – Which Prevails in Performance?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-reducing-high-cpu-usage-from-windows-sounds-card-driver-issue/"><u>Guide: Reducing High CPU Usage From Windows Sounds Card Driver Issue</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-nokia-105-classic-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Nokia 105 Classic</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-transformative-techniques-to-enhance-your-powerpoint-recordings/"><u>In 2024, Transformative Techniques to Enhance Your PowerPoint Recordings</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/radiant-photography-with-lightrooms-hdr-magic-merge-for-2024/"><u>Radiant Photography with Lightroom's HDR Magic Merge for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Tecno Spark 10C? | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Expert Tips on Mastering the Preview Application on Mac for 2024"
-date: 2024-09-19T22:54:57.604Z
-updated: 2024-09-20T20:56:49.372Z
+date: 2024-09-25T08:08:19.443Z
+updated: 2024-10-02T01:26:39.287Z
 tags: 
   - screen-recording
   - ai video
@@ -69,6 +69,13 @@ Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup 
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Crop in Preview
 
 In order to crop a photo in the **Preview app**:
@@ -98,10 +105,10 @@ Use the method explained above to open the photo in Preview.
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Add Text to Image in Preview
@@ -136,6 +143,13 @@ Once the background portion of the image gets selected (colored in red), without
 
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Combine Images into One
 
 This process is generally used to place an object present in one image over the background of the other photo. A good example could be to place a picture of a fish on to a second photo that has a sea or river. The **Preview app** lets you do this easily using the following steps:
@@ -152,6 +166,13 @@ Ensure that Preview opens with both the images listed in the sidebar in the left
 
 After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Save Images in Different Formats
 
 The **Preview app** has a built-in image converter as well. To convert an image to a different format with Preview, you must:
@@ -163,13 +184,6 @@ After opening an image, click **File** from the menu bar at the top, and click *
 **Step 2: Choose Output Format and Export**
 
 Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Part 2: FAQs About Preview App on Mac
 
@@ -205,13 +219,6 @@ Choose a destination folder in the **Where** field, select your preferred format
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -235,5 +242,26 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-apex-gk-quizmasters-video-channel-list/"><u>[New] 2024 Approved Apex GK Quizmasters' Video Channel List</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-full-spectrum-analysis-understanding-xmedia-suite-workshop-details/"><u>[New] 2024 Approved Full Spectrum Analysis Understanding XMedia Suite Workshop Details</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-visionary-logo-tactics-elevating-your-podcasts-look/"><u>[New] 2024 Approved Visionary Logo Tactics Elevating Your Podcast's Look</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-exclusive-preview-cut-compilation-for-2024/"><u>[New] Exclusive Preview Cut Compilation for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-kinemaster-for-everyday-memers/"><u>[New] In 2024, KineMaster for Everyday Memers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-outstanding-evaluation-and-alternative-paths/"><u>[New] Outstanding Evaluation & Alternative Paths</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-expert-tips-on-angling-videos-unlocking-full-potential-with-vlc-for-2024/"><u>[Updated] Expert Tips on Angling Videos Unlocking Full Potential with VLC for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-reliable-tool-for-quick-high-quality-tiktok-to-mp4-extraction/"><u>[Updated] In 2024, Reliable Tool for Quick, High-Quality TikTok to MP4 Extraction</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-linux-screenshot-solutions-the-ultimate-guide/"><u>[Updated] Linux Screenshot Solutions The Ultimate Guide</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>3 Ways to Fake GPS Without Root On Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/crystalclear-conversion-high-res-format/"><u>CrystalClear Conversion - High Res Format</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/geeky-gatherings-best-general-trivia-streams-for-2024/"><u>Geeky Gatherings Best General Trivia Streams for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-a-step-further-the-revolutionary-lg-360-vr-headset-reviewed/"><u>In 2024, A Step Further The Revolutionary LG 360 VR Headset Reviewed</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-infinix-note-30-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Infinix Note 30 5G Location by Number | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-top-9-innovative-websites-offering-unique-3d-graffiti-typefaces/"><u>In 2024, Top 9 Innovative Websites Offering Unique 3D Graffiti Typefaces</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/movavi-wmv-mp3/"><u>Movavi: 웹 상호 작용 속도를 위해 WMV를 MP3로 효율적으로 변환하는 방법</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-chromecast-local-content-how-to-stream-videos-from-your-computer-or-mobile-device/"><u>New 2024 Approved Chromecast Local Content How to Stream Videos From Your Computer or Mobile Device</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/the-new-era-of-mobile-gaming-with-android-and-vr-for-2024/"><u>The New Era of Mobile Gaming with Android and VR for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-slow-launches-in-star-wars-battlefront-ii-on-personal-computers/"><u>Troubleshooting Slow Launches in Star Wars: Battlefront II on Personal Computers</u></a></li>
+</ul></div>
 

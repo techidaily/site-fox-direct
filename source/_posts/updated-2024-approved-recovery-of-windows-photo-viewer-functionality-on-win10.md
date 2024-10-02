@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Recovery of Windows Photo Viewer Functionality on Win10\""
-date: 2024-09-19T20:37:24.609Z
-updated: 2024-09-27T05:20:58.685Z
+date: 2024-09-27T00:51:37.809Z
+updated: 2024-10-02T00:09:44.701Z
 tags: 
   - screen-recording
   - ai video
@@ -70,6 +70,13 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2**: Click on the present photo viewer app over there and look for ‘Windows Photo Viewer’. We assume that you have upgraded from an older version on Windows and Windows Photo Viewer is there in the options.
 
 **Step 3**: Tap on ‘Windows Photo Viewer’ and then exit ‘Settings’. Now, you have successfully restored Windows Photo Viewer and you can open photos in Windows Photo Viewer.
@@ -93,23 +100,10 @@ Here is the detailed guide –
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -119,25 +113,19 @@ From the above article, we found out that restoring Windows Photo Viewer on your
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -165,22 +153,19 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-building-your-own-studiopc-an-all-inclusive-guide-for-4k-editors/"><u>[New] Building Your Own StudioPC An All-Inclusive Guide for 4K Editors</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-8-premier-mp3-downloaders-for-android-devices/"><u>[New] In 2024, 8 Premier MP3 Downloaders for Android Devices</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-cutting-edge-design-practices-for-career-advancement/"><u>[New] In 2024, Cutting-Edge Design Practices for Career Advancement</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-decoding-the-appeal-what-makes-you-love-filmora-editing/"><u>[Updated] 2024 Approved Decoding the Appeal What Makes You Love Filmora Editing?</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-captivate-your-imagery-with-illustrators-motion-blur-tricks-for-2024/"><u>[Updated] Captivate Your Imagery with Illustrator's Motion Blur Tricks for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-detailed-assessment-of-simple-high-dynamic-range/"><u>[Updated] In 2024, Detailed Assessment of Simple High-Dynamic Range</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-present-day-drones-paving-way-for-futuristic-advancements/"><u>[Updated] In 2024, Present-Day Drones Paving Way for Futuristic Advancements</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-professional-grade-handguns-for-ultimate-video-stability/"><u>[Updated] Professional Grade Handguns for Ultimate Video Stability</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-sharpening-scenes-the-power-of-film-zoom-for-2024/"><u>[Updated] Sharpening Scenes The Power of Film Zoom for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-standout-literary-book-videos-for-2024/"><u>[Updated] Standout Literary Book Videos for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-oneplus-ace-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of OnePlus Ace 3 | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/comprehensive-report-on-djis-inspire-1-for-2024/"><u>Comprehensive Report on DJI's Inspire 1 for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/download-macx-pro-premium-apple-tv-format-converter-for-mac-now-free/"><u>Download MacX Pro: Premium APPLE TV Format Converter for Mac - Now FREE!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/essential-tricks-and-repairs-for-the-iphone-gallery-navigate-through-8-persistent-challenges/"><u>Essential Tricks & Repairs for the iPhone Gallery: Navigate Through 8 Persistent Challenges</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-tecno-spark-20-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Tecno Spark 20 to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-inside-the-innovations-of-vegaspro-19/"><u>In 2024, Inside the Innovations of VegasPro '19</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-complete-inshot-editors-handbook-to-smoothness/"><u>In 2024, The Complete Inshot Editor's Handbook to Smoothness</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-harnessing-high-quality-photos-from-androids/"><u>[New] Harnessing High-Quality Photos From Androids</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-best-gif-fetchers-on-ios-iphone-x-compatible-guide/"><u>[New] In 2024, Best GIF Fetchers on iOS IPhone X-Compatible Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-lolkit-design-memes-and-graphics-with-a-click/"><u>[New] In 2024, LolKit Design Memes & Graphics with a Click</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-lullaby-vids-a-critical-look-at-bedtime-narrative-videos/"><u>[New] In 2024, Lullaby Vids A Critical Look at Bedtime Narrative Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-mastering-pubg-sounds-simple-tips/"><u>[New] In 2024, Mastering PUBG Sounds Simple Tips</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-syncing-audiovideo-online-collective/"><u>[New] Syncing Audio/Video Online Collective</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-elite-economical-countdown-companions/"><u>[Updated] 2024 Approved Elite Economical Countdown Companions</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/10-pivotal-tactics-for-striking-podcast-covers-for-2024/"><u>10 Pivotal Tactics for Striking Podcast Covers for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-saber-not-working-heres-how-you-can-stop-it-from-freezing-and-crashing/"><u>Beat Saber Not Working? Here's How You Can Stop It From Freezing and Crashing</u></a></li>
+<li><a href="https://driver-error.techidaily.com/correct-unresponsive-right-click-issue-on-windows-11-touchpad/"><u>Correct Unresponsive Right-Click Issue on Windows 11 Touchpad</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/fundamentals-of-visual-communication-through-motion-for-2024/"><u>Fundamentals of Visual Communication Through Motion for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/handling-delayed-service-starts-mastering-the-resolution-of-error-1053/"><u>Handling Delayed Service Starts: Mastering the Resolution of Error 1053</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-overcome-cywing1dll-not-detected-issues-easily/"><u>How to Overcome 'CywinG1.dll' Not Detected Issues Easily</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-lava-agni-2-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Lava Agni 2 5G Screen Not Working | Dr.fone</u></a></li>
 </ul></div>
 
