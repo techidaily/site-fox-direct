@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Comprehensive Breakdown of Theta S Specifications"
-date: 2024-09-10T18:34:21.744Z
-updated: 2024-09-15T19:40:00.714Z
+date: 2024-10-02T16:23:40.437Z
+updated: 2024-10-07T16:27:06.754Z
 tags: 
   - screen-recording
   - ai video
@@ -70,6 +70,13 @@ The picture quality is simply outstanding and is rated to be much better than al
 
 As this device provides easy connectivity to other iOS, Android devices as well as to PCs so it becomes much easier to transfer captured images and videos for further editing. Theta App allows users to create wonders out of spherical imaging where panning and zooming features are commonly used. The desktop version of Theta app limits users to just view and share their data without any editing feature whereas the third app known as Theta+ Video is capable enough to work for editing on iOS devices.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2 Pros and Cons at a glance
 
 | Pros                                                                                   | Cons                                                                  |
@@ -82,6 +89,13 @@ As this device provides easy connectivity to other iOS, Android devices as well 
 | Great still image quality                                                              |                                                                       |
 | Cloud service for image sharing                                                        |                                                                       |
 | Remote control (via App)                                                               |                                                                       |
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3 Basic specs of Ricoh Theta S
 
@@ -100,10 +114,16 @@ As this device provides easy connectivity to other iOS, Android devices as well 
 | **Image format**         | JPEG (EXIF 2.3)- The most commonly used format.           | **Video File Format** | Live streaming via HDMI supported (L:1920x1080/30fps M: 1280x720/30fps S: 720x480/30fps); Live streaming (USB): MP4 (video: MPEG-4 AVC); Motion JPEG (1280x720/15fps) |
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 4 Should I buy Ricoh Theta S
@@ -115,10 +135,16 @@ Theta S is one of the most useful products for photography lovers whether they a
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -144,5 +170,21 @@ Follow @Liza Brown
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-easy-path-from-spotify-to-youtube-discover-the-best-playlist-tools-for-2024/"><u>[New] Easy Path From Spotify to YouTube Discover the Best Playlist Tools for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-seeking-outtop-8-android-apps-for-cost-effective-video-tile-creation/"><u>[New] In 2024, Seeking Outtop 8 Android Apps for Cost-Effective Video Tile Creation</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-visual-storytelling-beginnings-made-simple/"><u>[New] Visual Storytelling Beginnings Made Simple</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-evenings-reassessment-alternate-vision-for-2024/"><u>[Updated] Evening's Reassessment Alternate Vision for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-macs-premier-6-video-cutting-tools-big-sur/"><u>2024 Approved Mac's Premier 6 Video Cutting Tools (Big Sur)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/comprehensive-fix-for-black-ops-cold-war-dealing-with-persistent-shader-compiling-problems/"><u>Comprehensive Fix for Black Ops Cold War: Dealing with Persistent Shader Compiling Problems</u></a></li>
+<li><a href="https://article-tips.techidaily.com/direct-download-dojo-become-a-master-of-ifunny-jokes/"><u>Direct Download Dojo Become a Master of iFunny Jokes</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/discerning-varieties-in-hand-movement-analysis-techniques-for-2024/"><u>Discerning Varieties in Hand Movement Analysis Techniques for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/enhancing-profile-photo-impact-for-2024/"><u>Enhancing Profile Photo Impact for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-samsung-galaxy-f34-5g-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Samsung Galaxy F34 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/pinnacle-of-popularity-on-reddit-top-10-ranking-for-2024/"><u>Pinnacle of Popularity on Reddit - Top 10 Ranking for 2024</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-f34-5g-messages-recovery-recover-deleted-messages-from-samsung-galaxy-f34-5g-by-fonelab-android-recover-messages/"><u>Samsung Galaxy F34 5G Messages Recovery - Recover Deleted Messages from Samsung Galaxy F34 5G</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/turn-swipes-to-love-powerful-tricks-and-ideas-for-standout-biographies-for-2024/"><u>Turn Swipes to Love Powerful Tricks and Ideas for Standout Biographies for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-troubleshooting-guide-solving-non-heating-issues-with-your-3d-printers-build-plate/"><u>Ultimate Troubleshooting Guide: Solving Non-Heating Issues with Your 3D Printer's Build Plate</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Soaring Sights  Dissecting the GoPro Karma Drone's Features\""
-date: 2024-09-10T19:36:51.327Z
-updated: 2024-09-15T18:35:27.868Z
+date: 2024-10-02T16:11:09.133Z
+updated: 2024-10-07T16:28:40.065Z
 tags: 
   - screen-recording
   - ai video
@@ -51,6 +51,13 @@ thumbnail: https://thmb.techidaily.com/93d0d2f898ab9f2aada0c8c4eae12b5163704e3e0
 
  The overall verdict is that this is a fantastic drone for capturing stunning images but it doesn't have the easy flying mode or the battery life to compete with some of the best drones available at the same price point. Although you might have to sacrifice a bit in image quality when compared to a GoPro camera with some competitors, it's often worth it for value knowing that you can capture the shot and maintain control over your drone.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Detailed review for GoPro Karma
 
 #### 1\.  Price
@@ -87,6 +94,13 @@ thumbnail: https://thmb.techidaily.com/93d0d2f898ab9f2aada0c8c4eae12b5163704e3e0
 
 ![gopro karma controller](https://images.wondershare.com/filmora/article-images/gopro-karma-controller.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  One thing that the GoPro Karma did especially well was creating a beautiful controller. The RC controller is relatively small but it feels exactly like playing a videogame with plenty of functions and no need to have a compatible device to use the drone. The other extremely strong point is the camera. Nobody can build a great outdoor camera that is it as resilient as a GoPro with the Hero 5 Black version of this drone capable of shooting in 4K with an astounding video quality, you can catch some amazing video as well as incredible still images on this drone.
 
 #### Conclusion
@@ -94,6 +108,19 @@ thumbnail: https://thmb.techidaily.com/93d0d2f898ab9f2aada0c8c4eae12b5163704e3e0
 Overall, the GoPro Karma is a fairly strong showing for a drone. Although it can be expensive when compared to the specifications on some of the other drones, if you do have some experience flying drones and you are looking for a great image quality, this could be the choice for you especially if you are looking for a portable drone.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -118,12 +145,24 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-growth-hacks-for-youtubers-short-form-content-boosting-view-counts-effectively/"><u>[New] 2024 Approved Growth Hacks for YouTuber's Short Form Content Boosting View Counts Effectively</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-gain-listener-traffic-advanced-techniques-in-podcast-seo-for-2024/"><u>[New] Gain Listener Traffic Advanced Techniques in Podcast SEO for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-mastering-the-art-of-recording-macs-roblox-sessions/"><u>[New] In 2024, Mastering the Art of Recording Mac's Roblox Sessions</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-your-beginners-guide-to-making-money-on-youtubers/"><u>[New] In 2024, Your Beginner's Guide to Making Money on YouTubers</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-legal-zen-melodies-your-guide-to-soothing-soundtracks/"><u>[New] Legal Zen Melodies – Your Guide to Soothing Soundtracks</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-index-of-varied-photographic-and-videography-instruments/"><u>[Updated] 2024 Approved Index of Varied Photographic and Videography Instruments</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-building-a-brand-with-captivating-haul-videos-and-edits/"><u>[Updated] Building a Brand with Captivating Haul Videos and Edits</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-explore-10-cost-effective-video-players-on-linuxwindowsmac/"><u>[Updated] In 2024, Explore 10 Cost-Effective Video Players on Linux/Windows/Mac</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-innovative-virtual-engagement-harnessing-the-power-of-zoom-in-gmail/"><u>[Updated] Innovative Virtual Engagement Harnessing the Power of Zoom in Gmail</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-masterclass-in-mobile-video-viewing-10-leading-iphoneipad-apps/"><u>2024 Approved Masterclass in Mobile Video Viewing 10 Leading iPhone/iPad Apps</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-methods-to-reduce-chromes-processor-intensity-a-comprehensive-guide-issue-fixed/"><u>Effective Methods to Reduce Chrome’s Processor Intensity – A Comprehensive Guide (Issue Fixed)</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/how-much-does-pewdiepie-make-yearly-financial-report-for-2024/"><u>How Much Does PewDiePie Make - Yearly Financial Report for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-optimize-attention-strategies-for-shorts-on-youtube/"><u>In 2024, Optimize Attention Strategies for Shorts on YouTube</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-ride-the-waves-with-top-tier-surf-cameras/"><u>In 2024, Ride the Waves with Top-Tier Surf Cameras</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-the-photographers-path-to-perfected-colors/"><u>In 2024, The Photographer's Path to Perfected Colors</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-vivo-s18e-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Vivo S18e to Gmail | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/younow-review-and-alternative/"><u>Younow Review and Alternative</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Palette Playbook  The Filmmaker's Guide to Grading\""
-date: 2024-09-08T20:41:46.321Z
-updated: 2024-09-15T21:48:20.991Z
+date: 2024-09-30T16:36:17.182Z
+updated: 2024-10-07T16:12:29.869Z
 tags: 
   - screen-recording
   - ai video
@@ -35,6 +35,13 @@ Color grading and color correction are processes that happen throughout postprod
 ![apply color grading to video](https://images.wondershare.com/filmora/article-images/2022/08/apply-color-grading-to-video.jpg)
 
 To summarize, Color grading can be used to make both technical and creative changes. Colorists use color grading for artistic purposes to ensure that the film's carefully curated color palette conveys a specific atmosphere, style, or emotion.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Why is Color Grading Important?
 
@@ -74,6 +81,13 @@ Color Panel Window - to perform color correction in Wondershare Filmora, switch 
 
 ![edit color grading video fx](https://images.wondershare.com/filmora/article-images/2022/08/edit-color-grading-video-fx.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Contrast**: is the variance in luminance or color that makes an object identifiable. By modifying this setting, control the dissimilarity in color and brightness in contrary parts of the video image.
 
 **Saturation:** This setting constitutes the amount of gray in proportion to the hue. You can adjust it to make the entire video image's colors look soaked or unnoticeable.
@@ -99,6 +113,13 @@ Here, there are two options to select: The Color correction. It offers different
 First, you need to select the specific video portion you want to change the color. Just click the scissor icon or what we call split tool. In this case, I split the 2nd video when I zoom in on the subject.
 
 ![split video into clips fx](https://images.wondershare.com/filmora/article-images/2022/08/split-video-into-clips-fx.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * And I selected the end portion of the video. After that, choose the part of the video.
 
@@ -131,6 +152,13 @@ You can modify the temperature, tint, white balance, contrast, saturation, and b
 Click the button Advanced at the lower corner, then the color grading window will pop up, and you can explore your settings and options.
 
 ![color grading with filmora](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-with-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Color Histogram**
 
@@ -198,12 +226,26 @@ Overall, Color grading is the process of video editing to have an excellent look
      data-full-width-responsive="true"></ins>
 
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-unleashing-creativity-in-iphone-videography-8-best-practices/"><u>[New] 2024 Approved Unleashing Creativity in iPhone Videography 8 Best Practices</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-essential-screenshots-for-live-viewers/"><u>[New] Essential Screenshots for Live Viewers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-choreographing-compelling-cinematic-hooks/"><u>[New] In 2024, Choreographing Compelling Cinematic Hooks</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-voice-tactics-for-playstation-45-gamers-for-2024/"><u>[New] Voice Tactics for PlayStation 4/5 Gamers for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-tiktok-titans-who-inspire-you-today/"><u>[Updated] 2024 Approved TikTok Titans Who Inspire You Today</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-scripting-success-the-art-of-good-documentaries/"><u>[Updated] In 2024, Scripting Success The Art of Good Documentaries</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-complete-process-of-adding-soundtracks-to-ig/"><u>[Updated] The Complete Process of Adding Soundtracks to IG</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-visual-virtuosity-top-6-video-editing-software-for-big-sur-os-for-2024/"><u>[Updated] Visual Virtuosity Top 6 Video Editing Software for Big Sur OS for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-whats-going-wrong-sideways-videos-on-instagram/"><u>[Updated] What's Going Wrong Sideways Videos on Instagram</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/from-novice-to-expert-crafting-top-tier-reddit-posts-for-2024/"><u>From Novice to Expert Crafting Top-Tier Reddit Posts for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/groupwatch-on-disneyplus-is-now-absent-what-happened/"><u>GroupWatch on Disney+ Is Now Absent - What Happened?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-lava-blaze-pro-5g-drfone-by-drfone-android/"><u>How to Screen Mirroring Lava Blaze Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-no-1-choice-of-dvd-and-media-editors-sierra-edition/"><u>In 2024, No. 1 Choice of DVD and Media Editors, Sierra Edition</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-iphone-12-pro-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>In 2024, Unlock iPhone 12 Pro With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/infusing-watermarks-in-youtube-content-for-trademarks-for-2024/"><u>Infusing Watermarks in YouTube Content for Trademarks for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ng-perfection-30-unique-and-appealing-recipe-channels-for-2024/"><u>Plating Perfection 30 Unique and Appealing Recipe Channels for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-fix-for-common-errors-of-csr8510-a10-graphics-card-on-windows-devices-top-tips-included/"><u>Step-by-Step Fix for Common Errors of CSR8510 A10 Graphics Card on Windows Devices - Top Tips Included</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tech-titans-face-off-notion-vs-openais-generation-starlet-gpt-3/"><u>Tech Titans Face Off: Notion Vs. OpenAI's Generation Starlet, GPT-3</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-windows-10-issues-efficiently-with-sfc-and-dism-repair-methods/"><u>Troubleshoot Windows 10 Issues Efficiently With SFC and DISM Repair Methods</u></a></li>
+</ul></div>
 

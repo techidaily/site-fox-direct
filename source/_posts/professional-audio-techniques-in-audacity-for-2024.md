@@ -1,7 +1,7 @@
 ---
 title: "Professional Audio Techniques in Audacity for 2024"
-date: 2024-09-12T16:43:57.333Z
-updated: 2024-09-15T17:48:18.604Z
+date: 2024-10-06T16:27:38.261Z
+updated: 2024-10-07T16:04:56.459Z
 tags: 
   - screen-recording
   - ai video
@@ -36,6 +36,13 @@ Step3To choose the kind of track you want, click "Tracks" at the top of the page
 
 Step4To begin the recording, simply click the "Record" button. As soon as you press record, an audio graph of your voice should start to display. Using the "Shift + R" hotkeys on your keyboard, you can add a new recording if you'd like to.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Recording using Mac
 
 To record audio on your Mac, you might need to install Audacity and additional plugins. The best option is to use the Soundflower program, which enables you to send sound to other apps rather than your computer's speakers. Here's how to use Soundflower and Audacity to record audio on a Mac.
@@ -47,6 +54,13 @@ Step2The Soundflower app must then be set up. To achieve this, choose "Sounds" f
 Step3In the "Device" section of the Audacity preferences box, choose "Soundflower (2ch)". From the recording area, choose "Software playthrough." Click "OK" to save the options you've selected.
 
 Step4Launch audacity, then open the app whose audio you wish to record. To begin the recording, click the "Record" button.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Export your audio
 
@@ -94,12 +108,18 @@ Simply select the necessary file format from the drop-down box that appears next
      data-full-width-responsive="true"></ins>
 
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-thors-odyssey-the-last-stand/"><u>[New] 2024 Approved Thor’s Odyssey The Last Stand</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-hide-identity-blurred-face-artistry/"><u>[New] In 2024, Hide Identity Blurred Face Artistry</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-pushing-the-limits-of-visual-impact-in-ae-titles/"><u>[New] In 2024, Pushing the Limits of Visual Impact in AE Titles</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-sustainable-screen-tech-best-picks-reviewed/"><u>[New] Sustainable Screen Tech Best Picks Reviewed</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-google-ar-decorations-and-their-competing-products/"><u>[Updated] 2024 Approved Google AR Decorations & Their Competing Products</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-unmask-the-tricks-of-photo-and-video-upload-in-win11/"><u>[Updated] 2024 Approved Unmask the Tricks of Photo & Video Upload in Win11</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-actor-rights-free-movie-downloads-license/"><u>[Updated] In 2024, Actor Rights Free Movie Downloads License</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-poco-c65-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Poco C65 | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/elevating-your-existence-on-the-web-expanding-your-youtube-following/"><u>Elevating Your Existence on the Web Expanding Your Youtube Following</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-persistent-nox-player-pc-crashes/"><u>How to Fix Persistent Nox Player PC Crashes</u></a></li>
+<li><a href="https://win-great.techidaily.com/windows-pc4/"><u>Windows PC向けトップ4画面キャプチャツール - オススメリスト</u></a></li>
+</ul></div>
 

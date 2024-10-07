@@ -1,7 +1,7 @@
 ---
 title: "[New] The Ultimate Guide to Leveraging Preview Capabilities on a Mac for 2024"
-date: 2024-09-28T05:23:14.597Z
-updated: 2024-10-02T02:02:58.310Z
+date: 2024-09-30T16:28:48.774Z
+updated: 2024-10-07T16:40:19.376Z
 tags: 
   - screen-recording
   - ai video
@@ -55,13 +55,6 @@ As mentioned earlier, the **Preview app** is a default photo viewer on Mac that 
 * Use the tools present on the standard toolbar at the top of the interface
 * Alternatively, click **Tools** from the top, and choose your preferred editing option from the menu
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Show Markup Tools in Preview on Mac
 
 Markup Tools gives easy access to the editing tools the **Preview app** has. By default, Markup Tools is kept hidden, but automatically becomes visible when you make some changes to the image. However, you can follow the process given below to manually show Markup Tools in Preview:
@@ -77,16 +70,10 @@ Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Crop in Preview
@@ -105,6 +92,13 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Rotate Image in Preview
 
 Rotating an image in the **Preview app** is fairly simple. To do so:
@@ -116,6 +110,13 @@ Use the method explained above to open the photo in Preview.
 **Step 2: Rotate the Image**
 
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Add Text to Image in Preview
 
@@ -133,13 +134,6 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Remove Background in Preview
 
 As it is with some of the advanced image manipulation programs, even the **Preview app** allows you to remove background from a photo, and that too pretty easily. To get this done:
@@ -155,6 +149,13 @@ Once the background portion of the image gets selected (colored in red), without
 **Note:** Removing background requires the image to be in PNG format. If the photo you are working on is JPG, Preview prompts with a confirmation box asking your permission to convert the photo from JPG to PNG. You must allow this conversion in order to proceed with the background removal process.
 
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Combine Images into One
 
@@ -183,13 +184,6 @@ After opening an image, click **File** from the menu bar at the top, and click *
 **Step 2: Choose Output Format and Export**
 
 Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Part 2: FAQs About Preview App on Mac
 
@@ -250,20 +244,19 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-ghoul-gags-generator/"><u>[New] 2024 Approved Ghoul Gags Generator</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-superb-simple-countdown-apps-for-free/"><u>[Updated] 2024 Approved Superb Simple Countdown Apps for Free</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-unveiling-the-mystery-behind-professional-looking-time-lapses-in-gopro/"><u>2024 Approved Unveiling the Mystery Behind Professional-Looking Time Lapses in GoPro</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-vanish-3-battle-disguise-4-steps-up/"><u>2024 Approved Vanish 3 Battle Disguise 4 Steps Up</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-viral-vibes-a-guide-to-memetic-magic/"><u>2024 Approved Viral Vibes A Guide to Memetic Magic</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-visualvault-overview-in-depth-assessment/"><u>2024 Approved VisualVault Overview – In-Depth Assessment</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/a-stepwise-journey-through-windows-10-recording-for-2024/"><u>A Stepwise Journey Through Windows 10 Recording for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/android-techniques-old-to-new-video-format-for-2024/"><u>Android Techniques Old to New Video Format for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/o-create-engaging-visual-hooks-a-guide-to-video-thumbnail-making-for-2024/"><u>How to Create Engaging Visual Hooks A Guide to Video Thumbnail Making for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-realme-gt-3-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Realme GT 3 via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Oppo A59 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/intimate-perspectives-with-team-zooms-for-2024/"><u>Intimate Perspectives with Team Zooms for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On OnePlus Nord CE 3 Lite 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/red-dead-redemption-solved-game-launch-troubles-no-longer-a-concern/"><u>Red Dead Redemption [SOLVED] Game Launch Troubles No Longer a Concern</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/vision-quest-steps-to-secure-your-dream-4k-screen/"><u>Vision Quest Steps to Secure Your Dream 4K Screen</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-real-time-voice-to-action-no-price-tag/"><u>[New] 2024 Approved Real-Time Voice to Action, No Price Tag</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-speaking-stories-writing-lyrical-film-scripts/"><u>[New] In 2024, Speaking Stories Writing Lyrical Film Scripts</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-streamlined-mac-package-audio-plus-video-capture/"><u>[New] In 2024, Streamlined Mac Package Audio + Video Capture</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-plug-in-proweries-expert-analysis/"><u>[New] PLUG-IN PROWERIES Expert Analysis</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-step-by-step-guide-for-font-integration-in-ae/"><u>[New] Step-by-Step Guide for Font Integration in AE</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-convert-srt-free-top-10-web-subtitle-services/"><u>[Updated] 2024 Approved Convert SRT Free Top 10 Web Subtitle Services</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-ingenious-designer-of-visual-and-auditory-delight/"><u>[Updated] 2024 Approved Ingenious Designer of Visual & Auditory Delight</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-top-business-cloud-data-warehouse/"><u>[Updated] 2024 Approved Top Business Cloud Data Warehouse</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-advanced-filmmaking-techniques-selecting-top-notch-lenses-for-2024/"><u>[Updated] Advanced Filmmaking Techniques Selecting Top-Notch Lenses for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-our-curated-list-of-the-most-engaging-offroad-racing-titles-for-free-2024-edition/"><u>Explore Our Curated List of the Most Engaging Offroad Racing Titles for Free, 2024 Edition</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/highest-quality-capture-software-showdown/"><u>Highest Quality Capture Software Showdown</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722960242830-quick-start-hp-officejet-5740-driver-downloads-easy-instructions-included/"><u>Quick-Start HP OfficeJet 5740 Driver Downloads - Easy Instructions Included</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-15-plus-prevention-and-solution-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone 15 Plus Prevention & Solution</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-creativity-top-9-strategies-using-chatgpt-for-your-next-literary-masterpiece/"><u>Unlocking Creativity: Top 9 Strategies Using ChatGPT for Your Next Literary Masterpiece</u></a></li>
 </ul></div>
 

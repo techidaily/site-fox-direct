@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Comprehensive Walkthrough  Using Every Feature in Mac's Preview Software\""
-date: 2024-09-26T08:28:37.382Z
-updated: 2024-10-01T16:21:18.546Z
+date: 2024-10-04T16:21:52.570Z
+updated: 2024-10-07T16:40:52.385Z
 tags: 
   - screen-recording
   - ai video
@@ -69,6 +69,13 @@ Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup 
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Crop in Preview
 
 In order to crop a photo in the **Preview app**:
@@ -113,13 +120,6 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Remove Background in Preview
 
 As it is with some of the advanced image manipulation programs, even the **Preview app** allows you to remove background from a photo, and that too pretty easily. To get this done:
@@ -137,10 +137,10 @@ Once the background portion of the image gets selected (colored in red), without
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Combine Images into One
@@ -159,6 +159,13 @@ Ensure that Preview opens with both the images listed in the sidebar in the left
 
 After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Save Images in Different Formats
 
 The **Preview app** has a built-in image converter as well. To convert an image to a different format with Preview, you must:
@@ -172,10 +179,10 @@ After opening an image, click **File** from the menu bar at the top, and click *
 Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Part 2: FAQs About Preview App on Mac
@@ -212,13 +219,6 @@ Choose a destination folder in the **Where** field, select your preferred format
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -244,17 +244,21 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-millions-watch-but-how-much-do-they-earn/"><u>[New] In 2024, Millions Watch, But How Much Do They Earn?</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-swiftly-piece-together-a-stunning-google-photo-collage/"><u>[New] Swiftly Piece Together a Stunning Google Photo Collage</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-efficient-workflow-screen-recording-techniques-in-os-x-via-keyboard-shortcuts/"><u>[Updated] 2024 Approved Efficient Workflow Screen Recording Techniques in OS X via Keyboard Shortcuts</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-foremost-20-anime-music-opener-list/"><u>[Updated] 2024 Approved Foremost 20 Anime Music Opener List</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-is-cash-involved-with-criticism-displays-for-2024/"><u>[Updated] Is Cash Involved with Criticism Displays for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/5-esteemed-platforms-for-easy-text-effect-implementation-for-2024/"><u>5 Esteemed Platforms for Easy Text Effect Implementation for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Samsung Galaxy M14 4G | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/nw-a35-sound-quality-revolutionary/"><u>NW-A35 Sound Quality Revolutionary</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/pro-graphic-rigs-mastering-4k-titles-for-2024/"><u>Pro Graphic Rigs Mastering 4K Titles for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/step-by-step-iphone-guide-for-free-downloaded-podcast-episodes-for-2024/"><u>Step-by-Step iPhone Guide for Free Downloaded Podcast Episodes for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/the-best-8-screenshot-and-video-editing-tools-for-phones/"><u>The Best 8 Screenshot & Video Editing Tools for Phones</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/youtubes-copyright-rules-simplified-a-non-legal-guide-for-2024/"><u>YouTube's Copyright Rules Simplified A Non-Legal Guide for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-evaluating-cloud-services-with-a-budget-lens-2-written-by-ai/"><u>[New] 2024 Approved Evaluating Cloud Services with a Budget Lens (2 Written by AI)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-budget-drone-selection-the-ultimate-list-for-(100/"><u>[New] Budget Drone Selection The Ultimate List for <$100</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-drones-decoded-functionality-and-operational-overview/"><u>[New] Drones Decoded Functionality & Operational Overview</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-top-tier-gopro-cases-unveiled-1-10-ranking/"><u>[Updated] 2024 Approved Top-Tier GoPro Cases Unveiled - #1-10 Ranking</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-easy-guide-speed-up-videos-like-a-pro-new-user-style/"><u>[Updated] In 2024, Easy Guide Speed Up Videos Like a Pro, New User Style</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-seamless-media-switching-your-ultimate-guide-for-srt-conversion/"><u>[Updated] Seamless Media Switching Your Ultimate Guide for SRT Conversion</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/conquering-communication-barriers-the-hardest-to-learn-languages/"><u>Conquering Communication Barriers: The Hardest to Learn Languages</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ensure-peak-performance-the-newest-nvidia-geforce-210-drivers-for-windows-11-systems/"><u>Ensure Peak Performance: The Newest NVIDIA GeForce 210 Drivers for Windows 11 Systems</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/file-funneling-features-5-techniques-to-desktops-for-2024/"><u>File Funneling Features 5 Techniques to Desktops for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-xiaomi-redmi-note-13-proplus-5g-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Xiaomi Redmi Note 13 Pro+ 5G Face Lock?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-on-iphone-12-pro-max-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock On iPhone 12 Pro Max? How to Fix it?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-day-after-evaluation-new-approaches/"><u>In 2024, Day After Evaluation New Approaches</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-decoding-the-mystery-of-youtube-shorts/"><u>In 2024, Decoding the Mystery of YouTube Shorts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-simplified-avi-to-gif-editing-with-filmora-on-windows-and-macos-platforms/"><u>In 2024, Simplified AVI to GIF Editing with Filmora on Windows & macOS Platforms</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/rhythm-of-motivation-discover-the-most-inspiring-exercinasaurus-rex-songs-for-2024/"><u>Rhythm of Motivation Discover the Most Inspiring Exercinasaurus Rex Songs for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/small-channels-big-opportunities-an-affiliate-approach-for-2024/"><u>Small Channels, Big Opportunities An Affiliate Approach for 2024</u></a></li>
 </ul></div>
 

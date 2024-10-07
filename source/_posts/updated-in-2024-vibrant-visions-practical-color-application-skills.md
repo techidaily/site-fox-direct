@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Vibrant Visions  Practical Color Application Skills\""
-date: 2024-09-30T23:57:44.890Z
-updated: 2024-10-02T01:52:12.387Z
+date: 2024-10-02T16:17:33.269Z
+updated: 2024-10-07T16:29:40.292Z
 tags: 
   - screen-recording
   - ai video
@@ -40,13 +40,20 @@ Using red, green and blue as primary colors we can mix the colors to one another
 ![colcor wheel](https://images.wondershare.com/filmora/article-images/2024/color-wheel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 As you can see, we have every color available in this wheel and they are arranged in a unison with the mixed colors starting with red, green and blue and working towards each other.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Color Harmony
 
@@ -63,10 +70,16 @@ The blue lines represent what is known as split contrasting colors and these wil
 The corners of the black rectangle land on what is known as tetradic complement and allows you to add four colors with the understanding that they will complement each other perfectly. Lastly is the purple line which represents the analogous complementary colors, you can pick these neighboring colors with the peace of mind that they will harmonize with each other. There are many more but these four are the main ones that you will use more often than any other, by selecting colors using these four main types you can create a palette for your scenes and allow the viewer to effortlessly enjoy your content. These types work no matter where you start from on the wheel so long as you keep the distances the same.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## But How Do I Use This
@@ -75,27 +88,26 @@ You may still be unsure as to how to implement color theory into your videos. Le
 
 ![apply color theory video](https://images.wondershare.com/filmora/article-images/2022/08/apply-color-theory-video.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 In this scene the director decided that the backdrop should complement the top the actor is wearing, looking at our wheel we can see the complementary color would be dark purple so they started with that, to create a more dynamic scene they then used the analogous colors of that purple being pink and red and created the backdrop. This creates a harmony within the scene and makes it effortless to see all the key elements straight away.
 
 As you can see from this example the base color for the scene is a dark blue/purple and using the analogous color of pink they created a point of interest within the scene that doesn't look out of place. This is a very good way to pull the viewers eyes towards something you want them to take in above all else.
 
 ![movie cover with color theory](https://images.wondershare.com/filmora/article-images/2022/08/movie-cover-with-color-theory.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 As you can see from all the movie covers above, they all use complementary colors from the blues to the war yellows and oranges, this creates high contrast and balance and is something done within the movie industry in every scene. It's no coincidence that the joker is purple and green or that the iron man is red and gold, this is well prepared and researched in the planning stages of everything a visual artist creates.
+
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -131,24 +143,18 @@ By including this into your thought process when creating videos with [Filmora](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-crafting-top-notch-gopro-cinematography-step-by-step/"><u>[New] 2024 Approved Crafting Top-Notch GoPro Cinematography Step by Step</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-mastering-sound-communication-on-whatsapp-for-2024/"><u>[New] Mastering Sound Communication on WhatsApp for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/aximizing-stability-the-art-of-tripod-placement-in-vlogs-for-2024/"><u>[New] Maximizing Stability The Art of Tripod Placement in Vlogs for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-laughter-legends-unwrapping-goofy-odyssey/"><u>[Updated] 'Laughter Legends' - Unwrapping 'Goofy Odyssey'</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-color-connoisseurs-compendium-theory-and-technique-for-2024/"><u>[Updated] Color Connoisseur's Compendium Theory & Technique for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-cutting-edge-mac-cam-apps-a-look-past-bandicam-for-2024/"><u>[Updated] Cutting-Edge Mac Cam Apps A Look Past Bandicam for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-auditory-artifacts-essential-ringtone-archives-online/"><u>[Updated] In 2024, Auditory Artifacts Essential Ringtone Archives Online</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-expert-subtitle-transformation-made-simple-top-10-lists/"><u>[Updated] In 2024, Expert Subtitle Transformation Made Simple - Top 10 Lists</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-iphone-users-guide-to-picture-softening-four-ways/"><u>[Updated] IPhone Users' Guide to Picture Softening (Four Ways)</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/56-divided-by-3-is-18-with-a-remainder-of-2/"><u>56 Divided by 3 Is 18 with a Remainder of 2.</u></a></li>
-<li><a href="https://article-tips.techidaily.com/converting-srt-into-sub-quick-effective-ways-for-2024/"><u>Converting SRT Into SUB Quick, Effective Ways for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/expert-review-navigating-through-2024s-elite-weather-stations-for-homes/"><u>Expert Review: Navigating Through 2024'S Elite Weather Stations for Homes</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/fixing-the-relink-error-expert-tips-for-getting-your-granblue-fantasy-connected-again/"><u>Fixing the Relink Error: Expert Tips for Getting Your Granblue Fantasy Connected Again</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/in-depth-guide-to-securely-clearing-data-insights-and-resources-from-stellar-professionals/"><u>In-Depth Guide to Securely Clearing Data: Insights and Resources From Stellar Professionals</u></a></li>
-<li><a href="https://techtrends.techidaily.com/organized-anime-enthusiasts-dream-dragon-ball-order-viewing-guide/"><u>Organized Anime Enthusiast's Dream: Dragon Ball Order Viewing Guide</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/restoring-perfect-document-output/"><u>Restoring Perfect Document Output</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/selecting-the-right-components-for-your-build-in-our-q1-2016-masterclass-series/"><u>Selecting the Right Components for Your Build in Our Q1 2016 Masterclass Series</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/the-comedic-journey-an-evaluation-of-goofy-adventures/"><u>The Comedic Journey An Evaluation of 'Goofy Adventures'</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-realme-10t-5g-by-drfone-android/"><u>Three Ways to Sim Unlock Realme 10T 5G</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-how-to-zoom-in-on-minecraft/"><u>[New] 2024 Approved How to Zoom in on Minecraft</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-turning-heads-with-efficient-video-rotation-in-vlc/"><u>[New] 2024 Approved Turning Heads with Efficient Video Rotation in VLC</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-step-by-step-inserting-tracks-in-youtube-playlists/"><u>[New] In 2024, Step-by-Step Inserting Tracks in YouTube Playlists</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-live-photo-reconstruction-into-time-lapse-movies/"><u>[Updated] 2024 Approved Live Photo Reconstruction Into Time-Lapse Movies</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-unlock-creative-potentials-with-device-based-filters-for-videographers/"><u>[Updated] 2024 Approved Unlock Creative Potentials with Device-Based Filters for Videographers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-how-to-elevate-youtube-rankings-with-optimized-metadata/"><u>[Updated] How to Elevate YouTube Rankings with Optimized Metadata</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-metagaming-mastery-top-10-friendly-games/"><u>[Updated] Metagaming Mastery Top 10 Friendly Games</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-nokia-g22-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-sony-xperia-5-v-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Sony Xperia 5 V</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-depth-comparison-can-inshot-outshine-competitors-in-2024/"><u>In-Depth Comparison Can InShot Outshine Competitors, In 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/lightweight-or-heavy-duty-choose-between-m1-laptops-for-2024/"><u>Lightweight or Heavy-Duty Choose Between M1 Laptops for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211155930-overcoming-the-challenge-unsupported-monitor-input-error-now-solved/"><u>Overcoming the Challenge: Unsupported Monitor Input Error Now Solved!</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/unveiling-the-truth-is-the-5th-billion-a-deceptive-google-ad-ploy-and-steps-for-removal/"><u>Unveiling the Truth: Is the '5Th Billion' A Deceptive Google Ad Ploy and Steps for Removal</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Crafting an Affordable DIY Google VR System at Home"
-date: 2024-09-08T19:44:49.717Z
-updated: 2024-09-15T22:56:59.658Z
+date: 2024-10-04T16:14:01.421Z
+updated: 2024-10-07T16:25:34.577Z
 tags: 
   - screen-recording
   - ai video
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/aef9f8cb7b85429cf28cb38f2d49cc0528e1c43a7
 
  In not more than 3 hours, people were able to construct their own virtual reality viewer. Do you also want to successfully make your own? Here’s what you will need, together with some important tips and tools to properly do it.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1.The accessories you will need
 
 * PDF file of [Google cardboard](https://vr.google.com/intl/en%5Fus/cardboard/get-cardboard/  )
@@ -46,6 +53,13 @@ thumbnail: https://thmb.techidaily.com/aef9f8cb7b85429cf28cb38f2d49cc0528e1c43a7
 
  It is recommended to use the right type of cardboard, with the same thickness as that of a durable shoe box. You can use a pizza box, but make sure it offers enough flat surfaced material to work with. Of course, you want something durable, yet slim to work with. In some cases, a couple of additional items might be needed such as ceramic disc magnet, neodymium magnet, some pieces of Velcro, big rubber band and at least 45 mm lenses.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2.How to assemble accessories
 
 * Download the compressed [template folder from Google](https://vr.google.com/intl/en%5Fus/cardboard/get-cardboard/  ).
@@ -59,10 +73,10 @@ thumbnail: https://thmb.techidaily.com/aef9f8cb7b85429cf28cb38f2d49cc0528e1c43a7
 * If necessary, affix the NFC tag to the cardboard.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Pros and cons of DYI Google cardboard
@@ -85,10 +99,10 @@ thumbnail: https://thmb.techidaily.com/aef9f8cb7b85429cf28cb38f2d49cc0528e1c43a7
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -114,5 +128,22 @@ Follow @Benjamin Arango
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-essential-steps-to-get-your-podcast-on-app-store/"><u>[New] 2024 Approved Essential Steps to Get Your Podcast on App Store</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-tips-for-removing-spotifys-auto-suggesting-podcasts/"><u>[New] Tips for Removing Spotify's Auto-Suggesting Podcasts</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-unveiling-the-futures-finest-business-strategy-titles-mobilepc/"><u>[New] Unveiling the Future's Finest Business Strategy Titles (Mobile/PC)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-bright-ideas-effective-lighting-in-vlogging/"><u>[Updated] 2024 Approved Bright Ideas Effective Lighting in Vlogging</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-immortalize-memories-prime-online-tools-for-photo-framing/"><u>[Updated] 2024 Approved Immortalize Memories Prime Online Tools for Photo Framing</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-blur-apps-that-work-wonders-on-iphonesandroids-for-2024/"><u>[Updated] Blur Apps That Work Wonders on iPhones/Androids for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-create-animated-bouncing-text-2-ways-for-2024/"><u>[Updated] How to Create Animated Bouncing Text [2 Ways] for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-mastery-over-music-flow-the-art-of-audio-blending/"><u>[Updated] In 2024, Mastery Over Music Flow The Art of Audio Blending</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-streamline-live-4-proven-recording-techniques-for-fb/"><u>2024 Approved Streamline Live 4 Proven Recording Techniques for FB</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/5-solutions-for-realme-c67-4g-unlock-without-password-by-drfone-android/"><u>5 Solutions For Realme C67 4G Unlock Without Password</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/essential-elements-you-need-to-know-before-investing-in-a-new-print-device/"><u>Essential Elements You Need To Know Before Investing in A New Print Device</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/profound-analysis-of-morphvox-technology-and-its-role-in-audio-modification/"><u>Profound Analysis of MorphVOX Technology and Its Role in Audio Modification</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/secrets-to-earning-facebooks-status-symbol-blue-for-2024/"><u>Secrets to Earning Facebook’s Status Symbol (Blue) for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/windows-8-video-editing-made-easy-with-movie-maker-tips-and-tricks/"><u>Windows 8 Video Editing Made Easy with Movie Maker Tips & Tricks</u></a></li>
+</ul></div>
 

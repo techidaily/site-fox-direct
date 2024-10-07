@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Shining a Light  Top Photo Illumination Hacks\""
-date: 2024-09-26T08:21:57.120Z
-updated: 2024-10-01T21:34:57.707Z
+date: 2024-10-02T16:07:14.535Z
+updated: 2024-10-07T16:00:14.426Z
 tags: 
   - screen-recording
   - ai video
@@ -40,25 +40,11 @@ Being a photographer means that you must be able to use light to your own advant
 * [Part 1: Tips for Outdoor iPhone Photographers](#part1)
 * [Part 2: Tips for Indoor iPhone Photography Sessions](#part2)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Tips for Outdoor iPhone Photographers
 
 **1\. Golden hour:** Diffused light is much more pleasant for taking photos and the softest natural light can be found during the sunrise and sunset. The hour before the sun sets or rises is called the golden hour and it is one of the best times of the day for photography in terms of the quality of light that is available. Colors on photos taken during the golden hour appear warm and pictures have a lot of red, yellow or orange due to the low position of the sun on the horizon. Sunrise and sunset are also a perfect time of the day to capture silhouette photos or breathtaking landscapes.
 
 ![golden-hour-photo](https://images.wondershare.com/filmora/article-images/golden-hour-photo.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Image resource: Constractly
 
@@ -69,10 +55,16 @@ Anyone who has seen a photo of a sunset knows how light during the golden hour l
 ![blue-hour-photography](https://images.wondershare.com/filmora/article-images/blue-hour-photography.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Holding your phone in your hand while taking pictures during the blue hour may result in blurry photos because you have to set longer exposures in order to ensure your camera is getting enough light. Placing your iPhone on a tripod or on a surface on which it will be perfectly stable, will enable you to produce razor-sharp images with a lot of blue hour light.
@@ -89,6 +81,13 @@ The abundance of light puts you at risk of overexposing parts of your photo, and
 
 ![cloudy-sky-lighting](https://images.wondershare.com/filmora/article-images/cloudy-sky-lighting.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Image resource: Digital Photo Secrets
 
 Cloudy gray days allow you to take better black and white photos because the scenes you can take photos of, don't have too much color. Monochrome photos are easier to take because unlike with color photos you only have to work with blacks and whites.
@@ -99,6 +98,19 @@ Color photos of a cloudy sky look better if the sky is clear and there are only 
 
 ![mist-fog-lighting](https://images.wondershare.com/filmora/article-images/mist-fog-lighting.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Image resource: Digital Photo Secrets
 
 As rewarding as they may be, mist creates a lot of problems for iPhone photographers, because finding a focus point is more difficult than it is under normal light conditions. The light you can capture through the mist is truly magical, but it is often difficult to come across this type of light.
@@ -106,6 +118,19 @@ As rewarding as they may be, mist creates a lot of problems for iPhone photograp
 **6\. Backlight:** Commonly, photos receive most of the light from the light that falls from the front, but when the light falls from the back of the photo's subject that means that the picture is backlit. The best example of the backlit photo is a silhouette photo, because most of the light in the photo comes from the source located behind the subject of a photo, thus making it possible to create a silhouette of a figure.
 
 ![get-silhoutte-photo](https://images.wondershare.com/filmora/article-images/get-silhoutte-photo.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Image resource: Google
 
@@ -126,13 +151,6 @@ Rain creates reflections of artificial light on the streets at night, which is w
 Indoor photography often includes the use of artificial light, but during the day iPhone photographers can also take advantage of the light that comes through the windows. The light that falls at an angle produces shadows that add a sense of depth to the photo, thus creating an opportunity to take an artistic photo indoors.
 
 ![artificial-light](https://images.wondershare.com/filmora/article-images/artificial-light.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 However, artificial sources of light are usually a better option if you want to take interior photos since the natural sources of light are scarce and unreliable. Using a flash on your iPhone is also an option but its strong light will completely change the light setting of the scene.
 
@@ -163,20 +181,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-dusks-descent-pre-pro-screen-transitions-for-2024/"><u>[Updated] Dusk's Descent Pre-Pro Screen Transitions for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-frontline-firefight-top-7-fps-battles-ranked-for-2024/"><u>[Updated] Frontline Firefight - Top 7 FPS Battles Ranked for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-the-artist-writers-guide-to-ios-top-8-drawing-tools-reviewed-for-2024/"><u>[Updated] The Artist' Writers Guide to iOS Top 8 Drawing Tools Reviewed for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-the-ultimate-handbook-for-watching-facebook-livestreams/"><u>[Updated] The Ultimate Handbook for Watching Facebook Livestreams</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-understanding-ars-capabilities-and-limits/"><u>[Updated] Understanding AR's Capabilities and Limits</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-why-does-imovie-adjust-video-borders/"><u>[Updated] Why Does iMovie Adjust Video Borders?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-next-gen-players-guide-rift-vive-vs-ps-vr-games/"><u>2024 Approved Next-Gen Players Guide Rift, Vive, vs PS VR Games</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-apple-iphone-15-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on Apple iPhone 15 With or Without Password</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/how-to-fix-black-ops-cold-war-hurdle-the-code-887a0005-error-explained/"><u>How to Fix Black Ops Cold War Hurdle: The CODE 887A0005 Error Explained</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-enjoy-9-complete-uncut-holiday-cine-classics-for-no-cost/"><u>In 2024, Enjoy 9 Complete, Uncut Holiday Cine Classics for No Cost!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/introducing-the-new-era-of-apple-watch-watchos-n-v10-innovative-smart-stack-capabilities-and-superior-application-experience/"><u>Introducing the New Era of Apple Watch: WatchOS N v10, Innovative Smart Stack Capabilities & Superior Application Experience</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-realme-11x-5g-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Realme 11X 5G Phone? Unlock It Now</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/the-role-of-workspace-dynamics-in-employee-output/"><u>The Role of Workspace Dynamics in Employee Output</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-itel-p40-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Itel P40 for Parents | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/transcending-visual-limits-with-hdr-technology-for-2024/"><u>Transcending Visual Limits with HDR Technology for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-toontown-full-analysis-and-tutorial-24-edition/"><u>[New] 2024 Approved ToonTown Full Analysis & Tutorial '24 Edition</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-elite-editing-experience-photonshift-phenomenon-for-2024/"><u>[New] Elite Editing Experience PhotonShift Phenomenon for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-evaluating-ffmpegs-mastery-in-untouched-audio-extraction-techniques-for-2024/"><u>[New] Evaluating FFmpeg's Mastery in Untouched Audio Extraction Techniques for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-improve-productivity-learn-to-record-macs-screen-using-shortcut-keys-for-2024/"><u>[New] Improve Productivity Learn to Record Mac's Screen Using Shortcut Keys for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-screenrec-demystified-a-comprehensible-guide-for-laptops/"><u>[New] ScreenRec Demystified A Comprehensible Guide for Laptops</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-streamlining-your-rl-gameplay-videography/"><u>[New] Streamlining Your RL Gameplay Videography</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-from-fan-to-earner-understanding-view-requirements/"><u>[Updated] 2024 Approved From Fan to Earner Understanding View Requirements</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-essential-know-how-record-ipad-display/"><u>[Updated] Essential Know-How Record iPad Display</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-snicker-snapshots-jokeframe/"><u>[Updated] Snicker Snapshots JokeFrame</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-rotation-video-setup/"><u>[Updated] Ultimate Rotation Video Setup</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/demanding-high-standards-is-aurora-up-to-par-in-2024/"><u>Demanding High Standards Is Aurora Up to Par, In 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-samsung-galaxy-a54-5g-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Samsung Galaxy A54 5G FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-elevate-your-editing-professional-jump-cuts-in-final-cut-pro-x/"><u>In 2024, Elevate Your Editing Professional Jump Cuts in Final Cut Pro X</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/leading-top-5-agile-and-lightweight-cameras-list/"><u>Leading Top 5 Agile and Lightweight Cameras List</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Infinix Hot 40? | Dr.fone</u></a></li>
 </ul></div>
 

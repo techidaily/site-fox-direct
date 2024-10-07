@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Expert Tips  Mixing Visual Filters & Melodies in Windows 10 Photos\""
-date: 2024-09-30T03:42:05.889Z
-updated: 2024-10-02T06:41:53.386Z
+date: 2024-10-02T16:12:40.373Z
+updated: 2024-10-07T16:26:12.504Z
 tags: 
   - screen-recording
   - ai video
@@ -59,10 +59,10 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 **Step 5**: Just select one you like. Preview it and then click Done.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to add music on Windows 10 Photos App
@@ -78,10 +78,10 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 ![ add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-music-to-video-photos-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 4**: Pick ‘Your music’ so that you can set up a custom track. There are over 20 music you can choose. You can also sync music to video's beat. You can visit ‘Recommended’ section for adding default ones.
@@ -89,10 +89,10 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 ![add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/choose-music-to-video-photos-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 5**: Hit the ‘Done’ button.
@@ -104,10 +104,10 @@ From the above article, we conclude that Windows 10 Photos app is an amazing app
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -135,16 +135,14 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-unleash-camera-potential-with-10-premium-freebies-and-personalized-purchase-choices/"><u>[New] 2024 Approved Unleash Camera Potential with 10 Premium Freebies & Personalized Purchase Choices</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-gold-tier-8-secret-screeners-choice/"><u>[New] Gold-Tier 8 Secret Screeners' Choice</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-worldwide-top-11-quizmasters-general-knowledge-wins/"><u>[New] In 2024, Worldwide Top 11 Quizmasters General Knowledge Wins</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-unlocking-drone-knowledge-must-know-before-making-a-deal/"><u>[Updated] Unlocking Drone Knowledge Must-Know Before Making a Deal</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-auto-translate-youtube-videos-into-different-languages/"><u>2024 Approved Auto Translate YouTube Videos Into Different Languages</u></a></li>
-<li><a href="https://win-blog.techidaily.com/effective-ways-to-address-fortnite-ls-0013-release-launching-difficulties/"><u>Effective Ways to Address Fortnite LS-0013 Release Launching Difficulties</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-changing-instagram-voices-a-step-by-step-guide/"><u>In 2024, Changing Instagram Voices A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-perfectly-pairing-photos-step-by-step-guide/"><u>In 2024, Perfectly Pairing Photos - Step-by-Step Guide</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/revolutionary-photo-recovery-and-repair-software-debuts-stellars-trailblazing-achievement-revealed/"><u>Revolutionary Photo Recovery & Repair Software Debuts - Stellar's Trailblazing Achievement Revealed</u></a></li>
-<li><a href="https://extra-information.techidaily.com/shine-strategy-top-tools-to-brighten-streams/"><u>Shine Strategy Top Tools to Brighten Streams</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/ultimate-drone-list-to-maximize-gopro-video-quality/"><u>Ultimate Drone List to Maximize GoPro Video Quality</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-sony-s6500-review-latest-improvements/"><u>[New] 2024 Approved Sony S6500 Review Latest Improvements</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-thrilling-twists-and-turns-short-track-22/"><u>[New] 2024 Approved Thrilling Twists & Turns - Short Track '22</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-10-best-web-based-tools-for-clearing-up-fuzzy-images/"><u>[Updated] 2024 Approved 10 Best Web-Based Tools for Clearing Up Fuzzy Images</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/explore-the-genius-of-face-editing-apps-for-smartphones/"><u>Explore the Genius of Face-Editing Apps for Smartphones</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-realme-c51mirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Realme C51Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-expert-insights-where-to-invest-in-youtube-creator-revenue/"><u>In 2024, Expert Insights Where to Invest in YouTube Creator Revenue</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/on-steroids-ryans-incredible-journey-from-child-to-ceo/"><u>Kids on Steroids Ryan’s Incredible Journey From Child to CEO</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reviving-your-iphones-email-updates-expert-solutions-unveiled/"><u>Reviving Your iPhone's Email Updates: Expert Solutions Unveiled</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/ticklishtones-selecting-the-best-ringtones-for-smiles/"><u>TicklishTones Selecting the Best Ringtones for Smiles</u></a></li>
 </ul></div>
 

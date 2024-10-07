@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Palette Playbook  Utilizing Theoretical Knowledge\""
-date: 2024-09-26T02:25:16.872Z
-updated: 2024-10-01T17:48:33.126Z
+date: 2024-10-03T16:33:33.016Z
+updated: 2024-10-07T16:10:33.740Z
 tags: 
   - screen-recording
   - ai video
@@ -34,10 +34,10 @@ Color theory consists of many elements that could fill a library on its own but 
 There are many color wheels out there and all require understanding and research into that particular color arrangement but for this guide I will be focusing on the more widely used RGB which derives from the primary colors red green and blue, If you're thinking why red green and blue not red yellow and blue then you are observant, while RYB is taught as the three primary colors we will be using what is known as additive primary colors of light meaning the more you add of these colors the closer to white you get, the reason we will be using this combination is due to the fact RYB misses a lot of hues around the violet area and the blue-greens meaning we achieve a higher range of color to pick from. With this in mind let's start.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Color Wheel
@@ -62,6 +62,13 @@ The blue lines represent what is known as split contrasting colors and these wil
 
 The corners of the black rectangle land on what is known as tetradic complement and allows you to add four colors with the understanding that they will complement each other perfectly. Lastly is the purple line which represents the analogous complementary colors, you can pick these neighboring colors with the peace of mind that they will harmonize with each other. There are many more but these four are the main ones that you will use more often than any other, by selecting colors using these four main types you can create a palette for your scenes and allow the viewer to effortlessly enjoy your content. These types work no matter where you start from on the wheel so long as you keep the distances the same.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## But How Do I Use This
 
 You may still be unsure as to how to implement color theory into your videos. Let's look at some scenarios that color theory may help your creations.
@@ -69,10 +76,16 @@ You may still be unsure as to how to implement color theory into your videos. Le
 ![apply color theory video](https://images.wondershare.com/filmora/article-images/2022/08/apply-color-theory-video.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 In this scene the director decided that the backdrop should complement the top the actor is wearing, looking at our wheel we can see the complementary color would be dark purple so they started with that, to create a more dynamic scene they then used the analogous colors of that purple being pink and red and created the backdrop. This creates a harmony within the scene and makes it effortless to see all the key elements straight away.
@@ -82,20 +95,13 @@ As you can see from this example the base color for the scene is a dark blue/pur
 ![movie cover with color theory](https://images.wondershare.com/filmora/article-images/2022/08/movie-cover-with-color-theory.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 As you can see from all the movie covers above, they all use complementary colors from the blues to the war yellows and oranges, this creates high contrast and balance and is something done within the movie industry in every scene. It's no coincidence that the joker is purple and green or that the iron man is red and gold, this is well prepared and researched in the planning stages of everything a visual artist creates.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -131,20 +137,24 @@ By including this into your thought process when creating videos with [Filmora](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-an-intro-to-digital-realms-vr-simplified/"><u>[New] An Intro to Digital Realms VR Simplified</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-audio-recording-solutions-for-educators-using-apple-products/"><u>[New] Audio Recording Solutions for Educators Using Apple Products</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-deciphering-the-function-of-the-blue-icon-in-messenger-for-2024/"><u>[New] Deciphering the Function of the Blue Icon in Messenger for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-essential-strategies-for-viewing-your-subscribers-for-2024/"><u>[New] Essential Strategies for Viewing Your Subscribers for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-capturing-fluidity-in-iphone-photography-for-2024/"><u>[Updated] Capturing Fluidity in iPhone Photography for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-husqvarna-h501x4-fpv-quad-examination/"><u>[Updated] In 2024, Husqvarna H501X4 FPV Quad Examination</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-the-filmmakers-edge-mastering-kinemasters-zoom-functionality-for-2024/"><u>[Updated] The Filmmaker's Edge Mastering Kinemaster's Zoom Functionality for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/aperture-allstars-the-best-camera-lenses-to-capture-the-moment-ranked-1-10/"><u>Aperture Allstars The Best Camera Lenses to Capture the Moment, Ranked #1-10</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-activation-lock-from-apple-iphone-11-pro-max-4-easy-ways-by-drfone-ios/"><u>Bypass Activation Lock From Apple iPhone 11 Pro Max - 4 Easy Ways</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/elite-iphone-and-android-edits-to-improve-gopro-content/"><u>Elite iPhone & Android Edits to Improve GoPro Content</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-v30-phone-without-password-by-drfone-android/"><u>How To Unlock Realme V30 Phone Without Password?</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-comprehensive-list-of-premium-ways-to-access-cricket-live/"><u>In 2024, Comprehensive List of Premium Ways to Access Cricket Live</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-efficient-subtitling-strategies-for-facebook-media-posts/"><u>In 2024, Efficient Subtitling Strategies for Facebook Media Posts</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-stop-the-sway-achieve-solidity-in-your-handhraned-gopro-video/"><u>In 2024, Stop The Sway Achieve Solidity in Your Handhraned GoPro Video</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-transform-your-beats-with-free-dji-luts-for-minis-and-air-devices/"><u>In 2024, Transform Your Beats with Free DJI LUTs for Minis & Air Devices</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-introduction-to-interactive-graphic-design/"><u>[New] 2024 Approved Introduction to Interactive Graphic Design</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-whats-new-in-big-sur-necessary-specs-and-features/"><u>[New] 2024 Approved What's New in Big Sur Necessary Specs and Features</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-magix-acid-pro-unveiled-assessing-comparable-software-for-2024/"><u>[New] Magix ACID Pro Unveiled Assessing Comparable Software for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-navigating-the-best-free-srt-translation-services/"><u>[Updated] Navigating the Best FREE SRT Translation Services</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-unveiling-trillers-unique-strategy-in-the-world-of-online-videos/"><u>[Updated] Unveiling Triller's Unique Strategy in the World of Online Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-windows-10-top-new-apps-and-games-for-your-pc-for-2024/"><u>[Updated] Windows 10 Top New Apps & Games for Your PC for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-leading-photo-backdrop-alternatives-list/"><u>2024 Approved Leading Photo Backdrop Alternatives List</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-deep-dive-into-ffmpeg-for-authentic-unaltered-audio-extraction/"><u>A Deep Dive Into FFmpeg for Authentic, Unaltered Audio Extraction</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/an-in-depth-look-at-time-lapse-photography-using-ipad-for-2024/"><u>An In-Depth Look at Time-Lapse Photography Using iPad for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/bridging-the-gap-luts-from-cg-central-to-movie-colors-for-2024/"><u>Bridging the Gap Luts From CG Central to Movie Colors for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-top-hardware-with-toms-gadget-guides/"><u>Discover Top Hardware with Tom's Gadget Guides</u></a></li>
+<li><a href="https://techidaily.com/how-to-erase-apple-iphone-se-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Apple iPhone SE Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/make-a-splash-on-social-media-adding-animated-text-to-instagram-stories/"><u>Make a Splash on Social Media Adding Animated Text to Instagram Stories</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/moneysmart-cumulus-storage-scaling-files-economically-for-2024/"><u>MoneySmart Cumulus Storage - Scaling Files Economically for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/professional-photographers-pick-of-edits-for-2024/"><u>Professional Photographers' Pick of Edits for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/repair-guide-for-non-printing-machines/"><u>Repair Guide for Non-Printing Machines</u></a></li>
+<li><a href="https://facebook.techidaily.com/stay-alert-5-cunning-commerce-cons-in-the-world-of-social-swapping/"><u>Stay Alert: 5 Cunning Commerce Cons in the World of Social Swapping</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/uncovering-solutions-mend-a-silent-g435-audio-dilemma/"><u>Uncovering Solutions: Mend a Silent G435 Audio Dilemma</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-gopro-quik-for-pc-a-comprehensive-review-and-alternatives-for-2024/"><u>Updated GoPro Quik for PC A Comprehensive Review and Alternatives for 2024</u></a></li>
 </ul></div>
 
