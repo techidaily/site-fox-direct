@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Lifetime Favorites  Reddit's Highly-Endorsed Top 10\""
-date: 2024-10-04T16:39:06.291Z
-updated: 2024-10-07T16:02:42.999Z
+date: 2024-10-06T07:21:55.228Z
+updated: 2024-10-13T03:31:53.889Z
 tags: 
   - screen-recording
   - ai video
@@ -60,13 +60,6 @@ Its purpose is quite ironic. The point was to make this image of Chancellor Palp
 
 Sadly, the attempt failed but still received a lot of attention.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. [$GME GO BRRR (r/wallstreetbets)](https://www.reddit.com/r/wallstreetbets/comments/l8rf4k/times%5Fsquare%5Fright%5Fnow/)
 
 This post currently has 469k votes with a stunning 99% Upvote rate. It’s now the most upvoted Reddit post in this list.
@@ -74,13 +67,6 @@ This post currently has 469k votes with a stunning 99% Upvote rate. It’s now t
 It represents a fun and public meme of someone buying a billboard in New York. The content of the billboard: $GME GO BRR.
 
 $GME stands for GameStop's stock name. BRR represents printing money. The idea behind it - publicly displaying the astonishing soar of GameStop's stock at that time.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. [Rick Astley Rides a Bike (r/pics)](https://www.reddit.com/r/pics/comments/haucpf/ive%5Ffound%5Fa%5Ffew%5Ffunny%5Fmemories%5Fduring%5Flockdown/)
 
@@ -93,6 +79,19 @@ If you know the famous song "Never Gonna Give You Up, " you know who this is. We
 ### 4\. [NYC Taxi Drivers Calendar (/r/funny)](https://www.reddit.com/r/funny/comments/7mjw12/my%5Fcab%5Fdriver%5Ftonight%5Fwas%5Fso%5Fexcited%5Fto%5Fshare/)
 
 ![nyc taxi driver calendar](https://images.wondershare.com/filmora/article-images/2023/01/new-york-taxi-driver.png)
+
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Another funny post in the official /r/funny subreddit itself. At this time, this one has 308k votes, 97% of which are Upvotes.
 
@@ -122,9 +121,23 @@ The phrase "this is extremely dangerous to our democracy" is repeated repeatedly
 
 97% of these 293k users upvoted and agreed that all news anchors say the same thing.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 7\. [Thirsty Frog Takes a Bath (r/aww)](https://www.reddit.com/r/aww/comments/90bu6w/heat%5Findex%5Fwas%5F110%5Fdegrees%5Fso%5Fwe%5Foffered%5Fhim%5Fa/)
 
 ![thirsty frog takes a bath reddit](https://images.wondershare.com/filmora/article-images/2023/01/frog-taking-a-bath.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Some things on Reddit don't have to make sense to get a lot of attention.
 
@@ -132,27 +145,20 @@ Like this frog, for example. 99% out of the 313k voters on this post upvoted and
 
 That's all there is to it. No politics, no serious issues, and so on. Just a frog trying to cool off in a bottle cup.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 8\. [Battle for Net Neutrality (/r/books)](https://www.reddit.com/r/books/comments/7en6do/join%5Fthe%5Fbattle%5Ffor%5Fnet%5Fneutrality%5Fwe%5Fneed%5Fto/)
 
 ![battle for net neutrality reddit post](https://images.wondershare.com/filmora/article-images/2023/01/battle-for-net-neutrality.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 This is another most upvoted Reddit post that encouraged over 180k users to join the battle for net neutrality. Again, 86% of these users are upvoters who agree with the statements in the post.
 
 It's a post with a title and a link to a site where anyone can join the battle. The goal - prevent Internet Service Providers from blocking apps and websites.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 9\. [Deangelo Juggles Balls for Real(/r/DunderMifflin)](https://www.reddit.com/r/DunderMifflin/comments/cec448/i%5Fwas%5Fwithout%5Finternet%5Ffor%5Fa%5Fwhile%5Fdecided%5Fto%5Fuse/)
 
@@ -204,16 +210,16 @@ When writing the article (Nov., 2022), this Reddit post features over 400k votes
 
 ![times square billboard](https://images.wondershare.com/filmora/article-images/2023/01/times-square-billboard.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Its purpose is quite ironic. The point was to make this image of Chancellor Palpatine from Star Wars the first result on Google whenever someone searched for "The Senate."
 
 Sadly, the attempt failed but still received a lot of attention.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. [$GME GO BRRR (r/wallstreetbets)](https://www.reddit.com/r/wallstreetbets/comments/l8rf4k/times%5Fsquare%5Fright%5Fnow/)
 
@@ -226,6 +232,13 @@ $GME stands for GameStop's stock name. BRR represents printing money. The idea b
 ### 3\. [Rick Astley Rides a Bike (r/pics)](https://www.reddit.com/r/pics/comments/haucpf/ive%5Ffound%5Fa%5Ffew%5Ffunny%5Fmemories%5Fduring%5Flockdown/)
 
 ![rick astley rides a bike](https://images.wondershare.com/filmora/article-images/2023/01/rick-astley-old-photo.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Posted in 2020, this one currently has 438k votes with 99% Upvotes. It was posted by a famous user known on Reddit as[/u/ReallyRickAstley](https://www.reddit.com/user/ReallyRickAstley/).
 
@@ -245,13 +258,6 @@ What's even more interesting is that the driver commented on this Reddit post, l
 
 ![showing a game you mastered reddit post](https://images.wondershare.com/filmora/article-images/2023/01/angry-gamer.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Reddit gets most of its users inside its gaming communities. As a result, these can be some of the hottest topics with countless popular posts.
 
 This one, for example, features 269k votes. 98% of them Upvoted, all probably enthusiastic gamers themselves.
@@ -264,29 +270,22 @@ You understand the pain if you've gone through something like this.
 
 ![all news anchors say the same thing reddit](https://images.wondershare.com/filmora/article-images/2023/01/news-anchors.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 293k users voted on this post, revealing what it looks like when a single company owns dozens of local news stations.
 
 The phrase "this is extremely dangerous to our democracy" is repeated repeatedly in every news broadcast from these news stations.
 
 97% of these 293k users upvoted and agreed that all news anchors say the same thing.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 7\. [Thirsty Frog Takes a Bath (r/aww)](https://www.reddit.com/r/aww/comments/90bu6w/heat%5Findex%5Fwas%5F110%5Fdegrees%5Fso%5Fwe%5Foffered%5Fhim%5Fa/)
 
 ![thirsty frog takes a bath reddit](https://images.wondershare.com/filmora/article-images/2023/01/frog-taking-a-bath.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Some things on Reddit don't have to make sense to get a lot of attention.
 
@@ -326,6 +325,13 @@ After an attempt by Union Troops to recover his body, they received a letter fro
 
 The Reddit post has over 4k comments, many of which feature thousands of upvotes.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Video – Top 10 Most Upvoted Posts on Reddit
 
 Apart from what been introduced to you above, we also prepared a video about the most upvoted posts on Reddit. If you have any interests, you can watch it and get a deeper understanding of why these posts are so popular.
@@ -364,14 +370,22 @@ Whatever you decide to do, feel free to reflect on these posts and enjoy reading
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-makeup-trends-to-try-now/"><u>[New] In 2024, Makeup Trends to Try Now</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-the-ultimate-compendium-of-vr-glove-technology/"><u>[New] The Ultimate Compendium of VR Glove Technology</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-pioneering-cinematic-experiences-with-vr-tech/"><u>[Updated] Pioneering Cinematic Experiences with VR Tech</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-quintessential-14-text-motion-design-examples-for-2024/"><u>[Updated] Quintessential 14 Text Motion Design Examples for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-thrifty-filmmakers-action-camera-options/"><u>2024 Approved Thrifty Filmmaker's Action Camera Options</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-impressive-initiations-podcasting-prose-poems/"><u>In 2024, Impressive Initiations Podcasting Prose Poems</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/iphone-file-salvaging-solution-safeguard-your-digital-life-with-certainty/"><u>IPhone File Salvaging Solution: Safeguard Your Digital Life with Certainty</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/sprinting-into-the-digital-age-picks-on-vr-treadmills/"><u>Sprinting Into the Digital Age Picks on VR Treadmills</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/1720600525873-stellar-restoration-at-breakneck-speed-for-missing-files/"><u>Stellar Restoration at Breakneck Speed for Missing Files!</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-cutting-edge-screen-recording-free-from-lag-frames-for-2024/"><u>[New] Cutting-Edge Screen Recording Free From Lag Frames for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-exclusive-roundup-best-hdmi-21-tvs-compared-directly/"><u>[New] Exclusive Roundup Best HDMI 2.1 TVs Compared Directly</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-the-comprehensive-guide-to-crafting-great-documentary-narratives/"><u>[New] In 2024, The Comprehensive Guide to Crafting Great Documentary Narratives</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-radiant-cinematography-the-ultimate-guide-for-videographers/"><u>[New] Radiant Cinematography The Ultimate Guide for Videographers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-the-rise-of-remote-therapeutic-platforms-for-2024/"><u>[New] The Rise of Remote Therapeutic Platforms for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-todays-drones-tomorrows-landscapes-an-overview/"><u>[New] Today’s Drones, Tomorrow's Landscapes An Overview</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-spotlight-on-blurbs-captivating-podcast-intros/"><u>[Updated] Spotlight on Blurbs Captivating Podcast Intros</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-unleashing-visual-impact-techniques-for-ai-text-depth/"><u>[Updated] Unleashing Visual Impact Techniques for AI Text Depth</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-unveiling-facetunes-new-features-review-and-walkthrough-for-2024/"><u>[Updated] Unveiling Facetune's New Features Review and Walkthrough for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-virtualblender-for-all-operating-systems-for-2024/"><u>[Updated] VirtualBlender for All Operating Systems for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-nokia-150-2023-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Nokia 150 (2023) to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/aocs-newest-marvel-the-agon-pro-ag456uczd-a-gamers-review-of-the-spectacular-45-ultrawide-extreme-curve-oled-monitor-with-superior-speed-and-design-innovati57/"><u>AOC's Newest Marvel: The Agon Pro AG456UCZD - A Gamer's Review of the Spectacular 45 UltraWide, Extreme Curve OLED Monitor with Superior Speed & Design Innovation.</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/expert-advice-perfected-media-import-techniques-for-windows-10/"><u>Expert Advice Perfected Media Import Techniques for Windows 10</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/hide-identity-blurred-face-artistry/"><u>Hide Identity Blurred Face Artistry</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-innovative-strategies-for-srt-creation-and-enhancement/"><u>In 2024, Innovative Strategies for SRT Creation and Enhancement</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/cept-non-requested-youtube-video-alerts-for-2024/"><u>Intercept Non-Requested YouTube Video Alerts for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/simple-and-fast-installation-amd-ryzen-5-2400g-driver-download/"><u>Simple and Fast Installation: AMD Ryzen 5 2400G Driver Download</u></a></li>
 </ul></div>
 

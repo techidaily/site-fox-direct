@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Detailed Walkthrough  Implementing Microsoft Azure Speech Services\""
-date: 2024-09-08T17:24:05.717Z
-updated: 2024-09-15T21:25:12.064Z
+date: 2024-10-09T06:45:55.454Z
+updated: 2024-10-12T19:42:54.629Z
 tags: 
   - screen-recording
   - ai video
@@ -50,6 +50,13 @@ Step3The program will take a while to deploy an instance. Now tap Keys and endpo
 
 ![micrsoft azure speech to text copy key and region](https://images.wondershare.com/filmora/article-images/2022/07/microsoft-speech-to-text-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step4Download and install Microsoft Visual C++ and .NET Core 3.1 Runtime. Next, install Speech CL on .NET by running this command “**dotnet tool install -global Microsoft.CognitiveServices.Speech.CLI.**” Alternatively, download and install Speech CLI for Windows PCs as a [ZIP file](https://aka.ms/speech/spx-windows).
 
 Step5Now enter the Azure regional identifier and subscription key on Windows Terminal or PowerShell. To configure the region and key, run these commands; “**spx config @key --set SUBSCRIPTION-KEY** and **spx config @region --set REGION.**”
@@ -57,6 +64,13 @@ Step5Now enter the Azure regional identifier and subscription key on Windows Ter
 Step6Now it's time to convert speech to text using Azure STT Service. To do that, run “**spx recognize -microphone**” on Terminal or PowerShell. Azure Speech CLI will listen to sound input and convert it to text. And there is that!
 
 ![icon note](https://images.wondershare.com/assets/images-common/icon-note.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note:** Click [this video](https://docs.microsoft.com/en-us/shows/one-dev-minute/how-to-use-the-azure-cognitive-services-net-speech-sdk-for-recognition) for a detailed guide on how to use Azure Speech Services with Visual Basic (SDK).
 
@@ -85,10 +99,10 @@ What's more, now Filmora's STT feature supports direct transcription of bilingua
 [Make STT Videos](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Use Filmora To Make STT videos
@@ -105,16 +119,16 @@ Click the "Speech-to-Text" icon, and it will show the parameter settings. You ca
 
 ![parameter setting](https://images.wondershare.com/filmora/guide/guide-win/setting-stt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Google Docs - Free
 
 ![micrsoft azure speech to text alternative google docs](https://images.wondershare.com/filmora/article-images/2022/07/microsoft-speech-to-text-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If you're looking for free voice typing software, you're better off with Google Docs. Most of you may not be aware that Google Docs can accurately convert speech to text. This makes it a handy tool if you find speaking easier than writing. As expected, this voice transcription tool recognizes hundreds of languages, like English, French, Italian, Hindi, etc.
 
@@ -127,13 +141,6 @@ Step1Open a new document on Google Docs and then click Voice typing. The inbuilt
 Step2Next, click the language drop-down arrow on the microphone to choose the transcription language. You can dictate texts in English, Espanol, French, Italian, Afrikaans, Arabic, and more.
 
 Step3Click the Microphone icon to start dictating texts on Google Docs. After dictating enough texts, tap the red Microphone icon and edit your text. It's that simple!
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3.[Audtext](https://audext.com/) \- $60 one-time fee
 
@@ -151,6 +158,13 @@ Step2Drag-n-drop your video or audio file on the program and then choose the tra
 
 Step3Finally, click the transcribed text file to edit it with new texts and punctuations on the inbuilt editor. You can export your transcription in .txt, .srt, or .docx formats. Directly export to Google Drive is also available.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Final Words
 
 Up to this point, you should be ready to get started with the **Microsoft Cognitive Services Speech**. The speech-to-text feature allows you to convert unlimited voices to text on your computer. However, the program can be challenging to set up if you're not a techie.
@@ -165,19 +179,6 @@ In that case, use a more straightforward option like Google Docs to dictate text
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
-
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 
 <ins class="adsbygoogle"
@@ -196,5 +197,21 @@ In that case, use a more straightforward option like Google Docs to dictate text
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-how-to-resize-photos-on-an-iphone/"><u>[New] How to Resize Photos on an iPhone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-expert-audio-enhancement-toolkit/"><u>[New] In 2024, Expert Audio Enhancement Toolkit</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-speak-up-enhancing-interactions-with-youtube-viewers-for-2024/"><u>[New] Speak Up Enhancing Interactions with YouTube Viewers for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/aried-and-eye-catching-vlog-discussion-points-for-2024/"><u>[New] Varied and Eye-Catching Vlog Discussion Points for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-live-streaming-software-vs-hardware-which-is-better/"><u>[Updated] 2024 Approved Live Streaming Software Vs Hardware Which Is Better?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-enabling-adaptive-hdr-mode-in-windows-11-os-for-2024/"><u>[Updated] Enabling Adaptive HDR Mode in Windows 11 OS for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-expert-analysis-vita-video-editor-full-insight/"><u>[Updated] In 2024, Expert Analysis Vita Video Editor - Full Insight</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-360-aerial-panoramas-with-yuneec-breeze-drone-review/"><u>2024 Approved 360 Aerial Panoramas with Yuneec Breeze Drone Review</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/capturing-photographs-from-movies-in-windows-photos-app-for-savvy-users/"><u>Capturing Photographs From Movies in Windows Photos App for Savvy Users</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-nokia-g310-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Nokia G310</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-oppo-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Oppo Phone Now with These Tips</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-for-swift-and-trouble-free-acer-driver-updates/"><u>Step-by-Step Guide for Swift & Trouble-Free Acer Driver Updates</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamline-your-smartphone-screen-activatedeactivate-pip-for-youtube-for-2024/"><u>Streamline Your Smartphone Screen Activate/Deactivate PIP for YouTube for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-quintessential-social-giants-understanding-facebook-twitter-instagram-and-youtube/"><u>The Quintessential Social Giants: Understanding Facebook, Twitter, Instagram, and YouTube</u></a></li>
+</ul></div>
 

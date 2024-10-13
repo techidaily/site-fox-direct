@@ -1,7 +1,7 @@
 ---
 title: "What Are LUTs and How They Change Your Photo"
-date: 2024-09-09T15:25:31.871Z
-updated: 2024-09-10T15:25:31.871Z
+date: 2024-10-11T05:59:32.345Z
+updated: 2024-10-12T18:52:42.012Z
 tags: 
   - screen-recording
   - ai video
@@ -16,12 +16,6 @@ keywords: "LUT Basics,Photo Editing LUTs,LUT Impact on Images,LUTs for Photoshop
 thumbnail: https://thmb.techidaily.com/a65a2d3fb958e05df694286812a1e2454a9d6c6ff463421241eb49561be7ce4c.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Are LUTs and How They Change Your Photo
 
 LUTs are popular in the photographic field for all the appropriate purposes. Photographers are now seriously considering the post-processing step of photography, as editing has gained significance. While editing used to be a time-consuming and arduous operation, it has become much easier with the advent of tools like LUTs.
@@ -56,6 +50,13 @@ Warm or cold tones and bold or washed-out styles are all options provided by the
 
 Photographers may now utilize the same techniques that film, and television editors have used for years to achieve the excellent new aesthetics seen in blockbusters. With quick LUT looks, you can now apply LUTs to your photographs to make your editing work stand out.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to use LUTs using Photoshop CC?
 
 LUTs come pre-installed with programs, but you may also purchase them online and add them to your software. You may even buy a look from your favorite film or television show. In Photoshop, LUTs are simple to apply. You can begin in Photoshop with the original photo, which is an image that was captured locally, unprocessed, and straight out of the camera.
@@ -64,12 +65,6 @@ LUTs come pre-installed with programs, but you may also purchase them online and
 
 ![how to use luts using Photoshop cc](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Choose Adjustment Layer
 
 1. Opt for Color Lookup.
@@ -79,11 +74,12 @@ Choose Adjustment Layer
 ![how to use luts using Photoshop cc - load 3d lut](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 load 3d lut
 
 1. When you select one, you'll see how the color and tone of the image change.
@@ -92,12 +88,6 @@ load 3d lut
 
 LUTs come pre-installed in Photoshop, and you can use them as adjustment layers. As mentioned earlier, they'll alter the image's colors, and some of them will also alter the contrast. But what if you want to add LUTs? To add LUTs to Photoshop, you have two options. The first is really simple; all you have to do is discover the LUT and apply it to that specific project. The alternative is a little more difficult, but it enables you to access your LUTs at all times.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Here's the first method
 
 1. It would be best to unzip the LUT before using it in your project. This is relatively simple, and you may either use specialized software or the built-in unzipping utility in Windows.
@@ -106,11 +96,12 @@ LUTs come pre-installed in Photoshop, and you can use them as adjustment layers.
 4. Select the 'Load 3D LUT' button, then navigate to the directory where you unpacked the LUT files.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Here's the second one
 
 1. Open the LUT folder, which changes the version to your version.
@@ -127,6 +118,19 @@ Grow Together
 
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Closing Thoughts:
 
 LUTs are extremely useful since they allow photographers to save time by using the same LUTs or a set of LUTs for several photographs. Instead of making individual modifications to your photographs, you may color grade them all with the same LUTs. This gives a series a more unified vibe. You can even put them up as Actions in Photoshop.
@@ -137,12 +141,6 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Closing Thoughts:
 
 LUTs are extremely useful since they allow photographers to save time by using the same LUTs or a set of LUTs for several photographs. Instead of making individual modifications to your photographs, you may color grade them all with the same LUTs. This gives a series a more unified vibe. You can even put them up as Actions in Photoshop.
@@ -171,4 +169,24 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-innovative-tactics-for-cutting-edge-macro-video-creation/"><u>[New] 2024 Approved Innovative Tactics for Cutting-Edge Macro Video Creation</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-expert-tips-on-choosing-the-ideal-live-broadcast-service-for-2024/"><u>[New] Expert Tips on Choosing the Ideal Live Broadcast Service for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-illusory-motion-capture-guide/"><u>[New] Illusory Motion Capture Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-digital-diary-documenting-windows-desktop/"><u>[New] In 2024, Digital Diary Documenting Windows Desktop</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-premier-transcriber-platform-video-to-writing/"><u>[New] In 2024, Premier Transcriber Platform Video to Writing</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-pioneering-your-path-in-youtube-livestreams-on-mobiles-for-2024/"><u>[New] Pioneering Your Path in YouTube Livestreams on Mobiles for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-capture-curiosity-with-these-6-video-categories/"><u>[Updated] In 2024, Capture Curiosity with These 6 Video Categories</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-unveiling-the-secrets-of-kinemaster-usage-and-ranking-alternatives-1-10-for-2024/"><u>[Updated] Unveiling the Secrets of KineMaster Usage & Ranking Alternatives 1-10 for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-unveiling-the-visual-magic-lg-27uhd68-4k-sync-tv/"><u>[Updated] Unveiling the Visual Magic LG 27UHD68 4K Sync TV</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-essentials-of-sharing-music-compilations-online/"><u>2024 Approved The Essentials of Sharing Music Compilations Online</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/best-websites-to-access-text-styling-resources-for-2024/"><u>Best Websites to Access Text Styling Resources for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-reality-through-artificial-dreams/"><u>Decoding Reality Through Artificial Dreams</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/economical-android-communication-tools-list/"><u>Economical Android Communication Tools List</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-exceptional-power-for-gopro-hero5-official-sources-and-alternatives/"><u>In 2024, Exceptional Power for GoPro Hero5 Official Sources & Alternatives</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-infinix-note-30-5g-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Infinix Note 30 5G Device</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/perfecting-nature-pics-on-iphone-ultimate-photography-guide/"><u>Perfecting Nature Pics on iPhone Ultimate Photography Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/quick-guide-how-to-save-instagram-livestreams-on-your-device/"><u>Quick Guide: How to Save Instagram Livestreams on Your Device</u></a></li>
+</ul></div>
 

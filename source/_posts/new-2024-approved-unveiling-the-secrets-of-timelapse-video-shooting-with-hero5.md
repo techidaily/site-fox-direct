@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Unveiling the Secrets of Timelapse Video Shooting with Hero5\""
-date: 2024-10-06T16:31:04.614Z
-updated: 2024-10-07T16:24:34.817Z
+date: 2024-10-08T22:37:02.674Z
+updated: 2024-10-13T06:48:31.848Z
 tags: 
   - screen-recording
   - ai video
@@ -83,6 +83,13 @@ Make use of good tripod, a fast and spacious SD card, a suction mount and always
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01M14ATO0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01M14ATO0&linkId=5ce54ea937ecffa6b1b8056b6922abaa)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Making time lapse videos with Wondershare Filmora
 
 [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a powerful and easy to use software with which you can edit your time lapse videos. The Filmora action cam version is going to make your job a lot more easy. It comes with 2 new tools-
@@ -94,10 +101,10 @@ The Instant cutter tool on the other hand can be used for trimming and merging v
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * First, launch the Filmora app and then choose the ‘action cam tool’
@@ -105,23 +112,16 @@ The Instant cutter tool on the other hand can be used for trimming and merging v
 
 ![1-action-cam-tool-fix-entrance](https://images.wondershare.com/filmora/article-images/filmora-splash-screen-0321.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Now go to the Speed tab and bring the Playhead to the exact position where the speed effect is to be applied.
 * Click the Add Marker button. Click the speed marker and drag it onto either side of your timeline so as to choose a number of clips on your timeline.
 
 ![speed-effect-speed-add-marke](https://images.wondershare.com/filmora/article-images/speed-effect-speed-add-marker.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * The speed settings can be adjusted by clicking on the checkbox marked Speed. The speed slider can be moved forward to make it faster up to 20x for the time lapse effect.
@@ -132,10 +132,10 @@ The Instant cutter tool on the other hand can be used for trimming and merging v
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -163,15 +163,19 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-effortless-installation-apple-podcasts-made-simple/"><u>[New] Effortless Installation Apple Podcasts Made Simple</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-ultimate-vr-selection-top-8-must-have-titles/"><u>[New] In 2024, Ultimate VR Selection Top 8 Must-Have Titles</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-premier-script-development-arena/"><u>[Updated] In 2024, Premier Script Development Arena</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-laptop-unlock-free-movie-magic-with-these-tools-for-2024/"><u>[Updated] Laptop Unlock Free Movie Magic with These Tools for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-premier-mac-mkv-solvers-list-for-2024/"><u>[Updated] Premier Mac MKV Solvers List for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/banish-ghost-touch-from-your-iphone-with-these-10-remedies/"><u>Banish Ghost Touch From Your iPhone with These 10 Remedies</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-3-honor-x9b-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Honor X9b Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-learn-how-to-do-velocity-edits-on-pc-to-enhance-your-videos-adjusting-speed-for-dynamic-and-visually-engaging-results/"><u>New 2024 Approved Learn How to Do Velocity Edits on PC to Enhance Your Videos, Adjusting Speed for Dynamic and Visually Engaging Results</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-resolving-issues-with-assassins-creed-mirage-launch/"><u>Troubleshooting Guide: Resolving Issues with Assassin's Creed Mirage Launch</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/unlock-follower-growth-secrets-on-facebook-in-10-simple-ways-for-2024/"><u>Unlock Follower Growth Secrets on Facebook in 10 Simple Ways for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-fb-videos-to-audible-pleasures-online-mp3-creation-secrets/"><u>[New] FB Videos to Audible Pleasures Online MP3 Creation Secrets</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-discovering-the-best-vr-camera-for-adventures/"><u>[Updated] Discovering the Best VR Camera for Adventures</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-maximizing-youtube-earnings-master-the-art-with-500-subscribers/"><u>[Updated] Maximizing YouTube Earnings Master the Art with 500 Subscribers</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-quick-photo-upload-to-your-social-feeds-tips-and-tricks-for-2024/"><u>[Updated] Quick Photo Upload to Your Social Feeds – Tips & Tricks for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-future-is-now-an-overview-of-huawei-p10s-features-for-2024/"><u>[Updated] The Future Is Now An Overview of Huawei P10's Features for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/deciphering-snss-hdr-capabilities-and-comparisons/"><u>Deciphering SNS's HDR Capabilities and Comparisons</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/grasping-the-balance-positives-and-negatives-of-vr-for-2024/"><u>Grasping the Balance Positives and Negatives of VR for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/hands-on-experience-enhancing-silence-with-the-be-quiet-dark-base-pro-901-soundproofing-kit/"><u>Hands-On Experience: Enhancing Silence with the Be Quiet Dark Base Pro 901 Soundproofing Kit</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-christian-hymnal-options-for-ringtone-customization/"><u>In 2024, Christian Hymnal Options for Ringtone Customization</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-complete-audio-solution-for-incomplete-youtube-and-fb-sounds/"><u>In 2024, Complete Audio Solution for Incomplete YouTube and FB Sounds</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-sonic-artistry-and-video-prowess-in-sonys-xperia-xz/"><u>In 2024, Sonic Artistry and Video Prowess in Sony's Xperia XZ</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-oneplus-ace-2-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your OnePlus Ace 2 Phone Network-Ready</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-saving-youtube-videos-as-screen-captures-today-completely-free-for-2024/"><u>Start Saving YouTube Videos as Screen Captures Today - Completely Free for 2024</u></a></li>
 </ul></div>
 

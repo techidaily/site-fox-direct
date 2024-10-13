@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Quickest Quarter Mile - Sochi '22\""
-date: 2024-09-09T15:19:51.972Z
-updated: 2024-09-10T15:19:51.972Z
+date: 2024-10-10T01:59:28.511Z
+updated: 2024-10-13T01:04:24.659Z
 tags: 
   - screen-recording
   - ai video
@@ -16,12 +16,6 @@ keywords: "Sochi Speedway,Olympic QuarterMile,QuickTrackSochi,SochiGoldQuarter,R
 thumbnail: https://thmb.techidaily.com/d568502deceace8c4ecf36ae07d16a3133e76d13956dfbeb425d156edf1af5a5.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Quickest Quarter Mile - Sochi '22
 
 Putting aside the controversy of getting disqualified in 1000 meter short track speed skating, South Korean skater Hwang Dae-heon has captured gold in men’s 1500 meter short track speed skating Olympics 2022\. Hwang Dae-heon managed to beat Canada’s Steven Dubois by the tightest margin of 0.035 seconds. He completed short track speed skating 1500m in 2 minutes and 9.219 seconds.
@@ -39,11 +33,12 @@ Short track speed skating Korea Hwang Dae-heon wins the gold medal.
 ![dae heon wins the gold medal](https://images.wondershare.com/filmora/article-images/dae-heon-wins-the-gold-medal.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Canada’s Steven Dubois wins the silver medal.
 
 ![steven dubois wins the silver medal](https://images.wondershare.com/filmora/article-images/steven-dubois-wins-the-silver-medal.jpg)
@@ -56,22 +51,23 @@ Hwang Dae-heon beats Steven Dubois by the tightest margin of 0.035 seconds.
 
 ![hwang beats steven dubois](https://images.wondershare.com/filmora/article-images/hwang-beats-steven-dubois.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Ren Ziwei shoved Hungarian Shaolin Sandor Liu during the event. The Hungarian naturally could not cope up with time.
 
 ![ren ziwei shoved hungarian](https://images.wondershare.com/filmora/article-images/ren-ziwei-shoved-hungarian.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Ren Ziwei was disqualified for arm blocking Liu. Ren Ziwei has won in 1000 meter short track speed skating previously.
 
 ![ren ziwei was disqualified](https://images.wondershare.com/filmora/article-images/ren-ziwei-was-disqualified.jpg)
@@ -80,16 +76,31 @@ The last leg of competition among skaters before reaching the finishing line at 
 
 ![the last leg of competition](https://images.wondershare.com/filmora/article-images/the-last-leg-of-competition.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Gold medalist Hwang Dae-heon of South Korea poses for the cameras during the awarding ceremony in short track speed skating Olympics 2022.
 
 ![gold medalist hwang](https://images.wondershare.com/filmora/article-images/gold-medalist-hwang.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2\. How to create a video to combine the highlights of short track speed skating 2022?
 
 The best way to present any news related to any sports event is to create a short video containing all the highlights of the event. For example, you can create a video combining all the highlights of short track speed skating 2022 that we have presented in the previous section. You can also collect short clips of the event from social media platforms that have been captured by audiences.
@@ -122,12 +133,6 @@ Step 1: Download and install Filmora on your computer. Launch the application an
 
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step 2: Go to File > Project Settings and set the aspect ratio and resolution as well as frame rate as required.
 
 Step 3: Go to Import > Import Media Files and bring in all the still footages and short clips you have collected. You can also use the option Import with Instant Cutter Tool to trim the footages and clips for uniformity.
@@ -138,12 +143,6 @@ Step 5: Select individual slides and apply Transition, Effects or add Titles and
 
 Step 6: When all the editing work is done, click on Export to save the video on your hard drive and publish online.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 South Korean skater Hwang Dae-heon has won the gold medal in men’s short track speed skating 1500m. This has buried the controversy that cropped up due to South Korean disqualification in 1000m short track speed skating. If you want to make a video highlighting all the important scenes and moments of any sports event, we have illustrated how to make a professional-quality video with Wondershare Filmora.
@@ -165,4 +164,23 @@ South Korean skater Hwang Dae-heon has won the gold medal in men’s short track
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-premium-picks-a-list-of-must-play-google-cardboard-vr-games/"><u>[New] 2024 Approved Premium Picks A List of Must-Play Google Cardboard VR Games</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-top-5-best-monitors-for-playstation5/"><u>[New] 2024 Approved Top 5 Best Monitors for PlayStation5</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-ultimate-12-screen-capture-tools-unlimited-recording/"><u>[New] 2024 Approved Ultimate 12 Screen Capture Tools (Unlimited Recording)</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-essential-software-for-windows-filmmakers-critical-edits-selection-for-2024/"><u>[New] Essential Software for Windows Filmmakers Critical Edits Selection for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-overseeing-the-upgraded-parrot-ar-drone/"><u>[Updated] 2024 Approved Overseeing the Upgraded Parrot AR Drone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-start-your-affordable-webinar-journey-with-youtube/"><u>[Updated] Start Your Affordable Webinar Journey with YouTube</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-apple-iphone-15-pro-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For Apple iPhone 15 Pro</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-chilly-competition-unveiling-highlights-of-2022s-snowboard-cross-showdown/"><u>In 2024, Chilly Competition Unveiling Highlights of 2022'S Snowboard Cross Showdown</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-elevate-your-game-with-immediate-skilled-valorant-thumbnails/"><u>In 2024, Elevate Your Game with Immediate, Skilled Valorant Thumbnails</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-mastering-the-art-of-subtitle-extraction-from-youtube-videos-a-threefold-approach-guide/"><u>In 2024, Mastering the Art of Subtitle Extraction From YouTube Videos A Threefold Approach Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-streamline-your-instagram-content-free-mp4-exporters-for-windowsmac-users/"><u>In 2024, Streamline Your Instagram Content Free MP4 Exporters for Windows/Mac Users</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/macx-dvd/"><u>MacX DVD使用方法と支払納付プロセスについて知りたければ、クレジットカードでご利用-デジアーティ・ソフトウェア</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/mastering-real-time-broadcasting-step-by-step-guide-for-2024/"><u>Mastering Real-Time Broadcasting Step by Step Guide for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/optimize-your-gaming-with-kinemaster-usage-tips-and-comparisons-with-best-online-games-for-2024/"><u>Optimize Your Gaming with KineMaster Usage Tips & Comparisons with Best Online Games for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/the-ultimate-list-of-top-8-iphone-smstext-recovery-solutions-to-never-lose-a-message-again/"><u>The Ultimate List of Top 8 iPhone SMS/Text Recovery Solutions to Never Lose a Message Again</u></a></li>
+</ul></div>
 

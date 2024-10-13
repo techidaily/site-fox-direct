@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Dazzle with Directors' Lighting Tips for Captivating Clips\""
-date: 2024-09-09T15:25:11.052Z
-updated: 2024-09-10T15:25:11.052Z
+date: 2024-10-09T21:38:06.243Z
+updated: 2024-10-13T09:31:53.941Z
 tags: 
   - screen-recording
   - ai video
@@ -16,12 +16,6 @@ keywords: "\"Dazzling Lighting Tips,Director Shots Tricks,Captivating Clip Illum
 thumbnail: https://thmb.techidaily.com/73f237caff1293d1dd4178031db987cf4821ccb81a94a966ce0f48ea51b79037.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Dazzle with Directors' Lighting Tips for Captivating Clips
 
 Many people are wondering how to set up lighting for video shooting. While there are many different ways to set up lighting, some methods are more effective than others.
@@ -54,24 +48,12 @@ For this tutorial, we will use the Three-Point Lighting technique:
 
 ![set the key light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 The key light is the main light that illuminates the subject. You can place it in the front and slightly to one side. For this key light, we use an LED called Aputure 300X as an example, and with a soft box called light Dome 2.
 
 ##### Step2 Set the Fill Light
 
 ![set the fill light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 The fill light is used to fill in the shadows created by the key light. It is usually placed on the opposite side of the subject. For the fill light, we use an Aputure 300D with a fresnel lens attachment.
 
 ##### Step3 Set the Backlight
@@ -86,12 +68,6 @@ Practical lights appear on the camera to add some visual flair. It can be any li
 
 ![use practical lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Then, we also have a LED ring light that shines toward the camera. The light adds even more light to the frame and gives a slight backlight to the subject.
 
 ![led ring light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-5.jpg)
@@ -117,17 +93,12 @@ We usually set the lights around 50% brightness and a color temperature of 5600K
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## Summary
 
 Hopefully, you learned something about lighting by taking a look at our setup. If you want to know and learn about other lighting tutorials, don’t hesitate to let us know in the comments.
@@ -160,4 +131,16 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-7-ideal-monitors-for-digital-artists/"><u>[New] 7 Ideal Monitors for Digital Artists</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-capture-the-scene-without-breaking-the-bank-with-free-tools-for-2024/"><u>[New] Capture the Scene without Breaking the Bank with Free Tools for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-the-essential-step-by-step-for-mac-file-formats/"><u>[New] In 2024, The Essential Step-by-Step for Mac File Formats</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-masterful-bot-networks-on-discord-for-2024/"><u>[New] Masterful Bot Networks on Discord for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-comprehensive-report-dji-inspire-1-reviewed/"><u>[Updated] 2024 Approved Comprehensive Report DJI Inspire 1 Reviewed</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-funimate-the-game-changers-manual/"><u>[Updated] In 2024, Funimate The Game Changer's Manual</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-huawei-p10-analysis-unveiling-performance-and-design/"><u>[Updated] In 2024, Huawei P10 Analysis Unveiling Performance & Design</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/seamless-ocean-shots-top-7-shooting-tips-uncovered-for-2024/"><u>Seamless Ocean Shots Top 7 Shooting Tips Uncovered for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-top-video-editors-for-mac-vn-video-editor-and-beyond/"><u>Updated In 2024, Top Video Editors for Mac VN Video Editor and Beyond</u></a></li>
+</ul></div>
 

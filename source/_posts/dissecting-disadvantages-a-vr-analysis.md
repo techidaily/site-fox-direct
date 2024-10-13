@@ -1,7 +1,7 @@
 ---
 title: "\"Dissecting Disadvantages  A VR Analysis\""
-date: 2024-10-04T16:22:41.833Z
-updated: 2024-10-07T16:49:51.776Z
+date: 2024-10-10T07:55:16.478Z
+updated: 2024-10-13T03:30:01.431Z
 tags: 
   - screen-recording
   - ai video
@@ -42,16 +42,10 @@ _[Virtual Reality Technology: Current State and Future Challenges](https://tools
  Of course with any early stage technology, there are a host of issues to overcome among the first is cost for consumers to participate. Many systems run between $100 and $600 and we have not yet discussed the cost of purchasing experiences or games.
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Low resoultion content, large file size
@@ -75,10 +69,10 @@ _[Virtual Reality Technology: Current State and Future Challenges](https://tools
  There is an addictive quality of Virtual Reality environments that should not be ignored. Those who are regular users of these spaces, even in its developmental state find that it can be hard to stay away. Users find themselves in some cases, preferring the virtual world to the real one. If these anecdotal experiences are being reported by a very small sample size what will be the impact on entire cultures that embrace this technology? Considerations of Virtual Reality must extend into the world of human activity and definitions of normal behavior. And as a reminder most of us who love science fiction have a sense of what true Virtual Reality really is. It should be clear that we are a very long way from enjoying the holodeck.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Best Video Editor: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -86,19 +80,31 @@ _[Virtual Reality Technology: Current State and Future Challenges](https://tools
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -126,15 +132,19 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-sculpt-striking-signs-with-stock-designs-at-no-cost/"><u>[New] 2024 Approved Sculpt Striking Signs with Stock Designs at No Cost</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-smallscreen-capture-critique-plus-options/"><u>[New] 2024 Approved SmallScreen Capture Critique + Options</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-advanced-tricks-for-ios-screenshots-just-got-updated-for-2024/"><u>[New] Advanced Tricks for iOS Screenshots - Just Got Updated for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-zoom-techniques-for-captivating-tiktok-audiences/"><u>[New] Zoom Techniques for Captivating TikTok Audiences</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-prime-16-video-apps-no-cost-on-pcs-and-macs/"><u>[Updated] 2024 Approved Prime 16 Video Apps, No Cost on PCs & Macs</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-from-ordinary-text-to-stunning-three-dimensional-designs-photo-for-2024/"><u>[Updated] From Ordinary Text to Stunning Three-Dimensional Designs PHOTO for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-ultimate-spots-for-discovering-rich-gold-text-effects/"><u>[Updated] In 2024, Ultimate Spots for Discovering Rich, Gold Text Effects</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-different-fb-video-proportions/"><u>2024 Approved Different FB Video Proportions</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/experience-the-9-inch-lenovo-nook-a-complete-hands-on-review/"><u>Experience the 9-Inch Lenovo Nook: A Complete Hands-On Review</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-bridging-photos-and-video-in-pixiz-a-comprehensive-guide/"><u>In 2024, Bridging Photos & Video in Pixiz A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-clearshot-video-amplifier-cross-device-compatible/"><u>[Updated] 2024 Approved ClearShot Video Amplifier - Cross-Device Compatible</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-behind-the-curtains-a-guide-to-youtubes-hidden-videos/"><u>[Updated] In 2024, Behind the Curtains A Guide to YouTube’s Hidden Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-visual-templates-free-eco-friendly-options-for-2024/"><u>[Updated] Visual Templates Free Eco-Friendly Options for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/concealed-crusaders-conflict-with-clarion-champion-for-2024/"><u>Concealed Crusader's Conflict with Clarion Champion for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-6-proven-ways-to-unlock-samsung-galaxy-a25-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Samsung Galaxy A25 5G Phone When You Forget the Password</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-comprehensive-guide-scaling-up-youtube-media/"><u>In 2024, Comprehensive Guide Scaling Up YouTube Media</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-comprehensive-review-navigating-adobe-cloud-plus-comparing-rivals/"><u>In 2024, Comprehensive Review Navigating Adobe Cloud + Comparing Rivals</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/laughter-ledger-ranking-the-highest-viral-jokes/"><u>Laughter Ledger Ranking the Highest Viral Jokes</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/premier-text-manipulation-software-for-ae/"><u>Premier Text Manipulation Software for AE</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/streamline-your-screens-youtube-video-resizing-tricks/"><u>Streamline Your Screens YouTube Video Resizing Tricks</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/the-best-english-voice-generator-to-convert-text-into-desired-accent/"><u>The Best English Voice Generator To Convert Text Into Desired Accent</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/unlock-the-full-potential-of-your-iphone-x-essential-strategies-for-enhanced-usage/"><u>Unlock the Full Potential of Your iPhone X: Essential Strategies for Enhanced Usage</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unlocking-timelapse-magic-with-your-gopro/"><u>Unlocking Timelapse Magic with Your GoPro</u></a></li>
+<li><a href="https://extra-information.techidaily.com/xsplits-prowess-in-streaming-the-obs-counterargument/"><u>XSplit's Prowess in Streaming? The OBS Counterargument</u></a></li>
 </ul></div>
 

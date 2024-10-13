@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Becoming a Color Connoisseur  Top Techniques\""
-date: 2024-09-09T15:24:00.355Z
-updated: 2024-09-10T15:24:00.355Z
+date: 2024-10-12T05:14:46.324Z
+updated: 2024-10-13T09:46:05.824Z
 tags: 
   - screen-recording
   - ai video
@@ -38,24 +38,6 @@ Another way to change the color of the shirt is by navigating to the “Solid Co
 
 ![select hue or color mode](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Tips 2: Use Black and White Colors
 
 Another option in Adobe Photoshop photo color editor to add black or white color to the shirt is by using the "Hue and Saturation Adjustment Layer.” For this, you need to create a group and then apply a layer mask to it by reducing its saturation. After that, you can apply a hue and saturation adjustment layer to it to have a white or black effect on the shirt.
@@ -72,6 +54,13 @@ If you want to add color to your black or white shirt, you can do it by “Hue a
 
 ![ pick the color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4\. Tip 4: Use Direct Selection Color Picker
 
 Through the direct selection color picker, you can change the color of an object instantly. For this, create a “Hue and Saturation Adjustment Layer,” click any part of the picture to change its color. Now drag the sliders of saturation to change the color accordingly. On the reset adjustment layer, you can pick the color from the direct selection, such as from the drop-down menu, you can select colors like reds, blues, greens, and blues.
@@ -81,55 +70,40 @@ At the bottom of the options, you can see two points that will tell you about yo
 ![ change specific color to another color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 5\. Tip 5: Choose Object Color Range
 
 Do you want to change the color of a specific part of the image? You can do this on Adobe Photoshop photo color editor by going to the "Quick Selection Tool" and then applying the colors, but it may leave edges and curves of the object. So, the recommended way is to navigate to the “Select” tab and then click on “Color Range” from its drop-down menu.
 
 ![access color range option](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 After clicking on the color range option, a pop-up window will appear from which tap on “Selection.” You can view your image on the preview window and can select the whole back using the “Selection” tool.
 
 ![select complete object](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-7.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Afterward, create a group in which add layers, mask, and adjustment layers to change the saturation, color, and brightness of the selected area accurately. To only change the color, drag the sliders of hue to do it instantly.
 
 ![change hue for changing color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ### 6\. Tip 6: Use Blend IF
 
 If you want to change the color of leaves on a tree, you can use the “Blend IF” option of Adobe Photoshop to precisely do the changes. Start with duplicating the existing layer and then hiding the second layer. Double click on the layer to open the menu and then use “Blend IF” sliders. This option works when you drag the sliders to black points, and it automatically hides the dark pixels of your photo.
@@ -142,22 +116,17 @@ This method only hides color based on their luminance values; however, this load
 
 ![convert to smart object](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 It helps the user create transparency across the layer. After hiding the layer and coming back to another object-specific layer, you can create a certain change in effect through adjustment layers. For instance, you can create a “Hue and Saturation” adjustment layer. With the above settings, Photoshop applies this as a layer mask for you. Use the sliders across the set layer to change the color across the selected areas.
 
 ![select your new color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 7\. Tip 7: Use Online Photo Editor to Change Colors
 
 If you don’t have an offline tool like Adobe Photoshop, you can use an online photo color editor to replace the colors quickly. In this part, we will suggest [BeFunky](https://www.befunky.com/) photo color editor change the photo colors efficiently.
@@ -167,27 +136,23 @@ To change the color, navigate to this tool and upload the images. Then, head to 
 ![select source color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-12.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 To increase or decrease the intensity of your color, use the “Tolerance” option, and drag it accordingly. If you want to change the hue of the source color, click on the box next to “Target Color.” If you have accidentally applied any color on some part, you can head to erase tab and can remove the alterations from the brush.
 
 ![choose target color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-13.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 Changing the color of a photo can save us a lot of work done and effort. To effortlessly change the photo color, use the mentioned photo color editor in this article to easily execute the changes. Also, we have mentioned an online tool through which you can also change the photo color flawlessly.
@@ -214,4 +179,26 @@ Changing the color of a photo can save us a lot of work done and effort. To effo
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-fading-frequencies-the-gentle-way-with-garageband-for-2024/"><u>[New] Fading Frequencies The Gentle Way with Garageband for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ilm-substitutes-to-stream-top-7-picks-for-2024/"><u>[New] Film Substitutes to Stream - Top 7 Picks for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-getting-ahead-with-snapchats-latest-features/"><u>[New] Getting Ahead with Snapchat's Latest Features</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-navigating-win11-like-a-pro-your-guidebook/"><u>[New] Navigating Win11 Like a Pro - Your Guidebook</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-framing-fantasy-elite-tips-for-elevating-your-photography/"><u>[Updated] 2024 Approved Framing Fantasy Elite Tips for Elevating Your Photography</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-how-to-optimize-your-next-4k-camera-lens-purchase/"><u>[Updated] 2024 Approved How to Optimize Your Next 4K Camera Lens Purchase</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-lifetime-favorites-reddits-highly-endorsed-top-10/"><u>[Updated] 2024 Approved Lifetime Favorites Reddit's Highly-Endorsed Top 10</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-ultimate-checklist-for-efficiently-uploading-tracks-on-youtube/"><u>[Updated] The Ultimate Checklist for Efficiently Uploading Tracks on YouTube</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-unlocking-ps-simple-grading-techniques-for-perfection/"><u>[Updated] Unlocking PS Simple Grading Techniques for Perfection</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/44cm5yq5546h44ki44gp44k544or44oz44oc44oq44ol44o844og44gl44kj44oh44o844k44gu6lplusf6ycf44gq5zue5b6p5oml6acg44cn/"><u>「効率よくスパンボリュームからデータの迅速な回復手順」</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/2024-approved-best-4-morgan-freeman-voice-generator-tools-for-voice-cloning/"><u>2024 Approved Best 4 Morgan Freeman Voice Generator Tools for Voice Cloning</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/choosing-the-top-10-affordable-image-converters-online-for-2024/"><u>Choosing the Top 10 Affordable Image Converters Online for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://win-docs.techidaily.com/passos-simples-para-focar-e-desfocar-areas-em-fotografias-no-editor-photo-do-movavi/"><u>Passos Simples Para Focar E Desfocar Áreas Em Fotografias No Editor Photo Do Movavi</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/review-of-dji-mavic-3-a-leap-forward-in-drone-photography/"><u>Review of DJI Mavic 3: A Leap Forward in Drone Photography</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/triller-unveiled-the-non-tiktok-tiktok-alternatives-secrets/"><u>Triller Unveiled The Non-TikTok, TikTok Alternative's Secrets</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-top-7-innovative-ai-systems-that-simplify-mathematical-problem-solving/"><u>Unveiling The Top 7 Innovative AI Systems That Simplify Mathematical Problem-Solving</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-your-graphics-card-nvidia-geforce-rtx-2070-drivers-for-windows-operating-systems-win-1187/"><u>Update Your Graphics Card: NVIDIA GeForce RTX 2070 Drivers for Windows Operating Systems (Win 11/8/7)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For ZTE Blade A73 5G? | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Chasing Titles  Key Moments From 2022 Olympics Short Tracks\""
-date: 2024-09-09T15:20:15.314Z
-updated: 2024-09-10T15:20:15.314Z
+date: 2024-10-07T23:36:26.963Z
+updated: 2024-10-12T17:03:46.204Z
 tags: 
   - screen-recording
   - ai video
@@ -16,12 +16,6 @@ keywords: "Olympic Short Track,Title Chase 2022,Short Track Titles,Short Track H
 thumbnail: https://thmb.techidaily.com/571b43b53a53cad9b332dce8854b53a71ff048e6605567e6d7468a0e180b6317.jpeg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Chasing Titles: Key Moments From 2022 Olympics Short Tracks
 
 Putting aside the controversy of getting disqualified in 1000 meter short track speed skating, South Korean skater Hwang Dae-heon has captured gold in men’s 1500 meter short track speed skating Olympics 2022\. Hwang Dae-heon managed to beat Canada’s Steven Dubois by the tightest margin of 0.035 seconds. He completed short track speed skating 1500m in 2 minutes and 9.219 seconds.
@@ -29,6 +23,13 @@ Putting aside the controversy of getting disqualified in 1000 meter short track 
 Just two nights ago, the Beijing 2022 Olympic Winter Games was marred with controversy after the questionable disqualification of South Korean speed skaters - Hwang and Lee in 1000 meter skating. Paying no heed to the controversy and unfortunate loss, skater Hwang Dae-heon captured his first gold medal in his career and brought back everyone’s focus to the game. Check out the short track speed skating highlights and learn how to create a video with highlights of a tournament like Beijing 2022 Olympic Winter Games.
 
 ### Watch Video: 10 Best Winter Olympics Highlight Moment \[2022\]
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 1\. Introduce some highlights in short track speed skating with images
 
@@ -43,11 +44,12 @@ Canada’s Steven Dubois wins the silver medal.
 ![steven dubois wins the silver medal](https://images.wondershare.com/filmora/article-images/steven-dubois-wins-the-silver-medal.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Russia’s Semen Elistratov wins the bronze medal.
 
 ![elistratovb wins the bronze medal](https://images.wondershare.com/filmora/article-images/elistratov-wins-the-bronze-medal.jpg)
@@ -60,6 +62,13 @@ Ren Ziwei shoved Hungarian Shaolin Sandor Liu during the event. The Hungarian na
 
 ![ren ziwei shoved hungarian](https://images.wondershare.com/filmora/article-images/ren-ziwei-shoved-hungarian.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Ren Ziwei was disqualified for arm blocking Liu. Ren Ziwei has won in 1000 meter short track speed skating previously.
 
 ![ren ziwei was disqualified](https://images.wondershare.com/filmora/article-images/ren-ziwei-was-disqualified.jpg)
@@ -68,28 +77,17 @@ The last leg of competition among skaters before reaching the finishing line at 
 
 ![the last leg of competition](https://images.wondershare.com/filmora/article-images/the-last-leg-of-competition.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Gold medalist Hwang Dae-heon of South Korea poses for the cameras during the awarding ceremony in short track speed skating Olympics 2022.
 
 ![gold medalist hwang](https://images.wondershare.com/filmora/article-images/gold-medalist-hwang.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## Part 2\. How to create a video to combine the highlights of short track speed skating 2022?
 
 The best way to present any news related to any sports event is to create a short video containing all the highlights of the event. For example, you can create a video combining all the highlights of short track speed skating 2022 that we have presented in the previous section. You can also collect short clips of the event from social media platforms that have been captured by audiences.
@@ -104,12 +102,6 @@ To create such a highlight video on any sports event, there are certain videos e
 
 **Pan and Zoom** – Pan and Zoom is the most commonly used video effect that is applied to still footage. While the footage zooms out, texts and titles are shown or a voiceover is played so that the graphic on the screen does not stay static.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115934/19272" target="_top" id="2115934">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115934" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115934/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### A Professional [Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)
 
 To create a video based on any sport event such as short track speed skating highlights, you need a professional video editor where you can get all the video effects and elements in one place. We recommend Wondershare Filmora where you get a wide range of video effects and editing tools to make your video stand out easily.
@@ -129,11 +121,12 @@ Step 1: Download and install Filmora on your computer. Launch the application an
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Step 2: Go to File > Project Settings and set the aspect ratio and resolution as well as frame rate as required.
 
 Step 3: Go to Import > Import Media Files and bring in all the still footages and short clips you have collected. You can also use the option Import with Instant Cutter Tool to trim the footages and clips for uniformity.
@@ -165,4 +158,22 @@ South Korean skater Hwang Dae-heon has won the gold medal in men’s short track
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-laugh-out-loud-free-memetic-creators/"><u>[New] 2024 Approved Laugh Out Loud FREE Memetic Creators</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-joining-independent-iphone-videos-with-ease/"><u>[Updated] Joining Independent iPhone Videos with Ease</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-professional-4k-at-your-fingertips-benq-bl2711u-uncovered/"><u>[Updated] Professional 4K at Your Fingertips BenQ BL2711U Uncovered</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-dynamicvidxp-reviews-and-rating/"><u>2024 Approved DynamicVidXP Reviews and Rating</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-tech-on-trial-the-lenovo-chromebook-duet-review-and-its-impact-as-an-accessible-2-in-1-gadget/"><u>Affordable Tech on Trial: The Lenovo Chromebook Duet Review and Its Impact as an Accessible 2-in-1 Gadget</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/captivating-classrooms-joyful-language-study/"><u>Captivating Classrooms: Joyful Language Study</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/distinguished-top-5-effortless-action-recorder-recommendations/"><u>Distinguished Top 5 Effortless Action Recorder Recommendations</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/expert-analysis-which-editing-tool-trumps-the-other-filmora-or-democreator-for-2024/"><u>Expert Analysis Which Editing Tool Trumps the Other, Filmora or Democreator for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/high-speed-windowed-image-inspector-for-2024/"><u>High-Speed Windowed Image Inspector for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-visions-of-the-future-the-historical-vr-journey/"><u>In 2024, Visions of the Future The Historical VR Journey</u></a></li>
+<li><a href="https://techidaily.com/mastering-login-names-how-to-update-your-username-in-windows-1110-efficiently/"><u>Mastering Login Names: How to Update Your Username in Windows 11/10 Efficiently</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ps4-wireless-controller-syncing-made-simple-expert-techniques-revealed/"><u>PS4 Wireless Controller Syncing Made Simple: Expert Techniques Revealed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revolutionize-your-paint-job-the-ultimate-guide-to-4-cutting-edge-painting-apps/"><u>Revolutionize Your Paint Job: The Ultimate Guide to 4 Cutting-Edge Painting Apps</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-5-free-editing-software-substitutes-a-pinnacle-studio-pour-pc-et-mac/"><u>Top 5 Free Editing Software Substitutes À Pinnacle Studio Pour PC Et MAC</u></a></li>
+<li><a href="https://change-location.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-vivo-y100-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Vivo Y100? | Dr.fone</u></a></li>
+</ul></div>
 

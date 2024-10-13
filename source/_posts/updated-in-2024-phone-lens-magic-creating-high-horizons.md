@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Phone Lens Magic  Creating High Horizons\""
-date: 2024-09-12T20:52:09.781Z
-updated: 2024-09-15T21:49:55.139Z
+date: 2024-10-05T20:45:21.779Z
+updated: 2024-10-12T22:49:42.743Z
 tags: 
   - screen-recording
   - ai video
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/4cec3aa1742a3433211bae608e6076ab0be167115
 
 ![](https://images.wondershare.com/filmora/article-images/iphone-panorama-mode.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Image source: mac-fusion
 
 * Begin to go along with the upward arrow on the screen to capture the desired vertorama.
@@ -62,6 +69,13 @@ thumbnail: https://thmb.techidaily.com/4cec3aa1742a3433211bae608e6076ab0be167115
 
 ![](https://images.wondershare.com/filmora/article-images/vertical-panorama-android.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Image source: mac-fusion
 
 * To shoot picture, keep holding the target circle on the gray dot until it vanishes.
@@ -69,10 +83,10 @@ thumbnail: https://thmb.techidaily.com/4cec3aa1742a3433211bae608e6076ab0be167115
 * Tap on "Done" when completed.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Some Beneficial Tips for shooting vertical panorama photo
@@ -85,10 +99,10 @@ thumbnail: https://thmb.techidaily.com/4cec3aa1742a3433211bae608e6076ab0be167115
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -114,5 +128,26 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-blend-mp3s-with-presentation-content-in-ppt/"><u>[New] 2024 Approved Blend MP3s with Presentation Content in PPT</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-laugh-out-loud-top-meme-studio/"><u>[New] 2024 Approved Laugh Out Loud Top Meme Studio</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-decode-wmps-techniques-for-efficient-audio-handling-and-recordings/"><u>[New] In 2024, Decode WMP's Techniques for Efficient Audio Handling and Recordings</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-optimal-steps-livestream-and-preserve-real-time-sports-events/"><u>[New] Optimal Steps Livestream and Preserve Real-Time Sports Events</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-explore-top-10-apples-affordable-and-free-image-collage-applications/"><u>[Updated] 2024 Approved Explore Top 10 Apple's Affordable & Free Image Collage Applications</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-how-to-enhance-your-page-posts-amidst-facebooks-shift/"><u>[Updated] 2024 Approved How to Enhance Your Page Posts Amidst Facebook's Shift</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-beginners-aerial-adventure-top-10-best-kids-drones-for-2024/"><u>[Updated] Beginner's Aerial Adventure Top 10 Best Kids' Drones for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-your-ultimate-guide-to-telegram-web-navigation-for-2024/"><u>[Updated] Your Ultimate Guide to Telegram Web Navigation for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-realme-gt-3-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Realme GT 3 Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-on-iphone-14-pro-max-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code On iPhone 14 Pro Max in the Best Ways</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Poco F5 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-reimagining-art-top-6-influencers-shaping-nft-culture/"><u>In 2024, Reimagining Art Top 6 Influencers Shaping NFT Culture</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Samsung Galaxy F14 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-asus-rog-phone-8-pro-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Asus ROG Phone 8 Pro without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-ultimate-eco-conscious-cinematography-setups-guide/"><u>In 2024, Ultimate Eco-Conscious Cinematography Setups Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/lightning-windows-image-inspector/"><u>Lightning Windows Image Inspector</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722958139850-mastering-the-setup-seamless-integration-of-wacom-intuos-3-drivers-into-your-microsoft-based-pc-workstation-a-comprehensive-guide/"><u>Mastering the Setup: Seamless Integration of Wacom Intuos 3 Drivers Into Your Microsoft-Based PC Workstation – A Comprehensive Guide!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pedagogical-approaches-to-video-enhanced-education-for-2024/"><u>Pedagogical Approaches to Video-Enhanced Education for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/the-skyborne-duo-faceoff-dji-mavic-pro-and-gopro-karma/"><u>The Skyborne Duo Faceoff DJI Mavic Pro & GoPro Karma</u></a></li>
+</ul></div>
 

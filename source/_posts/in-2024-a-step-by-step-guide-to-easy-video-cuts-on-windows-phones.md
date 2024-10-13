@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, A Step-by-Step Guide to Easy Video Cuts on Windows Phones\""
-date: 2024-09-09T15:21:47.254Z
-updated: 2024-09-10T15:21:47.254Z
+date: 2024-10-10T16:44:29.548Z
+updated: 2024-10-13T04:35:38.895Z
 tags: 
   - screen-recording
   - ai video
@@ -33,12 +33,6 @@ The in-built editor in Windows 10 Photos can do that for you. Through this artic
 * [**Part1: How to trim video in Windows 10 Photos**](#part1)
 * [**Part2: How to trim video in Windows 10 with VLC**](#part2)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How to trim video in Windows 10 Photos
 
 When you talk about video trimming apps on Windows 10 PC, Photos is the only built-in app capable of doing so. Whether you want to do away with the awkward starting of your video or want to club multiple video clips, get Photos on work for that. Basic level editing is possible with Photos, for additional video editing.
@@ -51,30 +45,19 @@ Here is how to trim videos in [Windows 10 Photos](https://www.microsoft.com/en-u
 
 ![trim videos in windows 10 Photos](https://images.wondershare.com/filmora/article-images/photos-trim.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 3**: On the bottom part of the screen, there are three circles. The start and end of the markers clips are represented by two small white circles. For chopping off the unwanted portions you need to drag and adjust the marker circles. The movement of markers shows a text denoting the total selected length of the clip over the marker. The larger marker represents the present spot of your video clip. Make sure to drag around and adjust the video for including all the important parts within the video.
 
 ![trim videos in windows 10 Photos](https://images.wondershare.com/filmora/article-images/start-trim-photos.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 4**: Once you are happy with the changes, hit the save icon from the top menu. The clip is saved as a copy without impacting your original video in your Windows computer.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: How to trim video in Windows 10 with VLC
 
 Well, as we promised you in the beginning, it's time for the bonus tip! You have understood how to trim videos in Windows 10 Photos, let's explore VLC's magic. When Windows 10 Photos allows you basic level easy trimming for advanced features you can try [VLC](https://www.videolan.org/). For operating systems other than Windows, such as Fedora, Ubuntu, or Mac you won't be able to use Windows 10 Photos, so VLC is a good option for cross-platform video editing.
@@ -88,16 +71,24 @@ Here comes the step by step guide to trim video in VLC –
 ![trim videos in windows 10 using VLC](https://images.wondershare.com/filmora/article-images/vlc-trim-video.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 1. Upon activation of the 'Advanced controls' option, four additional buttons appear over the VLC media player's play/pause button. Now, you got to add the video by 'Open File'. Well, you can also do that by dragging and dropping the video as well.
 2. Select the position from where you want to keep the video and hit the play and record button together.
 3. Now, tap the 'Record' button again where you want to stop the recording. This clip automatically gets saved as an MP4 media file. You can find it within the 'Libraries/Videos' folder if it's a Windows 7 PC.
 
 Note: You won't be trimmed by cutting the video here, rather recording the desired part using the inbuilt VLC decoder. Using the 'Frame by frame' button found under the 'Advanced control' section (the last button from the left) move to the exact frame you wish to begin your recording.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -105,14 +96,21 @@ From the above article, we found that **trimming video in VLC and Windows 10 Pho
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
@@ -136,4 +134,18 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-5-star-channel-cutting-long-urls-down-for-youtube-videos/"><u>[New] 5-Star Channel Cutting Long URLs Down for YouTube Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-enhanced-visual-experience-ios-and-androids-leading-sticker-app-lineup/"><u>[New] Enhanced Visual Experience IOS & Android's Leading Sticker App Lineup</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-expert-advice-incorporating-voiceovers-for-visual-impact/"><u>[New] Expert Advice Incorporating Voiceovers for Visual Impact</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-capture-your-best-side-tips-for-effective-talking-head-shots/"><u>[Updated] In 2024, Capture Your Best Side Tips for Effective Talking-Head Shots</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-ultimate-srt-insights-essential-facts-unveiled/"><u>[Updated] In 2024, Ultimate SRT Insights Essential Facts Unveiled</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-elevating-your-role-play-advanced-closer-views-techniques/"><u>2024 Approved Elevating Your Role-Play Advanced Closer Views Techniques</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-sony-unveils-excellence-the-4k-smartphone-breakthrough-with-xperia-xz/"><u>In 2024, Sony Unveils Excellence The 4K Smartphone Breakthrough with Xperia XZ</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-avoiding-and-repairing-pc-crashes-while-playing-spellbreak/"><u>Solved! Avoiding and Repairing PC Crashes While Playing Spellbreak</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/the-freedom-from-costs-in-final-cut-pro-for-2024/"><u>The Freedom From Costs in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-10-ios-videos-premier-iphone-and-ipad-players/"><u>Top 10 iOS Videos Premier iPhone & iPad Players</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-windows-11-visualizer-for-rapid-images-for-2024/"><u>Top Windows 11 Visualizer for Rapid Images for 2024</u></a></li>
+</ul></div>
 

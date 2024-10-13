@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Weave Humorous Patterns with Adobe Tools for 2024"
-date: 2024-09-12T17:29:17.899Z
-updated: 2024-09-15T17:24:44.258Z
+date: 2024-10-10T06:48:40.804Z
+updated: 2024-10-13T03:15:09.939Z
 tags: 
   - screen-recording
   - ai video
@@ -80,22 +80,29 @@ Step1 Open a brand-new After Effects document. And set your image's dimensions t
 
 ![set image after effects](https://images.wondershare.com/filmora/article-images/2022/07/set-image-after-effects.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 If you want to adjust the size of the background layer, you can unlock it by clicking twice. Drag the desired image onto the After Effects workspace, after uploading it.
 
 Step3 Select your image in the layer panel and then change its size to fit in the required spot. Write the text for the top of the image. Instead of typing the bottom content, use the Duplicate Layer option to duplicate the top text and then change it, as required.
 
 ![change image size ae](https://images.wondershare.com/filmora/article-images/2022/07/change-image-size-ae.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step4 After embellishments, you can save the file in your desired extension: By clicking on the file button and saving it.
 
 ![save meme file ae](https://images.wondershare.com/filmora/article-images/2022/07/save-meme-file-ae.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4: Using Adobe Premiere Pro to Create Meme
 
@@ -115,15 +122,29 @@ Step2 After downloading the selected image, drag it onto the Premiere pro worksp
 
 ![adjust image premiere](https://images.wondershare.com/filmora/article-images/2022/07/adjust-image-premiere.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 Create the project by clicking on ‘create’ which will complete the work.
 
 ![start creating meme premiere](https://images.wondershare.com/filmora/article-images/2022/07/start-creating-meme-premiere.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 5: Adobe Alternative to Create Memes - [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -144,13 +165,6 @@ Step1 Open the Filmora meme maker on your browser. Drag or upload your file on t
 
 ![open filmora meme maker](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121334/18498" target="_top" id="2121334">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121334/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2 Add your desired text and put it in the right position.
 
 ![add desired text](https://images.wondershare.com/filmora/guide/add-titles-win-1.png)
@@ -160,10 +174,17 @@ Step3 Complete your meme and download it.
 ![complete meme and download it](https://images.wondershare.com/filmora/guide/add-titles-win-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Bottom Line
@@ -180,6 +201,19 @@ Step1 Open the Filmora meme maker on your browser. Drag or upload your file on t
 
 ![open filmora meme maker](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 Add your desired text and put it in the right position.
 
 ![add desired text](https://images.wondershare.com/filmora/guide/add-titles-win-1.png)
@@ -187,19 +221,6 @@ Step2 Add your desired text and put it in the right position.
 Step3 Complete your meme and download it.
 
 ![complete meme and download it](https://images.wondershare.com/filmora/guide/add-titles-win-2.png)
-
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -227,5 +248,21 @@ There are a number of different tools available on internet for meme making. And
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-how-to-write-amazing-podcast-descriptions-with-examples-for-2024/"><u>[New] How to Write Amazing Podcast Descriptions (With Examples) for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-innovating-your-reality-essential-vr-peripherals-guide/"><u>[New] In 2024, Innovating Your Reality Essential VR Peripherals Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-securing-your-work-top-10-photo-watermark-solutions/"><u>[New] In 2024, Securing Your Work Top 10 Photo Watermark Solutions</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-ten-steps-to-keeping-vr-healthy/"><u>[New] Ten Steps to Keeping VR Healthy</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-partner-program-2024-how-to-join-and-monetize-your-channel/"><u>[New] YouTube Partner Program 2024 How to Join and Monetize Your Channel</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-a-vloggers-guide-to-camera-lenses/"><u>[Updated] In 2024, A Vlogger's Guide To Camera Lenses</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/big-sur-basics-for-system-and-hardware-enthusiasts/"><u>Big Sur Basics for System & Hardware Enthusiasts</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/discovering-video-producers-digital-command-center/"><u>Discovering Video Producers' Digital Command Center</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-unleash-creativity-personalizing-your-google-meet-interface/"><u>In 2024, Unleash Creativity Personalizing Your Google Meet Interface</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/lock-your-samsung-galaxy-a15-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Samsung Galaxy A15 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://win-blog.techidaily.com/sony-vegas-stabilized-how-to-fix-repeated-crashes/"><u>Sony Vegas Stabilized: How to Fix Repeated Crashes</u></a></li>
+<li><a href="https://discover-community.techidaily.com/speedy-mp4-upload-on-youtube-a-step-by-step-guide-with-no-hiccups/"><u>Speedy MP4 Upload on YouTube: A Step-by-Step Guide with No Hiccups</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/top-iphone-podcast-listening-experiences-for-2024/"><u>Top iPhone Podcast Listening Experiences for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-microphone-issues-expert-tips-and-solutions/"><u>Troubleshooting iPhone Microphone Issues: Expert Tips & Solutions</u></a></li>
+</ul></div>
 

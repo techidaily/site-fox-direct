@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Wallet-Friendly Spherical Camera Systems for Hobbyists\""
-date: 2024-09-14T21:35:17.490Z
-updated: 2024-09-15T21:43:36.107Z
+date: 2024-10-08T00:51:21.430Z
+updated: 2024-10-12T19:20:02.831Z
 tags: 
   - screen-recording
   - ai video
@@ -42,6 +42,13 @@ The 360fly 4k is a slightly more expensive option, retailing around $500\. Unlik
 
 Check this video to watch the 360fly 4k unboxing review:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. [Giroptic](https://www.giroptic.com/intl/en/)
 
 Giroptic also makes a 360-degree camera, simply named the Giroptic 360cam, that retails for about $500\. This camera uses 3 fisheye lenses and combines images into a 360-degree whole in real-time. It has three built-in microphones to capture sound and a gyroscope and accelerometer to stabilize images for videos, photo bursts, and other types of footage. It offers slightly less resolution for video, about 2K at 30fps, but 4K for still images. The 360cam app, for iOS, lets you remotely control the camera over Wi-Fi, but also lets you view, edit and share photos and videos.
@@ -62,19 +69,6 @@ The LG360 cam retails for around $200, making it one of the cheapest phones on t
 
 Check a detailed review about LG360 Cam from this video
 
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. [ALLie Camera](https://allie.camera/)
 
 The ALLie Camera retails for $499 and uses two fisheye lenses to take its 4096x2048 video. One interesting feature is the 10 built-in infrared LEDs that allow you to film in dark environments with a full 360-degree view. Its integrated microphone and speaker allows two-way audio so that users can communicate. Its app lets you view the footage from anywhere and, if your mobile device has gyroscopic motion sensors, change your perspective while viewing footage by tilting and moving the screen. In addition to the app, recording and playback is available through the subscription-based ALLieCam Cloud.
@@ -82,10 +76,16 @@ The ALLie Camera retails for $499 and uses two fisheye lenses to take its 4096x2
 Check a detailed review about Allie Camera from this video
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. [Panono](https://www.panono.com/)
@@ -100,6 +100,13 @@ Centr, a 360-degree cam funded on Kickstarter, retails for $399 and uses 4 110-d
 
 Check a detailed review about Centr 360 camera:
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. [Bublcam](https://www.bublcam.com/)
 
 One of the most expensive cameras in this line-up at around $800, Bublcam uses 4 110-degree lenses to take spherical photos and videos. Taking 14 MP images and 1080p video, it's a hit with photographers for image quality. In addition to this, it has stabilization features activated when the camera is in motion, to keep shaky camera work from ruining your video.
@@ -108,18 +115,24 @@ One of the most expensive cameras in this line-up at around $800, Bublcam uses 4
 
 Bublcam's unboxing review:
 
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 10\. [Nikon Key Mission 360](https://www.nikonusa.com/en/nikon-products/action-cameras/index.page)
 
 Finally, Nikon's upcoming Key Mission 360 camera is built for action. It's a pocket-sized device with dual lenses, and it's meant to be rugged. Nikon advertises that it will be waterproof to 100 feet, and stand up to dust, shock, and cold. The app uses a simple swipe interface to let you get a panoramic view of everything you recorded. The expected retail price is $499.
 
 See more details about Nikon Key Mission 360 camera from this video:
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -150,5 +163,24 @@ Follow @Benjamin Arango
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-design-unique-outro-videos-without-paying-a-penny/"><u>[New] 2024 Approved Design Unique Outro Videos Without Paying a Penny</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-skyrocket-on-instagram-unveiling-your-path-with-top-9-secrets/"><u>[New] 2024 Approved Skyrocket on Instagram Unveiling Your Path with Top 9 Secrets</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-the-cutting-edge-of-photography-iphone-cropping-tips/"><u>[New] 2024 Approved The Cutting Edge of Photography IPhone Cropping Tips</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-dueling-cameras-for-extreme-enthusiasts-gopro-vs-sony-fdr-x1000v-for-2024/"><u>[New] Dueling Cameras for Extreme Enthusiasts GoPro Vs. Sony FDR-X1000V for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-enhance-your-speaking-skills-no-expense-just-free-tools-for-2024/"><u>[New] Enhance Your Speaking Skills – No Expense, Just Free Tools for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-immersive-home-theater-choosing-the-best-3d-players-for-2024/"><u>[New] Immersive Home Theater Choosing the Best 3D Players for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-spectacular-4k-tvs-nine-picks-for-exceptional-color-fidelity/"><u>[New] Spectacular 4K TVs Nine Picks for Exceptional Color Fidelity</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-transform-your-presence-on-facebook-through-live-broadcasting-for-2024/"><u>[New] Transform Your Presence on Facebook Through Live Broadcasting for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-from-zero-to-hero-crafting-an-authoritative-online-self/"><u>[Updated] In 2024, From Zero to Hero Crafting an Authoritative Online Self</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-introducing-the-ultimate-intro-edits-app-of-2023/"><u>[Updated] Introducing the Ultimate Intro Edits App of 2023</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-smartphones-ultimate-guide-to-image-editing-and-annotation/"><u>[Updated] Smartphones' Ultimate Guide to Image Editing & Annotation</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-insiders-look-at-creating-movies-using-windows-8-movie-maker-for-2024/"><u>[Updated] The Insider's Look at Creating Movies Using Windows 8 Movie Maker for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/a-comprehensive-guide-to-successful-fb-cover-video-strategies/"><u>A Comprehensive Guide to Successful FB Cover Video Strategies</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-holistic-editing-experience-panoramashift-evolution/"><u>In 2024, Holistic Editing Experience PanoramaShift Evolution</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Samsung Galaxy A15 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-your-windows-11-top-20-optimizations-guide/"><u>Mastering Your Windows 11: Top 20 Optimizations Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/top-5-gif-making-software-with-the-highest-ratings-for-2024/"><u>Top 5 GIF Making Software with the Highest Ratings for 2024</u></a></li>
+</ul></div>
 

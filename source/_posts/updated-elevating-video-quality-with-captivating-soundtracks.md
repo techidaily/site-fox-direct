@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Elevating Video Quality with Captivating Soundtracks"
-date: 2024-09-11T21:23:46.061Z
-updated: 2024-09-15T22:38:47.944Z
+date: 2024-10-09T18:42:36.918Z
+updated: 2024-10-13T01:28:36.012Z
 tags: 
   - screen-recording
   - ai video
@@ -44,6 +44,13 @@ But here's the good news: the way you add either option is the same in Filmora.
 
 ![add either option](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to add narration
 
 So the easiest way to add narration is directly to a project. The benefit of this is that you can record your narration inside Filmora while you watch the preview of your edited video.
@@ -55,6 +62,13 @@ A good example of this would be narrating a story on top of some still images an
 You put the playhead where you want to start recording and hit the microphone icon under the preview window.
 
 ![hit microphone icon](https://images.wondershare.com/filmora/guide/stt-tts-srt-08.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 A 3-second countdown will pop up and start recording immediately after this countdown.
 
@@ -72,6 +86,13 @@ You can edit pauses or weak parts out of the voiceover to trim it up. But if it 
 
 Fortunately, [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) comes equipped with video b-roll which is another great option. When using b-roll, it's better to use multiple shorter clips than one longer clip in most cases. But adding the same b-roll clip near the beginning and another section of the same b-roll clip, later on, should help you match the length of your narration to the video timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Narration is a great storytelling device
 
 Narration is a fantastic tool to have in your arsenal as a young filmmaker. It allows you to quickly communicate feelings, backstory, and context quickly and effectively.
@@ -87,26 +108,13 @@ When adding voiceover or narration to your project, be sure to use a good USB mi
 ![use good microphone](https://images.wondershare.com/filmora/article-images/2022/11/use-good-microphone.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Also, be sure to check that your external microphone is selected when you start recording. There's nothing worse than nailing the perfect narration and realizing it was recorded with the built-in mic, not your USB microphone.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Should you use narration in your next project?
 
@@ -144,5 +152,23 @@ Filmora makes it easy to add narration of voice-overs to your video projects. Do
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-snapchats-own-creativity-lab-inspire-over-a-hundred-private-stories-with-original-titles/"><u>[New] 2024 Approved Snapchat's Own Creativity Lab Inspire over a Hundred Private Stories with Original Titles</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-androidios-the-ultimate-free-image-editing-tool-guide-top-10-for-2024/"><u>[New] Android/iOS The Ultimate Free Image Editing Tool Guide (Top 10) for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-clip-on-lens-accessories-and-stabilizers/"><u>[New] Clip-On Lens Accessories and Stabilizers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-complete-circular-imaging-and-its-distinct-characteristics-for-2024/"><u>[New] Complete Circular Imaging and Its Distinct Characteristics for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-diving-into-movavis-premium-video-tools-edition/"><u>[New] In 2024, Diving Into Movavi's Premium Video Tools Edition</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-essential-steps-from-youtube-raw-to-mp4-compression/"><u>[New] In 2024, Essential Steps From YouTube Raw to MP4 Compression</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-the-artisans-guide-to-chromatic-mastery/"><u>[New] In 2024, The Artisan's Guide to Chromatic Mastery</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-the-9gag-pathway-to-piling-up-popular-memes-for-2024/"><u>[New] The 9GAG Pathway to Piling Up Popular Memes for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-top-7-streaming-tools-for-mac-os-x/"><u>[Updated] In 2024, Top 7 Streaming Tools for Mac OS X</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-discovering-the-secrets-of-asmr-media/"><u>2024 Approved Discovering the Secrets of ASMR Media</u></a></li>
+<li><a href="https://facebook.techidaily.com/discover-4-game-changing-business-meta-solutions/"><u>Discover 4 Game-Changing Business Meta Solutions</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-tecno-spark-10c-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Tecno Spark 10C in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-weaving-whirlwind-writings/"><u>In 2024, Weaving Whirlwind Writings</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-ultimate-guide-how-to-efficiently-copy-your-dvd-to-your-computer/"><u>The Ultimate Guide: How to Efficiently Copy Your DVD to Your Computer</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-17-gratuite-film-titles-download-sites-vrije-verzameling/"><u>Top 17 Gratuite Film Titles Download Sites - Vrije Verzameling</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/transform-your-videos-soundtrack-no-cost-wmv-to-aiff-file-convertor-web-service/"><u>Transform Your Video's Soundtrack: No Cost WMV to AIFF File Convertor Web Service</u></a></li>
+</ul></div>
 

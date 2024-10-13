@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Mastering Windows 11 Photos  Incorporating Filters & Tunes\""
-date: 2024-10-03T16:24:00.257Z
-updated: 2024-10-07T16:14:15.074Z
+date: 2024-10-07T17:13:31.306Z
+updated: 2024-10-13T02:07:24.597Z
 tags: 
   - screen-recording
   - ai video
@@ -58,6 +58,13 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 
 **Step 5**: Just select one you like. Preview it and then click Done.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to add music on Windows 10 Photos App
 
 Now that you have learnt how to **_add filters using Windows 10 Photos app._** Do you think there is any possibility regarding adding music over it? Adding music to your video would make it more enjoyable. The artificial intelligence feature on Windows 10 Photos app helps it add music to videos with a single click. It’s easy to do, but meanwhile there will be some twitches to the way artificial intelligence videos show up as you try to match the volume and tempo of the music. But, you can do it with the help of default Microsoft tools.
@@ -71,30 +78,29 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 ![ add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-music-to-video-photos-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 4**: Pick ‘Your music’ so that you can set up a custom track. There are over 20 music you can choose. You can also sync music to video's beat. You can visit ‘Recommended’ section for adding default ones.
 
 ![add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/choose-music-to-video-photos-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 5**: Hit the ‘Done’ button.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -104,10 +110,10 @@ From the above article, we conclude that Windows 10 Photos app is an amazing app
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -135,24 +141,20 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-holistic-motion-analysis-2023/"><u>[New] 2024 Approved Holistic Motion Analysis 2023</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-a-look-into-magix-graphic-designer/"><u>[New] A Look Into MAGIX Graphic Designer</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-ultimate-game-gathering-best-7-shooter-experiences/"><u>[New] In 2024, Ultimate Game Gathering Best 7 Shooter Experiences</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-five-star-sierra-video-processing-tools/"><u>[Updated] Five-Star Sierra Video Processing Tools</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-how-to-use-preview-app-on-mac-complete-guide-for-2024/"><u>[Updated] How to Use Preview App on Mac [Complete Guide] for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-enhance-image-edges-with-circular-smear-technique-ps/"><u>[Updated] In 2024, Enhance Image Edges with Circular Smear Technique PS</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-mastering-ringtones-on-ios-a-comprehensible-process/"><u>[Updated] In 2024, Mastering Ringtones on iOS A Comprehensible Process</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-ultimate-box-office-hype-films/"><u>[Updated] In 2024, Ultimate Box Office Hype Films</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-social-media-excellence-a-practical-approach-for-2024/"><u>[Updated] Social Media Excellence A Practical Approach for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-accessing-c-span-archives-at-zero-cost-steps-included/"><u>2024 Approved Accessing C-Span Archives at Zero Cost - Steps Included</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-the-most-massive-lifting-machines-in-the-sky/"><u>2024 Approved The Most Massive Lifting Machines in the Sky</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/create-custom-desktop-applications-from-any-website-without-delay/"><u>Create Custom Desktop Applications From Any Website Without Delay</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/how-to-add-youtube-end-screen-and-cards-effectively-for-2024/"><u>How to Add YouTube End Screen and Cards Effectively for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-from-flat-to-fantastic-animated-text-transformations/"><u>In 2024, From Flat to Fantastic Animated Text Transformations</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-on-iphone-13-mini-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes On iPhone 13 mini?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/navigating-the-world-of-9gag-memes-made-easy/"><u>Navigating the World of 9GAG Memes Made Easy</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/navigating-to-submillion-territory-on-youtube/"><u>Navigating to Submillion Territory on YouTube</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/quick-guide-to-twitter-videos-meet-aspect-ratio-criteria-for-2024/"><u>Quick Guide to Twitter Videos Meet Aspect Ratio Criteria for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revitalize-your-print-setup-with-fresh-drivers-on-win-systems/"><u>Revitalize Your Print Setup with Fresh Drivers on WIN Systems</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-harmony-hunters-dive-into-free-online-beat-tracker/"><u>[New] 2024 Approved Harmony Hunters Dive Into Free, Online Beat Tracker</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-the-best-of-the-best-in-open-world-gaming/"><u>[New] 2024 Approved The Best of the Best in Open World Gaming</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-complete-self-guided-tour-to-host-and-participate-in-google-meet-for-2024/"><u>[New] Complete Self-Guided Tour to Host & Participate in Google Meet for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-pioneering-the-vr-world-essential-gear-ranked-for-2024/"><u>[New] Pioneering the VR World Essential Gear Ranked for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-top-8-criteria-when-expanding-your-4k-setup/"><u>[New] Top 8 Criteria When Expanding Your 4K Setup</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-buy-smart-top-picks-for-high-definition-21-hdmi-screens-for-2024/"><u>[Updated] Buy Smart Top Picks for High-Definition 2.1 HDMI Screens for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-cross-the-threshold-to-100kplus-views-with-this-insightful-tutorial/"><u>[Updated] In 2024, Cross the Threshold to 100K+ Views with This Insightful Tutorial</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-depth-analysis-and-exploration-adobe-storage-vs-competitors-options-for-2024/"><u>[Updated] In-Depth Analysis & Exploration Adobe Storage Vs. Competitors' Options for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-jotunheims-gambit-warriors-of-ragnarok/"><u>[Updated] Jotunheim's Gambit Warriors of Ragnarok</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-honor-x50-gt-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-syncing-images-pc-to-iphone-file-sharing/"><u>In 2024, Syncing Images PC-to-iPhone File Sharing</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/leading-spots-for-stunning-3d-metallic-type-creations-for-2024/"><u>Leading Spots for Stunning 3D Metallic Type Creations for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/leading-websites-your-source-for-legal-skype-ringtones/"><u>Leading Websites Your Source for Legal Skype Ringtones</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-green-screen-on-a-mac-which-software-reigns-supreme-for-2024/"><u>Updated Green Screen on a Mac Which Software Reigns Supreme for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-top-best-15-apps-to-cartoon-yourself-with-ease-iphone-and-android/"><u>Updated In 2024, Top Best 15 Apps to Cartoon Yourself with Ease iPhone & Android</u></a></li>
 </ul></div>
 

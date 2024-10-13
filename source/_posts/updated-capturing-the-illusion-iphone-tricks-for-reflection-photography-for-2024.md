@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Capturing the Illusion  IPhone Tricks for Reflection Photography for 2024\""
-date: 2024-09-09T15:21:57.000Z
-updated: 2024-09-10T15:21:57.000Z
+date: 2024-10-09T22:33:59.136Z
+updated: 2024-10-13T01:07:34.448Z
 tags: 
   - screen-recording
   - ai video
@@ -16,24 +16,12 @@ keywords: "IPhone Reflection Photography,Photo Tricks iPhones,Reflective iPhone 
 thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039d40b57440a0147cb4ded38c.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Capturing the Illusion: IPhone Tricks for Reflection Photography
 
 # Reflection Photography Tips for iPhone
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Ollie Mattison
 
  Mar 27, 2024• Proven solutions
@@ -60,12 +48,6 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 
 ![reflection-photography-for-iPhone](https://images.wondershare.com/filmora/article-images/crystal-ball.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Water in a wine glass (turns everything upside down too!)
 
 ![water-reflection](https://images.wondershare.com/filmora/article-images/water-reflection.jpg)
@@ -82,12 +64,6 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 
 ![reflection-composition-tips](https://images.wondershare.com/filmora/article-images/reflection-composition-tips.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To activate the lines simply go to **Settings > Camera and Photographs > Grid**
 
 #### 3\.  Keep it Simple
@@ -104,12 +80,6 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 
 ![awful-composition](https://images.wondershare.com/filmora/article-images/awful-composition.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### 4\.  Reality and Reflection
 
  Don't just focus on the reflection, these tend to distract from how good the reflection is. Of course if the reflective surface reflects too well and you just focus on that. The image might come out as looking the same as if you had just pointed and shot the subject.
@@ -120,12 +90,6 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 
 ![reality-and-reflection](https://images.wondershare.com/filmora/article-images/reality-and-reflection.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### 5\.  Texture
 
  Using a still reflective surface is good, but reflective photos are more effective if you have been able to capture texture. Where the reflective surface distorts the real life subject, you're able to artistically capture an entirely unique affect each time. This is why waves are a great way to create a truly different image with each shot.
@@ -134,12 +98,6 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 
 ![make-use-of-texture](https://images.wondershare.com/filmora/article-images/make-use-of-texture.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Post Production Reflective Effects
 
  It's possible to create great reflective photographs by using reflective effects after you have taken it. You can deceptively take one of your great photos and use the reflective effect to make it appear on a reflective looking surface. Here's some examples of photos that were created using this effect through software:
@@ -160,16 +118,24 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 ![reflect-mirror-camera-app](https://images.wondershare.com/filmora/article-images/reflect-mirror-camera-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Really easy to use entry level app, you can simply add reflections to your photos and there's also an option to do this as you take the photograph. The user interface is really clean and easy to use. You also get access to a massive library of templates and effects to make photos truly unique.
 
 #### 2\. [Reflection](https://itunes.apple.com/us/app/reflection-create-water-reflection-photo-arts/id672111257?mt=8)
 
 ![reflection-create-water-reflection-photo-arts](https://images.wondershare.com/filmora/article-images/reflection-create-water-reflection-photo-arts.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Super user friendly app lets you create HD photos and it's intuitive feature means you can create reflective photos in a few taps. This is one of the best apps in terms of the quality of images/edits. It has all of the reflective effects of many of the top editing packages like Photoshop.
 
@@ -184,16 +150,30 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 ![photo-mirror-effects-reflection-editor](https://images.wondershare.com/filmora/article-images/photo-mirror-effects-reflection-editor.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Another great choice for getting started with reflective photography. It has some mid range editing features, but this is made up in it's easy of use. Perhaps one of the best free reflective photography apps and you can even share the images directly to your social media feeds.
 
  The app also has a large library of free and premium templates for you to use...
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -218,4 +198,21 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-10-steps-to-become-a-successful-smm/"><u>[New] 2024 Approved 10 Steps to Become a Successful SMM</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-internet-jesters-arsenal/"><u>[New] 2024 Approved Internet Jester's Arsenal</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-elevate-visual-content-with-free-animation-text/"><u>[New] Elevate Visual Content with FREE Animation Text</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-expertly-easy-timekeepers-without-a-price-tag-for-2024/"><u>[New] Expertly Easy Timekeepers Without a Price Tag for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-maximizing-value-in-your-cloud-service-expenditure/"><u>[New] Maximizing Value in Your Cloud Service Expenditure</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-seamless-srt-file-engagement-for-os-users-for-2024/"><u>[New] Seamless SRT File Engagement for OS Users for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-quick-start-guide-to-your-channels-easy-sign-up-button/"><u>[Updated] In 2024, Quick-Start Guide to Your Channel's Easy Sign Up Button</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-unveiling-xstream-studios-complete-exploration-in-156-words/"><u>[Updated] In 2024, Unveiling XStream Studios Complete Exploration in 156 Words</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-tips-to-reduce-compression-artifacts-in-obs/"><u>[Updated] Tips to Reduce Compression Artifacts in OBS</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/freeze-action-with-iphone-mastery-of-motion-blur-techniques/"><u>Freeze Action with iPhone Mastery of Motion-Blur Techniques</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-oneplus-ace-3-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track OnePlus Ace 3 Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-frosty-ambiance-cozy-cinematics-best-bgs-ideas/"><u>In 2024, Frosty Ambiance, Cozy Cinematics Best Bgs Ideas</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-oppo-reno-9a-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Oppo Reno 9A? Fixed | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Nokia C12 Plus? | Dr.fone</u></a></li>
+</ul></div>
 

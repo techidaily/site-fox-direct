@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Photographer's Secret to Color Inversion"
-date: 2024-09-09T15:20:56.934Z
-updated: 2024-09-10T15:20:56.934Z
+date: 2024-10-09T21:57:42.466Z
+updated: 2024-10-13T10:07:12.106Z
 tags: 
   - screen-recording
   - ai video
@@ -22,12 +22,6 @@ thumbnail: https://thmb.techidaily.com/94266fd2abffa49379e11298094d126f869b761ce
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Ollie Mattison
 
  Mar 27, 2024• Proven solutions
@@ -46,12 +40,6 @@ The Invert option is commonly used to invert a scanned film negative to color, b
 
 ![ Invert image color](https://images.wondershare.com/filmora/article-images/ms-paint-invert-color.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Open the photo you’d like to invert with MS Paint, and then choose the **Select All option** from the **Select Menu**. **Right-click** on the picture and click on the **Invert Color** option. The colors in the image will be automatically inverted, so you can then head over to the **Save As submenu** in the **File menu** to select the file format of the new photo.
 
 If you are using Windows XP or an earlier version of the Windows OS, you can invert colors in a photo by clicking on the **Invert Colors option** in the **Image menu**. Even though MS Paint lets you invert image colors easily, it is still better to use a more powerful image editor to edit your photos.
@@ -66,28 +54,10 @@ Besides creating image negatives, the Preview app lets you convert image files a
 
 ![ Invert image color](https://images.wondershare.com/filmora/article-images/mac-preview-invert-color-original.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Clicking on the **Adjust Color feature** will bring up the color adjustment panel that contains **Black Level and White Level** sliders. To invert the colors in the photo you have to drag the **Black Level slider to the right** and the **White Level Slider to the left.**
 
 ![ Invert image color](https://images.wondershare.com/filmora/article-images/mac-preview-invert-color.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 You can experiment with the values you assign to each of these sliders in order to get a more visually pleasing result.
 
 #### 3. Making Image Negatives Online with [PineTools](https://pinetools.com/)
@@ -108,12 +78,6 @@ The platform’s homepage contains a number of categories of tools such as **Col
 
 ![ Covert color](https://images.wondershare.com/filmora/article-images/imageconverter-tjshome.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 In addition to a rich selection of effects you can apply to images, tjshome also lets you browse through **Funny Dumb Laws, Famous Quotes or Funny Status Messages** categories. Click on the **Image Filter** category in order to view all effects the platform offers. Make sure that the **Reverse Colors/Negate effect** is selected, and then scroll further down the page to **upload the photo you’d like to invert.** When the upload process is completed, you can check the Make **Public checkbox** if you want to add your photo to the tjshome’s gallery. Click on the **Submit** button, and then proceed to save the picture to your computer. This platform lets you invert images in three easy steps, but if you want to have more control over the process, it is better to use a more powerful photo editor.
 
 #### 5. Using [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)’s Invert Option
@@ -124,18 +88,6 @@ In addition to a rich selection of effects you can apply to images, tjshome also
 
 ![ Covert color](https://images.wondershare.com/filmora/article-images/ps-convert-color.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 After you open a photo in Adobe Photoshop, you can invert it in just a few clicks. **Expand the Image menu** and the go-to **Adjustments submenu** where you can find the **Invert option**. Alternatively, you can use the **CTRL+I** shortcut if you are a PC user or a **Command+I** if you are using a Mac computer. Moreover, Photoshop lets you **mask parts of a photo** which enables you to precisely define an area of an image you’d like to invert. Other photo editing tools like **Curves, Brightness/Contrast or Photo Filter** can make an image with inverted colors look more convincing. Keep in mind that working with multiple layers requires a lot of patience because failing to mask an object properly can produce some unwanted side issues.
 
 #### 6. Creating Image Negatives With [Gimp](https://www.gimp.org/)
@@ -193,4 +145,33 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024s-best-bargains-in-the-world-of-cloud-storage/"><u>[New] 2024'S Best Bargains in the World of Cloud Storage</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-avoid-washed-out-iphone-hd-videos-4-premiere-pro-methods-for-2024/"><u>[New] Avoid Washed-Out iPhone HD Videos 4 Premiere Pro Methods for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-boosting-social-media-presence-with-effective-fb-instream-ad-plans/"><u>[New] Boosting Social Media Presence with Effective FB Instream Ad Plans</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-bring-your-video-to-life-from-standard-to-hdri-excellence-for-2024/"><u>[New] Bring Your Video to Life From Standard to HDRI Excellence for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-cloud-marketplace-dissecting-cost-structures/"><u>[New] Cloud Marketplace Dissecting Cost Structures</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-combat-chronicles-in-the-ring-or-on-screen/"><u>[New] Combat Chronicles In the Ring or on Screen?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-ensuring-effective-integration-with-apples-platform-for-2024/"><u>[New] Ensuring Effective Integration with Apple's Platform for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-inside-look-the-future-of-home-cam-recordings/"><u>[New] In 2024, Inside Look The Future of Home Cam Recordings</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-supreme-storytelling-spanning-eight-movie-types/"><u>[New] In 2024, Supreme Storytelling Spanning Eight Movie Types</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-laughter-unleashed-a-stepwise-strategy-for-making-impactful-gifs/"><u>[New] Laughter Unleashed A Stepwise Strategy for Making Impactful GIFs</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-step-into-the-realm-of-3d-graffiti-a-guide-to-10-exceptional-websites/"><u>[New] Step Into the Realm of 3D Graffiti A Guide to 10 Exceptional Websites</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-gopro-deep-dive-side-by-side-specification-comparison/"><u>[Updated] 2024 Approved GoPro Deep Dive Side-by-Side Specification Comparison</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/best-online-stock-market-channels-reviewed/"><u>Best Online Stock Market Channels Reviewed</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-tips-getting-your-macbook-pros-keyboard-back-in-action/"><u>Expert Tips: Getting Your MacBook Pro's Keyboard Back in Action</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-nokia-c210-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-samsung-galaxy-f14-5g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Samsung Galaxy F14 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-xsplits-edge-in-livestraning-meet-obs-counterpart/"><u>In 2024, XSplit's Edge in Livestraning? Meet OBS Counterpart</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/selecting-the-safest-and-most-suitable-mobile-devices-for-children-a-comprehensive-review/"><u>Selecting the Safest & Most Suitable Mobile Devices for Children: A Comprehensive Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-review-unveiling-the-latest-hardware-insights/"><u>Tom's Tech Review: Unveiling the Latest Hardware Insights</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
