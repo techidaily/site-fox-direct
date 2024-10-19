@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Mastering Simple HDR Photography Methods"
-date: 2024-10-08T23:06:23.804Z
-updated: 2024-10-12T16:17:41.528Z
+date: 2024-10-17T02:06:57.533Z
+updated: 2024-10-18T17:43:41.161Z
 tags: 
   - screen-recording
   - ai video
@@ -122,29 +122,9 @@ Run [Wondershare Filmora 11](https://tools.techidaily.com/wondershare/filmora/do
 
 ![easy hdr alternative add white sample color](https://images.wondershare.com/filmora/article-images/2022/08/easy-hdr-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Next, select the video and choose White as the color overlay. To do that, open the Sample color options and move the While color on the top timeline.
 
 ![easy hdr alternative add exclusion blending mode](https://images.wondershare.com/filmora/article-images/2022/08/easy-hdr-3.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 After that, it's time to change the Blending Mode of the color overlay. To do that, right-click the color track and choose Edit Properties. Then tap Composition and then select Exclusion on the Blending Mode drop-down menu.
 
@@ -152,36 +132,43 @@ After that, it's time to change the Blending Mode of the color overlay. To do th
 
 ![easy hdr alternative add bw film effect](https://images.wondershare.com/filmora/article-images/2022/08/easy-hdr-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Now tap the Effect tab and search for the B&W Film effect. This film effect should be free to use whether using a paid or free account. After downloading it, add the effect overlay to the video track and export the video.
 
 ##### Step4Import the uploaded video
 
 ![easy hdr alternative set overlay blending mode](https://images.wondershare.com/filmora/article-images/2022/08/easy-hdr-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 After creating the video, import it on Filmora 11 and delete the white color overlay and W&B Film effects. Now add the imported video on the first track, then search and apply a Square Blur effect. Also, change the Blending Mode of the footage to Overlay. Meanwhile, click the Effect tab and adjust the Size slider accordingly. For example, you can choose 10.
 
 ![easy hdr alternative add luma sharp effect](https://images.wondershare.com/filmora/article-images/2022/08/easy-hdr-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Don't stop there. Open the Effects tab and add the Lomo effect to your video. Also, search and add the Luma Sharp effect. Remember that you can retouch these effects accordingly under the Effect tab. And lastly, export the new HDR video. That's it!
 
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Final Words
@@ -274,6 +261,13 @@ With that in mind, we recommend [Wondershare Filmora 11](https://tools.techidail
 
 ![easy hdr alternative load video](https://images.wondershare.com/filmora/article-images/2022/08/easy-hdr-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Run [Wondershare Filmora 11](https://tools.techidaily.com/wondershare/filmora/download/) on your Mac/Win computer and start a new project. After creating a project, click Import Media to upload the video to edit and move it to the storyboard.
 
 ##### Step2Add a blending mode effect
@@ -283,6 +277,13 @@ Run [Wondershare Filmora 11](https://tools.techidaily.com/wondershare/filmora/do
 Next, select the video and choose White as the color overlay. To do that, open the Sample color options and move the While color on the top timeline.
 
 ![easy hdr alternative add exclusion blending mode](https://images.wondershare.com/filmora/article-images/2022/08/easy-hdr-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 After that, it's time to change the Blending Mode of the color overlay. To do that, right-click the color track and choose Edit Properties. Then tap Composition and then select Exclusion on the Blending Mode drop-down menu.
 
@@ -296,13 +297,6 @@ Now tap the Effect tab and search for the B&W Film effect. This film effect shou
 
 ![easy hdr alternative set overlay blending mode](https://images.wondershare.com/filmora/article-images/2022/08/easy-hdr-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 After creating the video, import it on Filmora 11 and delete the white color overlay and W&B Film effects. Now add the imported video on the first track, then search and apply a Square Blur effect. Also, change the Blending Mode of the footage to Overlay. Meanwhile, click the Effect tab and adjust the Size slider accordingly. For example, you can choose 10.
 
 ![easy hdr alternative add luma sharp effect](https://images.wondershare.com/filmora/article-images/2022/08/easy-hdr-6.jpg)
@@ -310,16 +304,10 @@ After creating the video, import it on Filmora 11 and delete the white color ove
 Don't stop there. Open the Effects tab and add the Lomo effect to your video. Also, search and add the Luma Sharp effect. Remember that you can retouch these effects accordingly under the Effect tab. And lastly, export the new HDR video. That's it!
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Final Words
@@ -354,17 +342,16 @@ There you have it. Easy HDR is arguably the most-beginner friendly program to ed
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-elevate-your-inshot-video-segment-flow/"><u>[New] 2024 Approved Elevate Your Inshot Video Segment Flow</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-masterclass-in-cross-platform-content-sharing-instagram-plus-tiktok/"><u>[New] 2024 Approved Masterclass in Cross-Platform Content Sharing Instagram + TikTok</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-charting-new-territories-innovations-in-office-spaces-for-enhanced-output/"><u>[New] In 2024, Charting New Territories Innovations in Office Spaces for Enhanced Output</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-mastery-guide-on-the-world-of-voice-recordings-for-2024/"><u>[New] Mastery Guide on the World of Voice Recordings for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-leaping-from-low-quality-to-hdri-mastery-your-ultimate-guide/"><u>[Updated] 2024 Approved Leaping From Low Quality to HDRI Mastery - Your Ultimate Guide</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-easycast-essential-steps-for-beginner-podcast-streamers/"><u>[Updated] In 2024, EasyCast Essential Steps for Beginner Podcast Streamers</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-playback-of-srt-audio-files-in-computers-windowsmacos-for-2024/"><u>[Updated] Playback of SRT Audio Files in Computers (Windows/macOS) for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-best-ways-to-bypass-icloud-activation-lock-from-iphone-6s-plusipadipod-by-drfone-ios/"><u>In 2024, Best Ways to Bypass iCloud Activation Lock from iPhone 6s Plus/iPad/iPod</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-troubleshooting-error-connecting-to-the-apple-id-server-from-apple-iphone-15-pro-by-drfone-ios/"><u>In 2024, Troubleshooting Error Connecting to the Apple ID Server From Apple iPhone 15 Pro</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/leveraging-windows-11-os-the-installation-of-outlook-preview-app/"><u>Leveraging Windows 11 OS: The Installation of Outlook Preview App</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/sony-vaio-driver-setup-and-download-for-windows-systems-step-by-step-tutorial/"><u>Sony VAIO Driver Setup and Download for Windows Systems - Step-by-Step Tutorial</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-diving-into-benqs-bl2711u-a-professional-4k-monitor-analysis/"><u>[New] Diving Into BenQ’s BL2711U - A Professional 4K Monitor Analysis</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-pros-and-cons-of-virtual-reality/"><u>[New] In 2024, Pros and Cons of Virtual Reality</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-total-takeover-of-powerdirector-with-our-2024-review/"><u>[Updated] Total Takeover of PowerDirector with Our 2024 Review</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/aural-ascendancy-mastering-sound-integration-on-reels-for-2024/"><u>Aural Ascendancy Mastering Sound Integration on Reels for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/chortlecraft-funny-visuals-for-social-engagement/"><u>ChortleCraft Funny Visuals for Social Engagement</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On ZTE Nubia Z60 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-expert-roundup-videonix-editors-capabilities/"><u>In 2024, Expert Roundup Videonix Editor's Capabilities</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-the-art-of-connection-thriving-amidst-algorithm-updates/"><u>In 2024, The Art of Connection Thriving Amidst Algorithm Updates</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-unveiling-the-top-5-virtual-pilots-helmets/"><u>In 2024, Unveiling the Top 5 Virtual Pilot's Helmets</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/which-is-it-for-you-air-or-pro-with-m1-upgrade/"><u>Which Is It for You, Air or Pro with M1 Upgrade?</u></a></li>
 </ul></div>
 

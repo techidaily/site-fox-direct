@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Stepwise Guide for PowerPoint's Speech-to-Text Functionality\""
-date: 2024-10-06T00:28:16.834Z
-updated: 2024-10-13T03:47:21.290Z
+date: 2024-10-15T01:28:24.225Z
+updated: 2024-10-19T04:45:41.798Z
 tags: 
   - screen-recording
   - ai video
@@ -44,25 +44,11 @@ Please note that “enabling speech-to-text” in PowerPoint differs from “usi
 
 ![click on the apple logo](https://images.wondershare.com/filmora/article-images/2022/07/can-you-do-speech-to-text-in-powerpoint-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * **Select the dictation option:** select dictation from the keyboard option and check the **“on/off”** The option also has an advanced feature that allows additional commands.
 
 ![select the dictation option](https://images.wondershare.com/filmora/article-images/2022/07/can-you-do-speech-to-text-in-powerpoint-2.jpg)
 
 Once you activate the dictation from the command button, you can use the speech-to-text feature anywhere you can type on Mac - this applies to PowerPoint. However, you may need some tweaking on PowerPoint to finally use the feature as you prepare your slides.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Enable speech-to-text on Windows**
 
@@ -76,15 +62,29 @@ Aside from the regular Cortana speech recognition on Windows, you can use the sp
 
 ![click on the search button](https://images.wondershare.com/filmora/article-images/2022/07/can-you-do-speech-to-text-in-powerpoint-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How do I dictate PowerPoint for Mac?
 
 It is easy to use PowerPoint on a Mac after activating the **“dictation”** button.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Add speak to the quick access toolbar**
@@ -105,19 +105,6 @@ It is easy to use PowerPoint on a Mac after activating the **“dictation”** b
 
 Now you can click on the microphone button and speak to add text.
 
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Speak clearly, but conversationally**
 
 The smart engine needs to hear you clearly before interpreting the speech into text. Do not mumble or speak fast. Each word should be audible and clearly stated. You can use the keyboard to edit or remove excess words.
@@ -125,6 +112,13 @@ The smart engine needs to hear you clearly before interpreting the speech into t
 ### **Reduce background noise**
 
 Ensure the background noise does not interrupt your speech.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Use the user dictionary**
 
@@ -155,10 +149,10 @@ When you want to make perfect PPT videos, you can use Filmora's STT feature. Won
 What's more, now Filmora's STT feature supports direct transcription of bilingual subtitles with up to 27 languages of transcription in Filmora version 13.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Top Adavantages of Filmora STT
@@ -185,29 +179,42 @@ Click the "Speech-to-Text" icon, and it will show the parameter settings. You ca
 
 ![parameter setting](https://images.wondershare.com/filmora/guide/guide-win/setting-stt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## FAQs
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Does speech-to-text require the internet?**
 
 No, it doesn't. However, you may need the internet to set up some settings.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Does speech-to-text come with a subscription?**
 
 No. The feature is free for all registered users on PowerPoint.
+
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Do you need an additional microphone?**
 
@@ -225,13 +232,6 @@ Speech-to-text is an additional feature for all users. Typing is, however, the d
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 
 <ins class="adsbygoogle"
@@ -252,18 +252,22 @@ Speech-to-text is an additional feature for all users. Typing is, however, the d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-facebook-video-maker-how-to-make-facebook-video/"><u>[New] Facebook Video Maker How to Make Facebook Video</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-humor-unleashed-easymeme-tutorial-without-cost-for-2024/"><u>[New] Humor Unleashed EasyMeme Tutorial Without Cost for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-inside-insights-proclaiming-rights-to-free-clip-art-legally-for-2024/"><u>[New] Inside Insights Proclaiming Rights to Free Clip Art Legally for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-instant-guide-restoring-the-old-school-windows-photo-viewer-on-win-11/"><u>[New] Instant Guide Restoring the Old-School Windows Photo Viewer on Win 11</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-thrifty-shoppers-guide-to-cameras-for-2024/"><u>[New] Thrifty Shopper's Guide to Cameras for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-unveiling-the-art-of-instagram-video-filming-for-2024/"><u>[New] Unveiling the Art of Instagram Video Filming for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-mastering-tiktok-streams-top-4-methods-on-pc/"><u>[Updated] 2024 Approved Mastering TikTok Streams Top 4 Methods on PC</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mobile-laughs-and-memes/"><u>[Updated] Mobile Laughs & Memes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/banish-launch-errors-in-battle-royale-7-proven-solutions-to-get-warzone-20-running-on-pc/"><u>Banish Launch Errors in Battle Royale: 7 Proven Solutions to Get Warzone 2.0 Running on PC</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/digital-dilemmas-squared-chatgpt-to-the-rescue/"><u>Digital Dilemmas Squared: ChatGPT to the Rescue</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-mail-notifications-on-windows-a-comprehensive-guide/"><u>Enhancing Mail Notifications on Windows: A Comprehensive Guide</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/exclusive-list-of-top-5-iphone-podcast-platforms-for-2024/"><u>Exclusive List of Top 5 iPhone Podcast Platforms for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721473165289-overcome-iphone-ringsilent-switch-issues-expert-tips-for-effective-solutions/"><u>Overcome iPhone Ring/Silent Switch Issues: Expert Tips for Effective Solutions</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-8-ultimate-windows-10-video-grabber-apps-you-must-try/"><u>[New] 2024 Approved 8 Ultimate Windows 10 Video Grabber Apps You Must Try</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/irect-download-and-mp3-creation-for-streaming-video-files/"><u>[New] Direct Download & MP3 Creation for Streaming Video Files</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-chinese-vr-headset-marketplace-wonders/"><u>[New] In 2024, Chinese VR Headset Marketplace Wonders</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-navigating-gmail-and-zoom-for-productive-video-collaboration/"><u>[New] Navigating Gmail and Zoom for Productive Video Collaboration</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-navigating-the-world-of-lut-based-color-correction-for-2024/"><u>[New] Navigating the World of LUT-Based Color Correction for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-premiere-music-collections-for-visual-media/"><u>[New] Premiere Music Collections for Visual Media</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-projecting-yourself-to-the-world-with-insta-captions-for-2024/"><u>[New] Projecting Yourself to the World with Insta Captions for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-under-200-high-speed-action-cameras-for-captivating-shots-for-2024/"><u>[New] Under $200 High-Speed Action Cameras for Captivating Shots for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-gag-galore-a-treasury-of-no-cost-memes/"><u>[Updated] 2024 Approved Gag Galore A Treasury of No-Cost Memes</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-a-deep-dive-into-moto-z2s-smarter-side/"><u>[Updated] In 2024, A Deep Dive Into Moto Z2's Smarter Side</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-comprehensive-guide-to-top-8-collaborative-video-collage-tools-android/"><u>[Updated] The Comprehensive Guide to Top 8 Collaborative Video Collage Tools (Android)</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/deconstructing-sharex-and-its-challengers/"><u>Deconstructing ShareX and Its Challengers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-elevating-visual-quality-with-video-enhancer-v22/"><u>In 2024, Elevating Visual Quality with Video Enhancer V2.2</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-apple-id-from-apple-iphone-x-without-password-by-drfone-ios/"><u>In 2024, How to Remove Apple ID from Apple iPhone X without Password?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-samsung-galaxy-m34-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Samsung Galaxy M34 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-when-order-falls-premium-lineup-of-best-zombie-games/"><u>In 2024, When Order Falls Premium Lineup of Best Zombie Games</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/scaling-your-channel-a-guide-to-increased-viewership-and-followers-for-2024/"><u>Scaling Your Channel A Guide to Increased Viewership and Followers for 2024</u></a></li>
 </ul></div>
 

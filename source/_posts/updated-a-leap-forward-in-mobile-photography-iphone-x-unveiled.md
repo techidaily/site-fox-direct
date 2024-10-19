@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] A Leap Forward in Mobile Photography  IPhone X Unveiled\""
-date: 2024-10-10T09:34:05.750Z
-updated: 2024-10-13T06:36:26.767Z
+date: 2024-10-13T08:02:49.235Z
+updated: 2024-10-19T05:51:01.461Z
 tags: 
   - screen-recording
   - ai video
@@ -42,38 +42,11 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
 
  The phone has a brand new rear [camera with two lenses](https://tools.techidaily.com/wondershare/filmora/download/) in a vertical orientation. This new orientation has been chosen to provide more space for the front-facing TrueDepth camera. This camera is tasked with powering the Face ID feature. The TrueDepth system also has a f/2.2 7-megapixel camera for selfies. The feature means Portrait Mode and Portrait Lighting are supported in front-facing mode. With Portrait Lighting, you can dynamically adjust your photo’s lighting with ease. TrueDepth uses an infrared emitter to project more than 30,000 in a recognised pattern onto users’ faces, before photographing the dots for analysis. The function is strengthened with a proximity sensor as well as an ambient light sensor which allows output light levels to be set.
 
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: The importance of depth
 
  With previous versions of the iPhone Plus, the depth maps were only used to blur backgrounds and make subjects pop against them. However, the iPhone X takes the depth information from the two lenses as well as the efficiency of the A11 Bionic chip to offer outstanding new special effects.
 
 ![depth camera](https://images.wondershare.com/filmora/article-images/depth-iphone.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: How to use portrait mode
 
@@ -94,10 +67,23 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
 ![portrait lighting](https://images.wondershare.com/filmora/article-images/PortraitLighting.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 4: Video improvement
@@ -106,7 +92,21 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
 
 ![video improvement](https://images.wondershare.com/filmora/article-images/video-improvement.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **You may also like:** [Best iPhone Stabilizers for Video Shooting >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -141,17 +141,21 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-engaging-ways-to-use-time-with-podcast-tracks/"><u>[New] 2024 Approved Engaging Ways to Use Time with Podcast Tracks</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-from-gameplay-to-video-full-guide-on-ps4-with-obs/"><u>[New] 2024 Approved From Gameplay to Video Full Guide on PS4 with OBS</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-navigating-whatsapps-voice-exchange/"><u>[New] In 2024, Navigating WhatsApp's Voice Exchange</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-explore-advanced-multi-screen-browsing-in-chrome/"><u>[Updated] Explore Advanced Multi-Screen Browsing in Chrome</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-swift-and-simple-acquiring-itunes-radio-episodes/"><u>[Updated] In 2024, Swift and Simple Acquiring iTunes Radio Episodes</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-uncover-the-ultimate-directory-of-no-cost-vector-art-sites/"><u>[Updated] In 2024, Uncover the Ultimate Directory of No-Cost Vector Art Sites</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-virtual-reality-vistas-exploring-sci-fi-worlds-in-top-movies/"><u>[Updated] In 2024, Virtual Reality Vistas Exploring Sci-Fi Worlds in Top Movies</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-14-by-drfone-ios/"><u>How to Unlock iPhone 14?</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-0x80070643-error-comprehensive-guide-to-fix-windows-updates-and-installations/"><u>Solving the 0X80070643 Error: Comprehensive Guide to Fix Windows Updates and Installations</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Motorola Moto G14? | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-price-of-cool-exploring-the-features-value-and-extensive-usb-options-of-the-gigabyte-b650-aorus-elite-ax-reviewed/"><u>The Price of Cool: Exploring the Features, Value, and Extensive USB Options of the Gigabyte B650 Aorus Elite AX Reviewed</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-realme-12plus-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-highlighted-top-5-minimalist-action-camera-picks-for-2024/"><u>[New] Highlighted Top 5 Minimalist Action Camera Picks for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-ultimate-iphone-strategies-for-flawless-audio-downloads/"><u>[New] In 2024, Ultimate iPhone Strategies for Flawless Audio Downloads</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-the-essence-of-chuckles-in-single-photos/"><u>[Updated] 2024 Approved The Essence of Chuckles in Single Photos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-from-forgotten-frames-to-captivating-clip-sequences-for-2024/"><u>[Updated] From Forgotten Frames to Captivating Clip Sequences for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-beyond-indexation-decoding-the-purpose-of-unlisted-videos/"><u>[Updated] In 2024, Beyond Indexation Decoding the Purpose of 'Unlisted' Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-superior-selection-ultimate-cloud-storage-picks-for-2024/"><u>[Updated] Superior Selection Ultimate Cloud Storage Picks for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/do-you-really-need-windows-discover-4-indications-that-suggest-otherwise/"><u>Do You Really Need Windows? Discover 4 Indications That Suggest Otherwise!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-the-ultimate-farming-revamp-7-14-mod-comparison-guide/"><u>In 2024, The Ultimate Farming Revamp #7-14 Mod Comparison Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-cast-local-videos-to-chromecast-a-step-by-step-guide-for-all-devices/"><u>New Cast Local Videos to Chromecast A Step-by-Step Guide for All Devices</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/perfect-iphone-silhouette-captures-101/"><u>Perfect iPhone Silhouette Captures 101</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fixing-the-lego-star-wars-the-skywalker-saga-crash-issue-on-windows/"><u>Resolved: Fixing the 'Lego Star Wars: The Skywalker Saga' Crash Issue on Windows</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/step-by-step-instructions-streaming-nfls-audible-network-onto-your-portable-mp3-device/"><u>Step by Step Instructions: Streaming NFL's Audible Network Onto Your Portable MP3 Device</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-realme-11-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/the-iphone-and-icloud-sync-a-step-by-step-photo-arrangement-guide-for-2024/"><u>The iPhone & iCloud Sync A Step-by-Step Photo Arrangement Guide for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-for-the-outer-worlds-pc-game-crashes/"><u>Troubleshooting Steps for 'The Outer Worlds' PC Game Crashes</u></a></li>
 </ul></div>
 
