@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, GoPro's Hero5 Up Against Yi's High-Res Adventures\""
-date: 2024-09-09T15:14:59.918Z
-updated: 2024-09-10T15:14:59.918Z
+date: 2024-10-18T16:13:42.942Z
+updated: 2024-10-25T03:51:57.236Z
 tags: 
   - screen-recording
   - ai video
@@ -16,30 +16,12 @@ keywords: "GoPro Hero5 Action,Hero5 Vlogging,Hero5 High Res,Yi Camera Feats,Yi P
 thumbnail: https://thmb.techidaily.com/e8e4a6d6a9bc5b040ff402928b53a2666775b46cc9d58e885cce92052d4219a2.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## GoPro's Hero5 Up Against Yi's High-Res Adventures
 
 # GoPro Hero5 Black vs. Yi 4K Action Camera: Which is Better?
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Max Wales
 
  Mar 27, 2024• Proven solutions
@@ -52,12 +34,6 @@ thumbnail: https://thmb.techidaily.com/e8e4a6d6a9bc5b040ff402928b53a2666775b46cc
 
 [Best GoPro Alternatives >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Comparison for Hero5 Black and Yi 4K Action Camera
 
 #### Basic specs comparison table
@@ -91,12 +67,6 @@ thumbnail: https://thmb.techidaily.com/e8e4a6d6a9bc5b040ff402928b53a2666775b46cc
 
 ![Yi 4K action camera touchscreen](https://images.wondershare.com/filmora/article-images/yi-4k-touchscreen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Image source:elproducente.com
 
 **Waterproof:** The biggest benefit of GoPro Hero5 is that it can serve you underwater but YI 4K cannot as you need additional protective case for this camera. But you cannot save your recordings from handling noise in case of GoPro unit. When you go underwater with YI 4K while using protective housing then it is not possible to use its touch screen feature and secondly the audio quality decays by large extent.
@@ -119,12 +89,6 @@ thumbnail: https://thmb.techidaily.com/e8e4a6d6a9bc5b040ff402928b53a2666775b46cc
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -148,4 +112,27 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-breaking-the-myth-of-color-standards-z32x-reviewed/"><u>[New] In 2024, Breaking the Myth of Color Standards Z32X Reviewed</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-popart-app-deep-dive-2024-edition/"><u>[New] PopArt App Deep Dive - 2024 Edition</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-unleash-your-inner-tech-wizard-xbox-one-snapshot-secrets-revealed-for-2024/"><u>[New] Unleash Your Inner Tech Wizard Xbox One Snapshot Secrets Revealed for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-charting-youtubes-untapped-markets-niche-strategies/"><u>[Updated] 2024 Approved Charting Youtube's Untapped Markets Niche Strategies</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-reflect-and-paraphrase-restate-what-youve-heard-in-your-own-words-to-ensure-comprehension-and-ask-clarifying-questions-if-needed/"><u>[Updated] 2024 Approved Reflect and Paraphrase Restate What You've Heard in Your Own Words to Ensure Comprehension, and Ask Clarifying Questions if Needed</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-examining-the-elite-the-top-10-pc-vr-headsets-of-now/"><u>[Updated] Examining the Elite The Top 10 PC VR Headsets of Now</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-ideal-sites-to-discover-3d-golden-tinted-typography/"><u>[Updated] Ideal Sites to Discover 3D Golden Tinted Typography</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-growth-hurdle-cleared-500-subscribers-win/"><u>[Updated] In 2024, Growth Hurdle Cleared 500 Subscribers Win</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-leveraging-virtual-collaboration-with-zoom-and-win11-tools/"><u>[Updated] In 2024, Leveraging Virtual Collaboration with Zoom & Win11 Tools</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-navigating-through-modern-cameras-complex-shooting-modes/"><u>[Updated] In 2024, Navigating Through Modern Camera's Complex Shooting Modes</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-the-ultimate-mac-toolkit-capturing-netflix-views/"><u>[Updated] The Ultimate Mac Toolkit Capturing Netflix Views</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-chucklechrome-memomasters/"><u>In 2024, ChuckleChrome MemoMasters</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-most-effective-ways-to-bypass-iphone-15-activation-lock-by-drfone-ios/"><u>The Most Effective Ways to Bypass iPhone 15 Activation Lock</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

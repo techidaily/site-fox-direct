@@ -1,7 +1,7 @@
 ---
 title: "Innovative Designs in Syma X8C for 2024"
-date: 2024-09-05T01:35:03.875Z
-updated: 2024-09-06T01:35:03.875Z
+date: 2024-10-23T21:58:54.827Z
+updated: 2024-10-24T22:56:23.425Z
 tags: 
   - screen-recording
   - ai video
@@ -73,6 +73,13 @@ thumbnail: https://thmb.techidaily.com/2531084f8c85679ae61e8759b52e3fe4836202538
 
 ![syma vs phantom design](https://images.wondershare.com/filmora/article-images/syma-vs-phantom-design.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If we consider the appearance then it looks close to the Phantom drone but no doubt to say that few variations exists and they make it unique. The overall dimension of this drone unit is 20x20x6.5 whereas maximum weight goes up to 450 grams thus it cannot be called as a tiny drone. When weighted with camera and prop guards, then this unit has overall weight of 600 grams. This dimension and weight makes this drone much stable in air.
 
  This device can also be used without propeller guards because they do not have much role to play in its flights but the added benefit is that removal of prop guards leads to reduced weight and hence flight time gets little improved. The overall length of propeller is about 9” and they are designed of very high quality material.
@@ -89,6 +96,19 @@ thumbnail: https://thmb.techidaily.com/2531084f8c85679ae61e8759b52e3fe4836202538
 
 ![syma x8c controller](https://images.wondershare.com/filmora/article-images/syma-x8c-controller.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Controller or the transmitter of X8C device is small enough that fits perfectly in user’s hands. Construction is completed with ABS plastic material that leads to light weight structure and this controller makes use of 2.4GHz frequency band to send control signals towards drone in air. The best thing to know about Syma X8C is that it can cover the 100 meter range impressively.
 
 #### 6\.  Camera
@@ -98,17 +118,12 @@ thumbnail: https://thmb.techidaily.com/2531084f8c85679ae61e8759b52e3fe4836202538
  A drone cannot be complete without a camera mounted on its top; hence Syma has taken care of users need and they developed Syma X8C with a camera that can record everything in air. Although, it is not able to collect video information with HD quality but you will be glad to know that it is detachable and one can also make additional adjustments over its angles to adjust focus. All the recorded videos are stored inside a 4GB MicroSD card. Further, the attached gimbal assists in much stable footage.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
  By considering all above factors, we must say that Syma X8C is a well designed drone unit that can serve with much better results as an entry level aerial shoot recorder. As the price tag keeps it below $100 range so beginners find it most affordable for their learning needs and the gimbal protection leads to highly stable footage that can be shared on social media sites to impress friends. The control mechanisms is rated as highly responsive so will all these satisfactory features it becomes a must buy product for your air flight adventures.
@@ -116,11 +131,12 @@ thumbnail: https://thmb.techidaily.com/2531084f8c85679ae61e8759b52e3fe4836202538
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -144,4 +160,24 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-10-steps-to-become-a-successful-smm/"><u>[New] 2024 Approved 10 Steps to Become a Successful SMM</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-capture-youtubes-subtitles-on-no-cost-platforms/"><u>[New] 2024 Approved Capture YouTube's Subtitles on No-Cost Platforms</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-internet-jesters-arsenal/"><u>[New] 2024 Approved Internet Jester's Arsenal</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-elevate-visual-content-with-free-animation-text/"><u>[New] Elevate Visual Content with FREE Animation Text</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-foremost-editing-software-for-mobile-creations-for-2024/"><u>[New] Foremost Editing Software for Mobile Creations for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-bridging-the-gap-in-vr-storytelling-and-innovation/"><u>[New] In 2024, Bridging the Gap in VR Storytelling and Innovation</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-starting-point-for-motion-visual-effects-for-2024/"><u>[New] Starting Point for Motion Visual Effects for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fifa-visuals-key-youtube-video-trends/"><u>[Updated] 2024 Approved FIFA Visuals Key YouTube Video Trends</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-take-control-with-kinemaster-a-compreayer-guide-to-android-gameplay/"><u>[Updated] 2024 Approved Take Control with KineMaster A Compreayer Guide to Android Gameplay</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-unveiling-xstream-studios-complete-exploration-in-156-words/"><u>[Updated] In 2024, Unveiling XStream Studios Complete Exploration in 156 Words</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/from-punched-letters-to-lovestruck-emojis-a-step-by-step-guide-to-typing-hearts-online/"><u>From Punched Letters to Lovestruck Emojis: A Step-by-Step Guide to Typing Hearts Online</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/harmonizing-vision-and-voice-the-ultimate-guide-for-2024/"><u>Harmonizing Vision and Voice The Ultimate Guide for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-retro-radeon-tech-boost/"><u>In 2024, Retro Radeon Tech Boost</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/srgb-advantages-over-regular-rgb-for-2024/"><u>Srgb Advantages Over Regular Rgb for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/unlocking-the-potential-of-capturing-digital-entertainment/"><u>Unlocking the Potential of Capturing Digital Entertainment</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-how-to-add-audio-to-avi-2023-update/"><u>Updated 2024 Approved How to Add Audio to AVI-2023 Update</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/why-thickness-isnt-everything-uncovering-the-top-3-features-to-consider-when-choosing-a-tv/"><u>Why Thickness Isn't Everything: Uncovering the Top 3 Features to Consider When Choosing a TV</u></a></li>
+</ul></div>
 

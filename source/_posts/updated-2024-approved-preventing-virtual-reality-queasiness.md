@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Preventing Virtual Reality Queasiness\""
-date: 2024-09-09T15:14:59.526Z
-updated: 2024-09-10T15:14:59.526Z
+date: 2024-10-19T02:58:27.859Z
+updated: 2024-10-24T19:38:47.941Z
 tags: 
   - screen-recording
   - ai video
@@ -16,52 +16,16 @@ keywords: "\"VR Nausea Prevention,AVSR Comfort Tips,Avoidance of VR Sickness,VR 
 thumbnail: https://thmb.techidaily.com/560da63c54300a3a876ba2cfdab00c7431c7174d8c1f2c53836ffd296ae56332.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Preventing Virtual Reality Queasiness
 
 # 10 tips to prevent Oculus Rift VR motion sickness
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Benjamin Arango
 
  Mar 27, 2024• Proven solutions
 
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 10 ways to prevent Oculus Rift motion sickness
 
  While using your Oculus Rift development kits you need to take care of few little things in order to avoid getting any kind of sickness during your game. Although the factors vary from individual to individual since it is more of the bodily response rather than the design variation.
@@ -87,11 +51,12 @@ thumbnail: https://thmb.techidaily.com/560da63c54300a3a876ba2cfdab00c7431c7174d8
 **10\. Try not to move your head a lot.** Since motion sickness directly corresponds to movement, reducing your head movement left and right and up and down in one place can help you lower the chances of sickness.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## What Oculus have done to reduce motion sickness
 
  With the new, innovative VR devices and the head gear technology has taken a huge leap. Oculus Rift has become widely popular among its enthusiastic users. When Oculus released its first Development kit (DevKit 1) the users experienced the symptoms such as nausea, dizziness, sweating and vomiting. Even Oculus CEO Brendan Iribe experienced “motion sickness” with his own product, while using last year’s “DevKit 1” prototype. These sickness issues were so common while using DevKit 1 that its users called it the “Rift Sickness”.
@@ -101,11 +66,12 @@ thumbnail: https://thmb.techidaily.com/560da63c54300a3a876ba2cfdab00c7431c7174d8
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
@@ -129,4 +95,21 @@ Follow @Benjamin Arango
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-effortless-video-preservation-android-and-ios-solutions/"><u>[New] Effortless Video Preservation Android & iOS Solutions</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-from-airwaves-to-archives-expert-tips-on-recording-live-streams/"><u>[New] From Airwaves to Archives Expert Tips on Recording Live Streams</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-how-to-save-and-play-gifs-on-an-iphone/"><u>[New] In 2024, How to Save and Play GIFs on An iPhone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-capturing-faces-to-face-on-fb-top-4-tips/"><u>[Updated] 2024 Approved Capturing Faces-to-Face on FB Top 4 Tips</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-complete-analysis-of-theta-ss-advanced-tech-for-2024/"><u>[Updated] Complete Analysis of Theta S's Advanced Tech for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-lighten-up-with-funny-images-in-adobe/"><u>[Updated] Lighten Up with Funny Images in Adobe</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-seamless-online-gif-to-video-conversion-top-5/"><u>[Updated] Seamless Online GIF to Video Conversion (Top 5)</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-beat-drops-highlighting-this-years-best-music-vids/"><u>[Updated] The Beat Drops Highlighting This Year's Best Music Vids</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/conquer-the-court-without-crashing-solve-your-nba-2k23-pc-issues-with-7-proven-fixes/"><u>Conquer the Court without Crashing: Solve Your NBA 2K23 PC Issues with 7 Proven Fixes!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Samsung Galaxy A15 4G? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-resolving-windows-10-crashes-during-launch-and-booting/"><u>Fixing the Issue: Resolving Windows 10 Crashes During Launch & Booting</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Infinix Hot 40i? | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/premier-selections-versatile-and-affordable-macpc-bd-decoders-for-2024/"><u>Premier Selections Versatile and Affordable Mac/PC BD Decoders for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-complete-beginners-guide-to-utilizing-look-up-tables-luts-for-2024/"><u>The Complete Beginner’s Guide to Utilizing Look-Up Tables (LUTs) for 2024</u></a></li>
+</ul></div>
 

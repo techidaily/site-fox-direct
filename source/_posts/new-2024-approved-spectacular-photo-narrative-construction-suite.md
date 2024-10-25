@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Spectacular Photo Narrative Construction Suite\""
-date: 2024-10-16T18:17:56.402Z
-updated: 2024-10-18T21:24:50.355Z
+date: 2024-10-21T23:25:36.675Z
+updated: 2024-10-25T02:08:34.002Z
 tags: 
   - screen-recording
   - ai video
@@ -46,10 +46,10 @@ Wondershare Photo Story Platinum is an intuitive photo slideshow maker which you
 * Directly share on YouTube, Facebook & virtually anywhere.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Use Wondershare Photo Story Platinum for Windows and Mac
@@ -65,6 +65,13 @@ After the mode selection, click the Add Files button to import your photos and v
 
 ![photo story](https://images.wondershare.com/guide/images/dvd-slideshow-builder-deluxe-ug1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Step 2\. Personalize your photo story
 
 Click the Personalize tab. Then you can add transitions, effects, background music and more t create your own gorgeous photo story.
@@ -72,13 +79,6 @@ Click the Personalize tab. Then you can add transitions, effects, background mus
 You can import your photos and videos at one time and arrange the order by dragging. To tell your own photo story, you can add captions to each photo or record your own voice by click the Voice Over button.
 
 ![Photo Story Platinum](https://images.wondershare.com/guide/images/dvd-slideshow-builder-deluxe-ug2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Step 3\. Publish your photo story
 
@@ -89,10 +89,10 @@ The photo story maker provides sorts of methods for you. For example, if you wan
 ![photo dvd](https://images.wondershare.com/guide/images/dvd-slideshow-builder-deluxe-ug3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Learn more: [user guide of Photo Story Platinum for Windows](https://tools.techidaily.com/wondershare/dvd-slideshow-builder-deluxe/download/) here.
@@ -109,10 +109,10 @@ Learn about the detailed [technical specifications](https://tools.techidaily.com
 [![Download Win Version](https://images.wondershare.com/style/images/download-btn-win.png)](https://download.wondershare.com/dsb%5Fdeluxe%5Ffull18.exe)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
@@ -142,19 +142,22 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-best-8-online-photo-montage-maker-for-2024/"><u>[New] Best 8 Online Photo Montage Maker for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-affordable-flight-masters-top-drone-selections-below-500-for-2024/"><u>[Updated] Affordable Flight Masters Top Drone Selections Below $500 for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-discovering-the-latest-lg-tv-trends-with-bp550-for-2024/"><u>[Updated] Discovering the Latest LG TV Trends with BP550 for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-terrain-trove-top-maps-for-treasure-seeking/"><u>[Updated] Terrain Trove Top Maps for Treasure Seeking</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-understanding-googles-ar-sticker-innovation/"><u>[Updated] Understanding Google's AR Sticker Innovation</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/1728502421163-ssdhdd-windows-1011/"><u>從SSD轉移到HDD：在 Windows 10/11 中如何高效管理檔案（分離方法）</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/approach-contrast-the-objectives-of-pbsd-with-prescriptive-code-requirements/"><u>Approach: Contrast the Objectives of PBSD with Prescriptive Code Requirements</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/cookiebot-tailoring-content-through-smart-analytics-and-personalization/"><u>Cookiebot: Tailoring Content Through Smart Analytics and Personalization</u></a></li>
-<li><a href="https://games-able.techidaily.com/designers-playground-crafting-interactive-adventures-using-chatgpt/"><u>Designer's Playground: Crafting Interactive Adventures Using ChatGPT</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/from-quiet-to-chaos-a-step-by-step-guide-to-fix-no-audio-problems-in-call-of-duty-mobile-warzone-on-your-laptop-or-desktop/"><u>From Quiet to Chaos: A Step-by-Step Guide to Fix No Audio Problems in Call of Duty Mobile (Warzone) on Your Laptop or Desktop</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-enjoy-dvd-content-on-your-new-ps5-console/"><u>How to Enjoy DVD Content on Your New PS5 Console</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-oppo-find-x6-pro-by-fonelab-android-recover-music/"><u>How to restore wiped music on Oppo Find X6 Pro</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-hunters-choice-top-5-ultimate-shot-recording-gear/"><u>In 2024, Hunters' Choice Top 5 Ultimate Shot-Recording Gear</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/secrets-to-uncovering-missed-confidential-images/"><u>Secrets to Uncovering Missed Confidential Images</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-premier-stream-gear-with-superior-360-degree-cameras/"><u>[New] 2024 Approved Premier Stream Gear with Superior 360-Degree Cameras</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-comparing-top-tech-does-active-live-up-to-hype-for-2024/"><u>[New] Comparing Top Tech Does Active Live Up to Hype for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-snapchat-to-device-the-step-by-step-process-explained/"><u>[New] In 2024, Snapchat to Device - The Step by Step Process Explained</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-inside-look-the-tech-behind-m1-max-clip/"><u>[New] Inside Look The Tech Behind M1 Max Clip</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-premier-advice-superior-iphone-audio-artists/"><u>[New] Premier Advice Superior iPhone Audio Artists</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-unlock-video-potential-with-top-titler-ai/"><u>[Updated] 2024 Approved Unlock Video Potential with Top Titler AI</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-top-10-best-add-ons-to-boost-your-gopro/"><u>[Updated] In 2024, Top 10 Best Add-Ons to Boost Your GoPro</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-ultimate-handbook-for-morphvox-transformers/"><u>[Updated] In 2024, Ultimate Handbook for MorphVOX Transformers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-increase-photo-resolution-unaltered-image/"><u>[Updated] Increase Photo Resolution - Unaltered Image</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-innovative-video-edits-leveraging-kinemasters-techniques/"><u>[Updated] Innovative Video Edits Leveraging Kinemaster's Techniques</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/10-best-inspirational-movies-that-will-bring-you-hope-and-power/"><u>10 Best Inspirational Movies That Will Bring You Hope and Power</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-leading-biz-cloud-storage-excellence/"><u>2024 Approved Leading Biz Cloud Storage Excellence</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Itel P40+ | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/economical-vr-headsets-from-the-east-for-2024/"><u>Economical VR Headsets From the East for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-your-pc-for-smoother-phasmophobia-performance-with-lower-cpu-use/"><u>Optimizing Your PC for Smoother Phasmophobia Performance with Lower CPU Use</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/radiant-photography-with-lightrooms-hdr-magic-merge/"><u>Radiant Photography with Lightroom's HDR Magic Merge</u></a></li>
+<li><a href="https://solve-news.techidaily.com/step-by-step-guide-to-fix-the-unreadable-file-error-0xc1ebe-on-windows-1011/"><u>Step-by-Step Guide to Fix the Unreadable File Error 0xC1ebe on Windows 10/11</u></a></li>
 </ul></div>
 
