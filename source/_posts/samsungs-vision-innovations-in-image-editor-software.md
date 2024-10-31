@@ -1,7 +1,7 @@
 ---
 title: "\"Samsung’s Vision  Innovations in Image Editor Software\""
-date: 2024-09-05T01:26:36.962Z
-updated: 2024-09-06T01:26:36.962Z
+date: 2024-10-24T00:47:17.241Z
+updated: 2024-10-31T00:17:06.028Z
 tags: 
   - screen-recording
   - ai video
@@ -63,6 +63,13 @@ Get started editing your photos following our simple step-by-step guide. We are 
 
 ![crop photo](https://images.wondershare.com/filmora/article-images/2022/09/samsung-photo-editor-review-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Resize Photos:** you can resize your photos on the photo editor app by clicking on the three-dot at the top right corner of the edit mode. A resize option will appear to click on it and make the changes you want to your picture.
 
 **Additional and Modification of Filters:** once you are in editing mode, you can add any filter from the pool of beautiful filters available on the photo editor app. The filter button is next to the crop button, click on it and choose any filter you want. You can adjust the filter through the slider below the filter.
@@ -72,6 +79,13 @@ Get started editing your photos following our simple step-by-step guide. We are 
 **Draw on Your Photos:** to draw beautiful objects on your photos click on the 'Doodle button' at the bottom of your editing screen. A window will appear where you can make changes to your brush size, the eraser size, and the color. You can start drawing after making your changes.
 
 ![draw on photos](https://images.wondershare.com/filmora/article-images/2022/09/samsung-photo-editor-review-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Create Collages and GIFs:** To create amazing collages you have to leave the editing mode. Just open your gallery app and click on the 3-dot icon at the top of your screen. Click on create and choose collage or GIF if you want to create a GIF. Then choose the picture you want to use for your Collage or GIF.
 
@@ -85,22 +99,10 @@ Get started editing your photos following our simple step-by-step guide. We are 
 
 **Save Photo:** once you are done editing you can save your photo by clicking on the save button at the top of your screen. This will place your original photo with the edited one. But if you want to keep your original photo you can save the edited copy separately. To save your edited copy separately, click on the 'three dot icon' on the edit mode and click on the save copy on the menu.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: Advantages and Disadvantages of Samsung Photo Editor
 
 Now that we have a better understanding of how this product actually works, we can list its benefits and drawbacks.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Advantages
 
 **First Party App:** a third-party app rarely has the kind of inventive editing tools that the Samsung picture editor does. To make stunning images, you don't need to use other software and can do it right from your gallery app.
@@ -112,11 +114,18 @@ Now that we have a better understanding of how this product actually works, we c
 **Easy To Navigate Interface:** the Samsung Galaxy photo editor app is very easy to use. Its interface is beginners friendly. You can create nice pictures utilizing its tools with little to no photo editing knowledge.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Disadvantages
 
 **Not Suitable for Professional Editing:** although the Samsung photo Galaxy editor app has amazing features it may not meet all the requirements for professional editing.
@@ -134,11 +143,18 @@ If you think Samsung Photo Editor can't meet your editing needs, we may suggest 
 ![picsart photo editor](https://images.wondershare.com/filmora/article-images/2022/09/samsung-photo-editor-review-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024333/7443" target="_top" id="2024333">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024333/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 PicsArt Photo Editor is a top photo editing app with lots of amazing features such as Photo Remix, magic effects, collage, etc. The photo editing app also features a social network integration that allows you to share your edited photos to social media networks directly from the app.
 
 Download: [Android](http://https/play.google.com/store/apps/details?id=com.picsart.studio&hl=en&gl=US) and [Galaxy Store](http://https/galaxystore.samsung.com/detail/com.niyait.photoeditor.picsmaster)
@@ -161,11 +177,12 @@ The AirBrush Photo Editor app is perfect for selfies. It boasts of resourceful e
 ![import choice](https://images.wondershare.com/filmora/article-images/2022/09/samsung-photo-editor-review-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Download: [Android](https://play.google.com/store/apps/details?id=com.magicv.airbrush&hl=en%5FUS&gl=US)
 
  Pros
@@ -183,12 +200,6 @@ Download: [Android](https://play.google.com/store/apps/details?id=com.magicv.air
 
 ![cupslice photo editor](https://images.wondershare.com/filmora/article-images/2022/09/samsung-photo-editor-review-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 The Cupslice photo editor app boasts lots of basic editing features and tools that you can use to create beautiful photos. It has tools like saturation, hue adjustment, contrast, crops, frames, etc.
 
 Download: [Android](https://play.google.com/store/apps/details?id=com.cupslice&hl=en%5FUS&gl=US)
@@ -205,17 +216,12 @@ Download: [Android](https://play.google.com/store/apps/details?id=com.cupslice&h
 * Lacks advanced photo editing features and tools
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 The Samsung Galaxy photo editor app is one unique app that can satisfy your editing desires when utilized well. With the editing tools available on this photo editor, you can switch up your plain photos to beautiful photos.
@@ -252,12 +258,6 @@ This app possesses lots of unique and trending features that you can utilize whe
 
 **Review Original Photo:** Through the Original Review function, you can keep track of how much editing you have done to your photographs. With this function, you can modify a photo while comparing your changes to the original. If you don't want to completely alter the original version of your images after editing them, this will help you stay in check. You can save the edited version after changing it separately from the original.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: How To Use Samsung Photo Editor?
 
 Get started editing your photos following our simple step-by-step guide. We are going to start with simple editing techniques.
@@ -267,11 +267,18 @@ Get started editing your photos following our simple step-by-step guide. We are 
 ![crop photo](https://images.wondershare.com/filmora/article-images/2022/09/samsung-photo-editor-review-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **Resize Photos:** you can resize your photos on the photo editor app by clicking on the three-dot at the top right corner of the edit mode. A resize option will appear to click on it and make the changes you want to your picture.
 
 **Additional and Modification of Filters:** once you are in editing mode, you can add any filter from the pool of beautiful filters available on the photo editor app. The filter button is next to the crop button, click on it and choose any filter you want. You can adjust the filter through the slider below the filter.
@@ -286,12 +293,6 @@ Get started editing your photos following our simple step-by-step guide. We are 
 
 ![create collages and gifs](https://images.wondershare.com/filmora/article-images/2022/09/samsung-photo-editor-review-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Add Text:** to add text to your photo click on the Text button on your photo editing screen. You can then write your text in the available box. You can also change your text color, don't, alignment and background.
 
 **Change Background Effect:** you can change the background effect of your picture by clicking on the "Change Background Effect" at the bottom of your photo.
@@ -304,12 +305,6 @@ Get started editing your photos following our simple step-by-step guide. We are 
 
 Now that we have a better understanding of how this product actually works, we can list its benefits and drawbacks.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Advantages
 
 **First Party App:** a third-party app rarely has the kind of inventive editing tools that the Samsung picture editor does. To make stunning images, you don't need to use other software and can do it right from your gallery app.
@@ -320,18 +315,6 @@ Now that we have a better understanding of how this product actually works, we c
 
 **Easy To Navigate Interface:** the Samsung Galaxy photo editor app is very easy to use. Its interface is beginners friendly. You can create nice pictures utilizing its tools with little to no photo editing knowledge.
 
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Disadvantages
 
 **Not Suitable for Professional Editing:** although the Samsung photo Galaxy editor app has amazing features it may not meet all the requirements for professional editing.
@@ -347,6 +330,13 @@ If you think Samsung Photo Editor can't meet your editing needs, we may suggest 
 **1\. PicsArt Photo Editor**
 
 ![picsart photo editor](https://images.wondershare.com/filmora/article-images/2022/09/samsung-photo-editor-review-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 PicsArt Photo Editor is a top photo editing app with lots of amazing features such as Photo Remix, magic effects, collage, etc. The photo editing app also features a social network integration that allows you to share your edited photos to social media networks directly from the app.
 
@@ -386,12 +376,6 @@ Download: [Android](https://play.google.com/store/apps/details?id=com.magicv.air
 
 ![cupslice photo editor](https://images.wondershare.com/filmora/article-images/2022/09/samsung-photo-editor-review-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 The Cupslice photo editor app boasts lots of basic editing features and tools that you can use to create beautiful photos. It has tools like saturation, hue adjustment, contrast, crops, frames, etc.
 
 Download: [Android](https://play.google.com/store/apps/details?id=com.cupslice&hl=en%5FUS&gl=US)
@@ -437,4 +421,24 @@ The Samsung Galaxy photo editor app is one unique app that can satisfy your edit
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-ensuring-smooth-sailing-for-iphone-xs-face-recognition/"><u>[New] 2024 Approved Ensuring Smooth Sailing for iPhone X's Face Recognition</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-bridging-moments-a-kinemaster-guide-to-transitions-for-2024/"><u>[New] Bridging Moments A Kinemaster Guide to Transitions for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-drone-dynamics-reimagined-the-hubsan-h501s-breakdown/"><u>[New] Drone Dynamics Reimagined - The Hubsan H501S Breakdown</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-expert-tips-for-capturing-desktop-activity-the-ezvide-way/"><u>[New] Expert Tips for Capturing Desktop Activity - The Ezvide Way</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-gold-standard-of-livestream-performances-for-2024/"><u>[New] Gold Standard of Livestream Performances for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-joyous-jigsaw-mobile-editors-crafting-humor-for-2024/"><u>[New] Joyous Jigsaw Mobile Editors Crafting Humor for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-digital-radios-unleashed-the-recorders-essential-handbook/"><u>[Updated] 2024 Approved Digital Radios Unleashed The Recorder's Essential Handbook</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-unrecognizable-images-with-picarts-feature/"><u>[Updated] 2024 Approved Unrecognizable Images with PicArt's Feature</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-best-collection-sites-for-quick-access-to-youtube-vids/"><u>[Updated] Best Collection Sites for Quick Access to YouTube Vids</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-pinnacle-workshop-moniker-composer/"><u>[Updated] In 2024, Pinnacle Workshop Moniker Composer</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-quick-start-to-mastering-io-screen-recording/"><u>[Updated] Quick Start to Mastering IO Screen Recording</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-dive-into-iphone-photo-magic-with-surface-mirror-tips/"><u>In 2024, Dive Into iPhone Photo Magic with Surface Mirror Tips</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-samsung-galaxy-f14-5g-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Samsung Galaxy F14 5G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/mastering-your-first-zoom-webinar-with-ease/"><u>Mastering Your First Zoom Webinar with Ease</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/unmatched-video-capture-selecting-the-best-pc-and-mac-recorder-for-2024/"><u>Unmatched Video Capture Selecting the Best PC & Mac Recorder for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-unleash-your-creative-potential-with-these-top-explainer-video-tools/"><u>Updated 2024 Approved Unleash Your Creative Potential with These Top Explainer Video Tools</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/videobrill-studio-affordable-video-editors-guide/"><u>Videobrill Studio Affordable Video Editors Guide</u></a></li>
+</ul></div>
 

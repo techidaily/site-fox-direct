@@ -1,0 +1,171 @@
+---
+title: "\"[New] In 2024, Capturing Virtual Reality  IPhone Edition\""
+date: 2024-10-29T22:54:49.416Z
+updated: 2024-10-30T21:11:37.356Z
+tags: 
+  - screen-recording
+  - ai video
+  - ai audio
+  - ai auto
+categories: 
+  - ai
+  - screen
+description: "\"This Article Describes [New] In 2024, Capturing Virtual Reality: IPhone Edition\""
+excerpt: "\"This Article Describes [New] In 2024, Capturing Virtual Reality: IPhone Edition\""
+keywords: "VR iPhone Tech,IPhones in VR,VR iPhone Experience,IPhone VR Capture,VR on iPhone,Virtual Reality iPhone,IPhone VR Technology"
+thumbnail: https://thmb.techidaily.com/d568e250a0c9cf38c4b89f922cd02103ab4f1762aadda7b19c3a1266ed366a54.jpg
+---
+
+## Capturing Virtual Reality: IPhone Edition
+
+# How to Make 360 Videos with iPhone
+
+![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+##### Benjamin Arango
+
+ Mar 27, 2024• Proven solutions
+
+The advancements in 360 degree video capturing gadgets have created a revolution in this world and now photographers are enjoying the adventurous activities with all this latest stuff. There are so many camera units available in market, that are specially designed to capture spherical videos but the cost also varies with features and brand type. If you are interested to capture 360 videos but are not able to manage your budget to buy such latest devices then also it is possible to [create wonders](https://tools.techidaily.com/wondershare/filmora/download/) in the world of 360 degree videos. Yes! It is possible with iPhone to capture 360 degree videos and it will result wonderful output. The 360 degree videos can be captured with iPhones and you can also have a preview of those [amazing shoots](https://tools.techidaily.com/wondershare/filmora/download/).
+
+* [1\. Accessories for iPhone to make 360 videos](#part1)
+* [2\. Apps for iPhone to make 360 videos](#part2)
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## Accessories for iPhone to make 360 videos
+
+An iPhone camera has lots of features but it is not able to capture 360 degree videos by itself, you have to make some additional arrangements. There are some specially designed gadgets and accessories in market that you need to pair up with your iPhone to generate spherical video outcome. Here are few details about the most popular and compatible accessories that you can use with your iPhone to make 360 degree videos:
+
+ **1\. [Kogeto Dot 360 degree camera lens:](https://www.amazon.com/gp/product/B005NFIOK0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B005NFIOK0&linkId=98c0acb1ce018c0bb13cc86974de79f7)**
+
+![Make 360 video with iPhone - Kogeto](https://images.wondershare.com/filmora/article-images/make-360-video-with-iphone-kogeto-dot-6.jpg)
+
+The Kogeto dot is one basic accessory that comes with a plastic lens and possesses one snap on type clip that assists in attaching it to backside of your iPhone. This lens allows users to capture 360 degree videos and the results are like professional videographer. It can help you at almost all events as like parties, sport contests and concerns because these are easier to hold and use. The dot is capable enough to capture scenes around the lens but you have to take care about keeping your fingers at right position otherwise they will disturb your video. This accessory is available in various color combinations as like green, red, pink and black and it is super easy to attach and detach.
+
+ **2\. [Insta360 Nano:](https://www.insta360.com/)**
+
+![Make 360 video with iPhone - Insta360](https://images.wondershare.com/filmora/article-images/make-360-video-with-iphone-360-insta.jpg)
+
+If you are a crazy facebook user then you might have seen lots of spherical video stuff over there and definitely you might be curious to develop your own adventurous videos now. Don’t worry! It is much easier to create outstanding videos with iPhone by using an additional attachment termed as Insta360 Nano. This works like a lightning jack for iPhone where users can hold their phone in any direction and the application inside managed everything to create wonderful 360 degree stuff. Insta360 Nano has abilities to create live stream videos and they can be directly saved to MicroSD card inside your device. It will definitely be something crazy, creative and innovative and you will love to use these accessories.
+
+ **3\. Bubblescop:**
+
+![Make 360 video with iPhone - Bubblescope](https://images.wondershare.com/filmora/article-images/make-360-video-with-iphone-bubblescope.jpg)
+
+The Bubblescop is a well known lens attachment specially designed for iPhone to enhance its 360 degree video capturing ability. It works in coordination with BubblePix application and its lens plus mirror type arrangement allows users to focus on complete 360 degree view. There is a customized case designed for iPhones that supports holding of Bubblescop accessory and allows camera to line up perfectly.
+
+ **4\. [EyeSee360:](http://store.gopano.com/)**
+
+![Make 360 video with iPhone - EyeSee360](https://images.wondershare.com/filmora/article-images/make-360-video-with-iphone-360-eyesee360.jpg)
+
+GoPano Micro is one of the latest tiny version of lenses for digital cameras and it is developed by EyeSee360\. This accessory works perfectly with iPhone and allows users to create adventures in the world of 360 degree videos. It is important to download GoPano app for developing great stuff with GoPano accessory and you will be glad to know that it can save videos automatically.
+
+ **5\. [Shot:](https://www.kickstarter.com/projects/shot/shot-turn-your-iphone-into-a-virtual-reality-camer)**
+
+![Make 360 video with iPhone - Shot](https://images.wondershare.com/filmora/article-images/make-360-video-with-iphone-shot.jpg)
+
+Again, this is a popular 360 degree attachment for iPhone devices that allows VR shooting and works in coordination with Shot app. This accessory is designed to support iPhone 6/6s as well as iPhone 6/6s Plus and is much easier to use; the results are outstanding with amazing VR quality.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Apps for iPhone to make 360 videos
+
+It is much easier to shoot 360 degree videos with iPhone if you have specially designed accessories and applications. To make your VR shooting task much easier, some manufacturers have designed following stuff:
+
+**[1\. Discovery VR:](http://www.discoveryvr.com)**
+
+If you have spent time on Discovery Channel then definitely you would love to know about discovery app that is designed for iPhones to add a feature of 360 degree recording. It will support your creation of adventurous short films, wildlife recordings, Mythbusters and documentaries. The best thing to know is that it is available for free but sad part is its ability to capture small videos only.
+
+ **2\. YouTube:**
+
+The all reality stuff can be experienced with this specially designed application for iOS; install it on your device and then type #360video. Soon you will find an VR icon in your search results, just strap on viewer to go through all 2D online stuff using your headset and enjoy the virtual reality. It is also available for free but you need to consume memory of your phone to download and install it.
+
+ **3\. NYT VR ([iOS](https://itunes.apple.com/cn/app/nyt-vr-virtual-reality-stories/id1028562337) or [Android](https://play.google.com/store/apps/details?id=com.im360nytvr&hl)):**
+
+Within last few months, the New York Time is boosting and expanding all its online and print stories that are working with its specially designed VR app. It is designed to work with Google Cardboards and give awesome results at output. The best part to know is that it comes with smartphone viewing mode and sad thing is that you need to buy Google Cardboards to run this app. Available for free.
+
+ **4\. Orbulus ([iOS](https://itunes.apple.com/us/app/vr-mojo-orbulus-special-edition/id998882503) or [Android](https://play.google.com/store/apps/details?id=com.VRCraftworks.Orbulus&hl)):**
+
+This app is same as that of Oculus Photo Viewer, it works with iOS and Cardboards to give awesome 360 degree view. Orbulus is wonderful choice for still images as well as spherical videos and it makes everything much easier for the user.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### Conclusion
+
+There are no limitations to the world of 360 degree video recording and iOS users are now able to enjoy all amazing stuff on their own device without making investment on costly gears. If you are one of the VR content lover then it is right time to order your latest accessory along with VR app designed for iPhone and enter into the world of adventure.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Benjamin Arango
+
+Benjamin Arango is a writer and a lover of all things video.
+
+Follow @Benjamin Arango
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-future-proof-cameras-top-2024-choices/"><u>[New] Future-Proof Cameras Top 2024 Choices</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-jokeglyph-customize-funny-visuals-easily/"><u>[New] In 2024, Jokeglyph Customize Funny Visuals Easily</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-telegrams-launchpad-for-aspiring-advertisers-a-starters-handbook-for-2024/"><u>[New] Telegram's Launchpad for Aspiring Advertisers A Starter's Handbook for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-the-path-to-prominence-elevating-brands-with-telegram-strategies/"><u>[New] The Path to Prominence Elevating Brands with Telegram Strategies</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-dive-into-the-delight-filmoras-premier-10-features/"><u>[Updated] 2024 Approved Dive Into the Delight Filmora's Premier 10 Features</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-step-by-step-turn-your-ios-images-into-accessible-pdfs/"><u>[Updated] In 2024, Step by Step Turn Your IOS Images Into Accessible PDFs</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-mastering-medical-and-wellness-fb-ad-success-for-2024/"><u>[Updated] Mastering Medical & Wellness FB Ad Success for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-non-youtube-video-editing-discover-the-top-5-newcomers-for-2024/"><u>[Updated] Non-YouTube Video Editing Discover the Top 5 Newcomers for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-transforming-photos-with-easy-online-cropping-steps/"><u>[Updated] Transforming Photos with Easy Online Cropping Steps</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-ultimate-guide-to-3d-blu-ray-players-for-home-viewing-for-2024/"><u>[Updated] Ultimate Guide to 3D Blu-Ray Players for Home Viewing for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-access-face-id-on-your-iphone-try-these-successful-fixes-numbered-1-to-aturin-a-deep-dive-into-apples-face-id-solutions/"><u>Can't Access Face ID on Your iPhone? Try These Successful Fixes, Numbered 1 to Aturin: A Deep Dive Into Apple’s Face ID Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-on-using-system-file-checker-sfc-and-deployment-image-servicing-dism-to-restore-windows-10/"><u>Expert Tips on Using System File Checker (SFC) and Deployment Image Servicing (DISM) to Restore Windows 10</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/highly-rated-netatmo-weather-station-an-ideal-choice-for-smartphone-enthusiasts/"><u>Highly Rated Netatmo Weather Station: An Ideal Choice for Smartphone Enthusiasts</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-14-pro-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 14 Pro without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-dynamic-video-grading-the-premium-selection-of-cine-luts-for-gopro/"><u>In 2024, Dynamic Video Grading The Premium Selection of Cine LUTs for Gopro</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-quick-video-growth-top-20-hacks-for-instant-impact/"><u>In 2024, Quick Video Growth Top 20 Hacks for Instant Impact</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/installation-guide-handbrake-with-libdvdcss-on-macos-and-windows-10-dvd-ripping-made-easy/"><u>Installation Guide : Handbrake with Libdvdcss on macOS & Windows 10 - DVD Ripping Made Easy</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/smart-vision-tech-leaders-unveiling-the-superior-choices-for-2024/"><u>Smart Vision Tech Leaders: Unveiling the Superior Choices for 2^024</u></a></li>
+<li><a href="https://discover-help.techidaily.com/step-by-step-guide-cloning-a-disk-onto-an-ssd-for-optimal-performance-using-secure-boot-in-windows-10/"><u>Step-by-Step Guide: Cloning a Disk Onto an SSD for Optimal Performance Using Secure Boot in Windows 10</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Stepwise Journey  Becoming a Pro with Audacity for Recording\""
-date: 2024-10-19T16:21:01.649Z
-updated: 2024-10-24T20:55:07.629Z
+date: 2024-10-24T21:34:13.089Z
+updated: 2024-10-30T22:17:03.339Z
 tags: 
   - screen-recording
   - ai video
@@ -42,10 +42,10 @@ Step3To choose the kind of track you want, click "Tracks" at the top of the page
 Step4To begin the recording, simply click the "Record" button. As soon as you press record, an audio graph of your voice should start to display. Using the "Shift + R" hotkeys on your keyboard, you can add a new recording if you'd like to.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Recording using Mac
@@ -61,10 +61,16 @@ Step3In the "Device" section of the Audacity preferences box, choose "Soundflowe
 Step4Launch audacity, then open the app whose audio you wish to record. To begin the recording, click the "Record" button.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Export your audio
@@ -115,15 +121,20 @@ Simply select the necessary file format from the drop-down box that appears next
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-navigate-the-melody-maze-crafting-a-personalized-youtube-playlist/"><u>[New] 2024 Approved Navigate the Melody Maze Crafting a Personalized YouTube Playlist</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-free-youtube-outro-kings-6-top-suggestions-for-2024/"><u>[New] Free YouTube Outro Kings 6 TOP Suggestions for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-next-gen-ai-picture-perfection-software/"><u>[Updated] In 2024, Next-Gen AI Picture Perfection Software</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-mastering-online-methods-to-perfect-vhs-picture-editing-for-2024/"><u>[Updated] Mastering Online Methods to Perfect VHS Picture Editing for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/dive-into-action-footage-selecting-top-notch-cams-addons/"><u>Dive Into Action Footage Selecting Top-Notch Cams Addons</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/elevate-your-design-game-with-expert-level-3d-text-tips/"><u>Elevate Your Design Game with Expert-Level 3D Text Tips</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-exclusive-soundstage-shows/"><u>In 2024, Exclusive Soundstage Shows</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-recordscreenpro-windows-10-edition/"><u>In 2024, RecordScreenPro Windows 10 Edition</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-samsung-galaxy-a15-5g-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Samsung Galaxy A15 5G Phone Hassle-Free</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/simplify-multitasking-on-iphone-activatedeactivate-youtubes-pip-feature/"><u>Simplify Multitasking on iPhone Activate/Deactivate YouTube's PIP Feature</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-essential-guide-to-manipulating-time-with-phantom/"><u>[New] 2024 Approved Essential Guide to Manipulating Time with Phantom</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-ultimate-selection-choosing-excellent-free-srt-translators/"><u>[New] In 2024, Ultimate Selection Choosing Excellent FREE SRT Translators</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-revolutionary-background-swap-tools-frameswitch-prodigy/"><u>[Updated] 2024 Approved Revolutionary Background Swap Tools FrameSwitch Prodigy</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-skillful-3d-text-creation-with-ai/"><u>[Updated] In 2024, Skillful 3D Text Creation with AI</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-essential-guide-for-perfecting-crossfade-artistry-with-audacity/"><u>[Updated] The Essential Guide for Perfecting Crossfade Artistry with Audacity</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-resolve-chromebooks-video-issue/"><u>2024 Approved Resolve Chromebook's Video Issue</u></a></li>
+<li><a href="https://driver-install.techidaily.com/advanced-media-drivers-amd-audio/"><u>Advanced Media Drivers - AMD Audio</u></a></li>
+<li><a href="https://win11.techidaily.com/diminish-high-graphics-draw-of-desktop-window-manager-on-windows/"><u>Diminish High Graphics Draw of Desktop Window Manager on Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/diy-domestic-singalongs-planning-and-executing-a-perfect-karaoke-evening-at-home/"><u>DIY Domestic Singalongs: Planning and Executing a Perfect Karaoke Evening at Home</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/expert-guide-seamless-music-migration-from-your-mac-computer-to-your-ipod/"><u>Expert Guide: Seamless Music Migration From Your Mac Computer to Your iPod</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-streamlining-ad-revenue-post-monetization-yt-tips-and-tricks/"><u>In 2024, Streamlining Ad Revenue Post-Monetization YT Tips & Tricks</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/mediasphere-app-user-experience-report-for-2024/"><u>MediaSphere App User Experience Report for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-oneplus-open-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/sky-in-spectacue-prime-platforms-showcasing-hdr-imagery-for-2024/"><u>Sky in Spectacue - Prime Platforms Showcasing HDR Imagery for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/swiftly-restore-working-airdrop-between-apple-gadgets-and-macs-for-2024/"><u>Swiftly Restore Working AirDrop Between Apple Gadgets & Macs for 2024</u></a></li>
 </ul></div>
 

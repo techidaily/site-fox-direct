@@ -1,7 +1,7 @@
 ---
 title: "Immediate Fixes for the Recurring Windows 10 Photos Crashes"
-date: 2024-10-21T04:32:32.091Z
-updated: 2024-10-24T16:12:27.472Z
+date: 2024-10-28T21:16:32.802Z
+updated: 2024-10-30T17:44:24.965Z
 tags: 
   - screen-recording
   - ai video
@@ -58,15 +58,21 @@ Here is how to troubleshoot –
 
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/Troubleshooter.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. From the list of Apps displayed on the screen, click ‘Windows Store Apps’ and press the ‘Next’ button.
 2. Now, the troubleshooter will troubleshoot every app within the Windows Store Applications and fix them in a jiffy.
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Solution 2: Restore Default Libraries
 
@@ -79,13 +85,6 @@ Restoring the default libraries would resolve the Windows 10 Photos App crash is
 
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/windows-10-photos-app-crashes-restore.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. Lastly, click on ‘Apply’ followed by ‘OK’ and the issue will be resolved.
 
 ### Solution 3: Reset it
@@ -97,6 +96,13 @@ Here is how can you reset it –
 1. Go to ‘Windows 10 Start Menu’ and then click ‘Settings’. Now, click the ‘Apps (Apps & Features)’ option followed by the ‘Photos’ app.
 2. Hit ‘Advanced Options’ and click ‘Reset’ button thereafter.
 3. Now, you got to restart your Windows system, so that Windows 10 Photos App crashing problem can be easily resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 4: Repair Photos App package
 
@@ -121,10 +127,10 @@ Here is how to reinstall the Windows 10 Photos App –
 3. Install ‘Microsoft Photos’ after downloading it from there. Your Windows 10 Photos App crashing issue is well taken care of now.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -133,14 +139,14 @@ From the above article, we have concluded that experiencing Windows 10 Photos Ap
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -167,19 +173,17 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-frolics-in-film-an-analytical-review-on-vhs/"><u>[New] 2024 Approved 'Frolics in Film' An Analytical Review on VHS</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-beyond-the-standard-unique-augmented-reality-stickers/"><u>[New] 2024 Approved Beyond the Standard Unique Augmented Reality Stickers</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-luts-unveiled-transforming-the-lands-market/"><u>[New] 2024 Approved LUTs Unveiled Transforming the Lands Market</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-essential-strategies-for-finding-fabulous-and-free-images-on-pexels-for-2024/"><u>[New] Essential Strategies for Finding Fabulous and Free Images on Pexels for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-innovative-image-editors-your-ultimate-text-companion/"><u>[New] Innovative Image Editors Your Ultimate Text Companion</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-podcast-logo-basics-key-principles-for-striking-art/"><u>[New] Podcast Logo Basics Key Principles for Striking Art</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-indie-filmmakers-online-youtube-tutorials-for-growth/"><u>[Updated] 2024 Approved Indie Filmmakers Online YouTube Tutorials for Growth</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-surpass-everyday-photo-taking-with-ios-11/"><u>[Updated] In 2024, Surpass Everyday Photo-Taking with iOS 11</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/boost-your-like-ratio-tips-for-squaring-up-videos-for-2024/"><u>Boost Your Like Ratio Tips for Squaring Up Videos for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/fine-tune-video-aspect-ratios-for-instagram-bliss/"><u>Fine-Tune Video Aspect Ratios for Instagram Bliss</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/from-raw-to-stunning-the-role-of-luts-in-premiere-editing/"><u>From Raw to Stunning The Role of LUTs in Premiere Editing</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Samsung Galaxy Z Flip 5? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/jokecrafters-log-in-to-make-a-difference-for-2024/"><u>JokeCrafters Log In to Make a Difference for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/orbital-oasis-expertly-reviewed-success-stories/"><u>Orbital Oasis: Expertly Reviewed Success Stories</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-logic-pro-method-to-gradually-reduce-audio-levels/"><u>[New] 2024 Approved Logic Pro Method to Gradually Reduce Audio Levels</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-enlightening-editing-paths-to-audience-appealing-descriptors-for-2024/"><u>[New] Enlightening Editing Paths to Audience-Appealing Descriptors for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-fading-fast-with-premiere-pro/"><u>[New] Fading Fast with Premiere Pro</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-how-to-use-luts-in-adobe-photoshop-cc/"><u>[New] How to Use LUTs in Adobe PhotoShop CC</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-best-free-screen-recording-apps-reviewed-and-ranked/"><u>[Updated] In 2024, Best Free Screen Recording Apps Reviewed & Ranked</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-no-copyrights-required-best-10-melodies-for-zen-practice/"><u>[Updated] No Copyrights Required - Best 10 Melodies for Zen Practice</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-the-top-5-cameras-for-professional-grade-twitch-broadcasting/"><u>2024 Approved The Top 5 Cameras for Professional-Grade Twitch Broadcasting</u></a></li>
+<li><a href="https://fox-that.techidaily.com/earbud-troubles-heres-what-to-do-when-one-airpod-sounds-louder-than-its-pairing/"><u>Earbud Troubles? Here's What to Do When One AirPod Sounds Louder Than Its Pairing</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/evaluating-the-performance-of-levelplay-combat-air-ca4-cpu-cooler-unmatched-quietness-and-reliability/"><u>Evaluating the Performance of Levelplay Combat Air CA4 CPU Cooler: Unmatched Quietness & Reliability</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-streamlined-screen-recording-on-mac-best-apps-of-choice/"><u>In 2024, Streamlined Screen Recording on Mac Best Apps of Choice</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/launchpad-logic-the-complete-framework-for-founders-of-a-reviews-channel/"><u>Launchpad Logic The Complete Framework for Founders of a Reviews Channel</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-make-your-mark-16-top-rated-free-video-makers-for-aspiring-filmmakers/"><u>Updated In 2024, Make Your Mark 16 Top-Rated Free Video Makers for Aspiring Filmmakers</u></a></li>
 </ul></div>
 

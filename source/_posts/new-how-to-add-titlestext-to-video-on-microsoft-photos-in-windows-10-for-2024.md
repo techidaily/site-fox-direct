@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Add Titles/Text to Video on Microsoft Photos in Windows 10 for 2024"
-date: 2024-10-20T19:50:21.310Z
-updated: 2024-10-25T00:25:38.562Z
+date: 2024-10-28T17:20:25.584Z
+updated: 2024-10-30T21:24:08.008Z
 tags: 
   - screen-recording
   - ai video
@@ -56,6 +56,13 @@ Do you wish to add titles/text to video on Photos in Windows 10 for your video p
 * Select the best-animated text fonts to suit the background. There are different layouts for each of the font style. Preview the animation by using Playback Control. If the text is not animating, you may try to increase the duration to 3-4 seconds that works well
 * For addition of credits, try to use the Classic text style. Put each of the credits in a new line and do give credits to yourself as well
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Make Text Move in Windows 10 Photos App
 
 The Photos app in Windows 10 is even easier than the old Windows Movie Maker. You do not need a sharp learning curve for using this app and any beginner can use it with ease and comfort. The Photos app has an anchoring system along with the text tool that makes the text move with the video images. Here’s how you can make the text move in Windows 10 Photos app-
@@ -74,10 +81,10 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/attach-effects-photos-min.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * To increase or decrease the length of animation time, adjust the slider
@@ -85,19 +92,19 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/edit-text-photos.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -105,13 +112,6 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 To add titles/text to video on Photos in Windows 10 and to make the text move with the Windows 10 Photos app, follow the above steps and get going easily. The steps are really simple and you just need to understand and apply the steps for successfully adding texts to your videos.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -138,19 +138,14 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-deciphering-no-snaps-possible-blocking/"><u>[New] 2024 Approved Deciphering No Snaps, Possible Blocking</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-first-steps-for-joining-online-video-chats-google-meet/"><u>[New] 2024 Approved First Steps for Joining Online Video Chats (Google Meet)</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-crafting-an-engaging-review-vlog-for-everyday-items/"><u>[New] In 2024, Crafting an Engaging Review Vlog for Everyday Items</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-deciphering-the-superior-video-sharing-platform-tiktok-or-youtube-shorts/"><u>[Updated] 2024 Approved Deciphering the Superior Video-Sharing Platform TikTok or YouTube Shorts?</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-scouting-the-best-cameras-for-aspiring-muso-videographers/"><u>[Updated] 2024 Approved Scouting the Best Cameras for Aspiring Muso Videographers</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-unlock-the-full-potential-of-your-h-videos-on-instagram-tv/"><u>[Updated] 2024 Approved Unlock the Full Potential of Your H-Videos on Instagram TV</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-drone-buying-101-essential-info-to-make-an-informed-choice-for-2024/"><u>[Updated] Drone Buying 101 Essential Info to Make an Informed Choice for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-full-disclosure-unveiling-all-about-google-podcasts-app/"><u>[Updated] In 2024, Full Disclosure Unveiling All About Google Podcasts App</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-mastering-snap-camera-in-ms-teams-for-2024/"><u>[Updated] Mastering Snap Camera in MS Teams for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/apple-iphone-11-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>Apple iPhone 11 Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/best-5-professional-drones-you-can-buy/"><u>Best 5 Professional Drones You Can Buy</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-analysis-of-pioneers-bdr-xs06-for-blu-ray-disc-burning-portability-meets-productivity/"><u>Expert Analysis of Pioneer's BDR-XS06 for Blu-Ray Disc Burning - Portability Meets Productivity</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-oppo-a79-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Oppo A79 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/mastering-the-art-of-green-screens-for-beginners-for-2024/"><u>Mastering The Art of Green Screens for Beginners for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-sculpted-sound-diminishment-for-impact/"><u>[New] In 2024, Sculpted Sound Diminishment for Impact</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-navigating-pexels-tips-for-discovering-striking-images/"><u>[Updated] In 2024, Navigating Pexels Tips for Discovering Striking Images</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-iphone-hdr-photography-tips-and-tricks-for-2024/"><u>[Updated] IPhone HDR Photography Tips & Tricks for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-counteract-bot-visitors-for-real-audience-growth/"><u>2024 Approved Counteract Bot Visitors for Real Audience Growth</u></a></li>
+<li><a href="https://program-issues.techidaily.com/deciphering-and-dealing-with-gta-5-freezing-problems-for-a-smoother-experience/"><u>Deciphering & Dealing with GTA 5 Freezing Problems for a Smoother Experience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/free-web-based-tool-transforming-bmp-images-into-gifs-with-ease/"><u>Free Web-Based Tool: Transforming BMP Images Into GIFs with Ease</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-itel-p55plus-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-vivo-v27-pro-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/revolutionary-drone-editing-for-visual-storytellers/"><u>Revolutionary Drone Editing for Visual Storytellers</u></a></li>
 </ul></div>
 

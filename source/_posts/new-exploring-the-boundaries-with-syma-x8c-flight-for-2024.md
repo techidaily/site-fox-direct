@@ -1,7 +1,7 @@
 ---
 title: "[New] Exploring the Boundaries with Syma X8C Flight for 2024"
-date: 2024-10-20T16:03:18.971Z
-updated: 2024-10-25T01:08:36.142Z
+date: 2024-10-24T20:49:52.844Z
+updated: 2024-10-30T16:10:09.249Z
 tags: 
   - screen-recording
   - ai video
@@ -60,13 +60,6 @@ thumbnail: https://thmb.techidaily.com/46220d4e5de752c9f9121bc5fe5314f52ef333630
 
  There are loads of pros as well as cons related Syma H8C device but they appear different to various kinds of users. Professionals may be worried about its camera quality whereas beginners will find its controls little complex. But in case if you need something at low price with all acceptable features then Syma H8C is really a good choice for your needs.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Complete Review
 
 #### 1. Basic Specs Info
@@ -85,6 +78,13 @@ thumbnail: https://thmb.techidaily.com/46220d4e5de752c9f9121bc5fe5314f52ef333630
 
 ![syma vs phantom design](https://images.wondershare.com/filmora/article-images/syma-vs-phantom-design.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If we consider the appearance then it looks close to the Phantom drone but no doubt to say that few variations exists and they make it unique. The overall dimension of this drone unit is 20x20x6.5 whereas maximum weight goes up to 450 grams thus it cannot be called as a tiny drone. When weighted with camera and prop guards, then this unit has overall weight of 600 grams. This dimension and weight makes this drone much stable in air.
 
  This device can also be used without propeller guards because they do not have much role to play in its flights but the added benefit is that removal of prop guards leads to reduced weight and hence flight time gets little improved. The overall length of propeller is about 9” and they are designed of very high quality material.
@@ -102,10 +102,10 @@ thumbnail: https://thmb.techidaily.com/46220d4e5de752c9f9121bc5fe5314f52ef333630
 ![syma x8c controller](https://images.wondershare.com/filmora/article-images/syma-x8c-controller.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Controller or the transmitter of X8C device is small enough that fits perfectly in user’s hands. Construction is completed with ABS plastic material that leads to light weight structure and this controller makes use of 2.4GHz frequency band to send control signals towards drone in air. The best thing to know about Syma X8C is that it can cover the 100 meter range impressively.
@@ -114,14 +114,14 @@ thumbnail: https://thmb.techidaily.com/46220d4e5de752c9f9121bc5fe5314f52ef333630
 
 ![syma x8c camera](https://images.wondershare.com/filmora/article-images/syma-x8c-camera.jpg)
 
- A drone cannot be complete without a camera mounted on its top; hence Syma has taken care of users need and they developed Syma X8C with a camera that can record everything in air. Although, it is not able to collect video information with HD quality but you will be glad to know that it is detachable and one can also make additional adjustments over its angles to adjust focus. All the recorded videos are stored inside a 4GB MicroSD card. Further, the attached gimbal assists in much stable footage.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ A drone cannot be complete without a camera mounted on its top; hence Syma has taken care of users need and they developed Syma X8C with a camera that can record everything in air. Although, it is not able to collect video information with HD quality but you will be glad to know that it is detachable and one can also make additional adjustments over its angles to adjust focus. All the recorded videos are stored inside a 4GB MicroSD card. Further, the attached gimbal assists in much stable footage.
 
 ## Conclusion
 
@@ -130,10 +130,10 @@ thumbnail: https://thmb.techidaily.com/46220d4e5de752c9f9121bc5fe5314f52ef333630
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -161,22 +161,20 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-crafting-a-captivating-periscope-livestream/"><u>[New] 2024 Approved Crafting a Captivating Periscope Livestream</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-deciphering-apples-chip-strength-an-in-depth-look-at-m1-pro-vs-m1-max/"><u>[New] 2024 Approved Deciphering Apple’s Chip Strength An In-Depth Look at M1 Pro Vs. M1 Max</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-top-5-video-editors-for-macos-sierra/"><u>[Updated] 2024 Approved Top 5 Video Editors for macOS Sierra</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-best-free-live-streaming-software-and-app-for-all-platforms/"><u>[Updated] In 2024, Best Free Live Streaming Software and App for All Platforms</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-essential-public-domain-20-top-pubg-slideshows/"><u>[Updated] In 2024, Essential Public Domain 20 Top PUBG Slideshows</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-vibrant-visual-photo-assemblies-for-joyful-living/"><u>[Updated] Vibrant Visual Photo Assemblies for Joyful Living</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-real-time-reality-showdown-softwares-supremacy-over-hardware/"><u>2024 Approved Real-Time Reality Showdown Software's Supremacy Over Hardware?</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-the-isolated-earbuds-fix-manual/"><u>2024 Approved The Isolated Earbuds Fix Manual</u></a></li>
-<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Vivo Y200 | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/direct-routine-for-easy-fishy-tone-change-on-your-win-computer/"><u>Direct Routine for Easy Fishy Tone Change on Your Win Computer</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/glowing-with-hd-does-it-serve-the-scope-of-hdr-well-in-2024/"><u>Glowing with HD Does It Serve the Scope of HDR Well, In 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-depth-study-androids-lightroom-app-functionality/"><u>In-Depth Study Android's Lightroom App Functionality</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Honor X7b | Dr.fone</u></a></li>
-<li><a href="https://fox-within.techidaily.com/pro-version-horizon-ai-boilerplate-with-nextjs-and-figma-integration-advanced-payment-setups-with-stripe-and-supabase-complete-oauth-support-by-creative-tim13/"><u>PRO Version Horizon AI Boilerplate with NextJS & Figma Integration – Advanced Payment Setups with Stripe and Supabase, Complete OAuth Support by Creative Tim</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/streamlining-virtual-meetings-integrating-zoom-with-skype-effortlessly-for-2024/"><u>Streamlining Virtual Meetings Integrating Zoom with SKYPE Effortlessly for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/tailored-thumbnail-for-social-media-vids/"><u>Tailored Thumbnail for Social Media Vids</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-innovative-approaches-to-photo-sharpening-with-photopeas-background-cutting/"><u>[New] 2024 Approved Innovative Approaches to Photo Sharpening with Photopea's Background Cutting</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-dynamic-capture-excellence-the-premium-seven-list/"><u>[New] Dynamic Capture Excellence The Premium Seven List</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expertise-in-ringtone-refinement-for-the-tech-savvy/"><u>[New] Expertise in Ringtone Refinement for the Tech Savvy</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-most-effective-macos-sierra-video-coders-for-2024/"><u>[New] Most Effective MacOS Sierra Video Coders for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-revolutionize-virtuality-top-7-devices-for-success/"><u>[New] Revolutionize Virtuality - Top 7 Devices for Success</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-google-upload-mastery-a-step-by-step-guide/"><u>[Updated] Google Upload Mastery - A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-seamless-soundscapes-youtube-music-integration-tips/"><u>[Updated] In 2024, Seamless Soundscapes YouTube Music Integration Tips</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/harmonizing-images-essential-tutorials-for-color-mastery-for-2024/"><u>Harmonizing Images Essential Tutorials for Color Mastery for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-honor-play-7t-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Honor Play 7T Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-incredible-drone-photoshoot-contenders-10/"><u>In 2024, Incredible Drone Photoshoot Contenders #10</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/innovate-your-intonation-ranking-the-best-audio-modification-apps-for-mobile-for-2024/"><u>Innovate Your Intonation Ranking the Best Audio Modification Apps for Mobile for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/moving-data-quick-techniques-to-send-files-to-your-computer-for-2024/"><u>Moving Data Quick Techniques to Send Files to Your Computer for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5s-big-changes-old-vs-new-designs/"><u>PS5's Big Changes: Old Vs. New Designs</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/the-finest-10-online-spots-to-download-pristine-photos-for-2024/"><u>The Finest 10 Online Spots to Download Pristine Photos for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-realme-v30-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Realme V30</u></a></li>
 </ul></div>
 

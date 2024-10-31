@@ -1,7 +1,7 @@
 ---
 title: "\"UAV Technology Unveiled  The Yuneec 4K Journey\""
-date: 2024-10-19T22:53:01.905Z
-updated: 2024-10-24T19:30:17.536Z
+date: 2024-10-27T00:27:30.521Z
+updated: 2024-10-30T20:06:12.815Z
 tags: 
   - screen-recording
   - ai video
@@ -42,34 +42,15 @@ The Yuneec Breeze 4K Drone is great for people who want to take beautiful aerial
 The Breeze scores major points for camera strength and overall portability. It's so well designed that in its compact plastic box, the Breeze can fit in a backpack or carryall tote. It comes with a 13MP camera that can take 4k – 4160 x 3120px UHD videos as well as still shots. And to top it off, the Breeze is very steady in the air and responds quite well to its app controller. On the downside, the Breeze has limited camera stabilization. This is because it uses digital stabilization instead of a gimbal. Furthermore, its digital stabilization does not work while it's in 4K mode. This gives the Breeze limited 4K capability. Some users may opt for Full HD and HD shots since digital stabilization is active for resolutions lower than 4K. Also, seasoned drone fliers may find its app controller somewhat deficient compared to a radio controller with joysticks.
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key features
 
 The Yuneec Breeze is a quad drone built with brushless motors that power four foldable propellers. It's equipped with GPS and maintains a good orientation when outdoors. It also has an Indoor Positioning System that enables it to maintain orientation and level when it's used indoors. Its foldable propellers have a 5” diameter spin, and the Breeze comes with propeller guards to protect them from damage during indoor or outdoor use. The Breeze has impressive flight capability though it is clearly not designed for speed. It can rise to an altitude of over 250ft at a max climbing speed of 1m/s. Overall, the Breeze is a slow camera drone and in its defence, this can be ideal for video capture and well-composed photos.
-
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Design
 
@@ -80,15 +61,22 @@ The design of the Breeze is good enough for regular though careful use. It's mad
 The Yuneec Breeze 4K Drone comes with two 1150mAh batteries that can power its flight for over 10 mins each. So, with the two batteries fully charged, a user can shoot videos and selfies for up to 20mins. While this isn't record-breaking time, it's still within the range for camera drones. The batteries can be recharged in 40-45 mins.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Flight performance (Modes like Orbit, Journey, Follow me)
 
 As mentioned above, the Breeze is a slow-flying camera drone. Its slow and steady movement is designed to support its main function as a selfie drone. It also comes with more than 5 flight presets. First, there's Pilot Mode which gives the user complete manual control of the Breeze. Then, there's the Selfie Mode which lets the user set height and distance for the perfect aerial selfie. The Orbit Mode lets the Breeze orbit around a user or object for a 360o shot. One interesting preset is Journey Mode which lets a user set a flight path that begins and ends at the same point. When activated, the Breeze follows the path and while keeping the user within the camera's frame, shoots a wide-angle video that slowly zooms in as it returns to its starting point. In ‘Follow Me' mode, the Breeze tracks user movement via GPS.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Control range
 
@@ -104,24 +92,18 @@ The app for the Breeze is available for both iOS and Android phones. The app sho
 
 [Buy from Amazon](https://www.amazon.com/Yuneec-Breeze-Flying-Camera-Definition/dp/B01LANE77M)
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 The Yuneec Breeze 4K Drone is a good option for people who take selfies seriously. It has 16GB of inbuilt memory that can be accessed via a USB cable and with its app controller, users are only a few clicks from sharing their amazing shots with the world. All in all, the Breeze is a solid selfie drone that should be flown carefully since it lacks the ability to detect and avoid obstacles. Also, fans of the Breeze may find it worthwhile to invest in additional batteries to prolong usage time beyond its 20min limit.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -148,18 +130,14 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-building-a-skype-group-discussion-in-windowsos-x/"><u>[New] Building a Skype Group Discussion in Windows/OS X</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-ergonomic-excellence-and-office-dynamics-for-peak-performance/"><u>[Updated] Ergonomic Excellence and Office Dynamics for Peak Performance</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-integrating-virtual-boards-into-remote-discussions-iphoneipadandroid-and-computers/"><u>2024 Approved Integrating Virtual Boards Into Remote Discussions IPhone/iPad/Android and Computers</u></a></li>
-<li><a href="https://extra-information.techidaily.com/dynamic-designs-mastering-motion-blur-in-adobe-ai-creations/"><u>Dynamic Designs Mastering Motion Blur in Adobe AI Creations</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effective-methods-to-correct-missing-nspr4dll-files-in-your-pc/"><u>Effective Methods to Correct Missing nspr4.dll Files in Your PC</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-edit-like-a-pro-10-must-know-tips-for-newbies/"><u>In 2024, Edit Like a Pro 10 Must-Know Tips for Newbies</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-giggle-engine-for-the-internet/"><u>In 2024, Giggle Engine for the Internet</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-honor-x50-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Honor X50? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-vivo-s17t-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Vivo S17t to iOS not Working Problems | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/mastering-the-craft-of-background-image-acquisition-for-2024/"><u>Mastering the Craft of Background Image Acquisition for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/screenplay-excellence-genre-based-achievement-showcase/"><u>Screenplay Excellence Genre-Based Achievement Showcase</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/twitter-visual-content-proportions/"><u>Twitter Visual Content Proportions</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>Will the iPogo Get You Banned and How to Solve It On Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-virtual-experiences-unveiled-googles-cardboard-meets-samsung-vr/"><u>[New] Virtual Experiences Unveiled Google's Cardboard Meets Samsung VR</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-night-owls-techniques-for-long-exposure-iphone-pics/"><u>[Updated] In 2024, Night Owls' Techniques for Long-Exposure iPhone Pics</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-silencing-ambient-sound-in-recordings-free-or-paid-guide/"><u>[Updated] Silencing Ambient Sound in Recordings Free or Paid Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-pinnacle-of-photography-top-ten-camera-lens-selections-2024/"><u>[Updated] The Pinnacle of Photography Top Ten Camera Lens Selections 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-ultimate-adventure-companion-a-garmin-ultra-30-analysis-for-2024/"><u>[Updated] The Ultimate Adventure Companion - A Garmin Ultra 30 Analysis for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-social-snapshot-saver-tool/"><u>2024 Approved Social Snapshot Saver Tool</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-strategies-to-address-unavailable-librarymodule-issues-in-python/"><u>Effective Strategies to Address Unavailable Library/Module Issues in Python</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-stolen-iphone-15-plus-in-different-conditionsin-by-drfone-ios/"><u>In 2024, How To Unlock Stolen iPhone 15 Plus In Different Conditionsin</u></a></li>
 </ul></div>
 
