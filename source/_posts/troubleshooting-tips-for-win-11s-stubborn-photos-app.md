@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips for Win 11'S Stubborn Photos App"
-date: 2024-10-26T17:41:21.900Z
-updated: 2024-10-31T00:24:17.224Z
+date: 2024-10-29T16:09:19.383Z
+updated: 2024-11-05T18:08:05.576Z
 tags: 
   - screen-recording
   - ai video
@@ -58,13 +58,6 @@ Here is how to troubleshoot –
 
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/Troubleshooter.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. From the list of Apps displayed on the screen, click ‘Windows Store Apps’ and press the ‘Next’ button.
 2. Now, the troubleshooter will troubleshoot every app within the Windows Store Applications and fix them in a jiffy.
 
@@ -79,13 +72,20 @@ Restoring the default libraries would resolve the Windows 10 Photos App crash is
 
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/windows-10-photos-app-crashes-restore.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Lastly, click on ‘Apply’ followed by ‘OK’ and the issue will be resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Solution 3: Reset it
@@ -109,19 +109,6 @@ Let’s fix the issue by repairing the Photos App package installed on your comp
 3. Allow few minutes to make the changes effective and then restart the Windows 10 computer.
 4. Now, the Windows 10 Photos App won’t crash.
 
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Solution 5: Reinstall Windows 10 Photos app
 
 Alternatively, if nothing works out in your favor, you can always fix Windows 10 Photos App crash issue by reinstalling Windows 10 Photos App. A corrupted Photos App might create disturbance for you, so reinstalling would get a fresh and bug free version on your system from the Microsoft Store.
@@ -139,13 +126,20 @@ From the above article, we have concluded that experiencing Windows 10 Photos Ap
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -173,17 +167,24 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-breathe-life-into-tweets-animating-insta-story-texts/"><u>[New] Breathe Life Into Tweets Animating Insta Story Texts</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/learing-your-browsers-watched-videos-for-2024/"><u>[New] Clearing Your Browser's Watched Videos for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-digital-delights-top-15-comical-creations-on-youtube-bars/"><u>[New] In 2024, Digital Delights Top 15 Comical Creations on YouTube Bars</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-premiere-pros-art-of-audio-transitioning/"><u>[New] In 2024, Premiere Pro’s Art of Audio Transitioning</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-goofy-bliss-classic-film-revisited/"><u>[Updated] 2024 Approved Goofy Bliss Classic Film Revisited</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-moment-in-time-windows-108-screenshots-explained/"><u>[Updated] 2024 Approved Moment in Time Windows 10/8 Screenshots Explained</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-advanced-audio-alliance-for-podcasters/"><u>[Updated] Advanced Audio Alliance for Podcasters</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-digital-filmmakers-guide-converting-avi-media-to-compact-gif-format-in-filmora/"><u>[Updated] In 2024, Digital Filmmakers' Guide Converting AVI Media to Compact GIF Format in Filmora</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/comprehensive-tutorial-adding-the-numbers-addon-to-your-kodi-platform/"><u>Comprehensive Tutorial: Adding the Numbers Addon to Your Kodi Platform</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-choosing-androids-favorite-freepaid-video-tile-tools-8-ranked/"><u>In 2024, Choosing Android's Favorite Free/Paid Video Tile Tools #8 Ranked</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-currently-hot-in-vr-tech/"><u>In 2024, Currently Hot in VR Tech</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/workforce-evolution-gpts-impact-on-employment/"><u>Workforce Evolution: GPT's Impact on Employment?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/p-formula-how-to-check-youtube-income/"><u>[3-Step Formula] How To Check YouTube Income</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-innovative-5-slow-mo-video-recording-for-2024/"><u>[New] Innovative 5 Slow Mo Video Recording for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-boost-engagement-posting-twitter-videos-on-snapchat/"><u>[Updated] In 2024, Boost Engagement Posting Twitter Videos on Snapchat</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-economical-desktop-encoder-software-guide-revealed/"><u>[Updated] In 2024, Economical Desktop Encoder Software Guide Revealed</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-streaming-titans-clash-streamlabs-versus-obs-in-the-arena/"><u>[Updated] In 2024, Streaming Titans Clash Streamlabs versus OBS in the Arena</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-apparition-camera-control-workshop/"><u>2024 Approved Apparition Camera Control Workshop</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-diving-deep-into-samsung-photo-enhancers-guide/"><u>2024 Approved Diving Deep Into Samsung Photo Enhancers Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-dj-pros-recommend-our-easy-to-use-free-tempo-detection-tools/"><u>2024 Approved DJ Pros Recommend Our Easy-to-Use Free Tempo Detection Tools</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-mastering-microscope-mode-in-roblox-games/"><u>2024 Approved Mastering Microscope Mode in Roblox Games</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-mastering-selection-of-top-free-srt-translators-key-insights-revealed/"><u>2024 Approved Mastering Selection of Top Free SRT Translators – Key Insights Revealed</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-mastering-vlc-key-mac-functions-explained/"><u>2024 Approved Mastering VLC Key Mac Functions Explained</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-perfect-video-title-generators-for-youtube/"><u>2024 Approved Perfect Video Title Generators for YouTube</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-rejuvenated-dialogue-ideas-to-hook-listeners/"><u>2024 Approved Rejuvenated Dialogue Ideas to Hook Listeners</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-superior-ai-photo-cutting-master/"><u>2024 Approved Superior AI Photo Cutting Master</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-zen-and-jam-the-best-20-tranquil-country-tracks-to-shake-off-stress-tiktok/"><u>2024 Approved Zen & Jam The Best 20 Tranquil Country Tracks to Shake Off Stress (TikTok)</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/student-focused-historical-yt-series-for-2024/"><u>Best Student-Focused Historical YT Series for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/keeping-a-detailed-record-of-every-online-chat-on-fb-for-2024/"><u>Keeping a Detailed Record of Every Online Chat on FB for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722981415973-resolved-halo-infinites-frame-rate-and-stuttering-problem-solved/"><u>Resolved: Halo Infinite's Frame Rate & Stuttering Problem Solved</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-checklist-for-successfully-charging-your-electric-car-at-home/"><u>The Ultimate Checklist for Successfully Charging Your Electric Car at Home</u></a></li>
 </ul></div>
 

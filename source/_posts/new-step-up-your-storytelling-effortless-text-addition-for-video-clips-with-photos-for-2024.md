@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step Up Your Storytelling  Effortless Text Addition for Video Clips with Photos for 2024\""
-date: 2024-10-28T17:13:18.379Z
-updated: 2024-10-30T19:20:04.505Z
+date: 2024-10-31T17:04:08.802Z
+updated: 2024-11-05T16:06:47.346Z
 tags: 
   - screen-recording
   - ai video
@@ -57,10 +57,10 @@ Do you wish to add titles/text to video on Photos in Windows 10 for your video p
 * For addition of credits, try to use the Classic text style. Put each of the credits in a new line and do give credits to yourself as well
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Make Text Move in Windows 10 Photos App
@@ -74,28 +74,28 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/effects-photos.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Some of the effects might not have the option to move or anchor but if you choose the one that does allow moving of texts, you get an option to attach once you select it
 * Pin the slider in Attach to a point at the On position
 * To add the 3D moving image, drag the blue anchor to the object you’d like to attach and wait as it process
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/attach-effects-photos-min.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * To increase or decrease the length of animation time, adjust the slider
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/edit-text-photos.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
@@ -107,10 +107,10 @@ To add titles/text to video on Photos in Windows 10 and to make the text move wi
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -138,16 +138,16 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-leaders-in-video-to-file-transformation-the-best-ios-and-pc-tools-8/"><u>[New] In 2024, Leaders in Video to File Transformation The Best iOS & PC Tools #8</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-essential-image-protection-top-watermarkers-listed/"><u>[Updated] Essential Image Protection Top Watermarkers Listed</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-insta-prowess-guide-the-9-secrets-behind-top-posters-success-for-2024/"><u>[Updated] Insta Prowess Guide The 9 Secrets Behind Top Posters' Success for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1-25-perfect-presents-every-iphone-lover-will-adore/"><u>1. 25 Perfect Presents Every iPhone Lover Will Adore!</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-best-budget-friendly-high-quality-ae-templates/"><u>2024 Approved Best Budget-Friendly, High-Quality AE Templates</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-unveiling-the-ultimate-action-cam-max-360-vs-hero-11-gopro-showdown/"><u>2024 Approved Unveiling the Ultimate Action Cam Max 360 vs Hero 11 GoPro Showdown</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/conquer-chrome-multitasking-learn-to-utilize-pip-effectively-for-2024/"><u>Conquer Chrome Multitasking Learn to Utilize PIP Effectively for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-windows-interface-quick-menu-install/"><u>Enhancing Windows Interface: Quick Menu Install</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/step-by-step-guide-using-nvidia-recorder-for-2024/"><u>Step-by-Step Guide Using NVIDIA Recorder for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/superior-plot-strategies-across-diverse-cinematic-fields-for-2024/"><u>Superior Plot Strategies Across Diverse Cinematic Fields for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-detailed-review-and-alternatives-of-vocaloid6-voice-generator/"><u>Updated Detailed Review & Alternatives of VOCALOID6 Voice Generator</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-entertaining-entrances-tales-that-resonate-for-2024/"><u>[New] Entertaining Entrances Tales That Resonate for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-flagship-firefox-screenshot-tools/"><u>[New] In 2024, Flagship Firefox Screenshot Tools</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-speaking-through-screens-effective-communication-on-youtube/"><u>[New] In 2024, Speaking Through Screens Effective Communication on YouTube</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-essential-techniques-for-making-and-tweaking-multi-snap-chats/"><u>2024 Approved Essential Techniques for Making & Tweaking Multi-Snap Chats</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-reviewing-changes-in-the-sony-s6500-blu-ray-system/"><u>2024 Approved Reviewing Changes in the Sony S6500 Blu-Ray System</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/accelerate-with-these-key-windows-10-tricks-for-2024/"><u>Accelerate with These Key Windows 10 Tricks for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/byte-to-gb-a-days-long-film-storage-needs-for-2024/"><u>Byte-to-GB A Day's Long Film Storage Needs for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/ideal-selection-8-must-have-image-packs-for-laptops-for-2024/"><u>Ideal Selection 8 Must-Have Image Packs for Laptops for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-y36i-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y36i Phone without PIN</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-organizing-your-iphones-picture-collection-from-sorting-to-icloud-backing-up/"><u>In 2024, Organizing Your iPhone's Picture Collection From Sorting to iCloud Backing Up</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-the-impact-of-hugging-face/"><u>Understanding the Impact of Hugging Face</u></a></li>
 </ul></div>
 

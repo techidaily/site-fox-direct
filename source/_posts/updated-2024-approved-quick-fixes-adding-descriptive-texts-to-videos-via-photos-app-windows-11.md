@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Quick Fixes  Adding Descriptive Texts to Videos via Photos App (Windows 11)\""
-date: 2024-10-28T23:56:10.950Z
-updated: 2024-10-30T22:14:23.304Z
+date: 2024-10-31T17:19:36.914Z
+updated: 2024-11-05T16:24:15.227Z
 tags: 
   - screen-recording
   - ai video
@@ -56,19 +56,6 @@ Do you wish to add titles/text to video on Photos in Windows 10 for your video p
 * Select the best-animated text fonts to suit the background. There are different layouts for each of the font style. Preview the animation by using Playback Control. If the text is not animating, you may try to increase the duration to 3-4 seconds that works well
 * For addition of credits, try to use the Classic text style. Put each of the credits in a new line and do give credits to yourself as well
 
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: How to Make Text Move in Windows 10 Photos App
 
 The Photos app in Windows 10 is even easier than the old Windows Movie Maker. You do not need a sharp learning curve for using this app and any beginner can use it with ease and comfort. The Photos app has an anchoring system along with the text tool that makes the text move with the video images. Here’s how you can make the text move in Windows 10 Photos app-
@@ -87,10 +74,10 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/attach-effects-photos-min.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * To increase or decrease the length of animation time, adjust the slider
@@ -98,13 +85,20 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/edit-text-photos.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -113,10 +107,10 @@ To add titles/text to video on Photos in Windows 10 and to make the text move wi
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -144,18 +138,24 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-the-premier-free-srt-to-video-subtitle-tools/"><u>[New] The Premier Free SRT to Video Subtitle Tools</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-haptic-feedback-in-e-commerce-trials/"><u>[Updated] 2024 Approved Haptic Feedback in E-Commerce Trials</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-experience-next-gen-notetaking-with-mematic-for-2024/"><u>[Updated] Experience Next-Gen Notetaking with Mematic for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-transform-your-mac-with-the-latest-macos-11-big-sur-overview/"><u>[Updated] Transform Your Mac with the Latest MacOS 11 Big Sur Overview</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-unfreezing-frozen-obs-stream-input/"><u>2024 Approved Unfreezing Frozen OBS Stream Input</u></a></li>
-<li><a href="https://tools.techidaily.com/epubor/everand-downloader/"><u>Epubor Everand Converter</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-top-8-essential-laptop-skins-for-dynamic-screens/"><u>In 2024, Top 8 Essential Laptop Skins for Dynamic Screens</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-the-latest-techkey-bluetooth-driver-on-windows-11-7-or-nvitek-2023-win7810/"><u>Install the Latest Techkey Bluetooth Driver on Windows 11, 7 or Nvitek-2023-Win7/8/10</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/leading-the-charge-smart-transcription-in-professional-slides/"><u>Leading the Charge Smart Transcription in Professional Slides</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-updating-drivers-on-your-acer-nitro-5/"><u>Step-by-Step Guide: Updating Drivers on Your Acer Nitro 5</u></a></li>
-<li><a href="https://win-dash.techidaily.com/the-ultimate-guide-installing-displaylink-drivers-on-new-windows-11-systems/"><u>The Ultimate Guide: Installing DisplayLink Drivers on New Windows 11 Systems</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/transformar-archivos-flv-a-formato-quicktime-libre-y-facil-con-herramienta-on-line-de-movavi/"><u>Transformar Archivos FLV a Formato QuickTime Libre Y Fácil Con Herramienta On-Line De Movavi</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Samsung Galaxy S24+? | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-best-practices-in-selecting-screen-recording-tools-for-windows-10-for-2024/"><u>[New] Best Practices in Selecting Screen Recording Tools for Windows 10 for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-bypass-expenses-relish-films-anywhere-free-player-for-2024/"><u>[New] Bypass Expenses, Relish Films Anywhere (FREE Player) for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-the-stealthiest-instagram-story-viewers/"><u>[New] In 2024, The Stealthiest Instagram Story Viewers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-best-storytelling-youtube-channels-to-follow-this-year/"><u>2024 Approved Best Storytelling YouTube Channels to Follow This Year</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-calculating-best-podcast-debut-days/"><u>2024 Approved Calculating Best Podcast Debut Days</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-complete-activity-assessment-guide/"><u>2024 Approved Complete Activity Assessment Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-elevate-your-experience-with-windows-11-games/"><u>2024 Approved Elevate Your Experience with Windows 11 Games</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-elevating-vistas-mastering-vertical-mobile-photography/"><u>2024 Approved Elevating Vistas Mastering Vertical Mobile Photography</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-exclusive-insight-into-mematics-app-features/"><u>2024 Approved Exclusive Insight Into Mematic's App Features</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-frame-it-right-essential-2023-tools-and-sites-for-image-edits/"><u>2024 Approved Frame It Right Essential 2023 Tools & Sites for Image Edits</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-innovative-ways-to-convey-your-story-through-videos/"><u>2024 Approved Innovative Ways to Convey Your Story Through Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-proven-methods-to-improve-zoom-efficiency-on-a-chromebook/"><u>2024 Approved Proven Methods to Improve Zoom Efficiency on a Chromebook</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-ultimate-video-booster-guide-uncovering-the-top-20-tips/"><u>2024 Approved The Ultimate Video Booster Guide - Uncovering the Top 20 Tips</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/cutting-edge-4k-panels-top-10-revealed-list-for-2024/"><u>Cutting-Edge 4K Panels Top 10 Revealed List for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/essential-webcam-guide-for-exceptional-podcast-production/"><u>Essential Webcam Guide for Exceptional Podcast Production</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-reduce-chatgpts-maxed-out-limit-win/"><u>How to Reduce ChatGPT's Maxed-Out Limit (Win)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hdr-standards-meeting-or-surpassing-with-aurora/"><u>In 2024, HDR Standards Meeting or Surpassing with Aurora?</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/mastering-video-editing-on-mac-fast-and-easy-techniques-for-cutting-large-files/"><u>Mastering Video Editing on Mac Fast and Easy Techniques for Cutting Large Files</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-the-top-mts-video-editing-software-a-comprehensive-review/"><u>Updated In 2024, The Top MTS Video Editing Software A Comprehensive Review</u></a></li>
 </ul></div>
 

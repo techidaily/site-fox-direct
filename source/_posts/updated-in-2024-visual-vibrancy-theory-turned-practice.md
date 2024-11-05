@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Visual Vibrancy  Theory-Turned-Practice\""
-date: 2024-10-26T22:27:15.169Z
-updated: 2024-10-30T22:37:49.553Z
+date: 2024-11-01T17:47:24.174Z
+updated: 2024-11-05T16:56:26.054Z
 tags: 
   - screen-recording
   - ai video
@@ -39,27 +39,20 @@ Using red, green and blue as primary colors we can mix the colors to one another
 
 ![colcor wheel](https://images.wondershare.com/filmora/article-images/2024/color-wheel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 As you can see, we have every color available in this wheel and they are arranged in a unison with the mixed colors starting with red, green and blue and working towards each other.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Color Harmony
 
 So now we know how the wheel is made and what it looks like. What does it do? We can use this wheel now to gather our palette. Within color theory we talk about harmonious colors that work together in a pleasant way creating less stress on the eyes to find information in your scene.
 
 ![color harmony](https://images.wondershare.com/filmora/article-images/2022/08/color-harmony.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 One such harmony is complementary colors and luckily for us this is very easy to find. You take your base color and find the opposite color on the wheel. In this example the complementary color to blue is yellow depicted with a red line.
 
@@ -70,10 +63,10 @@ The blue lines represent what is known as split contrasting colors and these wil
 The corners of the black rectangle land on what is known as tetradic complement and allows you to add four colors with the understanding that they will complement each other perfectly. Lastly is the purple line which represents the analogous complementary colors, you can pick these neighboring colors with the peace of mind that they will harmonize with each other. There are many more but these four are the main ones that you will use more often than any other, by selecting colors using these four main types you can create a palette for your scenes and allow the viewer to effortlessly enjoy your content. These types work no matter where you start from on the wheel so long as you keep the distances the same.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## But How Do I Use This
@@ -82,20 +75,27 @@ You may still be unsure as to how to implement color theory into your videos. Le
 
 ![apply color theory video](https://images.wondershare.com/filmora/article-images/2022/08/apply-color-theory-video.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 In this scene the director decided that the backdrop should complement the top the actor is wearing, looking at our wheel we can see the complementary color would be dark purple so they started with that, to create a more dynamic scene they then used the analogous colors of that purple being pink and red and created the backdrop. This creates a harmony within the scene and makes it effortless to see all the key elements straight away.
 
 As you can see from this example the base color for the scene is a dark blue/purple and using the analogous color of pink they created a point of interest within the scene that doesn't look out of place. This is a very good way to pull the viewers eyes towards something you want them to take in above all else.
 
 ![movie cover with color theory](https://images.wondershare.com/filmora/article-images/2022/08/movie-cover-with-color-theory.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 As you can see from all the movie covers above, they all use complementary colors from the blues to the war yellows and oranges, this creates high contrast and balance and is something done within the movie industry in every scene. It's no coincidence that the joker is purple and green or that the iron man is red and gold, this is well prepared and researched in the planning stages of everything a visual artist creates.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -131,18 +131,22 @@ By including this into your thought process when creating videos with [Filmora](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-unlocking-audio-potential-in-audacity-mac-edition/"><u>[New] 2024 Approved Unlocking Audio Potential in Audacity, Mac Edition</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-straightforward-approach-to-mastering-simple-hdr-techniques/"><u>[New] Straightforward Approach to Mastering Simple HDR Techniques</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-blueprint-to-surge-in-youtubers-popularity/"><u>[New] The Blueprint to Surge in Youtubers' Popularity</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-bridging-audio-gaps-the-complete-guide-to-smooth-blending-in-audacity/"><u>[Updated] 2024 Approved Bridging Audio Gaps The Complete Guide to Smooth Blending in Audacity</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-smart-shopping-for-action-cameras-optimal-under-100-lists-for-2024/"><u>[Updated] Smart Shopping for ACTION Cameras Optimal Under $100 Lists for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/convert-audio-files-seamlessly-mp3-to-mov-for-free-with-moveavi/"><u>Convert Audio Files Seamlessly - MP3 To Mov For FREE with MoveAVI</u></a></li>
-<li><a href="https://win11.techidaily.com/easy-steps-for-altering-filter-keys-on-your-pc/"><u>Easy Steps for Altering Filter Keys on Your PC</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/heavy-lift-airborne-titans-drone-leaders-guide/"><u>Heavy-Lift Airborne Titans - Drone Leaders Guide</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-examining-the-efficacy-of-dji-mavic-mini-fpv-technology/"><u>In 2024, Examining the Efficacy of DJi Mavic Mini FPV Technology</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-master-your-thumbnails-with-these-20-top-fonts/"><u>In 2024, Master Your Thumbnails with These 20 Top Fonts</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Oppo A1 5G? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/innovative-fading-approaches-with-ableton-for-2024/"><u>Innovative Fading Approaches with Ableton for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/navigating-the-seas-of-sponsorships-a-youtubers-playbook-for-2024/"><u>Navigating the Seas of Sponsorships A Youtuber's Playbook for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-accelerate-your-arts-journey-with-these-7-nft-converters/"><u>[New] In 2024, Accelerate Your Art's Journey with These 7 NFT Converters</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-mastering-filmmaker-mode-crafting-viral-tiktok-reactions-with-filmora-for-2024/"><u>[New] Mastering Filmmaker Mode Crafting Viral TikTok Reactions with Filmora for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-best-bargain-stopwatches-online/"><u>2024 Approved Best Bargain Stopwatches Online</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-comprehensive-guide-to-minimalist-uavs/"><u>2024 Approved Comprehensive Guide to Minimalist UAVs</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-elevate-your-storytelling-skills-transforming-images-into-engaging-videos-with-pixiz/"><u>2024 Approved Elevate Your Storytelling Skills Transforming Images Into Engaging Videos with Pixiz</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-exploring-magix-vpxs-innovative-editing-capabilities/"><u>2024 Approved Exploring Magix VPX's Innovative Editing Capabilities</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-exploring-the-tech-marvel-of-lg-ud88-w-monitors/"><u>2024 Approved Exploring the Tech Marvel of LG UD88-W Monitors</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-from-mpeg-4-to-multifarious-formats-a-guide-using-vlc/"><u>2024 Approved From MPEG-4 to Multifarious Formats A Guide Using VLC</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-highpoint-craftsman-workspace-review/"><u>2024 Approved Highpoint Craftsman Workspace Review</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-picture-power-infusing-textual-elements-on-windows-and-mac-photo-canvas/"><u>2024 Approved Picture Power Infusing Textual Elements on Windows & Mac Photo Canvas</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-the-latest-hp-m45n-color-laserjet-printer-driver-for-improved-performance/"><u>Download the Latest HP M45n Color LaserJet Printer Driver for Improved Performance</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-nokia-g22-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Nokia G22 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-tecno-phantom-v-flip-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Tecno Phantom V Flip</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-apple-iphone-13-drfone-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/quick-clip-art-creator-seamless-image-to-cartoon-conversion-for-2024/"><u>Quick Clip-Art Creator Seamless Image-to-Cartoon Conversion for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/tutorial-on-how-to-turn-mpeg-footage-90-degrees-clockwise-or-counterclockwise/"><u>Tutorial on How to Turn MPEG Footage 90 Degrees Clockwise or Counterclockwise</u></a></li>
 </ul></div>
 

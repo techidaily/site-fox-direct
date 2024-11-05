@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Nostalgic Shots  IPhone X Retro Photo Session\""
-date: 2024-10-27T23:33:58.496Z
-updated: 2024-10-31T00:18:43.917Z
+date: 2024-11-02T18:04:02.079Z
+updated: 2024-11-05T17:43:01.566Z
 tags: 
   - screen-recording
   - ai video
@@ -40,6 +40,13 @@ In this article, we are going to show you how to take photos in Portrait Mode, o
 * [Part 1: For iPhone 7 Plus/8 Plus/X users](#part1)
 * [Part 1: For iPhone 8, 7 or older iPhones users](#part2)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### For iPhone 7 Plus/8 Plus/X users
 
  **Using the Portrait Mode on an iPhone**
@@ -67,10 +74,10 @@ Launch the Camera app, and swipe to the Portrait option, and then tap on the Cam
 If there is not enough light or if you are too far away from the camera, the app will show messages that remind you to add more light to your shot or hold the camera closer to the subject of the photo. It is worth noting that the app will not let you take a photo until you do everything that messages on the screen demand from you. However, the Portrait Mode doesn't allow you to take several photos at once, but it still produces amazing pictures that can be easily shared on social media.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### For iPhone 8, 7 or older iPhones users
@@ -82,13 +89,6 @@ If there is not enough light or if you are too far away from the camera, the app
 **Compatible with:** iOS 8.0 or later
 
 ![ezy-watermark-lite-photo](https://images.wondershare.com/filmora/article-images/ezy-watermark-lite-photo.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Older iPhone models may not have a twin-lens system, but with the aid of a camera app such as FabFocus, iPhone photographers can easily take photos with smooth blurry backgrounds. The Automatic Depth of Field and Bokeh options enable you to add as much blur as you want to your photos and create DSLR-like images. The app also contains basic photo editing tools that can be used to touch-up the photo before you share it with your friends.
 
@@ -110,19 +110,6 @@ Advertised as the best depth-of-field app for iPhones on the market today, Tadaa
 
 ![signature-photo-annotator](https://images.wondershare.com/filmora/article-images/signature-photo-annotator.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 The term Bokeh comes from the Japanese language and it represents the aesthetic quality of the out of focus parts of photos. The Bokeh Lens app is designed to make the process of creating a shallow depth of field as fast and fun as it can be. The app lets you fine-tune the level of bokeh you are creating a photo, while it also allows you to select the areas you want to keep in focus.
 
 #### [Defocus](https://itunes.apple.com/us/app/defocus/id1048310180?mt=8)
@@ -133,15 +120,22 @@ The term Bokeh comes from the Japanese language and it represents the aesthetic 
 
 ![my-watermarks-a-personal-logo-signature-maker](https://images.wondershare.com/filmora/article-images/my-watermarks-a-personal-logo-signature-maker.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The plethora of blur options provided by the Defocus camera app is impressive. Dynamic Blur and Pain Blur tools provide a lot of creative freedom to the app's users while uploading a photo from the iPhone's camera roll and adding a bokeh effect to a photo is also an option. Defocus offers superb photo sharing features, which means that you can share your photos on any social media network directly from the app.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -169,15 +163,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-the-ultimate-adobe-premiere-soundtrack-guide/"><u>[New] In 2024, The Ultimate Adobe Premiere Soundtrack Guide</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-top-5-engine-picks-for-peak-performance-quadcopters-for-2024/"><u>[New] Top 5 Engine Picks for Peak Performance Quadcopters for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-whats-your-expected-income-as-a-podcaster/"><u>[Updated] In 2024, What's Your Expected Income? - As a Podcaster</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-nurturing-network-growth-for-top-tier-subscribers-for-2024/"><u>[Updated] Nurturing Network Growth for Top-Tier Subscribers for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-zombified-zealotry-artist-for-2024/"><u>[Updated] Zombified Zealotry Artist for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-effortless-harmony-creating-engaging-and-organized-youtube-playlists/"><u>2024 Approved Effortless Harmony Creating Engaging and Organized YouTube Playlists</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-mining-meaningful-conversations-on-youtube/"><u>2024 Approved Mining Meaningful Conversations on YouTube</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-the-world-of-high-performance-testing-results-for-top-m2-ssd-heatsinks-featuring-id-cooling-zero-series-reviewed/"><u>Inside the World of High-Performance: Testing Results for Top M.2 SSD Heatsinks, Featuring ID-Cooling Zero Series Reviewed</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-msi-bluetooth-drivers-download-to-upgrade-and-secure-your-windows-111n-systems-now/"><u>Latest MSI Bluetooth Drivers - Download to Upgrade and Secure Your Windows 11/1N Systems Now!</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-dynamic-typography-guide-the-most-innovative-ae-text-ideas/"><u>[New] 2024 Approved Dynamic Typography Guide The Most Innovative AE Text Ideas</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-youtube-webinar-guide-host-without-spending/"><u>[New] 2024 Approved YouTube Webinar Guide Host Without Spending</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-how-to-use-kinemaster-online-and-10-best-online-alternatives-for-2024/"><u>[New] How To Use KineMaster Online and 10 Best Online Alternatives for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-a-critical-look-at-the-action-focused-polaroid-cubeplus/"><u>[New] In 2024, A Critical Look at the Action-Focused Polaroid Cube+</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-mastering-instagram-reels-a-ninjas-guide/"><u>[New] Mastering Instagram Reels A Ninja's Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-balancing-width-and-height-for-ultimate-videography/"><u>[Updated] 2024 Approved Balancing Width and Height for Ultimate Videography</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-effective-techniques-for-securely-storing-itunes-videos/"><u>[Updated] 2024 Approved Effective Techniques for Securely Storing iTunes Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-discovering-the-best-vr-camera-for-adventures/"><u>[Updated] Discovering the Best VR Camera for Adventures</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-ultimate-guide-on-how-to-create-srt-file-plus-tips/"><u>[Updated] Ultimate Guide on How to Create SRT File (Plus Tips)</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-which-video-sharing-giant-suits-your-content-best-igtv-or-youtube-analysis/"><u>[Updated] Which Video-Sharing Giant Suits Your Content Best? - IGTV or YouTube Analysis</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ax201-intels-wi-fi-6-network-failure-addressed/"><u>AX201: Intel's Wi-Fi 6 Network Failure Addressed</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/deciphering-snss-hdr-capabilities-and-comparisons/"><u>Deciphering SNS's HDR Capabilities and Comparisons</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/dive-into-action-footage-selecting-top-notch-cams-addons-for-2024/"><u>Dive Into Action Footage Selecting Top-Notch Cams Addons for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-apple-iphone-xs-max-in-3-ways-drfone-by-drfone-virtual-ios/"><u>In 2024, Edit and Send Fake Location on Telegram For your Apple iPhone XS Max in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-sonic-artistry-and-video-prowess-in-sonys-xperia-xz/"><u>In 2024, Sonic Artistry and Video Prowess in Sony's Xperia XZ</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-the-essential-guide-fast-tracking-subtitle-creation-for-your-fb-posts/"><u>In 2024, The Essential Guide Fast-Tracking Subtitle Creation for Your FB Posts</u></a></li>
+<li><a href="https://driver-download.techidaily.com/resolving-the-missing-standard-drivers-for-printers-and-scanners-on-your-windows-10-device/"><u>Resolving the Missing Standard Drivers for Printers & Scanners on Your Windows 10 Device</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-cannot-open-audio-device-problem-in-audacity-5-effective-fixes/"><u>Solving the 'Cannot Open Audio Device' Problem in Audacity: 5 Effective Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-non-functional-dell-laptop-keys/"><u>Troubleshooting Guide: Fixing Non-Functional Dell Laptop Keys</u></a></li>
 </ul></div>
 

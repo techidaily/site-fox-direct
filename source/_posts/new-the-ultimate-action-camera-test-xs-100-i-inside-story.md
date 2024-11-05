@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Ultimate Action Camera Test - XS 100 I Inside Story\""
-date: 2024-09-05T01:25:17.574Z
-updated: 2024-09-06T01:25:17.574Z
+date: 2024-11-03T17:24:52.999Z
+updated: 2024-11-05T17:47:10.273Z
 tags: 
   - screen-recording
   - ai video
@@ -80,11 +80,25 @@ thumbnail: https://thmb.techidaily.com/80fee98e39755278bb461fd482dd243762bcc8eb6
 6. **App and Wi-Fi:**  
  Polaroid XS-100i is a Wi-Fi enabled device so it can be easily controlled from remote location with dedicated smartphone application. As this device lacks in display so you can enjoy easy previews from smart phone screen so that camera can be mounted at right angles. This application also provides easy controls to device settings. When you connect your camera to computer with the help of USB connectivity then it automatically loads a software to your computer for easy file sharing.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Recommend best video editing software for action camera users
 
  If you want to take your video content to the next level with some video editing without being completely overwhelmed, you will definitely want to give Wondershare Filmora (originally Wondershare Video Editor) a try. The software offers a free trial period which allows you to try before buy. Well-designed intuitive interface enables anyone to master the program within minutes.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 7. **Battery and Memory:**  
  This action camera comes with built in 120mAh battery so it cannot be removed and replaced with other. But the battery life is comparatively good as it can serve up to 2.5 hours. But remember that too avail this long hour assistance you need to keep your Wi-Fi switched off. The best part is that USB charging option is included so that you can recharge your camera to make it ready for the next shoot.  
@@ -94,6 +108,13 @@ thumbnail: https://thmb.techidaily.com/80fee98e39755278bb461fd482dd243762bcc8eb6
  If we consider the low price fact of Polaroid XS-100i then we must say that lost of features are embedded inside this affordable unit. The full HD setting will provide your crisp results if you are recording in good light conditions. The image orientation can be automatically corrected. As this device is waterproof and shockproof so it can serve with finer details to all adventure sports lovers. As the price tag is low enough so you are definitely going to spend less for such a impressive combination of features.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -118,11 +139,20 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-deciphering-music-copyright-terminology-on-instagram-for-2024/"><u>[New] Deciphering Music Copyright Terminology on Instagram for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-easy-editing-unlimited-canon-lut-choices/"><u>[New] Easy Editing - Unlimited Canon LUT Choices</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-harnessing-the-power-camera-techniques-in-ios-11/"><u>[New] In 2024, Harnessing the Power Camera Techniques in iOS 11</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-mastering-luts-in-obs-for-premium-visual-output-for-2024/"><u>[New] Mastering LUTs in OBS for Premium Visual Output for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/op-choice-for-capturing-quality-content-on-youtube-for-2024/"><u>[New] Top Choice for Capturing Quality Content on YouTube for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-capturing-your-laptop-simple-lenovo-steps/"><u>[Updated] Capturing Your Laptop Simple Lenovo Steps</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-elite-5-non-twitter-channels-online/"><u>[Updated] Elite 5 Non-Twitter Channels Online</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-unlocking-creativity-your-steps-toward-a-thriving-design-career-for-2024/"><u>[Updated] Unlocking Creativity Your Steps Toward a Thriving Design Career for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/dimming-dynamics-stepwise-sound-dissipation-in-adobe-premiere-for-2024/"><u>Dimming Dynamics Stepwise Sound Dissipation in Adobe Premiere for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-crown-jewel-ios-recorders-for-phones/"><u>In 2024, Crown Jewel iOS Recorders for Phones</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pioneering-your-way-to-effective-ai-dialogues/"><u>Pioneering Your Way to Effective AI Dialogues</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-the-gtx-cups-and-windows-10-troubleshooting-guide/"><u>Resolving the GTX Cups and Windows 10 [Troubleshooting Guide]</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

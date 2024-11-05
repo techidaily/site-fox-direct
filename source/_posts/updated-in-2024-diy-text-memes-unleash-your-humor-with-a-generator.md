@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, DIY Text Memes  Unleash Your Humor with a Generator\""
-date: 2024-10-24T00:53:56.061Z
-updated: 2024-10-30T20:46:54.610Z
+date: 2024-11-01T17:20:17.337Z
+updated: 2024-11-05T16:56:42.699Z
 tags: 
   - screen-recording
   - ai video
@@ -63,22 +63,15 @@ Step2 Go File> Import Media and click on Import Media Files option if you want t
 
 ![download filmora on computer](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If you want to start from scratch, select a video template from Stock Media> Pexels> Videos or Stock Media> Pixabay> Videos. Instead of videos, you can select photos as well for the meme background. You can select templates that have texts and titles and you can edit them as per your preference.
 
 ![pexels video filmora](https://images.wondershare.com/filmora/article-images/2022/07/pexels-video-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step3 Go to Stock Media> GIPHY to bring in any trending meme. Drag and drop your selected GIF on the Timeline.
@@ -94,13 +87,20 @@ Step5 Drag and place the text in any desired place on the video From the Viewer.
 ![add meme template filmora](https://images.wondershare.com/filmora/article-images/2022/07/add-meme-template-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Once you have completed, click on Export button to save the video in any file format.
+
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3\. How to Make a Meme Text on Mobile
 
@@ -117,6 +117,13 @@ Step2 Select a style as per your requirements to get started.
 Step3 You need to select a background here and you can tap on Photos option to insert a photo from your phone gallery to use it as a background to your text meme. You can choose the background from a popular meme by tapping on Memes option.
 
 ![select a background mematic](https://images.wondershare.com/filmora/article-images/2022/07/select-a-background-mematic.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step4 Tap on any meme to use as the background and tap on Continue button.
 
@@ -138,6 +145,13 @@ Step2 Go File> Import Media and click on Import Media Files option if you want t
 
 ![download filmora on computer](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If you want to start from scratch, select a video template from Stock Media> Pexels> Videos or Stock Media> Pixabay> Videos. Instead of videos, you can select photos as well for the meme background. You can select templates that have texts and titles and you can edit them as per your preference.
 
 ![pexels video filmora](https://images.wondershare.com/filmora/article-images/2022/07/pexels-video-filmora.jpg)
@@ -150,18 +164,18 @@ Step4 Add meme titles to your video, head over to Titles> Social Media. There ar
 
 ![choose title templates filmora](https://images.wondershare.com/filmora/article-images/2022/07/choose-title-templates-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step5 Drag and place the text in any desired place on the video From the Viewer. Double-click on the Title template on the Timeline and edit the title. You can select different styles, animations, and even funny WordArt. Click on Ok button when you are finished editing the texts.
 
 ![add meme template filmora](https://images.wondershare.com/filmora/article-images/2022/07/add-meme-template-filmora.jpg)
 
 Once you have completed, click on Export button to save the video in any file format.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3\. How to Make a Meme Text on Mobile
 
@@ -171,13 +185,6 @@ Step1 Visit Play Store(Android) or App Store(iPhone) and search for Mematic and 
 
 ![mematic meme maker iphone](https://images.wondershare.com/filmora/article-images/2022/07/mematic-meme-maker-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2 Select a style as per your requirements to get started.
 
 ![mematic meme style](https://images.wondershare.com/filmora/article-images/2022/07/mematic-meme-style.jpg)
@@ -186,33 +193,32 @@ Step3 You need to select a background here and you can tap on Photos option to i
 
 ![select a background mematic](https://images.wondershare.com/filmora/article-images/2022/07/select-a-background-mematic.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step4 Tap on any meme to use as the background and tap on Continue button.
 
 ![edit selected meme mematic](https://images.wondershare.com/filmora/article-images/2022/07/edit-selected-meme-mematic.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step5 Tap on the text parts to change the default texts. You can tap on them and change the text style as well. Finally, tap on Export option to save the meme.
 
 ![export meme from mematic iphone](https://images.wondershare.com/filmora/article-images/2022/07/export-meme-from-mematic-iphone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Bottom Line
@@ -243,21 +249,24 @@ Generating text memes on your device is no more an issue if you have no prior ex
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-full-review-for-bublcam-360-camera/"><u>[New] 2024 Approved Full Review for Bublcam 360 Camera</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-crafting-the-perfect-tiktok-unbox-video-a-viewership-guide-for-2024/"><u>[New] Crafting the Perfect TikTok Unbox Video A Viewership Guide for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-exploring-the-monetary-mechanics-of-t-series-youtube-channel/"><u>[Updated] 2024 Approved Exploring the Monetary Mechanics of T-Series Youtube Channel</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-gigglegif-builder/"><u>[Updated] 2024 Approved GiggleGif Builder</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-crafting-engaging-reels-adding-music-without-compromise/"><u>[Updated] Crafting Engaging Reels Adding Music without Compromise</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-capturing-and-archiving-itunes-content-effortlessly/"><u>[Updated] In 2024, Capturing and Archiving iTunes Content Effortlessly</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-the-insider-guide-to-simplifying-character-voice-modification-pubg-for-2024/"><u>[Updated] The Insider Guide to Simplifying Character Voice Modification (PUBG) for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-adding-dynamic-blurs-to-ai-designed-graphics/"><u>2024 Approved Adding Dynamic Blurs to AI-Designed Graphics</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-mastering-money-making-top-13-strategies-for-novice-reddit-users/"><u>2024 Approved Mastering Money-Making Top 13 Strategies for Novice Reddit Users</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-nokia-c12-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Nokia C12 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/demystifying-apple-ai-comprehensive-guide-to-upcoming-intellectual-innovations-across-your-iphone-mac-and-ipad-ecosystem/"><u>Demystifying 'Apple AI': Comprehensive Guide to Upcoming Intellectual Innovations Across Your iPhone, Mac, and iPad Ecosystem</u></a></li>
-<li><a href="https://article-files.techidaily.com/frostbite-finishes-olympic-ice-classics-for-2024/"><u>Frostbite Finishes Olympic Ice Classics for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/high-def-camera-the-top-audio-mics-guide-for-2024/"><u>High-Def Camera The Top Audio Mics Guide for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-fbx-recorder-essentials-for-players/"><u>In 2024, FBX Recorder Essentials For Players</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-xiaomi-13t-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Xiaomi 13T Phone Now with These Tips</u></a></li>
-<li><a href="https://facebook.techidaily.com/tweaking-childrens-data-a-parents-guide-to-messenger-kids/"><u>Tweaking Children's Data: A Parent's Guide to Messenger Kids</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-adding-images-to-instagram-made-simple/"><u>[New] 2024 Approved Adding Images to Instagram Made Simple</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-benq-bl2711u-reviewed-the-apex-of-27-high-definition-monitoring-technology/"><u>[New] 2024 Approved BenQ BL2711U Reviewed - The Apex of 27” High-Definition Monitoring Technology</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/reak-through-noise-effective-utilization-of-video-templates/"><u>[New] Break Through Noise Effective Utilization of Video Templates</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-educational-visuals-expertise-in-video-cutting-for-2024/"><u>[New] Educational Visuals Expertise in Video Cutting for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-how-to-record-youtube-live-stream-on-any-device/"><u>[New] How To Record YouTube Live Stream On Any Device?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-windows-way-to-pluck-visuals-from-videos/"><u>[New] In 2024, Window's Way to Pluck Visuals From Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-the-critical-factors-for-upgrading-your-4k-lens/"><u>[Updated] 2024 Approved The Critical Factors for Upgrading Your 4K Lens</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-leading-software-titles-for-animation-artistry/"><u>[Updated] In 2024, Leading Software Titles for Animation Artistry</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-top-10plus-instagram-content-downloaders-reviewed/"><u>[Updated] In 2024, Top 10+ Instagram Content Downloaders Reviewed</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-industry-leaders-list-top-5-unbeatable-motion-recognizers/"><u>2024 Approved Industry Leaders' List Top 5 Unbeatable Motion Recognizers</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/evaluating-the-oneplus-6t-a-perfect-blend-of-speed-quality-and-cost-efficiency/"><u>Evaluating the OnePlus 6T - A Perfect Blend of Speed, Quality and Cost Efficiency</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-zero-5g-2023-turbo-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Infinix Zero 5G 2023 Turbo Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/perfecting-audio-records-with-our-step-by-step-guide/"><u>Perfecting Audio Records with Our Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/quieten-system-sounds-on-pc-and-mac-devices-for-2024/"><u>Quieten System Sounds on PC and Mac Devices for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/sharpen-your-shots-canon-offers-freepaid-lut-edits-for-2024/"><u>Sharpen Your Shots Canon Offers Free/Paid LUT Edits for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/spectral-revelations-drone-cams-overview/"><u>Spectral Revelations Drone Cams Overview</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/televersement-gratuit-de-lediteur-video-movavi-logiciel-dedition-et-montage-professionnel-facile-a-utiliser/"><u>Téléversement Gratuit De L'éditeur Vidéo Movavi : Logiciel D'édition Et Montage Professionnel Facile À Utiliser</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-vivo-y100a-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Vivo Y100A? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/unblocking-non-operational-filesystem-optimizer/"><u>Unblocking Non-Operational Filesystem Optimizer</u></a></li>
 </ul></div>
 
