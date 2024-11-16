@@ -1,7 +1,7 @@
 ---
 title: "Ultimate SD Compatibility with Sony A7S II for 2024"
-date: 2024-08-27T17:34:10.115Z
-updated: 2024-08-28T17:34:10.115Z
+date: 2024-11-08T20:11:21.683Z
+updated: 2024-11-15T20:36:49.854Z
 tags: 
   - screen-recording
   - ai video
@@ -67,6 +67,13 @@ thumbnail: https://thmb.techidaily.com/8e847bcd25e1bb956f9c0d5ed5c3e1ee40f922a7b
 * Note that there is no money saving deal in memory card price ranges. When you go to buy a 128GB memory card it will naturally cost same as if you buy two 64GB cards.
 * The SD cards are small sized, compact units so whether you carry a 64GB card in your pocket or choose a 128GB package, none of these are going to put additional weight on your pocket.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Best Memory Cards for Sony A7S II
 
 #### 1. Sony 64GB High Performance Class 10 UHS-1/U3 SDXC
@@ -107,6 +114,13 @@ thumbnail: https://thmb.techidaily.com/8e847bcd25e1bb956f9c0d5ed5c3e1ee40f922a7b
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -130,8 +144,20 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-effortless-expansion-our-list-of-the-best-free-storage-services/"><u>[New] In 2024, Effortless Expansion Our List of the Best Free Storage Services</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-seeing-the-unseen-tracking-instagram-viewers-meticulously-for-2024/"><u>[New] Seeing the Unseen Tracking Instagram Viewers Meticulously for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-taking-control-importing-snapchat-snaps-to-your-phones-gallery/"><u>[Updated] 2024 Approved Taking Control Importing Snapchat Snaps to Your Phone's Gallery</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-essential-tips-for-high-quality-audacity-recording/"><u>[Updated] In 2024, Essential Tips for High-Quality Audacity Recording</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-obs-alternatives-reviewed-by-experienced-broadcinas/"><u>[Updated] OBS Alternatives Reviewed by Experienced Broadcinas</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-sonic-artistry-and-video-prowess-in-sonys-xperia-xz-for-2024/"><u>[Updated] Sonic Artistry and Video Prowess in Sony's Xperia XZ for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-speeding-up-youtube-quick-video-rendering-and-transfer-tips-for-2024/"><u>[Updated] Speeding Up YouTube Quick Video Rendering & Transfer Tips for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-ways-to-fix-your-overwatch-voice-chat-woes-today/"><u>Effortless Ways to Fix Your Overwatch Voice Chat Woes Today!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-system-resources-not-enough-issues-on-your-device/"><u>How to Overcome 'System Resources Not Enough' Issues on Your Device</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Tecno Spark 20 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-nokia-c02-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Nokia C02 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/instantly-improve-performance-a-guide-to-smooth-driver-updates-in-windows/"><u>Instantly Improve Performance: A Guide to Smooth Driver Updates in Windows</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/the-2023-line-up-of-best-pro-360cameras-reviewed/"><u>The 2023 Line-Up of Best Pro 360°Cameras Reviewed</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

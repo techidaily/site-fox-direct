@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Concentrate on Core - Affinity Photo Trick\""
-date: 2024-08-31T20:28:04.078Z
-updated: 2024-09-01T20:28:04.078Z
+date: 2024-11-10T21:21:35.705Z
+updated: 2024-11-15T18:59:08.417Z
 tags: 
   - screen-recording
   - ai video
@@ -44,6 +44,13 @@ Step3 To make a selection around your subject, first enable the **"Snap To Edges
 
 ![enabling snap to edges and soft edges in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/enabling-snap-to-edges-and-soft-edges-in-affinity-designer.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Set your brush size using your keyboard's **left** and **right bracket** keys. Now, manually make a selection around your subject and white edges in the image as precisely as possible.
 
 Step4 Next, zoom in on your subject. Press & hold the ALT key on your keyboard, and use the Selection Brush tool to manually correct the rough edges of your outline.
@@ -52,13 +59,24 @@ Click the **"Refine"** option in the toolbar to open the **"Refine Selection"** 
 
 ![refining the outline around the image to remove background in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/refining-the-outline-around-the-image-to-remove-background-in-affinity-designer.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step5 In the last step, press the **"Delete"** key on your keyboard to remove the background, or click **"Edit"** and choose the **"Cut"** option.
 
 Now, hit **"Control+D"** to deselect the selection. Alternatively, you can click **"Select"** in the top toolbar and choose the **"Deselect"** option. Finally, you can export your file using the **"File" > "Export"** option.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### How to Remove a Busy Background in Affinity Designer
 
 If you want to remove a busy background of an image in the Affinity Designer software, follow these steps carefully:
@@ -86,15 +104,8 @@ Finally, click **"File"** and select the **"Export"** option from the drop-down 
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 **Note:** To save your image with a transparent background, do not export it in JPG file format.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ## The Best Alternative of Affinity Photo
 
 Since Affinity Photo is a desktop software available for a one-time purchase of $40.99, you might be looking for an online free alternative if you need more space or can afford the subscription fee.
@@ -104,8 +115,12 @@ Therefore, we recommend using [Wondershare PixCut](https://pixcut.wondershare.co
 ![wondershare pixcut for removing image background](https://images.wondershare.com/filmora/article-images/2023/03/wondershare-pixcut-for-removing-image-background.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Editing experts recommend Wondershare PixCut as the best alternative to many editing problems. An AI-powered automatic editing tool, this software has quicker solutions for you when it comes to removing an image's background. Some of its many benefits are:
 
 * Offline and online image editing tools.
@@ -122,9 +137,6 @@ Editing experts recommend Wondershare PixCut as the best alternative to many edi
 * Paid and customized accounts for premium benefits.
 * Customized categories that include e-commerce, car dealership, social media, graphic designing, personal, and marketing use.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 This article discusses **removing a background in Affinity Photo**, whether the image has a white or a busy BG.
@@ -143,9 +155,6 @@ Therefore, we recommend using [Wondershare PixCut](https://pixcut.wondershare.co
 
 ![wondershare pixcut for removing image background](https://images.wondershare.com/filmora/article-images/2023/03/wondershare-pixcut-for-removing-image-background.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Editing experts recommend Wondershare PixCut as the best alternative to many editing problems. An AI-powered automatic editing tool, this software has quicker solutions for you when it comes to removing an image's background. Some of its many benefits are:
 
 * Offline and online image editing tools.
@@ -161,6 +170,13 @@ Editing experts recommend Wondershare PixCut as the best alternative to many edi
 * Create a free account for easier future access.
 * Paid and customized accounts for premium benefits.
 * Customized categories that include e-commerce, car dealership, social media, graphic designing, personal, and marketing use.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -194,4 +210,26 @@ Hopefully, this article and video can help you create ideal images!
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-boosting-efficiency-creating-speed-driven-google-collages/"><u>[New] 2024 Approved Boosting Efficiency Creating Speed-Driven Google Collages</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-professionals-picks-the-top-5-drones-to-invest-in/"><u>[New] 2024 Approved Professional's Picks The Top 5 Drones to Invest In</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-unlock-visual-impact-with-these-7-graders-secrets/"><u>[New] In 2024, Unlock Visual Impact with These 7 Graders' Secrets</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-unrivaled-5-editors-perfect-for-non-youtube-vids/"><u>[New] In 2024, Unrivaled 5 Editors Perfect for Non-YouTube Vids</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-windows-11-game-recording-5-methods/"><u>[New] In 2024, Windows 11 Game Recording [5 Methods]</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-top-3-twitter-video-tools-for-easy-uploads-for-2024/"><u>[New] Top 3 Twitter Video Tools for Easy Uploads for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-ultraview-app-functionality-survey/"><u>[New] UltraView App Functionality Survey</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-unveiling-iphonepcs-best-video-conversion-software-8-for-2024/"><u>[New] Unveiling iPhone/PC's Best Video Conversion Software #8 for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-crystalvision-pro-screen-capturing-101-for-2024/"><u>[Updated] CrystalVision Pro Screen Capturing 101 for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-luxurious-asmr-sound-priced-right-top-picks-listed-here/"><u>[Updated] Luxurious ASMR Sound, Priced Right - Top Picks Listed Here</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-roadmap-to-youtube-fame-essential-steps-for-successful-content/"><u>[Updated] The Roadmap to YouTube Fame Essential Steps for Successful Content</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-top-picks-for-optimal-cloud-space-solutions/"><u>[Updated] Top Picks for Optimal Cloud Space Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-pc-experience-today-ms-store/"><u>Elevate Your PC Experience Today - MS Store</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/enabling-dynamic-hdr-in-windows-11-os/"><u>Enabling Dynamic HDR in Windows 11 OS</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-more-than-clicks-what-determines-youtubes-view-numbers/"><u>In 2024, More than Clicks What Determines YouTube's View Numbers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-the-ultimate-list-of-on-line-aid-sources-for-flawless-visual-text/"><u>In 2024, The Ultimate List of On-Line Aid Sources for Flawless Visual Text</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210398627-9781667414225-mindfulness-el-poder-supremo-de-mindfulness/"><u>Mindfulness: El poder supremo de Mindfulness | Free Book</u></a></li>
+<li><a href="https://games-able.techidaily.com/professionals-choice-for-superior-televisions-costing-less-than-a-grand-zdnet/"><u>Professional's Choice for Superior Televisions Costing Less than a Grand | ZDNet</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/shortcuts-to-fluent-urdu/"><u>Shortcuts to Fluent Urdu!</u></a></li>
+</ul></div>
 

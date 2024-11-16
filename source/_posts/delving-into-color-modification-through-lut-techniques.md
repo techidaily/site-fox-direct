@@ -1,7 +1,7 @@
 ---
 title: "Delving Into Color Modification Through LUT Techniques"
-date: 2024-11-01T16:30:22.154Z
-updated: 2024-11-05T16:10:28.142Z
+date: 2024-11-09T19:08:24.657Z
+updated: 2024-11-15T18:46:48.669Z
 tags: 
   - screen-recording
   - ai video
@@ -55,6 +55,13 @@ Warm or cold tones and bold or washed-out styles are all options provided by the
 
 Photographers may now utilize the same techniques that film, and television editors have used for years to achieve the excellent new aesthetics seen in blockbusters. With quick LUT looks, you can now apply LUTs to your photographs to make your editing work stand out.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to use LUTs using Photoshop CC?
 
 LUTs come pre-installed with programs, but you may also purchase them online and add them to your software. You may even buy a look from your favorite film or television show. In Photoshop, LUTs are simple to apply. You can begin in Photoshop with the original photo, which is an image that was captured locally, unprocessed, and straight out of the camera.
@@ -64,16 +71,10 @@ LUTs come pre-installed with programs, but you may also purchase them online and
 ![how to use luts using Photoshop cc](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Choose Adjustment Layer
@@ -83,19 +84,6 @@ Choose Adjustment Layer
 3. Select Load 3D LUT. A list of LUTs that come with Photoshop will appear.
 
 ![how to use luts using Photoshop cc - load 3d lut](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-2.png)
-
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 load 3d lut
 
@@ -111,6 +99,13 @@ LUTs come pre-installed in Photoshop, and you can use them as adjustment layers.
 2. When discussing Photoshop, the project is typically an image, so go ahead and open it. Open a new one by pressing 'Ctrl+O' or importing something from your cloud.
 3. To do so, go to the 'Adjustments' tab and select the 'Color Lookup' button.
 4. Select the 'Load 3D LUT' button, then navigate to the directory where you unpacked the LUT files.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Here's the second one
 
@@ -128,13 +123,6 @@ Grow Together
 
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Closing Thoughts:
 
 LUTs are extremely useful since they allow photographers to save time by using the same LUTs or a set of LUTs for several photographs. Instead of making individual modifications to your photographs, you may color grade them all with the same LUTs. This gives a series a more unified vibe. You can even put them up as Actions in Photoshop.
@@ -146,10 +134,10 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Closing Thoughts:
@@ -182,14 +170,19 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-mirth-merger-image-composer/"><u>[New] 2024 Approved Mirth Merger Image Composer</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-tone-and-pitch-control-on-chrome-os-select-the-best-online-speech-converters/"><u>[Updated] 2024 Approved Tone and Pitch Control on Chrome OS Select the Best Online Speech Converters</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-discover-your-ideal-drawing-tool-chromebooks-finest-list-for-2024/"><u>[Updated] Discover Your Ideal Drawing Tool Chromebook's Finest List for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-instagrams-time-constraints-for-video-content-explored/"><u>[Updated] In 2024, Instagram's Time Constraints for Video Content Explored</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-unparalleled-selection-of-8-android-multiparty-tools/"><u>[Updated] Unparalleled Selection of 8 Android Multiparty Tools</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-do-creators-profit-from-product-evaluations-on-youtube/"><u>In 2024, Do Creators Profit From Product Evaluations on YouTube?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/live-streaming-made-easy-discover-the-power-of-manycams-virtual-camera-technology/"><u>Live Streaming Made Easy: Discover the Power of ManyCam's Virtual Camera Technology</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/optimize-your-teams-productivity-a-guide-to-using-the-copilot-functionality-in-microsoft-teams/"><u>Optimize Your Team's Productivity: A Guide to Using the Copilot Functionality in Microsoft Teams</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/secure-your-childrens-digital-world-with-these-8-leading-parental-control-apps/"><u>Secure Your Children's Digital World with These 8 Leading Parental Control Apps</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-mastering-the-skies-complete-review-of-dji-phantom-4/"><u>[New] 2024 Approved Mastering the Skies Complete Review of DJI Phantom 4</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-convert-flawlessly-leading-software-for-high-res-videos-for-2024/"><u>[New] Convert Flawlessly Leading Software for High-Res Videos for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-skys-best-pixels-face-off-dji-inspire-1-and-gopro-fusion-mini-for-2024/"><u>[New] Sky's Best Pixels Face-Off DJi Inspire 1 & GoPro Fusion Mini for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-boost-creativity-tiktok-video-treatments/"><u>[Updated] 2024 Approved Boost Creativity TikTok Video Treatments</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-comprehensive-breakdown-vsco-photography-tools-for-2024/"><u>[Updated] Comprehensive Breakdown VSCO Photography Tools for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-mastering-metaverse-advertising-techniques/"><u>[Updated] In 2024, Mastering Metaverse Advertising Techniques</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-unlocking-the-secrets-of-facebooks-live-feature/"><u>[Updated] In 2024, Unlocking the Secrets of Facebook's Live Feature</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-is-it-possible-to-see-all-chatted-content-of-others/"><u>[Updated] Is It Possible to See All Chatted Content of Others?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-step-by-step-guide-insert-a-linked-text-in-your-tiktok-bio/"><u>[Updated] Step-by-Step Guide Insert a Linked Text in Your TikTok Bio</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-mac-efficiency-for-academics-audio-record-of-classroom-learning/"><u>In 2024, Mac Efficiency for Academics Audio Record of Classroom Learning</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-uncovering-the-practical-benefits-of-photo-stability-features/"><u>In 2024, Uncovering the Practical Benefits of Photo Stability Features</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-free-avi-video-rotation-solutions-16-best-options-for-multiple-operating-systems/"><u>New Free AVI Video Rotation Solutions 16 Best Options for Multiple Operating Systems</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/quick-ukrainian-understanding-through-deliberate-10-minute-practices-93-chars/"><u>Quick Ukrainian Understanding Through Deliberate 10-Minute Practices (93 Chars)</u></a></li>
 </ul></div>
 

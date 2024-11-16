@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Top Trending Images  Tales Behind the Graphics for 2024\""
-date: 2024-08-31T20:26:34.228Z
-updated: 2024-09-01T20:26:34.228Z
+date: 2024-11-11T21:10:01.156Z
+updated: 2024-11-15T23:23:37.772Z
 tags: 
   - screen-recording
   - ai video
@@ -53,6 +53,13 @@ The original photo is the work of Antonio Guillem, who uploaded it on iStock in 
 
 ![original photo](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 According to Meme Documentation, the first version of the Distracted boyfriend theme dates back to January 2017\. Prog Snob, a Turkish progressive rock group on Facebook, posted the meme on their page to reference Phil Collin's distraction from progressive rock by pop music. However, it was the August 2017 Twitter version referencing the youth's feelings towards capitalism and socialism that went viral.
 
 Since then, the meme continues to enjoy mass popularity, including:
@@ -66,7 +73,21 @@ The latest version of Distracted boyfriend is a compilation of photos featuring 
 
 ![latest version](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 In addition, Antonio Guillem also has a stock image meme where the roles are reversed. The meme was later posted on Reddit underneath the original and received over 25,600 points in 24 hours.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part3: I Bet He's Thinking About Other Women
 
@@ -79,13 +100,24 @@ However, subsequent memes feature satirical themes. Here are some of the most po
 ![the most popular versions](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 A July 2017 Instagram post by Cathrottle gained over 13,400 likes in a month. In this version, the man wonders why there are so many Fast and the Furious movies.
 
 * Redditor GallowBoob received 34,700 points and 350 comments within 24 hours of posting it.
 
 ![points and comments](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The post references the Toy Story character Buzz Lightyear, with the man contemplating why Buzz is in denial of being a toy.
 
@@ -97,16 +129,17 @@ According to sources, the stock photo meme was first featured on Twitter in Dece
 
 Twitter user @chocos posts the image with Spanish captions, with the woman sure the man is thinking of another. However, the man wonders why there are sounds in Star Wars when the sound does not travel in space. Since then, the tweet has received over 1,700 retweets and 2,200 likes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part4: Bonjour Bear
 
 ![bonjour bear](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Unlike the previous stock image memes, Bonjour Bear was not an instant hit among netizens. The stock image was posted online in 2016 by Uryadnikov Sergey and featured a polar bear peeking through its winter den. However, it began causing a buzz in early 2019, following a Reddit post that included hilarious captions.
 
 Since then, internet users have continued to use the Bonjour Bear meme to reference their reactions to different scenarios. Typically, you will find the stock photo meme representing some surprise attacks. Below are some of the most popular versions of the meme:
@@ -122,14 +155,8 @@ In addition, the post received over 91,700 points, with 95% of upvotes, within a
 
 The photo is available on most stock photo websites, such as Adobe and Tumblr. Furthermore, you will find other hilarious versions of Bonjour Bear under the subreddits r/dankmemes and r/memes on Reddit.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ## Part5: FAQs
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 1\. Can you use stock photos for memes?
 
 Yes, you can use stock photos for memes. However, you need to obtain them from royalty-free stock photo providers such as Shutterstock and Pexels. In addition, ensure you understand the license requirements before using the photo.
@@ -140,10 +167,6 @@ This is because not all stock photo providers offer their images with a creative
 
 Yes, all memes are under copyright law, which means you have the authority to govern their use. Although identifying the meme owner can be challenging, posting or sharing a meme through your social media accounts without consent violates copyright law. Therefore, only use stock image memes from verified stock content providers like Shutterstock, where the license provisions are clear.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### 3\. Can you use watermarked stock photos to create memes?
 
 No. Before using watermarked images to create memes, you must get verifiable permission from the rights holder. This is because it violates copyright law and can result in heavy fines or even prison time in extreme circumstances.
@@ -178,4 +201,26 @@ Therefore, always perform stock image reverse searches to verify the image permi
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-navigating-youtubes-photo-publishing/"><u>[New] 2024 Approved Navigating YouTube's Photo Publishing</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-the-therapeutic-effects-of-asmr-for-everyone/"><u>[New] In 2024, The Therapeutic Effects of ASMR for Everyone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-instagram-reels-unlocking-the-ninja-mindset/"><u>[New] Instagram Reels Unlocking the Ninja Mindset</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-streamline-storytelling-with-inshots-transition-features-for-2024/"><u>[New] Streamline Storytelling with Inshot's Transition Features for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-top-7-nft-creators-for-your-artwork/"><u>[New] Unveiling the Top 7 NFT Creators for Your Artwork</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-a-symphony-of-shades-practical-color-utilization/"><u>[Updated] 2024 Approved A Symphony of Shades Practical Color Utilization</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-picture-perfect-presentations-posting-on-youtube/"><u>[Updated] 2024 Approved Picture-Perfect Presentations Posting on YouTube</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-3-straightforward-methods-to-fine-tune-shades/"><u>[Updated] 3 Straightforward Methods to Fine-Tune Shades</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-audiovisual-adaptability-in-free-fire-for-2024/"><u>[Updated] Audiovisual Adaptability in Free Fire for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-hidden-reasons-behind-imovies-cuts/"><u>[Updated] The Hidden Reasons Behind iMovie’s Cuts</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-overcoming-grey-screens-in-gaming-recording/"><u>2024 Approved Overcoming Grey Screens in Gaming Recording</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-free-travel-planning-ai-and-chatgpt-apps-to-get-an-instant-itinerary/"><u>7 Free Travel Planning AI and ChatGPT Apps to Get an Instant Itinerary</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-audio-amps-for-youtubers-with-limited-dough/"><u>Econo Audio Amps for Youtubers with Limited Dough</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/explore-the-ultimate-list-of-optimal-xvid-media-applications-for-desktop-computing-environments/"><u>Explore the Ultimate List of Optimal Xvid Media Applications for Desktop Computing Environments</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-character-development-through-authentic-dialogue/"><u>In 2024, Character Development Through Authentic Dialogue</u></a></li>
+<li><a href="https://fox-that.techidaily.com/is-your-iphones-visual-look-up-not-responding-explore-common-problems-and-fixes/"><u>Is Your iPhone's Visual Look Up Not Responding? Explore Common Problems and Fixes</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/lose-nothing-in-your-video-format-switch-how-to-convert-mkv-to-mp4-using-handbrake-for-zero-cost-and-full-quality-retention/"><u>Lose Nothing in Your Video Format Switch: How to Convert MKV to MP4 Using Handbrake for Zero Cost and Full Quality Retention</u></a></li>
+<li><a href="https://howto.techidaily.com/realme-10t-5g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme 10T 5G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/simple-solutions-to-resolve-your-lenovo-external-drive-woes/"><u>Simple Solutions to Resolve Your Lenovo External Drive Woes</u></a></li>
+</ul></div>
 

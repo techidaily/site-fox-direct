@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Jovial Graphics via Adobe Tools for 2024"
-date: 2024-08-27T17:36:06.594Z
-updated: 2024-08-28T17:36:06.594Z
+date: 2024-11-13T16:30:32.692Z
+updated: 2024-11-15T17:58:14.169Z
 tags: 
   - screen-recording
   - ai video
@@ -60,6 +60,13 @@ Step1 Launch a new Photoshop project. Set your image's dimensions to any appropr
 
 ![open new docs ps](https://images.wondershare.com/filmora/article-images/2022/07/open-new-docs-ps.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 Download the image you want to use and drag it onto the Photoshop workspace. Select your image in the layer panel after that, then adjust the image's size to fit in the appropriate location. Create the text and place it above the picture. Use the Duplicate Layer option to duplicate the top text rather than writing the bottom content.
 
 ![drag image to workplace ps](https://images.wondershare.com/filmora/article-images/2022/07/drag-image-to-workplace-ps.jpg)
@@ -68,27 +75,18 @@ Step3 The meme can then be enhanced by applying different actions after selectio
 
 Step4 Finally, save the meme. Go to file and choose "save". Select any extension you want and save.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## Part 3: Create Meme with After Effects
 
 Adobe After Effects is normally used for staging of a film, video game, and television production. The key objectives behind making after effects were to make a motion graphics, digital visual effects, and compositing technology. Keying, tracking, compositing, and animation are some of the tasks that can be performed with the help of After Effects. A basic media transcoder, non-linear editor and audio editor are also included in its list of capabilities.
 
 ![create meme in after effects](https://images.wondershare.com/filmora/article-images/2022/07/create-meme-in-after-effects.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 **Steps to Use Adobe After Effects as Meme Maker**
 
 Step1 Open a brand-new After Effects document. And set your image's dimensions to any suitable size, preferably 700 by 700 pixels (for memes), to have enough space. In the image below, the file has been selected.
 
 ![set image after effects](https://images.wondershare.com/filmora/article-images/2022/07/set-image-after-effects.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step2 If you want to adjust the size of the background layer, you can unlock it by clicking twice. Drag the desired image onto the After Effects workspace, after uploading it.
 
 Step3 Select your image in the layer panel and then change its size to fit in the required spot. Write the text for the top of the image. Instead of typing the bottom content, use the Duplicate Layer option to duplicate the top text and then change it, as required.
@@ -98,6 +96,13 @@ Step3 Select your image in the layer panel and then change its size to fit in th
 Step4 After embellishments, you can save the file in your desired extension: By clicking on the file button and saving it.
 
 ![save meme file ae](https://images.wondershare.com/filmora/article-images/2022/07/save-meme-file-ae.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4: Using Adobe Premiere Pro to Create Meme
 
@@ -113,9 +118,6 @@ Step1 By clicking on ‘project’, launch a new Premiere Pro project Set the di
 
 ![launch new project pr](https://images.wondershare.com/filmora/article-images/2022/07/launch-new-project-pr.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 Step2 After downloading the selected image, drag it onto the Premiere pro workspace. After choosing your image in the layer panel, adjust its size to make it fit in the designated area.
 
 ![adjust image premiere](https://images.wondershare.com/filmora/article-images/2022/07/adjust-image-premiere.jpg)
@@ -125,8 +127,18 @@ Step3 Create the project by clicking on ‘create’ which will complete the wor
 ![start creating meme premiere](https://images.wondershare.com/filmora/article-images/2022/07/start-creating-meme-premiere.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 5: Adobe Alternative to Create Memes - [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 An application software compatible with both MAC and Windows is [Wondershare's Filmora](https://tools.techidaily.com/wondershare/filmora/download/). it is a well-known and comprehensive video editor. Designed under the guidance of professional video makers. With the help of this technology, we can easily create memes and excel in the entertainment industry. Its interface is incredibly user-friendly, and the instructions are simple to follow.
@@ -146,8 +158,12 @@ Step1 Open the Filmora meme maker on your browser. Drag or upload your file on t
 ![open filmora meme maker](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Step2 Add your desired text and put it in the right position.
 
 ![add desired text](https://images.wondershare.com/filmora/guide/add-titles-win-1.png)
@@ -155,6 +171,13 @@ Step2 Add your desired text and put it in the right position.
 Step3 Complete your meme and download it.
 
 ![complete meme and download it](https://images.wondershare.com/filmora/guide/add-titles-win-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -170,23 +193,35 @@ Step1 Open the Filmora meme maker on your browser. Drag or upload your file on t
 
 ![open filmora meme maker](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 Add your desired text and put it in the right position.
 
 ![add desired text](https://images.wondershare.com/filmora/guide/add-titles-win-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Step3 Complete your meme and download it.
 
 ![complete meme and download it](https://images.wondershare.com/filmora/guide/add-titles-win-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## The Bottom Line
 
 There are a number of different tools available on internet for meme making. And from this article, it is clear that they are quite easily available. Adobe has been the uncrowned king of media applications. All the adobe tools which were mentioned in this article are very meticulously crafted, each tool has its own extensive detail and requires good practice to understand it. Because of this vast functionality and very detailed setting, Adobe tools are difficult to use at first but with practice they prove to be the best of all. But for a quick job or a first timer, [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is much simpler and easier to work with.
@@ -213,4 +248,22 @@ There are a number of different tools available on internet for meme making. And
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-amp-up-your-humor-arsenal-kapwings-meme-creator/"><u>[New] 2024 Approved Amp Up Your Humor Arsenal – Kapwing's Meme Creator</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-spinning-jujutsu-kaisen-stories-on-tiktok/"><u>[New] 2024 Approved Spinning Jujutsu Kaisen Stories on TikTok</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-creating-an-impactful-film-short-summary/"><u>[New] In 2024, Creating an Impactful Film Short Summary</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-guide-to-progressive-audio-diminishment-via-lumafusion/"><u>[New] In 2024, Guide to Progressive Audio Diminishment via Lumafusion</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-melodymaster-recording-software-guide/"><u>[New] In 2024, MelodyMaster Recording Software Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-unveiling-burst-function-in-gopro-cameras-for-2024/"><u>[New] Unveiling Burst Function in GoPro Cameras for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-unveiling-the-secrets-of-facetune-a-comprehensive-review/"><u>[New] Unveiling the Secrets of Facetune A Comprehensive Review</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-essential-tips-for-adding-visual-impact-in-google-meet/"><u>[Updated] 2024 Approved Essential Tips for Adding Visual Impact in Google Meet</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-instagram-share-of-todays-thought-provoking-talk/"><u>[Updated] 2024 Approved Instagram Share of Today's Thought-Provoking Talk</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-scripts-to-screen-a-filmmakers-guide/"><u>[Updated] In 2024, Scripts to Screen A Filmmaker's Guide</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-30-powerful-freegame-hashtags-for-dominating-youtube/"><u>2024 Approved 30 Powerful FreeGame Hashtags for Dominating YouTube</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/curriculum-videos-top-tips-for-classroom-edits-for-2024/"><u>Curriculum Videos Top Tips for Classroom Edits for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y100-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo Y100 to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/naviguez-a-travers-limpossible-techniques-doptimisation-seo-pour-conquerir-les-mots-bloques/"><u>Naviguez À Travers L'impossible: Techniques D'optimisation SEO Pour Conquérir Les Mots Bloqués</u></a></li>
+</ul></div>
 

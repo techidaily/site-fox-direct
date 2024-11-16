@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Elevating Execution  The Fonts of After Effects\""
-date: 2024-08-27T17:35:32.177Z
-updated: 2024-08-28T17:35:32.177Z
+date: 2024-11-08T16:54:46.981Z
+updated: 2024-11-16T00:04:32.352Z
 tags: 
   - screen-recording
   - ai video
@@ -50,8 +50,12 @@ Adobe After Effects provides a ton of families of fonts that can be added and us
 Some of the most famous fonts such as "typewriter", "Cursive Handwriting" and many more are categorized under their family of fonts and are very easy to access. Along with this, you can also select fonts with different character strokes and can alter their features while adding to your videos.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 3\. How to use text effects in After Effects?
 
 Adding text effects in Adobe After Effects is very easy and you can use these effects by following these steps:
@@ -65,8 +69,12 @@ Adding text effects in Adobe After Effects is very easy and you can use these ef
 * After you are done, save the project and your text effects will be added to the final video successfully.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 4\. Alternative ways to edit text fonts
 
 If for some reason you don't want to use After Effects on your device to edit your videos, or your PC is incompatible with your device, then [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a great alternative for you. Filmora is a paid application that is supported on both Windows as well as Mac and comes with a free version where you can try the different video editing features.
@@ -80,15 +88,16 @@ These features also include adding texts and changing the fonts of those texts o
 ![use filmora to edit device](https://images.wondershare.com/filmora/guide/add-titles-win-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 * First open that video that you want to edit in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) and then you will be available with a tab called "Titles" on the top. Select that and select any style of title that you want to edit. There is a preview window available to look at the text fonts and designs.
 
 ![open wanted video to edit in filmora](https://images.wondershare.com/filmora/guide/add-titles-win-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * Select the text style you want to add for your title and then drag it from the title's library to your timeline. An alternate way to add texts or such title font is to right-click on it and select the "Apply" option.
 * Here you can also set a particular font or style for the title as your favorite by right-clicking on the library and then selecting "Add to favorites" for easy access.
 * If you want to add any opener (Intro) or end credits (outro) to your video, then there are plenty of options available in the "Title" tab. You can apply them by clicking on the "apply" button.
@@ -107,15 +116,16 @@ These features also include adding texts and changing the fonts of those texts o
 ![use filmora to edit device](https://images.wondershare.com/filmora/guide/add-titles-win-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 * First open that video that you want to edit in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) and then you will be available with a tab called "Titles" on the top. Select that and select any style of title that you want to edit. There is a preview window available to look at the text fonts and designs.
 
 ![open wanted video to edit in filmora](https://images.wondershare.com/filmora/guide/add-titles-win-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * Select the text style you want to add for your title and then drag it from the title's library to your timeline. An alternate way to add texts or such title font is to right-click on it and select the "Apply" option.
 * Here you can also set a particular font or style for the title as your favorite by right-clicking on the library and then selecting "Add to favorites" for easy access.
 * If you want to add any opener (Intro) or end credits (outro) to your video, then there are plenty of options available in the "Title" tab. You can apply them by clicking on the "apply" button.
@@ -149,4 +159,26 @@ The article discussed the detailed process of **how to add font to Adobe After E
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-discover-the-9-finest-filters-for-clear-video/"><u>[New] 2024 Approved Discover the 9 Finest Filters for Clear Video</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-elevate-design-top-tier-tips-from-canva-experts/"><u>[New] 2024 Approved Elevate Design Top-Tier Tips From Canva Experts</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-major-firstrow-pursuits-that-arent-games/"><u>[New] 2024 Approved Major Firstrow Pursuits That Aren't Games</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-how-to-watch-facebook-live-on-your-apple-media-hub/"><u>[New] In 2024, How to Watch Facebook Live on Your Apple Media Hub</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-discovering-non-gopro-action-cam-options-top-15-picks/"><u>[Updated] Discovering Non-GoPro Action Cam Options Top 15 Picks</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-essential-steps-for-seamless-use-of-telegram-web-for-2024/"><u>[Updated] Essential Steps for Seamless Use of Telegram Web for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-discover-the-elite-online-stores-where-gifts-meet-individuality/"><u>[Updated] In 2024, Discover the Elite Online Stores Where Gifts Meet Individuality</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-make-your-favorite-tiktok-sound-a-phones-custom-ringtone/"><u>[Updated] In 2024, Make Your Favorite TikTok Sound a Phone's Custom Ringtone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-perfect-shots-no-hassle-leading-smartphone-tripods/"><u>[Updated] Perfect Shots, No Hassle Leading Smartphone Tripods</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-art-of-converting-gifs-how-to-create-cool-stickers-in-discord-and-whatsapp/"><u>[Updated] The Art of Converting GIFs How to Create Cool Stickers in Discord & WhatsApp</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-finest-15-no-cost-image-editing-tools-unveiled-for-2024/"><u>[Updated] The Finest 15 No-Cost Image Editing Tools Unveiled for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-seated-player-partnerships-top-16-on-xbox-series-sx/"><u>Best Seated Player Partnerships - Top 16 on Xbox Series S/X</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ing-channel-success-scaling-for-a-million-viewers-for-2024/"><u>Boosting Channel Success Scaling for a Million Viewers for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Xiaomi Redmi Note 13 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-filmmaking-foundations-understanding-screenplays/"><u>In 2024, Filmmaking Foundations Understanding Screenplays</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-finding-pixel-ringtone-treasures-online/"><u>In 2024, Finding Pixel Ringtone Treasures Online</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-vivo-x-fold-2-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Vivo X Fold 2</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-samsung-galaxy-a23-5g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Samsung Galaxy A23 5G Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/top-iphoneswipe-programs-safeguard-your-device-by-removing-confidential-content/"><u>Top iPhoneswipe Programs - Safeguard Your Device by Removing Confidential Content</u></a></li>
+</ul></div>
 

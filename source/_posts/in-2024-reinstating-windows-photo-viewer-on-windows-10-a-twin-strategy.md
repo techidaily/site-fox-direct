@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Reinstating Windows Photo Viewer on Windows 10  A Twin Strategy\""
-date: 2024-11-03T16:00:50.005Z
-updated: 2024-11-05T17:24:49.104Z
+date: 2024-11-08T20:29:47.407Z
+updated: 2024-11-15T17:47:48.982Z
 tags: 
   - screen-recording
   - ai video
@@ -63,10 +63,10 @@ Here is why they want to restore Windows Photo Viewer –
 Though, Windows 10 Photos offers a dark theme, the effectiveness, responsiveness and features available with Windows Photo Viewer are hard to compromise.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 1 to restore Windows Photo Viewer
@@ -78,22 +78,15 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 2**: Click on the present photo viewer app over there and look for ‘Windows Photo Viewer’. We assume that you have upgraded from an older version on Windows and Windows Photo Viewer is there in the options.
 
 **Step 3**: Tap on ‘Windows Photo Viewer’ and then exit ‘Settings’. Now, you have successfully restored Windows Photo Viewer and you can open photos in Windows Photo Viewer.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 2 to get Windows Photo Viewer back
 
@@ -109,15 +102,22 @@ Here is the detailed guide –
 
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-back.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note**: If the Windows Photo Viewer isn't there, here is a backup. You need to change Windows Registry to make Windows Photo Viewer returned. You need to go to [Edwin over on Ten Forums](https://www.tenforums.com/software-apps/8930-windows-photo-viewer-gone-2.html#post290818) to add code on your PC.
 
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -153,21 +153,17 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-elite-action-capture-best-15-handheld-cams/"><u>[New] 2024 Approved Elite Action Capture Best 15 Handheld Cams</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-crafting-compelling-storylines-with-top-20-anime-influences-on-tiktok/"><u>[New] In 2024, Crafting Compelling Storylines with Top 20 Anime Influences on TikTok</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-sailing-the-skies-easily-how-to-pair-drones-and-propellers/"><u>[New] In 2024, Sailing the Skies Easily How to Pair Drones and Propellers</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-lightning-fast-windows-evaluation-path-for-2024/"><u>[New] Lightning-Fast Windows Evaluation Path for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-tiny-feature-plot-outline/"><u>[Updated] 2024 Approved Tiny Feature Plot Outline</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-fixing-the-single-channel-headset/"><u>[Updated] In 2024, Fixing the Single-Channel Headset</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-marketers-insight-sifting-through-false-social-endorsements-for-2024/"><u>[Updated] Marketer’s Insight Sifting Through False Social Endorsements for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/become-a-reddit-star-detailed-steps-for-share-success/"><u>Become a Reddit Star Detailed Steps for Share Success</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/expert-guides-by-tom-comprehensive-hardware-insights/"><u>Expert Guides by Tom: Comprehensive Hardware Insights</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/from-kitchen-to-screen-unveiling-the-top-7-cooking-film-tricks/"><u>From Kitchen to Screen Unveiling the Top 7 Cooking Film Tricks</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Oppo Reno 11 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-amplify-aspirations-top-10-motivation-movies/"><u>In 2024, Amplify Aspirations Top 10 Motivation Movies</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-vivo-y100a-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Vivo Y100A Data? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016297720-logitech-g230-microphone-not-working-heres-the-solution/"><u>Logitech G230 Microphone Not Working? Here's the Solution!</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlock-your-motorola-moto-g13s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Motorola Moto G13s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/yuneec-typhoon-h-exposed-drone-review-in-detail/"><u>Yuneec Typhoon H Exposed Drone Review in Detail</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-transferring-media-pc-files-to-your-ios-device/"><u>[New] 2024 Approved Transferring Media PC Files To Your iOS Device</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-guidelines-to-gradually-reduce-audio-amplitude-in-logic-pro/"><u>[New] Guidelines to Gradually Reduce Audio Amplitude in Logic Pro</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-efficiently-design-your-google-image-mosaic-today/"><u>[Updated] 2024 Approved Efficiently Design Your Google Image Mosaic Today</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-discovering-the-varieties-in-non-contact-technology/"><u>[Updated] Discovering the Varieties in Non-Contact Technology</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-redefining-visual-storytelling-with-virtual-reality/"><u>[Updated] Redefining Visual Storytelling with Virtual Reality</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-sky-high-savings-on-storages-an-insider-look-at-free-and-premium-cloud-services/"><u>[Updated] Sky High Savings on Storages An Insider Look at Free & Premium Cloud Services</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-streamlined-sound-conversion-for-tweeted-content-for-2024/"><u>[Updated] Streamlined Sound Conversion for Tweeted Content for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-indoor-android-games-you-can-play-without-a-network/"><u>2024 Approved Indoor Android Games You Can Play Without a Network</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-assisted-wellbeing-safe-practices-in-counseling/"><u>AI-Assisted Wellbeing: Safe Practices in Counseling</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/new-era-increased-customization-on-windows-11/"><u>New Era: Increased Customization on Windows 11</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-samsung-galaxy-m14-4g-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Samsung Galaxy M14 4G ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/what-lies-beneath-understanding-trillers-different-tiktok-approach-for-2024/"><u>What Lies Beneath Understanding Triller's Different TikTok Approach for 2024</u></a></li>
 </ul></div>
 

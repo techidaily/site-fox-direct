@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, From Basics to Advanced  Using Mac's Preview Like a Pro\""
-date: 2024-10-29T17:27:29.735Z
-updated: 2024-11-05T16:56:24.689Z
+date: 2024-11-11T00:46:53.373Z
+updated: 2024-11-15T19:46:28.267Z
 tags: 
   - screen-recording
   - ai video
@@ -42,10 +42,16 @@ Being the default image editor for Mac, Apple tried to make the **Preview app** 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to View and Edit Photos in Preview on Mac
@@ -76,13 +82,6 @@ Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup 
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Crop in Preview
 
 In order to crop a photo in the **Preview app**:
@@ -98,6 +97,13 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 **Step 3: Crop the Photo**
 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Rotate Image in Preview
 
@@ -128,10 +134,10 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Remove Background in Preview
@@ -178,6 +184,13 @@ After opening an image, click **File** from the menu bar at the top, and click *
 
 Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Part 2: FAQs About Preview App on Mac
 
 #### What is the Preview App?
@@ -212,13 +225,6 @@ Choose a destination folder in the **Where** field, select your preferred format
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -244,20 +250,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-8-best-drawing-apps-for-iphones/"><u>[New] 2024 Approved 8 Best Drawing Apps for iPhones</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-cutting-edge-cameras-for-your-first-foray-into-filmmaking/"><u>[New] 2024 Approved Cutting-Edge Cameras for Your First Foray Into Filmmaking</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-low-profile-youtubing-broadcasting-without-a-huge-sublist/"><u>[New] Low Profile YouTubing Broadcasting without a Huge Sublist</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-composing-prime-canon-temporal-vignettes/"><u>[Updated] Composing Prime Canon Temporal Vignettes</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-leveraging-fb-platforms-for-public-health-initiatives/"><u>[Updated] In 2024, Leveraging FB Platforms for Public Health Initiatives</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-top-10-ideas-for-making-your-podcast-stand-out-visually/"><u>[Updated] In 2024, Top 10 Ideas for Making Your Podcast Stand Out Visually</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-the-essentials-of-writing-amazing-end-of-episode-scripts/"><u>[Updated] The Essentials of Writing Amazing End-of-Episode Scripts</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-spotlight-on-youtubes-creme-de-la-creme-of-narratives/"><u>2024 Approved Spotlight on YouTube’s Crème De La Crème of Narratives</u></a></li>
-<li><a href="https://discover-help.techidaily.com/dvd-winx-dvd-ripper-platinumdvdwindows-11/"><u>迅速转播 DVD 专家：官方 WinX DVD Ripper Platinum，超快速的DVD数字化转码解决方案适用于Windows 11平台</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-itel-p55t-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Itel P55T | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723004329275-how-to-fix-common-problems-with-twitch-livestreams-discover-our-top-7-tips/"><u>How to Fix Common Problems With Twitch Livestreams - Discover Our Top 7 Tips!</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Vivo S17t? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Vivo Y27s | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/instant-illusions-mastering-time-lapse-photography-on-samsung/"><u>Instant Illusions Mastering Time-Lapse Photography on Samsung</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-ai-mirage-techniques-to-discern-real-insights-from-fake/"><u>Unveiling AI Mirage: Techniques to Discern Real Insights From Fake</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-a-compre-cookies-guide-to-marketing-magic-with-20-terms/"><u>[New] 2024 Approved A Compre Cookie's Guide to Marketing Magic with 20 Terms</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-crafting-the-perfect-virtual-space-with-zooms-features/"><u>[New] 2024 Approved Crafting the Perfect Virtual Space with Zoom's Features</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-bellylaugh-blast-websites-with-the-best-comical-ringtones/"><u>[New] BellyLaugh Blast Websites with the Best Comical Ringtones</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-the-ultimate-chroma-spectrum-now-crystal-clear-on-4k-for-2024/"><u>[New] The Ultimate Chroma Spectrum, Now Crystal Clear on 4K for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-action-in-motion-best-surfing-cams-of-2023-update-for-2024/"><u>[Updated] Action in Motion Best Surfing Cams of 2023 Update for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-direct-upload-from-twitter-to-tumblr-for-2024/"><u>[Updated] Direct Upload From Twitter to Tumblr for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-immersion-in-hue-and-light-dreamcolors-z32-x-explored/"><u>[Updated] In 2024, Immersion in Hue and Light DreamColor's Z32 X Explored</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/asus-atk0110-bios-and-acpi-control-panel-programs-free-download-today/"><u>ASUS ATK0110 BIOS & ACPI Control Panel Programs Free Download Today</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/boost-engagement-changing-numbers-effectively-on-tiktok-for-2024/"><u>Boost Engagement Changing Numbers Effectively on TikTok for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-asmr-unraveled-enhancing-mental-wellness/"><u>In 2024, ASMR Unraveled Enhancing Mental Wellness</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-best-8-filter-packs-for-dynamic-video-streaming/"><u>In 2024, Best 8 Filter Packs for Dynamic Video Streaming</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-poco-f5-5g-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Poco F5 5G Device SIM</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-infinix-note-30-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Infinix Note 30 5G FRP Bypass</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/laughter-is-free-access-to-top-meme-creations/"><u>Laughter Is Free Access to Top Meme Creations</u></a></li>
 </ul></div>
 

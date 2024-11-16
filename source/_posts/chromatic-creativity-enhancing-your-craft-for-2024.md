@@ -1,7 +1,7 @@
 ---
 title: "\"Chromatic Creativity  Enhancing Your Craft for 2024\""
-date: 2024-11-01T17:14:24.882Z
-updated: 2024-11-05T17:38:42.667Z
+date: 2024-11-11T17:55:12.101Z
+updated: 2024-11-15T23:03:16.706Z
 tags: 
   - screen-recording
   - ai video
@@ -70,10 +70,10 @@ Then select the New Project to create a new project file and click Import to fin
 ![put video to filmora cd](https://images.wondershare.com/filmora/article-images/2022/08/put-video-to-filmora-cd.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##### Step2There are 2 ways to color your video in Wondershare Filmora
@@ -104,6 +104,13 @@ Here, there are two options to select: The Color correction. It offers different
 
 ![open color correction filmora](https://images.wondershare.com/filmora/article-images/2022/08/open-color-correction-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step2Select the specific video portion
 
 #####
@@ -115,6 +122,13 @@ First, you need to select the specific video portion you want to change the colo
 * And I selected the end portion of the video. After that, choose the part of the video.
 
 ![selected end portion video filmora](https://images.wondershare.com/filmora/article-images/2022/08/selected-end-portion-video-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step3Apply the color correction preset that you want then click ok
 
@@ -131,10 +145,10 @@ Once you've finished correcting the video color, press Play and go over the whol
 ![preview and save video filmora](https://images.wondershare.com/filmora/article-images/2022/08/preview-and-save-video-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Using the Color Panel Window**
@@ -145,25 +159,11 @@ You can modify the temperature, tint, white balance, contrast, saturation, and b
 
 ![color panel windows filmora](https://images.wondershare.com/filmora/article-images/2022/08/color-panel-windows-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step2Color grading with Wondershare Filmora
 
 Click the button Advanced at the lower corner, then the color grading window will pop up, and you can explore your settings and options.
 
 ![color grading with filmora](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-with-filmora.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Color Histogram**
 
@@ -233,20 +233,22 @@ Overall, Color grading is the process of video editing to have an excellent look
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-learn-efficiently-how-to-use-zero-cost-timers/"><u>[New] Learn Efficiently How To Use Zero Cost Timers</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-sculpted-sound-diminishment-for-impact/"><u>[New] Sculpted Sound Diminishment for Impact</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/comparing-gopro-and-polaroids-video-editors-for-filmmakers/"><u>Comparing GoPro & Polaroid's Video Editors for Filmmakers</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-guide-to-downloading-new-epson-wf-3620-drivers-for-your-windows-pc-supports-win-11-8-and-7/"><u>Easy Guide to Downloading New Epson WF-3620 Drivers for Your Windows PC (Supports Win 11, 8 & 7)</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/essential-websites-for-futuristic-typography/"><u>Essential Websites for Futuristic Typography</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/how-to-save-and-play-gifs-on-an-iphone/"><u>How to Save and Play GIFs on An iPhone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-nokia-g42-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Nokia G42 5G Devices | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Motorola Moto G73 5G | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/puzzle-solving-windows-10-elan-pad-glitches/"><u>Puzzle-Solving: Windows 10 Elan Pad Glitches</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/resolving-mobile-errors-9-steps-to-get-your-iphones-chatgpt-up-and-running-again/"><u>Resolving Mobile Errors: 9 Steps to Get Your iPhone's ChatGPT Up and Running Again</u></a></li>
-<li><a href="https://solve-help.techidaily.com/resolving-the-windows-update-failure-code-0x80070643-in-windows-11-and-10/"><u>Resolving the Windows Update Failure Code 0X80070643 in Windows 11 and 10</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/sustained-sky-exploration-the-best-drones-for-distance-for-2024/"><u>Sustained Sky Exploration The Best Drones for Distance for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/the-perfect-blur-techniques-for-smoother-photo-edits-for-2024/"><u>The Perfect Blur Techniques for Smoother Photo Edits for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/tomtom-bandit-cam-unboxed-2023-insights-for-2024/"><u>TomTom Bandit Cam Unboxed 2023 Insights for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/be-seo-the-path-to-more-audience-engagement-for-2024/"><u>YouTube SEO The Path to More Audience Engagement for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-exploring-the-nuances-in-physical-gesture-detection/"><u>[New] 2024 Approved Exploring the Nuances in Physical Gesture Detection</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-elevate-video-performance-following-the-path-of-stars-for-2024/"><u>[New] Elevate Video Performance Following the Path of Stars for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-how-to-secretly-share-moments-with-instagram-live/"><u>[New] In 2024, How to Secretly Share Moments with Instagram Live</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-top-10-drones-for-dynamic-cinematic-creations/"><u>[New] In 2024, Top 10 Drones for Dynamic Cinematic Creations</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-top-15-gopro-mounts-and-tripods/"><u>[Updated] In 2024, Top 15 GoPro Mounts and Tripods</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-sculpt-the-subject-mastering-the-art-of-background-takedown/"><u>[Updated] Sculpt the Subject Mastering the Art of Background Takedown</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-the-worst-8-bad-habits-in-windows-11-life/"><u>Bypass the Worst: 8 Bad Habits in Windows 11 Life</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-review-of-the-iphone-14-meeting-user-expectations-effectively-feedback-from-zdnet/"><u>Comprehensive Review of the iPhone 14: Meeting User Expectations Effectively - Feedback From ZDNet</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/engaging-audiences-with-strategic-onestream-broadcasts/"><u>Engaging Audiences with Strategic OneStream Broadcasts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/experience-gaming-like-never-before-with-chatgpts-creations/"><u>Experience Gaming Like Never Before with ChatGPT's Creations</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/expert-tips-for-removing-persistent-youtube-channels-mobilepc-for-2024/"><u>Expert Tips for Removing Persistent Youtube Channels (Mobile/PC) for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/frostbound-competition-spotlight-on-2022s-olympic-snowboard-cross-heroes-for-2024/"><u>Frostbound Competition Spotlight on 2022'S Olympic Snowboard Cross Heroes for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-xiaomi-redmi-note-12t-pro-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Xiaomi Redmi Note 12T Pro Devices</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-the-costless-conundrum-of-final-cut-pro-access/"><u>In 2024, The Costless Conundrum of Final Cut Pro Access</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-unlocking-the-secrets-of-lut-production/"><u>In 2024, Unlocking the Secrets of LUT Production</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/recovering-deleted-scenes-in-macs-damaged-mov-files/"><u>Recovering Deleted Scenes in Mac's Damaged MOV Files</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/the-power-of-pixels-a-review-of-the-4k-cg318-4k-monitor-for-2024/"><u>The Power of Pixels A Review of the 4K CG318-4K Monitor for 2024</u></a></li>
 </ul></div>
 

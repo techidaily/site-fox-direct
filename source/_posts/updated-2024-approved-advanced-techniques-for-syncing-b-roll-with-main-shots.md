@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Advanced Techniques for Syncing B-Roll with Main Shots\""
-date: 2024-11-02T18:19:04.886Z
-updated: 2024-11-05T17:50:55.588Z
+date: 2024-11-10T17:49:04.270Z
+updated: 2024-11-15T22:30:58.594Z
 tags: 
   - screen-recording
   - ai video
@@ -37,13 +37,6 @@ B roll can be utilized for establishing shots as well as close-ups of items. It 
 
 For instance, wider shots are frequently used when someone is giving a speech while seated behind a podium so that we can see both them and their surroundings, such as audience members standing close and applauding or security personnel.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Methods to use b roll
 
 Now that there are so many stock footage platforms, you have a lot of choices when you need just the right scene for your project. Most of the time, filmmakers don't use B roll footage. One good way to use it is to use it as a way to move from one scene to the next. It can also be used to set the mood for an event or show what time of day it is when filming.
@@ -53,30 +46,37 @@ The ideal way to use B roll is to put it behind interviews. This kind of footage
 On the other hand, cutaways can show how different people react to what is being said in an interview. After all, transitions are commonly used to switch from one person's experience with a certain topic to another person's experience with the same topic. All of these different kinds of footage give filmmakers and videographers more freedom to tell their stories without relying too much on dialogue or narration.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. What types of b roll are there?
 
 We'll examine the top 5 uses for B rolls across a variety of video genres and discuss how to implement them effectively in your own projects.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Archival b roll footage
 
 Aerial B roll is the solution when you like to show your viewers where your film is being recorded or when you are changing locations and want them to know it. The plane takes off and lands in another city, and then shots of the city, its landmarks, its famous streets, etc. are shown. You have probably seen this type of B roll footage in movies and TV shows. These images aid in putting the viewer in the character's current location. Check out this collection of setting images from the Neighbors television series.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Visual detail b roll footage
 
 Including archival material in your video allows your audience to experience a previously covered or historically significant story as it occurred. Look at this illustration from Netflix's 14 Peaks: Nothing Is Impossible, which was made utilizing old b roll film from the era to help the viewer connect with the narrative.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Storytelling b roll footage
 
@@ -85,13 +85,6 @@ B roll footage can be used to tell a story that supports the narrative of your v
 ### 4\. Undirected b roll footage
 
 This particular kind of B roll film is captured without any direction being given to your character, as the name suggests. For the purposes of an interview video, for instance, these can be straightforward close-up views of your character's hands and facial expressions. On the other hand, while you're doing a documentary, you might record your subject participating in everyday activities.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5\. Atmospheric b roll footage
 
@@ -104,6 +97,13 @@ Have a look at the scenes from the episode "14 Peaks: Nothing Is Impossible" tha
 A pick-up is a tiny shot added to previously captured material. Re-shoots involve redoing entire scenes. Both types of shots are commonly added during film editing to fix, logic, continuity, or quality flaws. These photos happen a while after the sets have been taken down, clothes and props stowed, and the actors and crew have gone on to new projects.
 
 If flaws were discovered during primary photography, the directors could have requested another take. The producer and director should weigh the cost of rejoining cast and crew against the need for pick-ups or re-shoots to address storyline flaws (or worse) in the final edit.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 7\. A roll vs b roll
 
@@ -143,17 +143,18 @@ We sincerely hope that this post will be of use to you in making your films more
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-dive-into-a-world-of-timelessness-crafting-slow-motion-videos-using-mobile-apps-for-2024/"><u>[New] Dive Into a World of Timelessness Crafting Slow Motion Videos Using Mobile Apps for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-essential-online-sources-for-high-quality-tones/"><u>[New] Essential Online Sources for High-Quality Tones</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-precision-in-screen-recording-a-comprehensively-reviewed-list-for-2024/"><u>[New] Precision in Screen Recording A Comprehensively Reviewed List for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-ultimate-guide-to-tiktok-video-editors/"><u>[Updated] 2024 Approved Ultimate Guide to TikTok Video Editors</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-restore-your-viewing-experience-reclaim-the-icon/"><u>[Updated] In 2024, Restore Your Viewing Experience - Reclaim the Icon</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-revealing-historys-best-anime-openers/"><u>[Updated] Revealing History's Best Anime Openers</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-strategic-animation-techniques-to-boost-your-facebook-ad-roi/"><u>2024 Approved Strategic Animation Techniques to Boost Your Facebook Ad ROI</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-launchpad-for-newcomers-creating-a-successful-product-evaluation-vlog/"><u>In 2024, Launchpad for Newcomers Creating a Successful Product Evaluation Vlog</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/secure-or-not-third-party-gpt-software/"><u>Secure or Not? Third-Party GPT Software</u></a></li>
-<li><a href="https://solve-news.techidaily.com/step-by-step-guide-how-to-transform-video-orientation-from-landscape-to-portrait-for-instagram-across-devices/"><u>Step-by-Step Guide: How to Transform Video Orientation From Landscape to Portrait for Instagram Across Devices</u></a></li>
-<li><a href="https://blog-min.techidaily.com/step-by-step-guide-streaming-mkv-videos-on-your-samsung-smart-television/"><u>Step-by-Step Guide: Streaming MKV Videos on Your Samsung Smart Television</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/the-ultimate-zoom-companion-for-snapchat-enthusiasts/"><u>The Ultimate Zoom Companion for Snapchat Enthusiasts</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-inside-the-world-of-xmedia-workshop-a-thorough-examination-for-2024/"><u>[New] Inside the World of XMedia Workshop A Thorough Examination for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-srgb-advantages-over-regular-rgb/"><u>[New] Srgb Advantages Over Regular Rgb</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-camera-enthusiasts-spotlight-5-leading-slow-motion-tech-for-2024/"><u>[Updated] Camera Enthusiasts' Spotlight 5 Leading Slow Motion Tech for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-enhancing-zoom-with-a-chrome-os-device/"><u>[Updated] Enhancing Zoom with a Chrome OS Device</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-fcp-no-cost-access-a-guide/"><u>[Updated] FCP No-Cost Access A Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-elevating-marketing-through-real-peoples-endorsements/"><u>[Updated] In 2024, Elevating Marketing Through Real People’s Endorsements</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-integrating-background-footage-for-enhanced-narratives/"><u>[Updated] Integrating Background Footage for Enhanced Narratives</u></a></li>
+<li><a href="https://games-able.techidaily.com/expert-insights-into-boosting-your-docked-steam-decks-functionality/"><u>Expert Insights Into Boosting Your Docked Steam Deck’s Functionality</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-vcompdll-not-found-or-missing-errors/"><u>How to Fix Vcomp.dll Not Found or Missing Errors</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-asus-rog-phone-8-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Asus ROG Phone 8 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-top-free-software-for-turning-videos-into-files/"><u>In 2024, Top Free Software for Turning Videos Into Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-walkthrough-reading-comics-on-win11/"><u>Step-by-Step Walkthrough: Reading Comics on Win11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-glitches-in-cyberpunk-2077-expert-solutions/"><u>Troubleshooting Audio Glitches in Cyberpunk 2077: Expert Solutions</u></a></li>
 </ul></div>
 

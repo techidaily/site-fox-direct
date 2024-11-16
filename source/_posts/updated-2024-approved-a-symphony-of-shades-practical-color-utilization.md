@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  A Symphony of Shades  Practical Color Utilization\""
-date: 2024-11-02T18:35:39.719Z
-updated: 2024-11-05T17:37:28.028Z
+date: 2024-11-08T16:31:39.629Z
+updated: 2024-11-15T21:27:41.399Z
 tags: 
   - screen-recording
   - ai video
@@ -34,10 +34,10 @@ Color theory consists of many elements that could fill a library on its own but 
 There are many color wheels out there and all require understanding and research into that particular color arrangement but for this guide I will be focusing on the more widely used RGB which derives from the primary colors red green and blue, If you're thinking why red green and blue not red yellow and blue then you are observant, while RYB is taught as the three primary colors we will be using what is known as additive primary colors of light meaning the more you add of these colors the closer to white you get, the reason we will be using this combination is due to the fact RYB misses a lot of hues around the violet area and the blue-greens meaning we achieve a higher range of color to pick from. With this in mind let's start.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Color Wheel
@@ -46,20 +46,27 @@ Using red, green and blue as primary colors we can mix the colors to one another
 
 ![colcor wheel](https://images.wondershare.com/filmora/article-images/2024/color-wheel.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 As you can see, we have every color available in this wheel and they are arranged in a unison with the mixed colors starting with red, green and blue and working towards each other.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Color Harmony
 
 So now we know how the wheel is made and what it looks like. What does it do? We can use this wheel now to gather our palette. Within color theory we talk about harmonious colors that work together in a pleasant way creating less stress on the eyes to find information in your scene.
 
 ![color harmony](https://images.wondershare.com/filmora/article-images/2022/08/color-harmony.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 One such harmony is complementary colors and luckily for us this is very easy to find. You take your base color and find the opposite color on the wheel. In this example the complementary color to blue is yellow depicted with a red line.
 
@@ -75,13 +82,6 @@ You may still be unsure as to how to implement color theory into your videos. Le
 
 ![apply color theory video](https://images.wondershare.com/filmora/article-images/2022/08/apply-color-theory-video.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 In this scene the director decided that the backdrop should complement the top the actor is wearing, looking at our wheel we can see the complementary color would be dark purple so they started with that, to create a more dynamic scene they then used the analogous colors of that purple being pink and red and created the backdrop. This creates a harmony within the scene and makes it effortless to see all the key elements straight away.
 
 As you can see from this example the base color for the scene is a dark blue/purple and using the analogous color of pink they created a point of interest within the scene that doesn't look out of place. This is a very good way to pull the viewers eyes towards something you want them to take in above all else.
@@ -91,10 +91,10 @@ As you can see from this example the base color for the scene is a dark blue/pur
 As you can see from all the movie covers above, they all use complementary colors from the blues to the war yellows and oranges, this creates high contrast and balance and is something done within the movie industry in every scene. It's no coincidence that the joker is purple and green or that the iron man is red and gold, this is well prepared and researched in the planning stages of everything a visual artist creates.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -131,18 +131,17 @@ By including this into your thought process when creating videos with [Filmora](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-top-rankings-decoded-is-pickups-editorivity-leading-android/"><u>[New] In 2024, Top Rankings Decoded Is PickUp's Editorivity Leading Android?</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-toolwiz-app-in-focus-a-thorough-review-and-analysis-of-2023-features/"><u>[New] Toolwiz App in Focus - A Thorough Review and Analysis of 2023 Features</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-guide-to-picking-best-free-online-srt-translation-providers/"><u>[Updated] 2024 Approved Guide to Picking Best Free Online SRT Translation Providers</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-top-5-samsung-gear-360-camera-alternatives-2023-update/"><u>[Updated] 2024 Approved Top 5 Samsung Gear 360 Camera Alternatives -2023 Update</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/effortless-setup-hp-officejet-pro-8710-windows-printer-drivers-available-here/"><u>Effortless Setup: HP OfficeJet Pro 8710 Windows Printer Drivers Available Here</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/essential-tips-for-efficiently-utilizing-background-eraser-tool-in-ps-for-2024/"><u>Essential Tips for Efficiently Utilizing Background Eraser Tool in PS for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-advice-on-setting-up-your-microsoft-wireless-display-adapter-for-optimal-performance-on-windows-10-devices/"><u>Expert Advice on Setting Up Your Microsoft Wireless Display Adapter for Optimal Performance on Windows 10 Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-correct-failed-directx-file-transfers/"><u>How to Correct Failed DirectX File Transfers</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Fix Life360 Shows Wrong Location On Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-samsung-galaxy-s24-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Samsung Galaxy S24 Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-samsung-galaxy-s23-fe-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Samsung Galaxy S23 FE Phone? Unlock It Now</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210992498-resolved-issues-with-total-war-rome-remastered-no-more-crashing/"><u>Resolved Issues with Total War: Rome Remastered - No More Crashing</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211132577-9781977267986-six-pathways-to-happiness-volume-2/"><u>Six Pathways to Happiness Volume 2 | Free Book</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-a-guide-to-prolonging-gopro-power-source-lifespan-for-2024/"><u>[New] A Guide to Prolonging GoPro Power Source Lifespan for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-immersion-redefined-vrs-cinematic-promise/"><u>[New] In 2024, Immersion Redefined VR's Cinematic Promise</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-streaming-spectacle-how-twitch-stacks-up-against-youtube/"><u>[New] Streaming Spectacle How Twitch Stacks Up Against YouTube</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-cutting-edge-guide-to-mastering-windows-11-conferencing-via-zoom/"><u>[Updated] In 2024, Cutting-Edge Guide to Mastering Windows 11 Conferencing via Zoom</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-grasping-the-functionality-of-airborne-robotics/"><u>2024 Approved Grasping the Functionality of Airborne Robotics</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-ideal-8-visuals-to-elevate-your-mbp-aesthetics/"><u>2024 Approved Ideal 8 Visuals to Elevate Your MBP Aesthetics</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-unresponsive-in-game-mics-on-csgo/"><u>Effective Solutions for Unresponsive In-Game Mics on CS:GO</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-infinix-note-30-5g-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Infinix Note 30 5G to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-word-2016-document-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign Word 2016 document electronically</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-expert-advice-seamless-srt-file-sharing-across-all-social-networks/"><u>In 2024, Expert Advice Seamless SRT File Sharing Across All Social Networks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/maximum-video-stowage-on-a-single-64gb-unit/"><u>Maximum Video Stowage on a Single 64Gb Unit</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/screenplay-sage-answers-for-beginners/"><u>Screenplay Sage Answers for Beginners</u></a></li>
 </ul></div>
 

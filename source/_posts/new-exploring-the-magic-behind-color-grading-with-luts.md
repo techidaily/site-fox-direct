@@ -1,7 +1,7 @@
 ---
 title: "[New] Exploring the Magic Behind Color Grading with LUTs"
-date: 2024-08-31T20:24:45.722Z
-updated: 2024-09-01T20:24:45.722Z
+date: 2024-11-09T22:49:52.308Z
+updated: 2024-11-16T00:32:41.588Z
 tags: 
   - screen-recording
   - ai video
@@ -50,6 +50,13 @@ Warm or cold tones and bold or washed-out styles are all options provided by the
 
 Photographers may now utilize the same techniques that film, and television editors have used for years to achieve the excellent new aesthetics seen in blockbusters. With quick LUT looks, you can now apply LUTs to your photographs to make your editing work stand out.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to use LUTs using Photoshop CC?
 
 LUTs come pre-installed with programs, but you may also purchase them online and add them to your software. You may even buy a look from your favorite film or television show. In Photoshop, LUTs are simple to apply. You can begin in Photoshop with the original photo, which is an image that was captured locally, unprocessed, and straight out of the camera.
@@ -57,6 +64,13 @@ LUTs come pre-installed with programs, but you may also purchase them online and
 1. Select the Adjustment Layer icon from the drop-down menu.
 
 ![how to use luts using Photoshop cc](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Choose Adjustment Layer
 
@@ -66,6 +80,13 @@ Choose Adjustment Layer
 
 ![how to use luts using Photoshop cc - load 3d lut](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 load 3d lut
 
 1. When you select one, you'll see how the color and tone of the image change.
@@ -74,9 +95,6 @@ load 3d lut
 
 LUTs come pre-installed in Photoshop, and you can use them as adjustment layers. As mentioned earlier, they'll alter the image's colors, and some of them will also alter the contrast. But what if you want to add LUTs? To add LUTs to Photoshop, you have two options. The first is really simple; all you have to do is discover the LUT and apply it to that specific project. The alternative is a little more difficult, but it enables you to access your LUTs at all times.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Here's the first method
 
 1. It would be best to unzip the LUT before using it in your project. This is relatively simple, and you may either use specialized software or the built-in unzipping utility in Windows.
@@ -84,9 +102,6 @@ LUTs come pre-installed in Photoshop, and you can use them as adjustment layers.
 3. To do so, go to the 'Adjustments' tab and select the 'Color Lookup' button.
 4. Select the 'Load 3D LUT' button, then navigate to the directory where you unpacked the LUT files.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Here's the second one
 
 1. Open the LUT folder, which changes the version to your version.
@@ -103,9 +118,6 @@ Grow Together
 
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Closing Thoughts:
 
 LUTs are extremely useful since they allow photographers to save time by using the same LUTs or a set of LUTs for several photographs. Instead of making individual modifications to your photographs, you may color grade them all with the same LUTs. This gives a series a more unified vibe. You can even put them up as Actions in Photoshop.
@@ -117,8 +129,12 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Closing Thoughts:
 
 LUTs are extremely useful since they allow photographers to save time by using the same LUTs or a set of LUTs for several photographs. Instead of making individual modifications to your photographs, you may color grade them all with the same LUTs. This gives a series a more unified vibe. You can even put them up as Actions in Photoshop.
@@ -147,4 +163,21 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-acclaimed-websites-for-google-pixel-tonal-sounds-for-2024/"><u>[New] Acclaimed Websites for Google Pixel Tonal Sounds for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-activate-windows-11s-automatic-high-dynamic-range-auto-hdr/"><u>[New] In 2024, Activate Windows 11'S Automatic High Dynamic Range (Auto HDR)</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-cinematic-narratives-mastering-screenplays/"><u>[New] In 2024, Cinematic Narratives Mastering Screenplays</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-instagram-videos-how-long-can-they-be/"><u>[New] In 2024, Instagram Videos - How Long Can They Be?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-summer-screen-escapades-top-10-classic-kids-films/"><u>[New] In 2024, Summer Screen Escapades Top 10 Classic Kid's Films</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-next-gen-webcams-a-deep-dive-into-live-videography-gear/"><u>[Updated] Next-Gen WebCams A Deep Dive Into Live Videography Gear</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/boost-traffic-elevate-rankings-essential-youtube-seo-for-2024/"><u>Boost Traffic, Elevate Rankings - Essential YouTube SEO for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/enhancing-sites-with-the-power-of-cookiebot-technology/"><u>Enhancing Sites with the Power of Cookiebot Technology</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-iconic-top-tier-virtual-reality-films/"><u>In 2024, Iconic Top-Tier Virtual Reality Films</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/make-your-mark-personalized-brands-zero-price-tag-for-2024/"><u>Make Your Mark - Personalized Brands, Zero Price Tag for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-irritating-speaker-noise-on-windows-107-computers-a-step-by-step-guide/"><u>Resolve Irritating Speaker Noise on Windows 10/7 Computers - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-adult-content-streaming-with-fantasticc-add-on-in-kodi-19-matrix/"><u>Step-by-Step Guide: Adult Content Streaming with FantastiCC Add-On in Kodi 19 Matrix</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-improving-chromebook-tone-with-top-voice-extensions-for-2024/"><u>The Ultimate Guide to Improving Chromebook Tone with Top Voice Extensions for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unveiling-issues-with-microsofts-duo-a-troublesome-costly-mobile-device-reviewed/"><u>Unveiling Issues with Microsoft's Duo: A Troublesome, Costly Mobile Device Reviewed</u></a></li>
+</ul></div>
 
