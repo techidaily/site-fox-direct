@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Pushing Boundaries with Yi's Action Camera & 4K Capture\""
-date: 2024-08-22T21:20:30.648Z
-updated: 2024-08-23T21:20:30.648Z
+date: 2024-11-20T23:54:29.645Z
+updated: 2024-11-24T20:14:17.507Z
 tags: 
   - screen-recording
   - ai video
@@ -114,11 +114,19 @@ Yi 4K is designed with built in Wi-Fi abilities so that users can make direct co
 
 The future firmware update of Yi 4K+ action camera is supposed to bring so many interesting features into this tiny device. It will be extending support towards live streaming facility and raw images will be soon processed. The most interesting addition will be voice command support that will make control actions much easier during adventurous sports recording needs. This device will be offering impressive high performance service while consuming very low power and all ultra HD videos will deliver crisper details with elegant color distributions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Yi 4K+ is first action camera device to support 60fps frame rate at 4K resolution level and it further provides 8MP support to every still while ensuring crisp and deep details. There are several interesting features inside this tiny action cam including USB-C external mic connectivity and many more. However, you may also find few troubles like it cannot go underwater without protective housing. It not even extends support to live streaming and RAW files cannot be processed. But, even after so many downsides, its amazing video quality makes it standout against all competitors. You must order your new action camera soon.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -143,12 +151,24 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-full-disclosure-on-the-t5-cameras-action-features/"><u>[New] Full Disclosure on the T5 Camera's Action Features</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-how-to-create-distortion-effects-in-photoshop/"><u>[New] How to Create Distortion Effects in Photoshop</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-innovative-12-motion-cameras-with-integrated-global-positioning/"><u>[New] Innovative 12 Motion Cameras with Integrated Global Positioning</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-stability-in-the-click-quashing-jitter-for-2024/"><u>[New] Stability in the Click Quashing Jitter for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-elevate-note-taking-to-new-heights-with-mematic/"><u>[Updated] 2024 Approved Elevate Note-Taking to New Heights with Mematic</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-from-basic-to-spectaculr-the-best-cams-gear-guide-for-2024/"><u>[Updated] From Basic to Spectaculr The Best Cams' Gear Guide for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-exposing-the-invisible-voices-of-yt-community/"><u>[Updated] In 2024, Exposing the Invisible Voices of YT Community</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-the-art-of-attracting-product-brands-on-youtube/"><u>[Updated] In 2024, The Art of Attracting Product Brands on Youtube</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-straightstreamerw11-ultra-simple-pc-screenshot-software/"><u>2024 Approved StraightStreamerW11 Ultra-Simple PC Screenshot Software</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/find-my-app-troubleshooting-no-location-found-vs-location-not-available-and-how-to-fix-them-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>Find My App Troubleshooting No Location Found vs. Location Not Available & How to Fix Them On Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-engaging-consumer-openings/"><u>In 2024, Engaging Consumer Openings</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-quick-recording-visuals-plus-verbal-input/"><u>In 2024, Quick Recording Visuals + Verbal Input</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-revolutionizing-fields-with-virtual-reality/"><u>In 2024, Revolutionizing Fields with Virtual Reality</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-get-creative-with-these-top-rated-video-dubbing-apps/"><u>New In 2024, Get Creative with These Top-Rated Video Dubbing Apps</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-oneplus-11-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from OnePlus 11 5G to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-4-ways-to-trace-apple-iphone-8-plus-location-drfone-by-drfone-virtual-ios/"><u>Top 4 Ways to Trace Apple iPhone 8 Plus Location | Dr.fone</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->

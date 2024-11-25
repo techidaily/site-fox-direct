@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Effortlessly Invert Colors in Your Digital Photos\""
-date: 2024-11-11T19:57:25.166Z
-updated: 2024-11-16T00:45:12.094Z
+date: 2024-11-23T21:23:30.871Z
+updated: 2024-11-25T01:04:33.652Z
 tags: 
   - screen-recording
   - ai video
@@ -40,6 +40,10 @@ The Invert option is commonly used to invert a scanned film negative to color, b
 
 ![ Invert image color](https://images.wondershare.com/filmora/article-images/ms-paint-invert-color.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Open the photo you’d like to invert with MS Paint, and then choose the **Select All option** from the **Select Menu**. **Right-click** on the picture and click on the **Invert Color** option. The colors in the image will be automatically inverted, so you can then head over to the **Save As submenu** in the **File menu** to select the file format of the new photo.
 
 If you are using Windows XP or an earlier version of the Windows OS, you can invert colors in a photo by clicking on the **Invert Colors option** in the **Image menu**. Even though MS Paint lets you invert image colors easily, it is still better to use a more powerful image editor to edit your photos.
@@ -53,6 +57,10 @@ If you are using Windows XP or an earlier version of the Windows OS, you can inv
 Besides creating image negatives, the Preview app lets you convert image files as well. Once you open a photo you’d like to invert with the Preview app, you should click on the **Tools** menu.
 
 ![ Invert image color](https://images.wondershare.com/filmora/article-images/mac-preview-invert-color-original.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Clicking on the **Adjust Color feature** will bring up the color adjustment panel that contains **Black Level and White Level** sliders. To invert the colors in the photo you have to drag the **Black Level slider to the right** and the **White Level Slider to the left.**
 
@@ -78,6 +86,10 @@ The platform’s homepage contains a number of categories of tools such as **Col
 
 ![ Covert color](https://images.wondershare.com/filmora/article-images/imageconverter-tjshome.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 In addition to a rich selection of effects you can apply to images, tjshome also lets you browse through **Funny Dumb Laws, Famous Quotes or Funny Status Messages** categories. Click on the **Image Filter** category in order to view all effects the platform offers. Make sure that the **Reverse Colors/Negate effect** is selected, and then scroll further down the page to **upload the photo you’d like to invert.** When the upload process is completed, you can check the Make **Public checkbox** if you want to add your photo to the tjshome’s gallery. Click on the **Submit** button, and then proceed to save the picture to your computer. This platform lets you invert images in three easy steps, but if you want to have more control over the process, it is better to use a more powerful photo editor.
 
 #### 5. Using [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)’s Invert Option
@@ -87,6 +99,10 @@ In addition to a rich selection of effects you can apply to images, tjshome also
 **Compatibility:** macOS, Windows
 
 ![ Covert color](https://images.wondershare.com/filmora/article-images/ps-convert-color.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After you open a photo in Adobe Photoshop, you can invert it in just a few clicks. **Expand the Image menu** and the go-to **Adjustments submenu** where you can find the **Invert option**. Alternatively, you can use the **CTRL+I** shortcut if you are a PC user or a **Command+I** if you are using a Mac computer. Moreover, Photoshop lets you **mask parts of a photo** which enables you to precisely define an area of an image you’d like to invert. Other photo editing tools like **Curves, Brightness/Contrast or Photo Filter** can make an image with inverted colors look more convincing. Keep in mind that working with multiple layers requires a lot of patience because failing to mask an object properly can produce some unwanted side issues.
 
@@ -122,6 +138,10 @@ Inverting colors in a photo is not a complicated process, but finding creative w
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -147,26 +167,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-leading-soundstage-viewing/"><u>[New] 2024 Approved Leading Soundstage Viewing</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-office-design-evolution-trends-and-practices-for-maximum-output/"><u>[New] 2024 Approved Office Design Evolution Trends and Practices for Maximum Output</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-unlocking-visual-potential-the-power-of-lut-transformations/"><u>[New] 2024 Approved Unlocking Visual Potential The Power of LUT Transformations</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-cutting-edge-3d-cinema-at-your-fingertits-decks-reviewed-for-2024/"><u>[New] Cutting-Edge 3D Cinema at Your Fingertits Decks Reviewed for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-detailed-review-on-vlcs-screenshotting-for-2024/"><u>[New] Detailed Review on VLC's Screenshotting for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-easy-guide-to-youtube-livestreaming-from-google-meet/"><u>[New] Easy Guide to YouTube Livestreaming From Google Meet</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-insightful-reviews-from-vllo-users/"><u>[New] Insightful Reviews From VLLO Users</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-streaming-snapshots-for-facebook-2023-for-2024/"><u>[New] Streaming Snapshots for Facebook, 2023 for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-complete-analysis-of-theta-ss-advanced-tech-for-2024/"><u>[Updated] Complete Analysis of Theta S's Advanced Tech for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-streamline-your-music-movement-between-services/"><u>[Updated] Streamline Your Music Movement Between Services</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-unlock-the-full-potential-of-skype-written-in-spanish-but-not-widely-known-among-english-speakers-it-was-used-as-a-basis-for-creating-new-mode/"><u>2024 Approved Unlock the Full Potential of Skype’ Written in Spanish, but Not Widely Known Among English Speakers. It Was Used as a Basis for Creating New Models Like BERT and GPT-3. How Can I Access This Model? Is It Free to Use?</u></a></li>
-<li><a href="https://win-best.techidaily.com/comprehensive-guide-understanding-contents-of-an-itunes-backup-whats-included-and-excluded/"><u>Comprehensive Guide: Understanding Contents of an iTunes Backup - What's Included & Excluded?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Xiaomi Redmi A2+ | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/perfecting-your-images-the-art-of-curving/"><u>Perfecting Your Images The Art of Curving</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-learn-the-ins-and-outs-of-twitch-live-stream-archiving/"><u>[New] 2024 Approved Learn the Ins and Outs of Twitch Live Stream Archiving</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-rapid-releases-review-best-quick-gaming-selections/"><u>[New] 2024 Approved Rapid Releases Review Best Quick Gaming Selections</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-step-by-step-guide-downloading-apple-podcasts/"><u>[New] In 2024, Step-by-Step Guide Downloading Apple Podcasts</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-secrets-to-compelling-presentations-ppt-on-mobile-and-desktop-gmeet/"><u>[New] Secrets to Compelling Presentations PPT on Mobile & Desktop GMeet</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-step-by-step-guide-to-kinemasters-mastery-plus-10-superior-editing-counterparts/"><u>[New] Step-by-Step Guide to KineMaster's Mastery + 10 Superior Editing Counterparts</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-step-by-step-tutorial-for-transforming-profile-photographs-on-social-networks/"><u>[New] Step-by-Step Tutorial for Transforming Profile Photographs on Social Networks</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-the-cinematographers-blueprint-for-simple-water-vids-for-2024/"><u>[New] The Cinematographer's Blueprint for Simple Water Vids for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-dji-aerial-vr-headset-quality-assessment/"><u>[Updated] DJI Aerial VR Headset Quality Assessment</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-iphone-landscape-mastery-tips-that-work-like-magic/"><u>[Updated] In 2024, IPhone Landscape Mastery Tips That Work Like Magic</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-iphones-audio-advantages-for-podcast-lovers/"><u>[Updated] In 2024, IPhone's Audio Advantages for Podcast Lovers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-tuneful-texting-whatsapp-audio-integration/"><u>[Updated] In 2024, Tuneful Texting WhatsApp Audio Integration</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-dolbys-advanced-audio-driver-error-start-up-solutions-for-windows-11-users/"><u>Fixing Dolby's Advanced Audio Driver Error: Start-Up Solutions for Windows 11 Users</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-s23plus-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy S23+ to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/pokemon-flashback-android-game-re-imagining/"><u>Pokémon Flashback: Android Game Re-Imagining</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-samsung-smart-tv-apps-top-picks-for-a-superior-viewing/"><u>The Ultimate Guide to Samsung Smart TV Apps: Top Picks for a Superior Viewing</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

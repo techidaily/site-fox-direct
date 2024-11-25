@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Selecting the Perfect Timing for B Roll Insertion"
-date: 2024-11-09T00:44:39.178Z
-updated: 2024-11-15T20:39:50.469Z
+date: 2024-11-20T05:16:28.864Z
+updated: 2024-11-25T09:38:17.845Z
 tags: 
   - screen-recording
   - ai video
@@ -27,6 +27,10 @@ Now that we know that, let's dive in!
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. B roll In TV And Movies
 
 Broll is an acronym for "background" or "behind," respectively. It usually refers to extra footage captured with a movie camera while keeping the lighting consistent between scenes in the movie industry. When the filmmaker doesn't want to show any dialogue or action on screen but needs some movement within the frame, it might be utilized as filler.
@@ -46,32 +50,19 @@ The ideal way to use B roll is to put it behind interviews. This kind of footage
 On the other hand, cutaways can show how different people react to what is being said in an interview. After all, transitions are commonly used to switch from one person's experience with a certain topic to another person's experience with the same topic. All of these different kinds of footage give filmmakers and videographers more freedom to tell their stories without relying too much on dialogue or narration.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. What types of b roll are there?
 
 We'll examine the top 5 uses for B rolls across a variety of video genres and discuss how to implement them effectively in your own projects.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Archival b roll footage
 
 Aerial B roll is the solution when you like to show your viewers where your film is being recorded or when you are changing locations and want them to know it. The plane takes off and lands in another city, and then shots of the city, its landmarks, its famous streets, etc. are shown. You have probably seen this type of B roll footage in movies and TV shows. These images aid in putting the viewer in the character's current location. Check out this collection of setting images from the Neighbors television series.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Visual detail b roll footage
@@ -81,6 +72,10 @@ Including archival material in your video allows your audience to experience a p
 ### 3\. Storytelling b roll footage
 
 B roll footage can be used to tell a story that supports the narrative of your video. For example, in this video interview of Tom DeLonge, the speaker talks about living in a neighborhood. The B rolls show him driving around in his car, skateboarding on the street in the 90's. These add to the story the video creator wants to talk about not seeing people with a disability differently.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Undirected b roll footage
 
@@ -99,10 +94,7 @@ A pick-up is a tiny shot added to previously captured material. Re-shoots involv
 If flaws were discovered during primary photography, the directors could have requested another take. The producer and director should weigh the cost of rejoining cast and crew against the need for pick-ups or re-shoots to address storyline flaws (or worse) in the final edit.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 7\. A roll vs b roll
@@ -143,19 +135,18 @@ We sincerely hope that this post will be of use to you in making your films more
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-facial-lockout-a-deep-dive-into-iphones-face-id-vs-galaxys-recognition-for-2024/"><u>[New] Facial Lockout A Deep Dive Into iPhone's Face ID Vs. Galaxy’s Recognition for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-pre-purchase-key-facts-every-drone-buyer-should-know/"><u>[Updated] 2024 Approved Pre-Purchase Key Facts Every Drone Buyer Should Know</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-how-tos-for-immersive-nba-livestream-watching/"><u>[Updated] How-To's for Immersive NBA Livestream Watching</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-unlock-your-video-potential-nine-superior-stream-filters/"><u>[Updated] Unlock Your Video Potential Nine Superior Stream Filters</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Vivo V30 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/banish-flickering-screens-7-smart-fixes-to-restore-stability-on-your-mobile-device/"><u>Banish Flickering Screens: 7 Smart Fixes to Restore Stability on Your Mobile Device</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comparative-analysis-of-amazon-kindle-readers-vs-fire-tablets-what-sets-them-apart/"><u>Comparative Analysis of Amazon Kindle Readers Vs. Fire Tablets: What Sets Them Apart?</u></a></li>
-<li><a href="https://media-tips.techidaily.com/create-animated-gifs-from-videoimage-content-for-zero-cost-using-our-editing-tool/"><u>Create Animated GIFs From Video/Image Content for Zero Cost Using Our Editing Tool</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/how-to-confirm-the-trustworthiness-and-safety-of-android-apps-before-downloading/"><u>How to Confirm the Trustworthiness and Safety of Android Apps Before Downloading.</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-motorola-moto-g34-5g-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Motorola Moto G34 5G</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/network-security-detecting-open-tcpip-ports-in-windows/"><u>Network Security: Detecting Open TCP/IP Ports in Windows</u></a></li>
-<li><a href="https://review-topics.techidaily.com/play-mov-movies-on-xiaomi-redmi-12-5g-is-it-possible-by-aiseesoft-video-converter-play-mov-on-android/"><u>Play MOV movies on Xiaomi Redmi 12 5G, is it possible?</u></a></li>
-<li><a href="https://howto.techidaily.com/samsung-galaxy-a25-5g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy A25 5G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/the-essential-toolkit-choosing-the-best-lens-technology-in-4k-for-2024/"><u>The Essential Toolkit Choosing the Best Lens Technology in 4K for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-quickplay-quotient-top-10-lightning-gaming-apps/"><u>[New] 2024 Approved Quickplay Quotient Top 10 Lightning Gaming Apps</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-unlock-hd-potential-for-your-social-media-platform-fb/"><u>[New] 2024 Approved Unlock HD Potential for Your Social Media Platform (FB)</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-exploring-interactive-boundaries-the-vision-of-mixed-reality/"><u>[New] In 2024, Exploring Interactive Boundaries The Vision of Mixed Reality</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-the-cwindowssystem32configsystemprofiledesktop-is-unavailable-error/"><u>[Solved] The C: Windows system32 config systemprofile Desktop Is Unavailable Error</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-canvasknotter-your-ultimate-photo-blend-tool/"><u>[Updated] CanvasKnotter Your Ultimate Photo Blend Tool</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-explore-online-communities-with-youtube-monetization-opportunities-for-2024/"><u>[Updated] Explore Online Communities with YouTube Monetization Opportunities for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-cutting-edge-techniques-for-resolving-youtube-short-issues/"><u>[Updated] In 2024, Cutting-Edge Techniques for Resolving YouTube Short Issues</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/elite-camera-selection-our-top-15-picks/"><u>Elite Camera Selection Our Top 15 Picks</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-experience-the-future-with-these-top-iphone-vr-titles/"><u>In 2024, Experience the Future with These Top iPhone VR Titles</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-exploring-roku-watching-facebook-live-effortlessly/"><u>In 2024, Exploring Roku Watching Facebook Live Effortlessly</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/arch-of-success-pivotal-youtube-gatherings-after-vidcon-for-2024/"><u>In Search of Success Pivotal YouTube Gatherings (After VidCon) for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/professional-guide-to-the-leading-tablets-comprehensive-evaluations/"><u>Professional Guide to the Leading Tablets : Comprehensive Evaluations</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-15-dolby-atmos-films-ultimate-movie-watching-experience-from-the-comfort-of-your-couch/"><u>Top 15 Dolby Atmos Films: Ultimate Movie-Watching Experience From the Comfort of Your Couch</u></a></li>
 </ul></div>
 

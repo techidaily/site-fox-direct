@@ -1,7 +1,7 @@
 ---
 title: Demon's Souls Remastered – Elevated Graphics & Unchanged Excellence in Play
-date: 2024-08-22T21:20:44.699Z
-updated: 2024-08-23T21:20:44.699Z
+date: 2024-11-20T02:45:51.594Z
+updated: 2024-11-25T02:48:32.768Z
 categories:
   - BestProducts
 description: This Article Describes Demon's Souls Remastered – Elevated Graphics & Unchanged Excellence in Play
@@ -13,9 +13,17 @@ thumbnail: https://www.lifewire.com/thmb/dEOCkzkzYSEO1EFWdx9dkv38Hw8=/400x300/fi
 
 4.9
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Namco Bandai Games Demon's Souls
 
 ![Demon's Souls](https://www.lifewire.com/thmb/FlkjJ-aAhTQA7lPtbGXSQdiGsnM=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Demons_Souls_HeroHoriz-c20445163c3a41d1a3cc903b397f80c0.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Andy Zahn / Lifewire
 
@@ -38,6 +46,10 @@ Andy Zahn / Lifewire
 [View On Amazon $42](https://www.amazon.com/dp/B08FC5TTBF?tag=lifewire-onsite-prod-20&ascsubtag=5097040%7Cn717700bf75f745ff9a03b8de77e25ff819%7CB08FC5TTBF) [View On Walmart $43](https://www.walmart.com/ip/Demon-s-Souls-Sony-PlayStation-5/741555735) [View On Best Buy $70](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fdemons-souls-standard-edition-playstation-5%2F6430152.p%3FskuId%3D6430152)
 
 4.9
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Namco Bandai Games Demon's Souls
 
@@ -76,9 +88,6 @@ Andy Zahn / Lifewire
 
 ![Demon's Souls](https://www.lifewire.com/thmb/nhDABDvD3Q_L9cQazAzwaVqKve0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Demons_Souls_02-1bb17b67cec04909b913e5da616ab22e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Andy Zahn / Lifewire
 
  The game is played in third person, and possesses many of the conventions of other third-person action RPGs. However, where other such games hold your hand and are generous with tutorials, world design, and adjustable difficulty, Demon’s Souls takes an almost antagonistic attitude towards its players. Unless you have a buddy to give you hints or have an online guide handy, the learning curve will be steep indeed for people new to the franchise.
@@ -90,8 +99,9 @@ Andy Zahn / Lifewire
  Demon’s Souls on PS5 is stunning to behold, yet has lost none of the atmosphere of oppressive gloom that fans of the PS3 classic adored.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Graphics: Spectacular Gothic grandeur
 
  Demon’s Souls on PS5 is stunning to behold, yet has lost none of the atmosphere of oppressive gloom that fans of the PS3 classic adored. The amped-up fidelity of this remake, along with its higher frame rate, only adds to the gloomy Gothic aesthetic and helps to immerse you in the medieval post-apocalyptic world. Every time I walked out of a gloomy corridor or cavern to discover a new grand vista of fantastic decaying splendor in hyper-realistic detail, it was truly jaw-dropping, and all the more rewarding for the grueling slog required to reach it.
@@ -100,9 +110,6 @@ Andy Zahn / Lifewire
 
 ![Demon's Souls](https://www.lifewire.com/thmb/XVCPqjpTou9RZKUKnaew3lZimgo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Demons_Souls_03-bf9cbbe6eb9f4a01a98f10853b7b7f51.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Andy Zahn / Lifewire
 
 ## Controls: Different things to different people
@@ -117,6 +124,10 @@ Andy Zahn / Lifewire
 
 ![Demon's Souls](https://www.lifewire.com/thmb/1Xv-AdMtEdyho60SznaWSfVFHx0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Demons_Souls_04-ee6ad6f295e6498da8fd2078b2d2cc2d.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Andy Zahn / Lifewire
 
 ## Multiplayer: A helping hand or a dagger in your back
@@ -127,18 +138,12 @@ Andy Zahn / Lifewire
 
  Unless you have a buddy to give you hints or have an online guide handy, the learning curve will be steep indeed for people new to the franchise.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Customization: Lots of options
 
  Demon’s Souls features a deep level of both cosmetic and gameplay customization. I spent a long time crafting a cool looking character before diving into the game, though most helmets and other headgear fully obscure your features rendering all that effort mostly meaningless.
 
  There’s a wide variety of armor and weapons hidden throughout the game, though your chosen build will largely determine which gear you will use on a particular playthrough. Be sure to collect crafting materials, since they’re used for leveling up your weapons. Souls are spent on upgrading your character’s stats, and both character and weapon upgrades become progressively more expensive as you progress.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Price: The cost of next-gen gaming
 
  With an MSRP of $70, Demon’s Souls is more expensive now than when it originally launched more than a decade ago. Though the price may seem high, Demon’s Souls is something of a special case. It’s well worth the cost of admission, and it doesn’t hurt that there are no microtransactions or other hidden fees.
@@ -146,6 +151,10 @@ Andy Zahn / Lifewire
 ![Demon's Souls](https://www.lifewire.com/thmb/nrL-L23OmKNq6svUEwmoReap2Ow=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Demons_Souls_05-4df0f853dcb34652888c8b408ccd93be.jpg)
 
 Andy Zahn / Lifewire
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Demon’s Souls vs. Assassin’s Creed: Valhalla
 
@@ -163,9 +172,6 @@ Andy Zahn / Lifewire
 
  Demon’s Souls on the PS5 is the remake this classic game deserved, bringing this pioneering title to a new generation of gamers with a fresh coat of paint. Its steep learning curve will challenge your determination to progress through its Gothic splendor, but the promise of plunder and grand vistas ahead push you to continue despite casualty after despair-inducing casualty.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Demon's Souls
@@ -183,8 +189,6 @@ Andy Zahn / Lifewire
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -192,4 +196,22 @@ Andy Zahn / Lifewire
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-equipment-for-making-a-travel-video/"><u>[New] Equipment for Making a Travel Video</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-building-an-engaged-youtube-community-subscribers/"><u>[New] In 2024, Building an Engaged Youtube Community (Subscribers)</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-top-5-mac-cam-alternatives-to-elevate-your-digital-screens/"><u>[New] In 2024, Top 5 Mac Cam Alternatives to Elevate Your Digital Screens</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-ios-meets-android-an-in-depth-look-at-facial-tech/"><u>[New] IOS Meets Android An In-Depth Look at Facial Tech</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-modern-methods-rapidly-turning-srt-into-txt-format/"><u>[New] Modern Methods Rapidly Turning SRT Into TXT Format</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-paving-digital-pathways-for-ig-and-tiktok-for-2024/"><u>[New] Paving Digital Pathways for IG & TikTok for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-discover-the-evolution-of-video-technology-with-mycams-review/"><u>[Updated] 2024 Approved Discover the Evolution of Video Technology with MyCam's Review</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-giggle-geniuses-selecting-superior-memery-apps/"><u>[Updated] 2024 Approved Giggle Geniuses Selecting Superior Memery Apps</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-next-gen-platform-for-12-hourly-live-broadcasts/"><u>[Updated] 2024 Approved Next-Gen Platform for 12 Hourly Live Broadcasts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-easiest-path-to-personalizing-your-pubg-characters-speech/"><u>[Updated] The Easiest Path to Personalizing Your PUBG Character’s Speech</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/dive-into-iphone-photo-magic-with-surface-mirror-tips/"><u>Dive Into iPhone Photo Magic with Surface Mirror Tips</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-your-apple-iphone-8-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your Apple iPhone 8? | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-best-4k-monitors-for-video-editing/"><u>In 2024, Best 4K Monitors for Video Editing</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-pro-max-official-method-to-unlock-your-apple-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 14 Pro Max Official Method to Unlock Your Apple iPhone 14 Pro Max</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/introducing-microsofts-new-ai-search-tech-for-pcs-insights-on-the-latest-recall-announcement/"><u>Introducing Microsoft's New AI Search Tech for PCs - Insights on the Latest Recall Announcement</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Ultimate 4K Aerial Photography Guide  MI Drone Review for 2024\""
-date: 2024-08-27T17:32:39.129Z
-updated: 2024-08-28T17:32:39.129Z
+date: 2024-11-22T23:42:39.375Z
+updated: 2024-11-25T04:20:10.510Z
 tags: 
   - screen-recording
   - ai video
@@ -44,13 +44,18 @@ In the last few years, Xiaomi has developed remarkable performance in the market
 
 * Its aesthetics are not much appealing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Features
 
 Even with a reasonable price tag, this advanced drone unit has several features to offer its users. The most impressive one is its 4K recording ability with higher stability whereas still shots are recorded with 1080p resolution level. The wireless transmitter is designed with 2.4GHz frequency range whereas the altitude range goes as high as up to 800m. Control distance offered by Xiaomi MI is 3000m and the overall flight time offered by this tiny drone unit is 27 min. It has 5199mAh rechargeable battery with 17.4 Volt rating that takes total 3 and half hours for complete charging.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Design
 
 Xiaomi Mi has impressive aesthetics and most of its features are comparable to DJI Phantom 4 Drone. The best part is that this drone unit is designed with light weight structure so you can easily carry it to your tour. Even, the propeller guards as well as the gimbal unit are detachable so that you can put this drone easily inside your backpack. The overall weight of Xiaomi Mi is only 149 grams due to carbon fiber and polycarbonate material.
@@ -60,31 +65,27 @@ Xiaomi Mi has impressive aesthetics and most of its features are comparable to D
 As already discussed, Xiaomi MI can spend 27 minutes in the air with one time full charging. But battery time can be depleted faster if you prefer to use the auto return to home and auto departure feature. The 17.4 Volt battery unit with 5199mAh capacity takes 3 ½ hours to full charge but if you want to extend battery life then prefer to carry a backup with you. As already discussed, Xiaomi MI can spend 27 minutes in the air with one time full charging. But battery time can be depleted faster if you prefer to use the auto return to home and auto departure feature. The 17.4 Volt battery unit with 5199mAh capacity takes 3 ½ hours to full charge but if you want to extend battery life then prefer to carry a backup with you.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Flight Performance
 
 Like most of the advanced drone units, Xiaomi Mi also features autonomous flying mode. All that you need to do is simply hit the TapFly button and it will start moving. Users can control all movements with a tap of a finger and you can check all movements with the help of the map.
 
 The most amazing feature of Xiaomi Mi is its ability to communicate via mobile phone so that users can manage the recording focus of its camera. One more appreciable feature is its surrounded flight ability; you can make it circle around any specific object by sending commands from a smartphone. You will love to capture videos with its 360-degree motion ability that leads to incredible clicks. How can we forget to talk about the most advanced feature of this special drone unit that is Preset Rout following ability! Users can make pre adjustments for all flights and it will capture smooth shots every time. The automatic landing and takeoff feature helps in easy controls whereas if this drone goes far from 3meter range then it will switch back to its preset path. It is possible to bring this drone back with only one button and in order to improve its performance, you can access the calibration settings. Note that, if somehow your drone gets lost then it will take almost 30 to 45 minutes for coming back.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Control Range
 
 As we have discussed earlier that Xiaomi Mi is designed to work on 2.4GHz transmitter frequency range. It has left-hand throttle ability along with the handy built-in type phone clamp. In order to operate this drone from remote distance you simply need to configure its flight settings to Mode 2\. Note that MI is able to fly at a maximum height of 800m and it can go as far as up to 3000 meters from the operator.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Camera
 
 Xiaomi Mi Drone unit comes with two different variants where the professional one carries 4K camera unit with it and another variant is able to handle 1080P resolution level. Note that the 4K camera comes with 12.4MP sensor from Sony and it works with the Ambarella image processor. You can set its frame rate up to 30fps. Another option is 1080p resolution setting that comes with 16.4 megapixel sensor from Sony along with Ambarella Image Processor. In this case frame rate can go as high as up to 60 fps. The 2.4GHz transmitter further ensures interference free recording in air.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Conclusion
 
 The 1080p variant of Mi Drone is available with a price tag of $380 whereas for 4K camera facility you need to pay $460 when ordered from China. All the advanced features of this drone unit make it suitable for professional users. It can beat several high-end competitors with its all-new specifications. Prefer to carry an additional battery for your long-distance tours so that you can enjoy all-time flights without worrying about battery backup.
@@ -92,8 +93,9 @@ The 1080p variant of Mi Drone is available with a price tag of $380 whereas for 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -117,4 +119,23 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-facebooks-top-10-most-watched-music-moments/"><u>[New] 2024 Approved Facebook's Top 10 Most-Watched Music Moments</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-mastering-waveform-overlaps-the-crossfade-method/"><u>[New] 2024 Approved Mastering Waveform Overlaps The Crossfade Method</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-eliminate-the-sneaky-youtube-thumbnail-glimpse/"><u>[New] Eliminate the Sneaky YouTube Thumbnail Glimpse</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-the-artistic-eye-with-toolwiz-an-in-depth-look-at-the-photosapp-2023-edition/"><u>[New] In 2024, The Artistic Eye with Toolwiz An In-Depth Look at the PhotosApp, 2023 Edition</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-inside-ustream-review-alternatives-on-hand/"><u>[New] Inside Ustream Review, Alternatives on Hand</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-facebook-video-layouts-vertical-or-horizontal/"><u>[Updated] 2024 Approved Facebook Video Layouts Vertical or Horizontal?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-boosting-streams-switching-to-av1-in-youtubes-settings/"><u>[Updated] In 2024, Boosting Streams Switching to AV1 in YouTube's Settings</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-tips-and-tricks-for-professional-logitech-webcam-recordings-for-2024/"><u>[Updated] Tips & Tricks for Professional Logitech Webcam Recordings for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-quick-start-to-mastering-io-screen-recording/"><u>2024 Approved Quick Start to Mastering IO Screen Recording</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/embedding-echoes-adding-audio-to-your-powerpoint-slides/"><u>Embedding Echoes Adding Audio to Your PowerPoint Slides</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-nubia-red-magic-8s-proplus-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Nubia Red Magic 8S Pro+</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-instant-tiktok-content-access-a-step-by-step/"><u>In 2024, Instant TikTok Content Access - A Step-by-Step</u></a></li>
+<li><a href="https://fox-where.techidaily.com/in-depth-analysis-of-iskysoft-data-recovery-software-assessing-its-advantages-drawbacks-and-pricing-details/"><u>In-Depth Analysis of iSkysoft Data Recovery Software – Assessing Its Advantages, Drawbacks, & Pricing Details</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/invigorate-snaps-implement-inner-blur-spread-in-cs-for-2024/"><u>Invigorate Snaps Implement Inner Blur Spread in CS for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/learning-curve-to-funimate-excellence/"><u>Learning Curve to Funimate Excellence</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/windows-11-unlocked-top-features-on-display-for-2024/"><u>Windows 11 Unlocked Top Features on Display for 2024</u></a></li>
+</ul></div>
 

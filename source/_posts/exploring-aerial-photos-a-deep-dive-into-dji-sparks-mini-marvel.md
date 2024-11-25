@@ -1,7 +1,7 @@
 ---
 title: "\"Exploring Aerial Photos  A Deep Dive Into DJI Spark's Mini Marvel\""
-date: 2024-08-22T21:19:57.666Z
-updated: 2024-08-23T21:19:57.666Z
+date: 2024-11-24T03:52:19.855Z
+updated: 2024-11-25T07:47:57.644Z
 tags: 
   - screen-recording
   - ai video
@@ -46,6 +46,10 @@ Have you gone through DJI Spark videos on YouTube? They are spreading like a vir
 
 ![dji spark box](https://images.wondershare.com/filmora/article-images/dji-spark-box.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###### #2\. Aircraft size
 
  The overall dimensions of this compact drone are 143x143x55 mm whereas weight goes only up to 300 grams.
@@ -53,6 +57,10 @@ Have you gone through DJI Spark videos on YouTube? They are spreading like a vir
  Let's compare it with DJI Mavic, then you can have an intuitive feeling:
 
 ![spark vs mavic](https://images.wondershare.com/filmora/article-images/spark-vs-mavic.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###### #3\. Battery
 
@@ -70,6 +78,10 @@ Have you gone through DJI Spark videos on YouTube? They are spreading like a vir
 
 ![dji spark 3d system](https://images.wondershare.com/filmora/article-images/dji-spark-3d-system.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Spark is perfect combination of technologies that makes its flights more stunning. It is equipped with 3D sensing system, high precision type inertial measurement mechanism, dual band GPS, Vision Positioning System, 24 powerful core for enhanced computing and many more. Spark use to follow its owner in air, and it's incredibly advanced design technology let it behave like an intelligent unit. It understands your gestures and move accordingly. The most impressive one is that when you outstretch your palm, it comes down and sits on your palm. That's really amazing.
 
 ###### #2\. Control Mode
@@ -81,6 +93,10 @@ Have you gone through DJI Spark videos on YouTube? They are spreading like a vir
  In this mode, you don't need phone or controller to control the drone, it can take off and land in your hand, keep following you when you waving your palm in front of its camera. You make a rectangle in air using your fingers and your intelligent drone will capture a selfie for you. But note that, this feature works only up to 3 meters distance.
 
 ![gesture mode](https://images.wondershare.com/filmora/article-images/gesture-mode.gif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * By App on Smartphone
 
@@ -97,6 +113,10 @@ Have you gone through DJI Spark videos on YouTube? They are spreading like a vir
 * By Remote Controller
 
 ![spark remote comtroller](https://images.wondershare.com/filmora/article-images/spark-remote-comtroller.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Under this mode, the Spark's flight potential will be totally liberated. After connecting the remote controller, the WIFI technology allows for 720p real-time video transmission from up to 2 km away, and the flight speed can reach up to 50km/h. What's more, you can pick up the latest [DJI Goggles](https://tools.techidaily.com/wondershare/filmora/download/) to see a different world.
 
@@ -133,8 +153,20 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-acclaimed-cameras-for-expert-automotive-tracking/"><u>[New] 2024 Approved Acclaimed Cameras for Expert Automotive Tracking</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-deep-dive-gopro-hero5-performance/"><u>[New] 2024 Approved Deep Dive GoPro Hero5 Performance</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-expert-advice-on-chromebooks-and-zoom/"><u>[New] 2024 Approved Expert Advice on Chromebooks and Zoom</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-pull-the-right-strings-increasing-likes-on-unboxed-tiktoks/"><u>[New] Pull the Right Strings Increasing Likes on Unboxed TikToks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-key-tactics-for-testimonial-videos/"><u>[Updated] 2024 Approved Key Tactics for Testimonial Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-depth-review-tunefabs-latest-in-screen-capture-tech/"><u>[Updated] In-Depth Review Tunefab's Latest in Screen Capture Tech</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/ice-chase-top-moments-captured-s-olympic-snowboard-race-events/"><u>Ice Chase Top Moments Captured 'S Olympic Snowboard Race Events</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-five-to-fiveteen-tactics-against-oculus-discomfort/"><u>In 2024, Five to Fiveteen Tactics Against Oculus Discomfort</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-media-non-xsplit-options-revealed/"><u>Mastering Media Non-Xsplit Options Revealed</u></a></li>
+<li><a href="https://review-topics.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/the-creme-de-la-creme-of-fps-games-7-for-2024/"><u>The Crème De La Créme of FPS Games (7) for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/uncovering-invisible-challenges-in-vr-for-2024/"><u>Uncovering Invisible Challenges in VR for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/will-macos-become-central-in-game-development-trends/"><u>Will MacOS Become Central in Game Development Trends?</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->

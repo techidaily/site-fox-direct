@@ -1,7 +1,7 @@
 ---
 title: "\"Deciphenas LUTs  Revolutionizing Photo Editing Techniques\""
-date: 2024-11-10T16:41:28.763Z
-updated: 2024-11-15T16:01:35.971Z
+date: 2024-11-21T00:00:31.946Z
+updated: 2024-11-25T08:23:54.129Z
 tags: 
   - screen-recording
   - ai video
@@ -56,10 +56,7 @@ Warm or cold tones and bold or washed-out styles are all options provided by the
 Photographers may now utilize the same techniques that film, and television editors have used for years to achieve the excellent new aesthetics seen in blockbusters. With quick LUT looks, you can now apply LUTs to your photographs to make your editing work stand out.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to use LUTs using Photoshop CC?
@@ -70,6 +67,10 @@ LUTs come pre-installed with programs, but you may also purchase them online and
 
 ![how to use luts using Photoshop cc](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Choose Adjustment Layer
 
 1. Opt for Color Lookup.
@@ -77,6 +78,10 @@ Choose Adjustment Layer
 3. Select Load 3D LUT. A list of LUTs that come with Photoshop will appear.
 
 ![how to use luts using Photoshop cc - load 3d lut](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 load 3d lut
 
@@ -86,19 +91,16 @@ load 3d lut
 
 LUTs come pre-installed in Photoshop, and you can use them as adjustment layers. As mentioned earlier, they'll alter the image's colors, and some of them will also alter the contrast. But what if you want to add LUTs? To add LUTs to Photoshop, you have two options. The first is really simple; all you have to do is discover the LUT and apply it to that specific project. The alternative is a little more difficult, but it enables you to access your LUTs at all times.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Here's the first method
 
 1. It would be best to unzip the LUT before using it in your project. This is relatively simple, and you may either use specialized software or the built-in unzipping utility in Windows.
 2. When discussing Photoshop, the project is typically an image, so go ahead and open it. Open a new one by pressing 'Ctrl+O' or importing something from your cloud.
 3. To do so, go to the 'Adjustments' tab and select the 'Color Lookup' button.
 4. Select the 'Load 3D LUT' button, then navigate to the directory where you unpacked the LUT files.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Here's the second one
 
@@ -117,10 +119,7 @@ Grow Together
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Closing Thoughts:
@@ -132,13 +131,6 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](#)
 
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Closing Thoughts:
 
@@ -170,22 +162,17 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-apple-music-add-on-for-smooth-video-playback/"><u>[New] In 2024, Apple Music Add-On for Smooth Video Playback</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-infinite-possibilities-with-ai-generating-viral-video-titles-for-2024/"><u>[New] Infinite Possibilities with AI Generating Viral Video Titles for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-smoothly-softening-endings-audio-fades-made-simple-with-adobe-premiere-pro/"><u>[Updated] In 2024, Smoothly Softening Endings Audio Fades Made Simple with Adobe Premiere Pro</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-step-by-step-username-modification-guide-for-meet-sessions/"><u>[Updated] In 2024, Step-by-Step Username Modification Guide for Meet Sessions</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/best-free-video-viewing-software-guide-top-16-for-2024/"><u>Best Free Video Viewing Software Guide - Top 16 for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/construct-memetic-mirth-for-2024/"><u>Construct Memetic Mirth for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/cybernetic-odyssey-traversing-metaverse-universes-in-film/"><u>Cybernetic Odyssey Traversing Metaverse Universes in Film</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/essential-tips-for-high-quality-ipad-screenshots/"><u>Essential Tips for High-Quality iPad Screenshots</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-i-fixed-the-stuttering-glitch-in-total-war-three-kingdoms/"><u>How I Fixed the Stuttering Glitch in Total War: Three Kingdoms</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-nokia-g22-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Nokia G22 | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-decoding-automatic-high-dynamic-range-auto-hdr-in-windows-11/"><u>In 2024, Decoding Automatic High Dynamic Range (Auto HDR) in Windows 11</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-directly-delivering-tiktok-videos-to-twitters-feed/"><u>In 2024, Directly Delivering TikTok Videos to Twitter's Feed</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-honor-magic-5-pro-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Honor Magic 5 Pro Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-precision-meetings-sharpen-your-screens-in-msteam/"><u>In 2024, Precision Meetings Sharpen Your Screens in MSTEAM</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/step-by-step-guide-adding-the-latest-sports-addon-to-your-kodi-setup/"><u>Step-by-Step Guide: Adding the Latest Sports Addon to Your Kodi Setup</u></a></li>
-<li><a href="https://techtrends.techidaily.com/trasforma-i-file-wma-in-wmv-offline-e-gratis-con-moveavi/"><u>Trasforma I File WMA in WMV Offline E Gratis Con Moveavi</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/ultimate-resource-list-of-3d-fonts-online-for-2024/"><u>Ultimate Resource List of 3D Fonts Online for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-visual-upgrade-engine-windows-mac-and-online-edition/"><u>[New] 2024 Approved Visual Upgrade Engine – Windows, Mac & Online Edition</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-capturing-movie-scenes-as-single-image-snapshots-windows-10-for-2024/"><u>[New] Capturing Movie Scenes as Single Image Snapshots (Windows 10) for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-uncover-ustream-plus-alternatives/"><u>[New] In 2024, Uncover Ustream Plus Alternatives</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-embracing-change-adaptability-as-the-new-normal-in-business/"><u>[Updated] Embracing Change Adaptability as the New Normal in Business</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-transform-images-into-movies-xp-software-guide-for-2024/"><u>[Updated] Transform Images Into Movies XP Software Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-introduction-design-made-simple-and-inexpensive/"><u>[Updated] YouTube Introduction Design Made Simple and Inexpensive</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/fixing-save-file-issues-in-genshin-impact-for-seamless-gameplay-continuation/"><u>Fixing Save File Issues in Genshin Impact for Seamless Gameplay Continuation</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-your-poco-lock-screen-password-by-drfone-android/"><u>How to Reset your Poco Lock Screen Password</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-cat-s42-durable-device-assessment-top-notch-armor-meets-moderate-mobility/"><u>In-Depth CAT S42 Durable Device Assessment: Top-Notch Armor Meets Moderate Mobility</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reconnect-ax201-to-intels-wi-fi-6-effort-successful/"><u>Reconnect AX201 to Intel's Wi-Fi 6 Effort Successful</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/the-pinnacle-of-tablet-drawing-best-8-for-ipados/"><u>The Pinnacle of Tablet Drawing Best 8 for iPadOS</u></a></li>
+<li><a href="https://fox-within.techidaily.com/top-scelte-del-programma-clonatore-per-le-schede-disco-solid-state-della-toshiba-con-compatibilita-windows-una-guida-comparata/"><u>Top Scelte Del Programma Clonatore per Le Schede Disco Solid-State Della Toshiba Con Compatibilità Windows: Una Guida Comparata</u></a></li>
 </ul></div>
 

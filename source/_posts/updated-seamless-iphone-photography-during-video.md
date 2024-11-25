@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Seamless iPhone Photography During Video"
-date: 2024-08-27T17:29:38.093Z
-updated: 2024-08-28T17:29:38.093Z
+date: 2024-11-21T19:18:54.720Z
+updated: 2024-11-24T18:09:20.056Z
 tags: 
   - screen-recording
   - ai video
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/d47941553c96756e0922bd70e1fb7654903727793
 
  Video or picture capturing these days are plainly one of the frequently done tasks at various instants be it for recording a birthday party or a dance performance. And often times, you might have experienced the urge to take a picture out of the video recording so that the precious moment can be captured. But, switching to photo mode again for this will break the flow and the desired moment will be missed in the next second. And considering this situation, we have brought this article where you will learn to take photos and videos simultaneously.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to shoot a still photo and record a video simultaneously on your iPhone
 
  The feature of simultaneous photo and video recording had begun since the coming of iPhone 5\. So, iPhone 5 and later model users can enjoy taking photos while recording videos while if we talk about other iOS devices, iPad makes this feature available with its fourth generation as well as iPod touch sixth generation started supporting the feature of capturing stills when recording videos.
@@ -40,9 +44,17 @@ thumbnail: https://thmb.techidaily.com/d47941553c96756e0922bd70e1fb7654903727793
 
 ![](https://images.wondershare.com/filmora/article-images/take-photo-while-recording-videos-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image resource: igeeksblog.com
 
 * Now, to take a still, just tap on the white 'take picture' button that can be noticed at the left of the red button. The screen will flicker each time you press the button to take the photo.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### The drawbacks of taking photos and videos simultaneously
 
@@ -59,16 +71,10 @@ thumbnail: https://thmb.techidaily.com/d47941553c96756e0922bd70e1fb7654903727793
 | **iPhone 6S series** | 4032 × 3024               | 3412 × 1920                                  | 3840 × 2160                               | 1280 × 720                                    |
 | **iPhone 7 series**  | 4032 × 3024               | 3412 × 1920                                  | 3840 × 2160                               | 1280 × 720                                    |
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Extract frames from video
 
  If you are one of those who wish to **take photos while recording videos** without compromising the quality, we are glad to inform you that there is a solution for this. You can easily extract a specific frame from the recorded video keeping the standard resolution quality via Wondershare Filmora and will never be bothered about missing anything interesting from the video.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ### Why Choose Wondershare Filmora?
 
 * It supports a wide range of video formats and can help in extracting the desired frame out from any file format while keeping the quality intact as the original file.
@@ -80,13 +86,15 @@ thumbnail: https://thmb.techidaily.com/d47941553c96756e0922bd70e1fb7654903727793
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -110,4 +118,22 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-integrating-visuals-smoothly-mastering-snap-camera-in-microsoft-teams/"><u>[New] 2024 Approved Integrating Visuals Smoothly Mastering Snap Camera in Microsoft Teams</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-cameras-that-complement-best-hats-for-capturing-motorcycle-adventures/"><u>[New] Cameras That Complement Best Hats for Capturing Motorcycle Adventures</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-master-the-art-of-superior-image-quality-enable-youtubes-av1/"><u>[New] Master the Art of Superior Image Quality Enable YouTube's AV1</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-skyrocket-mobile-images-flawlessly-free/"><u>[New] Skyrocket Mobile Images Flawlessly, Free</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-tune-and-time-lapses-creating-music-videos-with-your-phone/"><u>[New] Tune & Time Lapses Creating Music Videos with Your Phone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-from-devices-to-desktops-proven-file-transfer-ways/"><u>[Updated] 2024 Approved From Devices to Desktops Proven File Transfer Ways</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-educational-synergy-enhancing-learning-with-youtube-videos-for-2024/"><u>[Updated] Educational Synergy Enhancing Learning with YouTube Videos for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-set-up-your-first-google-meet-and-plan-it/"><u>[Updated] In 2024, Set Up Your First Google Meet & Plan It</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-streamlining-board-collaboration-a-compreenasion-of-using-whiteboards-on-all-zoom-platforms-for-2024/"><u>[Updated] Streamlining Board Collaboration - A Compreenasion of Using Whiteboards on All Zoom Platforms for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/cutting-edge-ai-photo-enhancement-suite/"><u>Cutting-Edge AI Photo Enhancement Suite</u></a></li>
+<li><a href="https://video-capture.techidaily.com/fix-your-windows-11-snipping-tool-issues-with-these-proven-methods/"><u>Fix Your Windows 11 Snipping Tool Issues with These Proven Methods!</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-simplifying-media-files-with-xml-ssa-ttml-to-srt-process/"><u>In 2024, Simplifying Media Files with XML, SSA, TTML to SRT Process</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-your-workspace-with-the-ultimate-multi-device-charging-hub-now-at-a-steep-44-discountzdnet-deal/"><u>Maximize Your Workspace with the Ultimate Multi-Device Charging Hub: Now at a Steep 44% Discount![ZDNET Deal]</u></a></li>
+<li><a href="https://win11.techidaily.com/revival-of-a-non-responsive-search-restoring-functionality-on-windows-11-ui/"><u>Revival of a Non-Responsive Search: Restoring Functionality on Windows 11 UI</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-patch-tuesday-an-essential-guide/"><u>Understanding Patch Tuesday: An Essential Guide</u></a></li>
+</ul></div>
 

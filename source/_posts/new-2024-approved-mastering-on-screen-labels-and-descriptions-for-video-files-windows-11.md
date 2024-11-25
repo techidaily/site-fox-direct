@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Mastering On-Screen Labels and Descriptions for Video Files (Windows 11)\""
-date: 2024-08-22T21:20:50.600Z
-updated: 2024-08-23T21:20:50.600Z
+date: 2024-11-17T17:13:00.628Z
+updated: 2024-11-25T08:48:22.338Z
 tags: 
   - screen-recording
   - ai video
@@ -33,6 +33,10 @@ Adding the titles/text to video is a great way to explain the people about a cer
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Add Titles/Text to Video on Photos in Windows 10
 
 Do you wish to add titles/text to video on Photos in Windows 10 for your video projects? You may not get several options for video editing in spite of some powerful addition of application in Microsoft Store. But, the Windows 10 Photos app feature offers an add-on for creating video from your phone’s media. Let’s learn how to add titles/text to video on Photos in Windows 10.
@@ -47,9 +51,17 @@ Do you wish to add titles/text to video on Photos in Windows 10 for your video p
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/resize-photos-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * To add titles/text to video on Photos in Windows 10 that perfectly match the background, type out the title in the text box at the top right corner
 * Select the best-animated text fonts to suit the background. There are different layouts for each of the font style. Preview the animation by using Playback Control. If the text is not animating, you may try to increase the duration to 3-4 seconds that works well
 * For addition of credits, try to use the Classic text style. Put each of the credits in a new line and do give credits to yourself as well
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to Make Text Move in Windows 10 Photos App
 
@@ -61,6 +73,10 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 * On the right, find the effects sidebar and select any effect that you find suitable for your video text
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/effects-photos.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Some of the effects might not have the option to move or anchor but if you choose the one that does allow moving of texts, you get an option to attach once you select it
 * Pin the slider in Attach to a point at the On position
@@ -74,9 +90,6 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 
 * Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ## Conclusion
 
 To add titles/text to video on Photos in Windows 10 and to make the text move with the Windows 10 Photos app, follow the above steps and get going easily. The steps are really simple and you just need to understand and apply the steps for successfully adding texts to your videos.
@@ -84,8 +97,9 @@ To add titles/text to video on Photos in Windows 10 and to make the text move wi
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
@@ -109,4 +123,20 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-unlocking-perfect-presentation-youtubes-video-ratio-insights/"><u>[New] 2024 Approved Unlocking Perfect Presentation YouTube's Video Ratio Insights</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/eciphering-highlighted-discussion-threads-for-2024/"><u>[New] Deciphering Highlighted Discussion Threads for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-from-lenses-to-screens-reviewing-nikon-d7500/"><u>[New] From Lenses to Screens Reviewing Nikon D7500</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-streamlining-your-video-creation-ootd-on-a-mac/"><u>[New] In 2024, Streamlining Your Video Creation OOTD on a Mac</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-decoding-subtitles-from-srt-to-xml-ssa-and-more/"><u>[Updated] 2024 Approved Decoding Subtitles From SRT to XML, SSA & More</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-shaping-new-normals-innovative-brands-and-youtube-partnerships/"><u>[Updated] 2024 Approved Shaping New Normals Innovative Brands and YouTube Partnerships</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-best-youtube-title-generator/"><u>[Updated] Best YouTube Title Generator</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-develop-memes-for-viral-impact-adobe-way/"><u>[Updated] In 2024, Develop Memes for Viral Impact, Adobe Way</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-native-chrome-os-screen-replay-app/"><u>2024 Approved Native Chrome OS Screen Replay App</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-simply-spearheading-your-start-in-every-device-you-use/"><u>2024 Approved Simply Spearheading Your Start, in Every Device You Use</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Apple iPhone SE? | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/mlb-the-show-19-analysis-stunning-visuals-complement-unexpected-role-playing-features/"><u>MLB The Show 19 Analysis: Stunning Visuals Complement Unexpected Role-Playing Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-at-passwords-how-to-lengthen-windows-pins-efficiently/"><u>Winning at Passwords: How to Lengthen Windows Pins Efficiently</u></a></li>
+</ul></div>
 

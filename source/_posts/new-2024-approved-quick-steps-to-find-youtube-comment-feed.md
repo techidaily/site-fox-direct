@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Quick Steps to Find YouTube Comment Feed\""
-date: 2024-08-27T17:34:01.627Z
-updated: 2024-08-28T17:34:01.627Z
+date: 2024-11-19T23:28:36.113Z
+updated: 2024-11-24T23:08:42.408Z
 tags: 
   - screen-recording
   - ai video
@@ -28,6 +28,10 @@ Unfortunately, when it comes to comment, YouTube can be a little clunky and time
 
 Want to become the master of moderation? Read on for everything you need to know about comments on YouTube, and get that conversation going. This is another article to help you make the best out of your YouTube channel.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is YouTube Comment
 
 YouTube comments are an opportunity for the site's 1.7 million unique monthly visitors to share what they love, hate or simply must troll. It's like the internet own personal Thunderdome, but while it can be a place for negativity, YouTube comments can also be a powerful opportunity for positive community building and engagement.
@@ -44,6 +48,10 @@ If you're wondering whether you really need to monitor your YouTube comments, he
 * YouTube comments present an opportunity for engagement: Responding quickly to negative comments could help you improve your image-not just with an unhappy viewers, but also with other YouTube viewers who see how you respond to conflict.
 * YouTube comments could help you develop new content: YouTube users aren't shy about expressing their opinions. Pay attentions to what they're saying about your content, and how can develop new content that they want to see.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Comment on a YouTube Video
 
 Moderating comments that appear on your video is important (and we'll get to the details of that in a minute) but as a brand, you'll want to pipe up with your own commentary, too.
@@ -56,10 +64,6 @@ Step1 Below the video itself, find the comment section.
 
 ![find the comment section youtube](https://images.wondershare.com/filmora/article-images/2022/11/find-the-comment-section-youtube.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 Step2 Type your message in the add a comment field. (if you're writing on your phone you can tap the comment section to expand it.
 
 Step3 Click comment to post.
@@ -78,13 +82,18 @@ Step1 Open your chosen browser, head to YouTube, then sign in to your Google/You
 
 ![sign in youtube account](https://images.wondershare.com/filmora/article-images/2022/11/sign-in-youtube-account.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 On the YouTube homepage, click on the three horizontal parallel lines in the top-left corner. A drop down menu appears, including the trending videos of the day, your subscriptions and your settings.
 
 ![horizontal parallel lines youtube](https://images.wondershare.com/filmora/article-images/2022/11/horizontal-parallel-lines-youtube.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Step3 From the drop down menu, select “History”.
 
 Step4 On the right side under the “Manage all history” section, click on “comments”.
@@ -92,16 +101,13 @@ Step4 On the right side under the “Manage all history” section, click on “
 ![manage all history comments youtube](https://images.wondershare.com/filmora/article-images/2022/11/manage-all-history-comments-youtube.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Step5 To edit your comment, click on the “vertical ellipsis” (three vertical dots) on the far right side of the listed video page.
 
 Step6 Make the necessary edits and choose “Save”.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ## Highlighted Comments and Replies on YouTube
 
 Among the comments you see on a video, you might notice some that YouTube has labeled “Highlighted Comment.” that label is specific to you, and only appears in your comments list. YouTube that you have a particular interest in a section of comments.
@@ -128,13 +134,6 @@ Comments history also contains the link to the video where you've left the comme
 
 ![delete unwanted youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/delete-unwanted-youtube-comments.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 YouTube allows users to view and edit all the comments they have made on YouTube videos on both desktop and mobile apps. You can also edit or delete the comment if you so wish However you cannot delete any comments you made on YouTube from the Google my Activity page. It can be done from within the YouTube app only.
@@ -169,4 +168,24 @@ One way you can encourage people to leave comments on your videos is to finish t
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-unveiling-the-process-of-sharing-srt-text-in-social-digital-spaces/"><u>[New] In 2024, Unveiling the Process of Sharing SRT Text in Social Digital Spaces</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-elite-insight-parrots-second-gen-drone-20-for-2024/"><u>[Updated] Elite Insight Parrot's Second-Gen Drone 2.0 for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-finding-purpose-in-film-our-selection-of-top-motivational-titles-for-2024/"><u>[Updated] Finding Purpose in Film Our Selection of Top Motivational Titles for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-adding-captions-to-videos-using-microsoft-photos-windows-11/"><u>[Updated] In 2024, Adding Captions to Videos Using Microsoft Photos (Windows 11)</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-integrating-aesthetic-enhancements-into-windows-photos-audio-plus-visuals/"><u>[Updated] In 2024, Integrating Aesthetic Enhancements Into Windows Photos Audio + Visuals</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-setting-up-success-crafting-your-first-youtube-channel/"><u>[Updated] Setting Up Success Crafting Your First YouTube Channel</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/car-audio-woes-diagnosing-when-your-vehicles-radio-fails-unexpectedly/"><u>Car Audio Woes: Diagnosing When Your Vehicle's Radio Fails Unexpectedly</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/comparative-analysis-of-hero5-sessions/"><u>Comparative Analysis of Hero5 Sessions</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/crafting-realistic-3d-text-designs-in-photoshop/"><u>Crafting Realistic 3D Text Designs in Photoshop</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/eliminacion-efectiva-de-texto-sincronizado-en-archivos-mp4-mkv-y-avi/"><u>Eliminación Efectiva De Texto Sincronizado en Archivos MP4, MKV Y AVI</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-cutting-edge-gadgets-with-toms-hardware-experts/"><u>Exploring Cutting-Edge Gadgets with Tom's Hardware Experts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-a-corrupted-windows-store-cache-step-by-step-solutions/"><u>Fixing a Corrupted Windows Store Cache: Step-by-Step Solutions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gifpc/"><u>GIFアニメーションへの音楽追加手順：PC用ガイド</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-streamlining-your-social-media-presence-with-zoom-and-fb-live/"><u>In 2024, Streamlining Your Social Media Presence with ZOOM & FB Live</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/restore-files-using-windows-data-resurrector/"><u>Restore Files Using Windows Data Resurrector</u></a></li>
+<li><a href="https://video-capture.techidaily.com/the-best-game-video-recording-and-editing-software-for-beginners-for-2024/"><u>The Best Game Video Recording and Editing Software for Beginners for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/winner-highlights-from-the-2015-fourth-quarter-at-toms-hardware-system-builder-showdown-results/"><u>Winner Highlights From the 2015 Fourth Quarter at Tom's Hardware: System Builder Showdown Results</u></a></li>
+</ul></div>
 
