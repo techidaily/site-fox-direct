@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Smartphone Identity  IPhone X and Galaxy Phones Through the Lens of Faces\""
-date: 2024-08-22T21:18:05.818Z
-updated: 2024-08-23T21:18:05.818Z
+date: 2024-12-03T19:34:41.783Z
+updated: 2024-12-04T16:48:52.064Z
 tags: 
   - screen-recording
   - ai video
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/0770f30dd9bee193a5501427eba7dec20121fd86c
 * [Part 3: The Common Inconvenience](#part3)
 * [Part 4: Safety Issue](#part4)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How does it work?
 
  This section will cover how the face recognition technology works for both the devices. Check out the process.
@@ -56,8 +60,13 @@ thumbnail: https://thmb.techidaily.com/0770f30dd9bee193a5501427eba7dec20121fd86c
 ![iPhone X accuracy](https://images.wondershare.com/filmora/article-images/iphone-x-accuracy.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: The Common Inconvenience
 
  When it comes to practicality, we would state that both the phone don’t stand well for it. This is because if you use Apple’s latest invention i.e. iPhone X, you are required to first hold your device in your hand followed by looking at the screen. Then you need to swipe it up for unlocking the device.
@@ -69,12 +78,9 @@ thumbnail: https://thmb.techidaily.com/0770f30dd9bee193a5501427eba7dec20121fd86c
 ![face ID incovenience](https://images.wondershare.com/filmora/article-images/face-incovenience.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## Part 4: Safety Issue
 
  Ensuring safety is one of the main concern people have and the face recognition technology in both the devices has done pretty well. Apple uses the TrueDepth camera system which includes flood illuminator, IR camera as well as dot projector to make the face recognized in all possible ways. It has been claimed by the company that the possibility of unlocking the device by a random person’s face is 1 in 1,000,000\. Besides this, Apple had made sure to let people try only 5 face attempts after which they will require to enter the passcode. The probability though doesn’t work same for twins and the family members who resemble you. Also, the children who are less than 13 are able to trick you since they don’t have fully developed facial features.
@@ -85,25 +91,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![face ID issue](https://images.wondershare.com/filmora/article-images/face-id-issue.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  On the other hand, Samsung also doesn’t lag behind when it comes to safety and security with face recognition feature. Samsung is the first Android device company to introduce face recognition technology that brought iris scanning technology with its Galaxy Note 7\. The technology does it job by detecting the iris’ pattern of your eyes. As far as security is concerned, the technology gets 10 on 10 since each person possesses unique iris pattern and it becomes difficult to replicate. The devices by Samsung having face recognition technology are designed with infrared diode which is capable
 
  All in all, both the companies have put extra effort in justifying the safety with trending face recognition technology. However, we are not certain for full reliability of them.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
  The technology of facial recognition isn’t new to us and it has made people excited from the time it has come. However, many users have not started using the technology yet. We hope that this functionality will gain the popularity with time and people will start to make use of it.
@@ -111,8 +102,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -136,4 +128,24 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-transforming-audio-skills-using-audacity-professionally/"><u>[New] 2024 Approved Transforming Audio Skills Using Audacity Professionally</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-techniques-to-zoom-into-online-engagements-intelligently/"><u>[New] In 2024, Techniques to Zoom Into Online Engagements Intelligently</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-5-ways-to-transfer-files-to-your-computer/"><u>[Updated] 2024 Approved 5 Ways To Transfer Files To Your Computer</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-current-innovations-in-vr-gear/"><u>[Updated] 2024 Approved Current Innovations in VR Gear</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-how-to-use-zoom-to-stream-facebook-live/"><u>[Updated] 2024 Approved How to Use Zoom to Stream Facebook Live</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-bringing-history-forward-digitizing-old-photographs-into-video-for-2024/"><u>[Updated] Bringing History Forward Digitizing Old Photographs Into Video for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-crafting-a-cinematic-short-blending-images-and-melodies-for-2024/"><u>[Updated] Crafting a Cinematic Short Blending Images and Melodies for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-unlocking-iphones-potential-podcast-harmony/"><u>[Updated] In 2024, Unlocking iPhone's Potential - Podcast Harmony</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-reviewing-the-core-of-magix-photo-framework/"><u>[Updated] Reviewing the Core of MAGIX Photo Framework</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1-tac/"><u>1. TAC動画のダウンロードと保管方法：ガイド</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-ideal-frames-per-second-for-excellent-slow-mo-videos/"><u>2024 Approved Unveiling Ideal Frames Per Second For Excellent Slow-Mo Videos</u></a></li>
+<li><a href="https://blog-min.techidaily.com/8movmp4/"><u>8簡單且快速的方法：從MOV改成MP4 - 教學轉檔指南</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/bring-order-to-your-digital-memories-ios-album-structure-and-icloud-backup-synergy-for-2024/"><u>Bring Order to Your Digital Memories IOS Album Structure & iCloud Backup Synergy for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/chasing-the-cause-of-frozen-photobooth-videos/"><u>Chasing the Cause of Frozen Photobooth Videos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/expert-tips-to-enhance-your-iphone-memo-making-skills/"><u>Expert Tips to Enhance Your iPhone Memo-Making Skills</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209884163-9781578596843-haunted/"><u>Haunted | Free Book</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-ultimate-memes-edit-master/"><u>In 2024, Ultimate Memes Edit Master</u></a></li>
+</ul></div>
 

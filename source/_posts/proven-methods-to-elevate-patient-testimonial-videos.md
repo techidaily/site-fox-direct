@@ -1,7 +1,7 @@
 ---
 title: "Proven Methods to Elevate Patient Testimonial Videos"
-date: 2024-11-20T22:52:29.703Z
-updated: 2024-11-25T04:12:48.960Z
+date: 2024-12-02T21:43:54.253Z
+updated: 2024-12-05T00:45:06.603Z
 tags: 
   - screen-recording
   - ai video
@@ -25,13 +25,13 @@ If you want to learn how to create video testimonials that convert, then this po
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Identify Your Perfect Customer
 
 ![identify your perfect customer](https://images.wondershare.com/filmora/article-images/2022/07/identify-your-perfect-customer.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The first key tactic to creating a perfect testimonial video is identifying your perfect customer. The more you know about the type of person who will benefit the most from using your product or service, the better you can tailor your video content to speak directly to them.
 
@@ -64,7 +64,7 @@ It may seem like a daunting task, but there are several ways you can go about de
 ![keep video short and sweet](https://images.wondershare.com/filmora/article-images/2022/07/keep-video-short-and-sweet.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 When creating your video testimonial, you want to keep it short and sweet. After all, that's the point of using video testimonials in the first place! Make sure you have a tight script with a few specific questions written down. You should also plan out how you're going to arrange these questions into a flow.
@@ -78,32 +78,32 @@ Asking open-ended questions allows people greater freedom when responding—and 
 ![lighting sound video quality](https://images.wondershare.com/filmora/article-images/2022/07/lighting-sound-video-quality.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lighting, sound, and video quality matter.
 
 This is a given. If you want your testimonial videos to be effective and believable, they need to be properly lit, recorded with good audio quality, and captured in high resolution. While these may seem like obvious must-haves for any video production project—and they are—it's important to remember that there are many factors at play when it comes to how your audience will perceive the final product.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Really Listen to Your Prospects
 
 ![listen to your prospects](https://images.wondershare.com/filmora/article-images/2022/07/listen-to-your-prospects.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 When you're listening to your customers, don't just take notes on what they say. Also, look at their body language and eye movement. This can tell you a lot about whether they are telling the truth or not, and it will give you an idea of what may be going on in their head.
 
 If someone says "I love this product," but then shows their eyes darting around nervously, that could mean that they're worried about saying something nice about the product because it's not really meeting their needs. If someone says "It's okay," but he or she is nodding along with enthusiasm when talking about it, that probably means he or she really does like it!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Beware of Skeptics and Negative Nellies
 
 ![beware skeptics](https://images.wondershare.com/filmora/article-images/2022/07/beware-skeptics.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You might have skeptics and negative nellies in your audience. They're the ones who are less likely to buy, but more likely to be negative about everything.
 
@@ -143,22 +143,24 @@ If you're looking to boost your sales with testimonial videos, then you need to 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-precision-recording-gopro-5-against-sj7/"><u>[New] 2024 Approved Precision Recording GoPro 5 Against SJ7</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-crafting-engaging-haul-vids-a-step-by-step-guide/"><u>[New] In 2024, Crafting Engaging Haul Vids A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-ipodcast-exploration-techniques-with-the-iphone/"><u>[New] IPodcast Exploration Techniques with the iPhone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-breaking-down-techniques-for-recording-google-meet-participants/"><u>[Updated] 2024 Approved Breaking Down Techniques for Recording Google Meet Participants</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-revolutionizing-the-joy-of-packet-opening/"><u>[Updated] 2024 Approved Revolutionizing the Joy of Packet Opening</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-frugal-shopping-for-cheap-vr-headsets-china/"><u>[Updated] Frugal Shopping for Cheap VR Headsets (China)</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-innovative-techniques-for-maximum-zoom-utility-on-chromebook/"><u>[Updated] In 2024, Innovative Techniques for Maximum Zoom Utility on Chromebook</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-guide-for-android-users-on-vr-content/"><u>[Updated] The Ultimate Guide for Android Users on VR Content</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-unleash-creativity-with-the-right-camera-lenses/"><u>[Updated] Unleash Creativity with the Right Camera Lenses</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-maximizing-potential-key-know-how-for-technological-progress/"><u>2024 Approved Maximizing Potential Key Know-How for Technological Progress</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-the-ultimate-conversion-of-tiktok-to-facebook/"><u>2024 Approved The Ultimate Conversion of TikTok to Facebook</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/android-guide-enhance-your-video/"><u>Android Guide Enhance Your Video</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/becoming-a-snapchat-videography-pro-time-control-tactics-for-2024/"><u>Becoming a Snapchat Videography Pro Time Control Tactics for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/fixing-the-flaws-in-your-social-media-setup/"><u>Fixing the Flaws in Your Social Media Setup</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-issue-re-establishing-diablo-iii-game-server-link/"><u>Fixing the Issue: Re-Establishing Diablo III Game Server Link</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-poco-f5-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Poco F5 5G without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-transition-to-quietude-guiding-gradual-volume-reduction-in-premiere/"><u>In 2024, Transition to Quietude Guiding Gradual Volume Reduction In Premiere</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-hilarity-in-a-click-meme-creation-for-2024/"><u>[New] Hilarity in a Click (Meme Creation) for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-ignite-a-sizzling-online-presence-with-these-instagram-9-strategies-for-2024/"><u>[New] Ignite a Sizzling Online Presence with These Instagram #9 Strategies for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-a-step-by-step-guide-for-choosing-your-best-fit-mobile-vs-tethered-virtual-reality-headsets/"><u>[New] In 2024, A Step-by-Step Guide for Choosing Your Best Fit Mobile Vs. Tethered Virtual Reality Headsets</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-quintessential-underwater-accessories-for-gopro/"><u>[New] In 2024, Quintessential Underwater Accessories for Gopro</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-innovative-video-editing-strategies-with-gopro-studio/"><u>[New] Innovative Video Editing Strategies with GoPro Studio</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-unlock-the-full-potential-with-advanced-gopro-studio-edits-for-2024/"><u>[New] Unlock the Full Potential with Advanced GoPro Studio Edits for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-cutting-edge-video-recording-techniques-on-modern-win-11-devices/"><u>[Updated] In 2024, Cutting-Edge Video Recording Techniques on Modern Win 11 Devices</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-writers-who-defined-genres-through-exceptional-works/"><u>[Updated] In 2024, Writers Who Defined Genres Through Exceptional Works</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-optimal-routines-to-alter-track-tempoplay-in-spotify-for-2024/"><u>[Updated] Optimal Routines to Alter Track Tempoplay in Spotify for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-premium-data-buffering-unit-for-sony-a7s-ii-for-2024/"><u>[Updated] Premium Data Buffering Unit for Sony A7S II for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-unveiling-the-world-of-haptic-navigation-systems/"><u>[Updated] Unveiling the World of Haptic Navigation Systems</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-navigating-beyond-wirecast-for-broadcast-solutions/"><u>2024 Approved Navigating Beyond WireCast for Broadcast Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/creating-shared-musical-experiences-with-friends-through-spotify/"><u>Creating Shared Musical Experiences with Friends Through Spotify</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fresh-start-latest-tips-for-gpu-driver-recollection-via-ddu/"><u>Fresh Start: Latest Tips for GPU Driver Recollection via DDU</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-the-ultimate-guide-for-professional-use-of-screen-recorder-by-zd-soft/"><u>In 2024, The Ultimate Guide for Professional Use of Screen Recorder by ZD Soft</u></a></li>
+<li><a href="https://article-tips.techidaily.com/mastering-visual-impact-a-comprehensive-guide-to-zooms-video-filters/"><u>Mastering Visual Impact A Comprehensive Guide to Zoom's Video Filters</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/professional-visual-enhancements-mastering-the-use-of-luts-in-ae/"><u>Professional Visual Enhancements Mastering the Use of LUTs in AE</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-for-updating-your-synaptics-touchpad-software/"><u>Step-by-Step Tutorial for Updating Your Synaptics Touchpad Software</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-fix-a-non-functioning-microphone-on-your-headset/"><u>Troubleshooting Guide: How to Fix a Non-Functioning Microphone on Your Headset</u></a></li>
 </ul></div>
 

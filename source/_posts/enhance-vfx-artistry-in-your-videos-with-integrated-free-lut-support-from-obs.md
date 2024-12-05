@@ -1,7 +1,7 @@
 ---
 title: "Enhance VFX Artistry in Your Videos with Integrated, Free LUT Support From OBS"
-date: 2024-08-22T21:16:45.563Z
-updated: 2024-08-23T21:16:45.563Z
+date: 2024-12-02T00:59:47.957Z
+updated: 2024-12-04T19:27:19.444Z
 tags: 
   - screen-recording
   - ai video
@@ -30,16 +30,10 @@ LUTs aid in pleasing the client, completing the job on time, and achieving magni
 
 However, you still want to provide a good project; color grading might take a long time to go through all of the clips and make them appear beautiful, and you may not have the time. Here, LUTs can definitely help.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. It provides a polished finish
 
 Lookup tables might save you time when editing, but for many creative filmmakers and editors, LUTs are a way of polishing the final appearance of a film. When color grading is poorly done, it can impair the aesthetic of a movie and distract the audience. The beautiful thing about LUTs is that most of them on the market are created by other videographers, so you know they'll work on your movies right out of the box; all you have to do is make little tweaks to match the vision you have in your brain. If you've never used LUTs before but want to take your short films to an extraordinary level, try cinematic LUTs, which will give you that blockbuster vibe on a budget.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 3\. A command to adaptability
 
 They're highly adaptable. LUTs can be utilized to convert Log film back to the Rec709 standard, making the Log color profile more approachable to users who don't have years of color grading expertise. Professionals generally employ log color space to increase dynamic range and sustain shadows and highlights in contrasting scenes. Conversion LUTs now assist in getting over the arduous task of color grading Log footage.
@@ -50,9 +44,6 @@ Many pros and amateurs use conversion LUTs to make this step considerably easier
 
 Premiere Pro, Photoshop, Davinci Resolve, and other programs can use LUTs. They're ideal for any video where you want to create a distinct appearance or vibe. LUTs are essential for any aspiring or established filmmaker. They're utilized to quickly create high-quality visuals that give any project a polished look. They can also be used to give your video an overall color tone.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 5\. Creativity at your fingertips
 
 LUTs are a quick and easy way to achieve colors. Consider LUTs to be color grading professionals who share their knowledge via a LUT file. They do all of the heavy lifting, so you don't have to. Of course, some modifications may be necessary to make it suit perfectly with your camera video, but this is far easier than conducting the color grading process yourself, mainly if you aren't interested in learning how to color grade yet or just don't have the time.
@@ -73,15 +64,14 @@ For more easy-to-use effects and filters to make your video cinematic, have a tr
 
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![filmora 3d lut](https://images.wondershare.com/filmora/features/3d-lut-banner.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ## How to use LUTs in OBS Studio
 
 To create your LUT, follow the instructions below.
@@ -98,9 +88,6 @@ How to use LUTs in Lumafuison
 
 ![how to use obs Lut](https://images.wondershare.com/filmora/article-images/2022/05/obs-luts-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 Add Luts to OBS
 
 1. Select the LUT you wish to add to your webcam using the browse button.
@@ -111,23 +98,14 @@ Add Luts to OBS
 
 Many of the greatest free LUTs may now be found freely on the internet. So, we did some digging and came up with the top list of the top free LUTs that every filmmaker and colorist should have. You'll probably find what you're looking for here, whether it's strong, dramatic LUTs or stylish, vintage LUTs.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. [Gaming careers free LUTs](https://gamingcareers.com/guides/30-free-webcam-filters-obs/)
 
 Gaming Careers has created a LUT package that includes 30 free webcam filters that you may use on your webcam footage. It's a little bothersome that you have to join an email list to get the bundle, but it's well worth it. Each LUT is well-made and suitable for various situations and live feeds.
 
 ![free obs luts - Gaming careers ](https://images.wondershare.com/filmora/article-images/2022/05/obs-luts-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Gaming careers
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ### 2\. [OBS forums free LUTs](https://obsproject.com/forum/resources/free-lut-filter-pack.594/)
 
 This package contains 76 ready-to-use LUT filter files for OBS. Use these filters to create a film-like effect for your webcam stream or video clip. Blender's film color processing was used to generate the filters. Using Blender's picture compositor, the webcam presets were made by hand. These files can be used with OBS's LUT video filter.
@@ -135,8 +113,9 @@ This package contains 76 ready-to-use LUT filter files for OBS. Use these filter
 ![free obs luts - OBS Forums ](https://images.wondershare.com/filmora/article-images/2022/05/obs-luts-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 OBS forums
 
 ### 3\. [Video Mark free LUTs](https://videomark.net/obs-studio-cinematic-lut-pack-free-download/)
@@ -145,7 +124,15 @@ You'll get 18 cinematic LUTs with this Video Mark package. This filter set focus
 
 ![free obs luts - Video Mark](https://images.wondershare.com/filmora/article-images/2022/05/obs-luts-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Video Mark
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. [Rocket stock free LUTs](https://www.rocketstock.com/free-after-effects-templates/35-free-luts-for-color-grading-videos/)
 
@@ -171,16 +158,10 @@ As a result, adding professionalism to your talents is now even easier and more 
 
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg) ](https://app.adjust.com/w06dr6m%5F19za1f6)
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![filmora 3d lut](https://images.wondershare.com/filmora/features/3d-lut-banner.png)
@@ -195,6 +176,10 @@ To create your LUT, follow the instructions below.
 
 ![obs Lut](https://images.wondershare.com/filmora/article-images/2022/05/obs-luts-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 How to use LUTs in Lumafuison
 
 1. Go to Effect Filters. Then click "+" located on the bottom left, click apply LUT, then give your LUT a name in the Filters panel.
@@ -202,55 +187,47 @@ How to use LUTs in Lumafuison
 ![how to use obs Lut](https://images.wondershare.com/filmora/article-images/2022/05/obs-luts-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Add Luts to OBS
 
 1. Select the LUT you wish to add to your webcam using the browse button.
 2. You can then modify the quantity slider to choose how powerful you want your LUT to be.
 3. You've just finished installing a LUT on your webcam. If you use the right LUT, you can radically transform the tone of your stream.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Free LUTs resource for OBS studio
 
 Many of the greatest free LUTs may now be found freely on the internet. So, we did some digging and came up with the top list of the top free LUTs that every filmmaker and colorist should have. You'll probably find what you're looking for here, whether it's strong, dramatic LUTs or stylish, vintage LUTs.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. [Gaming careers free LUTs](https://gamingcareers.com/guides/30-free-webcam-filters-obs/)
 
 Gaming Careers has created a LUT package that includes 30 free webcam filters that you may use on your webcam footage. It's a little bothersome that you have to join an email list to get the bundle, but it's well worth it. Each LUT is well-made and suitable for various situations and live feeds.
 
 ![free obs luts - Gaming careers ](https://images.wondershare.com/filmora/article-images/2022/05/obs-luts-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Gaming careers
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. [OBS forums free LUTs](https://obsproject.com/forum/resources/free-lut-filter-pack.594/)
 
 This package contains 76 ready-to-use LUT filter files for OBS. Use these filters to create a film-like effect for your webcam stream or video clip. Blender's film color processing was used to generate the filters. Using Blender's picture compositor, the webcam presets were made by hand. These files can be used with OBS's LUT video filter.
 
 ![free obs luts - OBS Forums ](https://images.wondershare.com/filmora/article-images/2022/05/obs-luts-4.png)
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 OBS forums
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. [Video Mark free LUTs](https://videomark.net/obs-studio-cinematic-lut-pack-free-download/)
 
 You'll get 18 cinematic LUTs with this Video Mark package. This filter set focuses more on a film effect. We suggest watching the accompanying demo film, which walks you through some of the LUTs included in this package and how to use them. Because this is an older video, it will use an older version of OBS, but the method should be the same.
@@ -258,8 +235,9 @@ You'll get 18 cinematic LUTs with this Video Mark package. This filter set focus
 ![free obs luts - Video Mark](https://images.wondershare.com/filmora/article-images/2022/05/obs-luts-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Video Mark
 
 ### 4\. [Rocket stock free LUTs](https://www.rocketstock.com/free-after-effects-templates/35-free-luts-for-color-grading-videos/)
@@ -268,9 +246,6 @@ For your next video production, you can get 35 FREE LUTs. Add one of these retro
 
 ![free obs luts - Rocket stock ](https://images.wondershare.com/filmora/article-images/2022/05/obs-luts-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Rocket stock
 
 ### 5\. Christian Mate Grab free LUT
@@ -309,4 +284,18 @@ As a result, adding professionalism to your talents is now even easier and more 
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-unraveling-the-mystery-of-hidden-tiktok-penalties/"><u>[New] Unraveling the Mystery of Hidden TikTok Penalties</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-your-roadmap-to-creating-top-notch-srt-files-for-2024/"><u>[New] Your Roadmap to Creating Top-Notch SRT Files for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-unveiling-the-elite-video-cameras-for-2-point-zero-four-two/"><u>[Updated] Unveiling the Elite Video Cameras for 2 Point Zero Four Two</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-embrace-artistic-expression-incorporating-anime-into-snapchat/"><u>2024 Approved Embrace Artistic Expression Incorporating Anime Into Snapchat</u></a></li>
+<li><a href="https://os-tips.techidaily.com/boost-your-androids-speed-with-these-10-essential-optimization-tools-and-cleaning-applications/"><u>Boost Your Android's Speed with These 10 Essential Optimization Tools and Cleaning Applications</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-crystal-clear-on-screen-discovering-the-cg318-4k-monitor/"><u>In 2024, Crystal Clear on Screen Discovering the CG318-4K Monitor</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-mastering-video-capture-on-periscope-a-comprehensive-manual/"><u>In 2024, Mastering Video Capture on Periscope A Comprehensive Manual</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/missing-out-essential-forgotten-free-speech-apps-on-mac-for-2024/"><u>Missing Out? Essential, Forgotten Free Speech Apps on Mac for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-through-the-newest-windows-enhancements-july-2024s-major-releases-and-patches/"><u>Navigating Through the Newest Windows Enhancements: July 2024'S Major Releases and Patches</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/l-stardom-spectrum-global-internet-icons/"><u>Social Stardom Spectrum Global Internet Icons</u></a></li>
+<li><a href="https://fox-that.techidaily.com/stop-the-flash-7-proven-methods-to-fix-a-shimmering-mobile-device-display/"><u>Stop the Flash: 7 Proven Methods to Fix a Shimmering Mobile Device Display</u></a></li>
+</ul></div>
 

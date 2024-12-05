@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Diverting Photographs  Extracting Scenes as Stills in Photos App for 2024\""
-date: 2024-08-22T21:18:28.378Z
-updated: 2024-08-23T21:18:28.378Z
+date: 2024-12-01T20:14:05.679Z
+updated: 2024-12-04T19:13:08.978Z
 tags: 
   - screen-recording
   - ai video
@@ -47,6 +47,10 @@ Creating a living image:
 
 ![ save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/save-photo-microsoft-photos.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Now, you can see the living picture by tapping ‘Play’ button.
 
 These photos are stored in the ‘Pictures’ folder of your computer having ‘LI’ appended file names. Now, it’s time to save the living image as photo on your computer using Photos app.
@@ -58,29 +62,28 @@ These photos are stored in the ‘Pictures’ folder of your computer having ‘
 
 * This image will be saved as ‘LI\_Moment’ file in your Pictures folder by default.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Why I can’t save photo from video
 
 In case, you are not able to save photos from video on Windows 10 Photos App. There might be issues with an outdated [Microsoft OS patch update](https://support.microsoft.com/en-us/help/311047/how-to-keep-your-windows-computer-up-to-date) or the Microsoft account is having any problem. But, you don’t have to worry about the same.
 
 We are explaining the solutions here –
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Check the update
 
 Click on ‘Start’ > ‘Settings’ > ‘Update & Security’ > ‘Windows Updates’ > ‘Check for Updates’ > ‘Update Available’. When update is available, go ahead and follow the prompts to get the update.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Sign in a different account in Microsoft Store
 
 You got to login with another Microsoft account to access Microsoft Store. It might be your existing Microsoft Store account undergoing some issues. This in turn might be affecting the Photos app from acting properly. Therefore, signing in a different account will help.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3: Alternative way to save photo from video
 
 When you want to save photo from video Windows 10 Photos but fail to do so, you can look for alternate ways that are fruitful. ‘ScreenShot’ is an online tool that enables you to capture and edit anything popping up on your screen. From webpages, windows, media files, menus, objects, to webcams, you can literally capture anything. It supports Mac, Windows PC, Android devices etc. it supports AVI, FLV, MPEG, WMV, MOV, and MKV files and enables you to add shapes, texts, lines, arrows, and stylish effects while editing the captured images. You can even upload images to cloud or social networking sites like Facebook, Google Plus, Twitter etc. The pictures are saved in JPG, PNG, BMP, GIF, and TIFF format on your computer. Automatic video capture at fixed intervals is also supported.
@@ -94,14 +97,12 @@ Here comes the guide –
 ![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/screenshot-take-photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 * Once the image is captured, the editing tool bar is visible. It allows you to enhance the image to great extent.
 * Now, hit the ‘Save’ icon and get the image saved on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 We provided you some knowledge on how to save a photo from video Windows 10 Photos. Out of the multiple ways to save photos from videos, you can try what suits you best. If you want to go for a desktop based application, then Windows Photos serves you best. But, when you want to get things done online, you can pick ScreenShot for that matter. Hope you liked our efforts!
@@ -109,8 +110,9 @@ We provided you some knowledge on how to save a photo from video Windows 10 Phot
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
@@ -134,4 +136,19 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-avoid-mainstream-underrated-movies-of-the-year/"><u>[New] 2024 Approved Avoid Mainstream Underrated Movies of the Year</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-paint-your-paradigm-the-8-essential-drawing-apps-for-iphone-users/"><u>[New] 2024 Approved Paint Your Paradigm The 8 Essential Drawing Apps for iPhone Users</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ivergent-paths-in-video-sharing-comparing-igtv-and-youtube/"><u>[New] Divergent Paths in Video Sharing Comparing IGTV & YouTube</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-step-by-step-sharing-photos-on-youtube/"><u>[Updated] 2024 Approved Step-by-Step Sharing Photos on YouTube</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-mastering-the-craft-of-looped-visuals-for-social-media-success/"><u>[Updated] In 2024, Mastering the Craft of Looped Visuals for Social Media Success</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-nightly-narratives-analyzing-video-based-storytelling/"><u>[Updated] In 2024, Nightly Narratives Analyzing Video-Based Storytelling</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-podcasters-guide-to-premium-recorders/"><u>[Updated] Podcaster's Guide to Premium Recorders</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-quickest-windowed-image-analyzer/"><u>[Updated] Quickest Windowed Image Analyzer</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/how-to-create-a-time-lapse-video-the-ultimate-guide/"><u>How to Create a Time-Lapse Video: The Ultimate Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-crystal-clear-on-screen-discovering-the-cg318-4k-monitor/"><u>In 2024, Crystal Clear on Screen Discovering the CG318-4K Monitor</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-the-art-of-degrees-elevating-your-youtube-videos/"><u>In 2024, The Art of Degrees Elevating Your YouTube Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/the-how-to-utilizing-whatsapps-audio-messaging/"><u>The How-To Utilizing WhatsApp's Audio Messaging</u></a></li>
+</ul></div>
 

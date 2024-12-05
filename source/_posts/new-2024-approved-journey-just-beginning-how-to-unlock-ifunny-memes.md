@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Journey Just Beginning  How to Unlock iFunny Memes\""
-date: 2024-08-22T21:17:24.291Z
-updated: 2024-08-23T21:17:24.291Z
+date: 2024-11-29T22:16:38.160Z
+updated: 2024-12-04T17:52:14.404Z
 tags: 
   - screen-recording
   - ai video
@@ -34,15 +34,27 @@ Step1 Open your browser on your computer and go to <https://ifunny.co/> to acces
 
 ![ifunny meme online](https://images.wondershare.com/filmora/article-images/2022/07/ifunny-meme-online.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 If your goal is to upload your own meme so other users can access it, click on the “Add Meme” button on the left panel. You will however need to sign in to add a meme to the site. Enter your email and password to sign in. If you don’t have an account, click on “Sign Up” to create an account.
 
 ![enter ifunny online](https://images.wondershare.com/filmora/article-images/2022/07/enter-ifunny-online.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Once signed in, you should be able to not just add your own memes but also follow accounts and interact with other users.
 
 Step3 if your goal is to find and download a meme that you want to use, you can use the categories on the left to narrow down the memes you want to download. Simply click on one of the categories to see all the memes available and when you find one that you like, click on it to open it, and then click on “Copy Link” to get a sharable link that you can post to social media.
 
 ![create meme ifunny](https://images.wondershare.com/filmora/article-images/2022/07/create-meme-ifunny.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Use iFunny on Mobile
 
@@ -64,6 +76,10 @@ You can also do this with images from the Photos app or Gallery on your device. 
 
 ![search meme ifunny app](https://images.wondershare.com/filmora/article-images/2022/07/search-meme-ifunny-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step5 If you would like to add a caption to the meme just to customize it further, tap on it and you will see the option to add a “Top Caption” and a “Bottom Caption.”
 
 ![top caption ifunny](https://images.wondershare.com/filmora/article-images/2022/07/top-caption-ifunny.jpg)
@@ -71,6 +87,10 @@ Step5 If you would like to add a caption to the meme just to customize it furthe
 Type in the caption and the caption and then use the slider that appears below the meme to adjust the size of the caption.
 
 ![caption slider ifunny app](https://images.wondershare.com/filmora/article-images/2022/07/caption-slider-ifunny-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can then just save the meme to your device. If you would like to post the memes on to the iFunny platform, just tap “Next” and you should see the option to add tags and keywords to make it easier for others to find the meme.
 
@@ -112,8 +132,17 @@ The “Explore” tab lists all the mems on the platform, neatly arranged in var
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-the-ultimate-screen-recorders-handbook-by-zd-soft-professionals/"><u>[New] In 2024, The Ultimate Screen Recorder’s Handbook by ZD Soft Professionals</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-sculpting-subtleties-with-title-texts/"><u>[New] Sculpting Subtleties with Title Texts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-tips-for-adding-music-to-photo-online/"><u>[New] Tips for Adding Music to Photo Online</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-top-rated-budget-friendly-asmr-gear-for-superior-sound-quality/"><u>[New] Top-Rated Budget-Friendly ASMR Gear for Superior Sound Quality</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-cam-crossover-showdown-sj6-power-meets-yis-four-k-kickstart/"><u>[Updated] In 2024, Cam Crossover Showdown SJ6 Power Meets Yi’s Four-K Kickstart</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-true-color-harmony-software/"><u>2024 Approved True Color Harmony Software</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-art-of-tweaking-soundtracks-in-youtube-videos/"><u>In 2024, The Art of Tweaking Soundtracks in YouTube Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/m1-computation-face-off-lightweight-vs-robust-designs-for-2024/"><u>M1 Computation Face-Off Lightweight vs Robust Designs for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-5-obstacles-preventing-apple-users-from-sending-gifts/"><u>Top 5 Obstacles Preventing Apple Users From Sending Gifts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-the-leading-gaming-systems/"><u>Ultimate Guide: The Leading Gaming Systems</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->

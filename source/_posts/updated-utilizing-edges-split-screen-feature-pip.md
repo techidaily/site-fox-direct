@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Utilizing Edge's Split Screen Feature  PIP\""
-date: 2024-08-22T21:14:59.882Z
-updated: 2024-08-23T21:14:59.882Z
+date: 2024-12-01T18:42:16.634Z
+updated: 2024-12-04T22:03:08.842Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,17 @@ thumbnail: https://thmb.techidaily.com/3631238ca7c06e0c64e4d00a9d13c9e8220b196fb
 
 Picture-in-Picture is an important feature on Windows and Android computers. It allows you to watch videos while they float on the screen of your desktop or smartphone. Microsoft Edge has PIP on Android and all other platforms to enable you to float videos on your screen on mini mode. And you can watch them as you perform other tasks on different apps and programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1\. How to Enable and Disable Picture in Picture in Edge
 
 To exploit the PIP mode on your desktop computer, there are simple steps to follow to achieve this. And once you are in PIP mode, you can turn it off at your convenience.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Turn on PIP
 
@@ -69,30 +77,18 @@ Even after turning on PiP on your desktop, you can still decide to switch off th
 
 ![click switch off](https://images.wondershare.com/filmora/article-images/2022/07/use-pip-on-microsoft-edge-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 Once you follow the steps above, you will be able to manipulate the PIP feature on your computer to use it as you like.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2\. Useful Add-ons for PiP on Edge
 
 There are simpler ways to access and exploit Picture in Picture on your PC. Some supplement shortcut utilities that can enable you to enjoy this feature with ease are here.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### [PIP - Picture in Picture Plus](https://microsoftedge.microsoft.com/addons/detail/pip-picture-in-picture-/gokdpnhaggoioddclnnlpjfnkdinjjcc)
 
 The keyboard shortcut for PiP mode is **Alt + P**. Just click **Alt + P** and you are ready to go. This feature applies to YouTube, Twitter, Facebook, and other platforms.
 
 ![pip plus](https://images.wondershare.com/filmora/article-images/2022/07/use-pip-on-microsoft-edge-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 You can also achieve this in three simple steps.
 
 1. Start a video on YouTube in your browser
@@ -101,16 +97,21 @@ You can also achieve this in three simple steps.
 
 And you are ready to go.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### [Picture in Picture - PIP View](https://microsoftedge.microsoft.com/addons/detail/picture-in-picture-pip-/ebkloopllebgbjeppnncbekpfcglbcmp?hl=en-US)
 
 PIP View is an add-on in Microsoft Edge that eases up the use of Picture in Picture on your PC. It is based on manifest V3 and performs well for players in an iframe.
 
 ![pip view](https://images.wondershare.com/filmora/article-images/2022/07/use-pip-on-microsoft-edge-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 PIP View is an extension that is available on all websites with HTML video element. It is a crucial feature on YouTube that helps you save with Picture in Picture mode. On YouTube, it is added just next to the Settings in the app, and it allows you to float your video easily across the screen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Picture-in-Picture Everywhere](https://microsoftedge.microsoft.com/addons/detail/pictureinpicture-everyw/cmnlinjalaieggoebkmamaphjghpafhn?hl=en-US)
 
@@ -119,8 +120,9 @@ This is a feature that enables you to use picture in picture on any site that yo
 ![pip everywhere](https://images.wondershare.com/filmora/article-images/2022/07/use-pip-on-microsoft-edge-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 And here is how to do it in only two steps.
 
 1. Open any video file with your TV and Movies app
@@ -147,4 +149,24 @@ You can then resize or drag it around to the location you love.
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-boxed-bliss-reinventing-the-art-of-first-contacts/"><u>[New] 2024 Approved Boxed Bliss Reinventing the Art of First Contacts</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-unmatched-streaming-excellence-top-1enas-comparative-analysis/"><u>[New] 2024 Approved Unmatched Streaming Excellence Top 1Enas Comparative Analysis</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-best-settings-audience-focused-screen-shots/"><u>[New] Best Settings Audience-Focused Screen Shots</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-digital-dialogues-comparing-the-impact-of-podcasts-and-youtube-platforms/"><u>[New] In 2024, Digital Dialogues Comparing the Impact of Podcasts and YouTube Platforms</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-vr-shopping-interface-prototyping/"><u>[New] In 2024, VR Shopping Interface Prototyping</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-seamless-soundscape-design-with-expert-crossfading-techniques-audacity-for-2024/"><u>[New] Seamless Soundscape Design with Expert Crossfading Techniques (Audacity) for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-forge-partnerships-from-initial-contact-to-final-deal-on-youtube/"><u>[Updated] Forge Partnerships From Initial Contact to Final Deal on Youtube</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-mastery-over-supplementary-film-sequences-b-roll/"><u>[Updated] Mastery Over Supplementary Film Sequences (B-Roll)</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-visionary-choices-best-apps-for-live-basketball-and-olympic-events-streaming-for-2024/"><u>[Updated] Visionary Choices Best Apps for Live Basketball & Olympic Events Streaming for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/dominating-the-sky-with-heavylift-drones/"><u>Dominating the Sky with Heavylift Drones</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/image-integrity-keeping-quality-high-during-iphone-crops/"><u>Image Integrity Keeping Quality High During iPhone Crops</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-oppo-a78-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Oppo A78 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-high-res-horizons-in-depth-analysis-of-samsung-ue590-tv/"><u>In 2024, High-Res Horizons In-Depth Analysis of Samsung UE590 TV</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-unraveling-the-secrets-to-captivating-asmr-scenarios-and-effects/"><u>In 2024, Unraveling the Secrets to Captivating ASMR Scenarios and Effects</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-vocal-visions-utilizing-your-iphone-as-an-audio-identifier-tool/"><u>New Vocal Visions Utilizing Your iPhone as an Audio Identifier Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-lsass-unable-to-locate-components-error/"><u>Troubleshooting Lsass Unable to Locate Components Error</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unbeatable-present-ideas-when-you-cant-decide/"><u>Unbeatable Present Ideas When You Can't Decide</u></a></li>
+</ul></div>
 

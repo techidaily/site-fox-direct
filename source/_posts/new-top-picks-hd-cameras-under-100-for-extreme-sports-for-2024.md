@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Top Picks  HD Cameras Under $100 for Extreme Sports for 2024\""
-date: 2024-11-21T16:17:13.463Z
-updated: 2024-11-24T20:42:21.419Z
+date: 2024-12-03T19:03:37.293Z
+updated: 2024-12-05T00:29:06.484Z
 tags: 
   - screen-recording
   - ai video
@@ -28,11 +28,19 @@ thumbnail: https://thmb.techidaily.com/405adc45ebf84824c8425ce7d2ecb9e77863385d3
 
  If you are planning to buy a new action camera then probably you have a big list to choose from. Presently, almost all big brands like Sony and GoPro etc. are launching their classic and feature rich action cameras so you may find it little difficult to choose the best one that can suit your needs. The article below will help you to collect some useful information about best action cameras that are priced below $100 and still offer Full HD content quality with frame rate ranging somewhere between 60 to 30 fps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Top 5 Best Full HD Action Cameras Below $100
 
 #### 1. Drift Innovation STEALTH-2
 
 ![drift ghost s](//images.wondershare.com/filmora/article-images/drift-innocations-ghost-s-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Check at Amazon](https://www.amazon.com/gp/product/B00MCWWL0G/ref=as%5Fli%5Fqf%5Fsp%5Fasin%5Fil%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00MCWWL0G&linkId=18467dac61fdbb82717c78990474d825)
 
@@ -50,7 +58,7 @@ This device copies so many features from the all time favorite Ghost-S action ca
 ![polaroid xs 100i](https://images.wondershare.com/filmora/article-images/polaroid-xs-100i-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Check at Amazon](https://www.amazon.com/gp/product/B00F46UQ4K/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00F46UQ4K&linkId=6d1cf73dd040f47f4ac8a8a14ac9643f)
@@ -69,7 +77,7 @@ This device copies so many features from the all time favorite Ghost-S action ca
 ![polaroid cube plus](https://images.wondershare.com/filmora/article-images/polaroid-cube-plus.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Check at Amazon](https://www.amazon.com/gp/product/B011OUSSL2/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B011OUSSL2&linkId=8468cb3fa9694ab9e09d99e5f9a7587e)
@@ -88,7 +96,7 @@ This device copies so many features from the all time favorite Ghost-S action ca
 ![yi action amera](https://images.wondershare.com/filmora/article-images/yi-action-camera.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01C89GCHU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01C89GCHU&linkId=0fa33bbe15256887fcfa7957bd8e3a3a)
@@ -106,10 +114,6 @@ This device copies so many features from the all time favorite Ghost-S action ca
 
 ![ino airpro2](https://images.wondershare.com/filmora/article-images/ino-air-pro-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Check at Amazon](https://www.amazon.com/gp/product/B00CKPMHSQ/ref=as%5Fli%5Fqf%5Fsp%5Fasin%5Fil%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00CKPMHSQ&linkId=10f82ce1fa07ee60640f908cfbf0d05c)
 
 **Max Video Resolution:** 1080P | **Weight:** 130g | **Battery life:** 1200 mAh | **Stills resolution:** 14MP | **1080:** 30fps | **Waterproof:** Yes, Up to 30 feet |
@@ -122,10 +126,6 @@ This device copies so many features from the all time favorite Ghost-S action ca
  iON Air action camera unit is waterproof as well as mountable even without any additional housing, it can easily go up to 30 feet under water. This device is preferred by most of professionals due to its lighter weight and compact size. It is easier to obtain immersive photo quality with its 14MP sensor whereas wide field of view can go up to 180 degrees. Users can record videos with easy selection to resolution level 1080p, 960p and 720p with different frame rates. Professionals call iON Air a solid choice in budget friendly action camera list that can be easily mounted on different types of mounts to avail footage from critical angles.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Max Wales
 
@@ -152,14 +152,22 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/fixed-youtube-audio-renderer-error-on-windows-10/"><u>[FIXED] Youtube Audio Renderer Error on Windows 10</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-ideal-5-safe-platforms-for-remote-work-in-startups/"><u>[New] 2024 Approved Ideal 5 Safe Platforms for Remote Work in Startups</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-mastering-the-knowledge-of-asmr-media/"><u>[New] 2024 Approved Mastering the Knowledge of ASMR Media</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-elite-steadicam-models-suitable-for-drones-in-cinema-for-2024/"><u>[New] Elite Steadicam Models Suitable for Drones in Cinema for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-expert-advice-for-improved-minecraft-zooms/"><u>[New] Expert Advice for Improved Minecraft Zooms</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-merge-movies-on-youtube-compilation/"><u>[New] In 2024, Merge Movies on YouTube Compilation</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-declutter-your-canvas-how-to-delete-background-in-figma/"><u>[Updated] In 2024, Declutter Your Canvas How To Delete Background in Figma</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-rev-up-your-mobile-vids-with-top-speed-apps/"><u>[Updated] Rev Up Your Mobile Vids with Top Speed Apps</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/44k944ol44o844kr44oh44op44gn5asx44kp44km44gf55s75yop44o75yuv55s744gu5zue5b6p5oml6acg77ya5luj5pu5pa55rov77ys44gk/"><u>ソニーカメラで失われた画像・動画の回復手順：代替方法２つ</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-androids-playbook-for-rotating-and-joining-videography/"><u>[New] 2024 Approved Android's Playbook for Rotating and Joining Videography</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-handheld-happiness-advanced-mounting-solutions-for-2024/"><u>[New] Handheld Happiness Advanced Mounting Solutions for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-enhancing-gift-box-gratification-new-approaches-to-unveiling/"><u>[Updated] 2024 Approved Enhancing Gift Box Gratification New Approaches to Unveiling</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-fine-tuned-focus-mastering-online-zooms-and-closures/"><u>[Updated] 2024 Approved Fine-Tuned Focus Mastering Online Zooms and Closures</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-ultimate-guide-choosing-the-best-stabilizing-accessories/"><u>[Updated] In 2024, Ultimate Guide Choosing the Best Stabilizing Accessories</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-transformative-tips-to-take-your-lunapic-skills-up/"><u>[Updated] Transformative Tips to Take Your LunaPic Skills Up</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-video-mastery-challenge-vlc-meets-the-test-against-mx-for-2024/"><u>[Updated] Video Mastery Challenge VLC Meets the Test Against MX for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-outstanding-book-trailer-samples/"><u>2024 Approved Outstanding Book Trailer Samples</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-top-strategies-mastering-your-laptops-screen-recording/"><u>2024 Approved Top Strategies Mastering Your Laptop's Screen Recording</u></a></li>
+<li><a href="https://discover-great.techidaily.com/aac-flacaac/"><u>AACへの簡単なフラックコンバータ - FLACからAACへ変換ガイド</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/free-screen-recording-software-windows-and-mac/"><u>Free Screen Recording Software [Windows & Mac]</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-iphone-12-pro-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your iPhone 12 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-from-iphone-15-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue From iPhone 15</u></a></li>
+<li><a href="https://win-best.techidaily.com/pfad-zur-wiederherstellung-ihrer-beschadigten-pfn-liste-professionelle-recovery-methoden/"><u>Pfad Zur Wiederherstellung Ihrer Beschädigten Pfn-Liste - Professionelle Recovery-Methoden</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/powerful-type-tools-to-transform-visual-narratives-for-2024/"><u>Powerful Type Tools to Transform Visual Narratives for 2024</u></a></li>
+<li><a href="https://win-top.techidaily.com/top-9-email-performance-indicators-and-modern-strategies-2011-featuring-massmail-suite/"><u>Top 9 Email Performance Indicators & Modern Strategies (2011) Featuring MassMail Suite</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-realme-c53-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Realme C53 Phone</u></a></li>
 </ul></div>
 

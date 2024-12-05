@@ -1,7 +1,7 @@
 ---
 title: "\"Illuminated Imagery  Standing Out in the Visual Field\""
-date: 2024-08-22T21:18:29.531Z
-updated: 2024-08-23T21:18:29.531Z
+date: 2024-11-29T17:07:41.212Z
+updated: 2024-12-05T00:02:25.361Z
 tags: 
   - screen-recording
   - ai video
@@ -60,6 +60,10 @@ The fill light is used to fill in the shadows created by the key light. It is us
 
 ![set the backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 For this tutorial, we use Aperture 120d as the backlight and lift it up into the air with a c-stand so it can light the subject from above. It helps to separate the talent from the background and give the audience a full view of the set
 
 ##### Step4 Use Practical Lights
@@ -72,9 +76,17 @@ Then, we also have a LED ring light that shines toward the camera. The light add
 
 ![led ring light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Finally, we have a few other small LED lights like this unicorn to put in the background. This lighting helps us to get even more visual flair out of our shots.
 
 ![other small led lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After setting up all the lighting above, you can take a look at the comparison below:
 
@@ -91,6 +103,14 @@ After setting up all the lighting above, you can take a look at the comparison b
 We usually set the lights around 50% brightness and a color temperature of 5600K.
 
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Summary
 
@@ -124,8 +144,18 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-simplify-your-workload-with-expert-use-of-ez-grabber/"><u>[New] 2024 Approved Simplify Your Workload with Expert Use of EZ Grabber</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-unforgettable-stop-motion-films-the-top-15-list/"><u>[New] 2024 Approved Unforgettable Stop-Motion Films - The Top 15 List</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fusing-genres-a-youtube-music-strategy/"><u>[New] In 2024, Fusing Genres A YouTube Music Strategy</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-immersion-boosting-backdrops-for-broadcasts/"><u>[Updated] In 2024, Immersion-Boosting Backdrops for Broadcasts</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-innovative-hexa-drones-2023s-best/"><u>[Updated] In 2024, Innovative Hexa-Drones 2023'S Best</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-leading-device-editors-for-app-development-art/"><u>[Updated] Leading Device Editors for App Development Art</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-unlock-the-full-potential-of-your-fb-timeline/"><u>[Updated] Unlock the Full Potential of Your FB Timeline</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/accelerated-dvd-ripping-with-winxdvd-time-efficiency-insights-and-tips/"><u>Accelerated DVD Ripping with WinXDVD: Time Efficiency Insights and Tips</u></a></li>
+<li><a href="https://network-issues.techidaily.com/flawless-video-playback-after-win10-enhancement/"><u>Flawless Video Playback After Win10 Enhancement</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-oppo-find-x7-ultra-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Oppo Find X7 Ultra Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-estimating-total-seconds-a-20mb-sized-video/"><u>In 2024, Estimating Total Seconds A 20MB-Sized Video</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

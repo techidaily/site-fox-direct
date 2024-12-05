@@ -1,7 +1,7 @@
 ---
 title: "Simultaneous Capture Excellence with iPhone's Features"
-date: 2024-11-20T19:58:20.471Z
-updated: 2024-11-25T04:09:11.989Z
+date: 2024-12-02T19:34:35.612Z
+updated: 2024-12-04T22:19:30.779Z
 tags: 
   - screen-recording
   - ai video
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/d0be551e2fb6faca9c1b4ad092d1becef6333157c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to shoot a still photo and record a video simultaneously on your iPhone
 
  The feature of simultaneous photo and video recording had begun since the coming of iPhone 5\. So, iPhone 5 and later model users can enjoy taking photos while recording videos while if we talk about other iOS devices, iPad makes this feature available with its fourth generation as well as iPod touch sixth generation started supporting the feature of capturing stills when recording videos.
@@ -54,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/d0be551e2fb6faca9c1b4ad092d1becef6333157c
 * Now, to take a still, just tap on the white 'take picture' button that can be noticed at the left of the red button. The screen will flicker each time you press the button to take the photo.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The drawbacks of taking photos and videos simultaneously
@@ -73,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/d0be551e2fb6faca9c1b4ad092d1becef6333157c
 | **iPhone 7 series**  | 4032 × 3024               | 3412 × 1920                                  | 3840 × 2160                               | 1280 × 720                                    |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Extract frames from video
@@ -81,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/d0be551e2fb6faca9c1b4ad092d1becef6333157c
  If you are one of those who wish to **take photos while recording videos** without compromising the quality, we are glad to inform you that there is a solution for this. You can easily extract a specific frame from the recorded video keeping the standard resolution quality via Wondershare Filmora and will never be bothered about missing anything interesting from the video.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why Choose Wondershare Filmora?
@@ -95,10 +91,14 @@ thumbnail: https://thmb.techidaily.com/d0be551e2fb6faca9c1b4ad092d1becef6333157c
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -125,22 +125,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-essential-guide-to-cinematic-instagram-videos/"><u>[New] 2024 Approved The Essential Guide to Cinematic Instagram Videos</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-unveiling-virtual-worlds-metaverse-versus-omniverse-explained/"><u>[New] 2024 Approved Unveiling Virtual Worlds Metaverse Versus Omniverse Explained</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-movavi-pro-review-the-next-level-of-video-editing/"><u>[New] Movavi Pro Review The Next Level of Video Editing</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-witness-the-magic-top-14-text-animation-pieces/"><u>[New] Witness the Magic Top 14 Text Animation Pieces</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-crafting-an-engaging-film-teaser/"><u>[Updated] 2024 Approved Crafting an Engaging Film Teaser</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-chronicle-crafters-collective-select-seventeen/"><u>[Updated] In 2024, Chronicle Crafters Collective - Select Seventeen</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-the-ultimate-blueprint-for-flawless-srt-construction/"><u>[Updated] In 2024, The Ultimate Blueprint for Flawless SRT Construction</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-top-9-free-android-mp3-extractors/"><u>2024 Approved Top 9 FREE Android MP3 Extractors</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/action-cam-buyers-guide-affordable-high-definition-for-2024/"><u>Action Cam Buyer’s Guide - Affordable, High Definition for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-guide-to-synology-rt2eac-ac-wireless-router-with-enhanced-long-range-capabilities-and-built-in-parenting-options/"><u>Comprehensive Guide to Synology RT2eac AC Wireless Router with Enhanced Long Range Capabilities & Built-In Parenting Options</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/earn-early-access-to-apple-vision-pro-mastering-the-testflight-invite-process-insider-tips-cnet-news/"><u>Earn Early Access to Apple Vision Pro: Mastering the TestFlight Invite Process - Insider Tips | CNET News</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-apple-iphone-13-pro-without-passcode-now-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock Apple iPhone 13 Pro Without Passcode Now</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/gaming-and-video-content-showdown-twitch-and-youtube-compared/"><u>Gaming and Video Content Showdown Twitch & YouTube Compared</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/how-to-add-subtitles-to-igtv-videos-in-2024/"><u>How to Add Subtitles to IGTV Videos, In 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-change-your-apple-iphone-6s-plus-apple-id-on-macbook-by-drfone-ios/"><u>How To Change Your Apple iPhone 6s Plus Apple ID on MacBook</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-infusing-astrology-in-whatsapp-profiles-for-better-engagement/"><u>In 2024, Infusing Astrology in WhatsApp Profiles for Better Engagement</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/inside-the-m3-macbook-pro-launch-specs-costs-and-availability-dates-revealed/"><u>Inside the M3 MacBook Pro Launch - Specs, Costs, and Availability Dates Revealed</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fixing-shorts-the-thumbnail-not-showing-dilemma/"><u>[New] 2024 Approved Fixing Shorts The Thumbnail Not Showing Dilemma</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-investigating-whether-photostabilizer-transforms-image-quality/"><u>[New] In 2024, Investigating Whether PhotoStabilizer Transforms Image Quality</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-master-your-sketches-with-the-ultimate-mac-apps/"><u>[New] In 2024, Master Your Sketches with the Ultimate Mac Apps</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-top-10-must-have-accessories-for-sj4000/"><u>[New] Top 10 Must Have Accessories for SJ4000</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-strengthening-bonds-networking-tips-for-youtube-content-creators/"><u>[Updated] 2024 Approved Strengthening Bonds Networking Tips for YouTube Content Creators</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-the-art-of-picking-aspect-ratios-for-media/"><u>[Updated] 2024 Approved The Art of Picking Aspect Ratios for Media</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-the-cutting-edge-of-photography-iphone-cropping-tips/"><u>[Updated] In 2024, The Cutting Edge of Photography IPhone Cropping Tips</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-insider-secrets-to-properly-tag-your-youtube-videos/"><u>[Updated] Insider Secrets to Properly Tag Your YouTube Videos</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-tailoring-your-vtubers-tone-best-app-recommendations-unveiled/"><u>2024 Approved Tailoring Your Vtuber's Tone Best App Recommendations Unveiled</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/parative-analysis-of-youtubes-ownership-vs-cc-licenses-for-2024/"><u>A Comparative Analysis of Youtube's Ownership Vs. CC Licenses for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/apple-iphone-12-screen-mirroring-you-must-know-drfone-by-drfone-ios/"><u>Apple iPhone 12 Screen Mirroring You Must Know | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-lava-blaze-2-5g-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Lava Blaze 2 5G</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-mastering-adobe-easy-hue-transformations/"><u>In 2024, Mastering Adobe Easy Hue Transformations</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-the-finest-15-no-cost-image-editing-tools-unveiled/"><u>In 2024, The Finest 15 No-Cost Image Editing Tools Unveiled</u></a></li>
+<li><a href="https://win-able.techidaily.com/pro-tactics-and-secrets-unveiled-in-roller-champions-cross-platform-gaming-2024-guide/"><u>Pro Tactics and Secrets Unveiled in Roller Champions Cross-Platform Gaming 2024 Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-cutting-edge-gaming-earpieces-for-youtubers-for-2024/"><u>The Cutting-Edge Gaming Earpieces for YouTubers for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-the-ascent-fixing-lag-and-improving-frame-rate/"><u>Troubleshooting The Ascent: Fixing Lag & Improving Frame Rate</u></a></li>
 </ul></div>
 

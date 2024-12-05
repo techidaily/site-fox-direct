@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Curbing Inertia in High Altitude Cinematography"
-date: 2024-08-22T21:18:34.094Z
-updated: 2024-08-23T21:18:34.094Z
+date: 2024-11-29T21:56:01.691Z
+updated: 2024-12-04T20:04:48.383Z
 tags: 
   - screen-recording
   - ai video
@@ -28,9 +28,17 @@ thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c
 
 When we talk about flight FPV quadcopters then Jello Effect appears like biggest disturbance in the path of quality. This effect results due to vibration influence that is channelled on camera when it starts rocking in air. No matter whether you are a professional or beginner, Jello effect is always your biggest enemy as it does terrible things inside recorded videos that can distract viewers away from actual content. The article below will help you to gain important information about how to remove this Jello or rolling shutter effect from videos.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is Rolling Shutter
 
 First of all we need to discus about the major terms like rolling shutter effect etc. You might be aware of the fact that sensors can be designed with rolling shutter as well as with a global shutter. This rolling shutter is able to capture footage with better scanning on every part of image due to installed CMOS sensor. Generally, the global shutters are capable enough to manage entire frame at the same time but rolling shutters start scanning from top to bottom and hence they leave various visual artefacts in between. In simple words, it is not able to capture top and bottom portion of shot at same moment hence images appear skewed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is Jello Effect
 
@@ -41,8 +49,9 @@ Now, you might be thinking hard that when global shutters are able to serve with
 Further, global shutters are not able to achieve the DR value same as rolling shutters hence they cannot be applied for handheld recording needs, visual effects or for action scenes.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Remove Jello Effect from Drone Videos?
 
 #### 1. Use Gimbal
@@ -78,8 +87,9 @@ Check this video tutorial to see how to remove jello effect with Adobe Premiere
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -103,4 +113,22 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-innovation-at-hand-creating-3d-textures-with-photo/"><u>[New] 2024 Approved Innovation at Hand Creating 3D Textures with PHOTO</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-unveiling-the-power-of-nikon-d7500/"><u>[New] Unveiling the Power of Nikon D7500</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elevating-your-channel-youtube-backlink-basics/"><u>[Updated] 2024 Approved Elevating Your Channel YouTube Backlink Basics</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-empower-your-journey-through-cinemas-best-10-titles/"><u>[Updated] Empower Your Journey Through Cinema's Best 10 Titles</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-erasing-extra-borders-for-smooth-youtube-playback-for-2024/"><u>[Updated] Erasing Extra Borders for Smooth YouTube Playback for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-how-to-remove-red-eye-from-photos-on-iphone-free/"><u>[Updated] How to Remove Red Eye From Photos on iPhone [Free]</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-get-into-a-friends-live-showcase-effortlessly/"><u>[Updated] In 2024, Get Into a Friend's Live Showcase Effortlessly</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-leading-systems-for-real-time-play-broadcasts/"><u>[Updated] In 2024, Leading Systems for Real-Time Play Broadcasts</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-key-tips-for-sourcing-elite-filmmakers/"><u>[Updated] Key Tips for Sourcing Elite Filmmakers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-visual-wit-workshop-make-memes-with-kapwing/"><u>[Updated] Visual Wit Workshop Make Memes with Kapwing</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-pro-gamers-top-5-soundtrack-devices/"><u>2024 Approved Pro Gamers' Top 5 Soundtrack Devices</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-maximizing-video-quality-with-zooms-format-tools/"><u>In 2024, Maximizing Video Quality with Zoom's Format Tools</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-unraveling-the-complexities-of-music-licensing-on-instagram/"><u>In 2024, Unraveling the Complexities of Music Licensing on Instagram</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revitalize-your-system-mastering-three-windows-restarts/"><u>Revitalize Your System: Mastering Three Windows Restarts</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/unlocking-instagram-success-4-looping-video-strategies-for-2024/"><u>Unlocking Instagram Success 4 Looping Video Strategies for 2024</u></a></li>
+</ul></div>
 

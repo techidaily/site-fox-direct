@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Reactivate Windows Photo Viewer with Ease (Win 11)"
-date: 2024-11-18T19:55:08.051Z
-updated: 2024-11-25T10:13:38.106Z
+date: 2024-11-30T21:14:27.740Z
+updated: 2024-12-04T21:28:39.826Z
 tags: 
   - screen-recording
   - ai video
@@ -42,7 +42,7 @@ Stay tuned to learn more!
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: Why you prefer Windows Photo Viewer
@@ -64,11 +64,11 @@ Here is why they want to restore Windows Photo Viewer –
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Though, Windows 10 Photos offers a dark theme, the effectiveness, responsiveness and features available with Windows Photo Viewer are hard to compromise.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 1 to restore Windows Photo Viewer
 
@@ -81,6 +81,10 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 **Step 2**: Click on the present photo viewer app over there and look for ‘Windows Photo Viewer’. We assume that you have upgraded from an older version on Windows and Windows Photo Viewer is there in the options.
 
 **Step 3**: Tap on ‘Windows Photo Viewer’ and then exit ‘Settings’. Now, you have successfully restored Windows Photo Viewer and you can open photos in Windows Photo Viewer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2 to get Windows Photo Viewer back
 
@@ -101,7 +105,7 @@ Here is the detailed guide –
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -111,14 +115,10 @@ From the above article, we found out that restoring Windows Photo Viewer on your
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -145,19 +145,16 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-revolutionary-revelations-top-30-quotes-for-ar-vr-dreamers/"><u>[New] 2024 Approved Revolutionary Revelations Top 30 Quotes for AR-VR Dreamers</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-ultimate-5-mobile-photo-editing-iphone-x87-background-switch-for-2024/"><u>[New] Ultimate 5 Mobile Photo Editing IPhone X/8/7 Background Switch for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-picture-crafting-top-10-resources-for-elegant-photo-framing/"><u>[Updated] 2024 Approved Picture Crafting Top 10 Resources for Elegant Photo Framing</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-podcastpivot-avoiding-dacasts-pitfalls/"><u>[Updated] 2024 Approved PodcastPivot Avoiding DaCast's Pitfalls</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-cut-to-perfection-innovative-video-edits-on-windows-11-photos/"><u>[Updated] In 2024, Cut to Perfection Innovative Video Edits on Windows 11 Photos</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-harness-the-power-of-analytics-to-rise-in-fan-counts/"><u>[Updated] In 2024, Harness the Power of Analytics to Rise in Fan Counts</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-navigating-the-digital-landscape-free-tools-for-youtube-audio-to-text/"><u>[Updated] Navigating the Digital Landscape FREE Tools for YouTube Audio to Text</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-popular-tiktok-creations-dominating-twitter-discussions/"><u>[Updated] Popular TikTok Creations Dominating Twitter Discussions</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/amazon-prime-day-tech-savings-extravaganza-dont-miss-the-2024-deals/"><u>Amazon Prime Day Tech Savings Extravaganza: Don't Miss the 2024 Deals!</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/dvdwonderfox-dvd-ripper-pro50/"><u>DVDリッピングソフトWonderFox DVD Ripper Proを50％オフ - 限定アイテム発表！</u></a></li>
-<li><a href="https://win11.techidaily.com/shut-off-windows-11-notifications-swiftly/"><u>Shut Off Windows 11 Notifications Swiftly</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/the-art-of-engaging-viewers-alive-in-the-age-of-virtual-gatherings-for-2024/"><u>The Art of Engaging Viewers Alive in the Age of Virtual Gatherings for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tripped-nvidia-installation-barrier-tackled/"><u>Tripped: NVIDIA Installation Barrier Tackled</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unfreeze-your-stuck-iphone-a-step-by-step-guide/"><u>Unfreeze Your Stuck iPhone: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-mastering-after-effects-with-top-rated-text-tools/"><u>[New] In 2024, Mastering After Effects with Top-Rated Text Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-portable-picture-pixels-windows-mac-best-photo-to-cartoon-converter/"><u>[New] Portable Picture Pixels Windows, Mac - Best Photo-to-Cartoon Converter</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-understanding-the-essentials-of-burst-in-action-shots/"><u>[New] Understanding the Essentials of Burst in Action Shots</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-from-novice-to-pro-a-guide-for-using-snapchat-for-businesses/"><u>[Updated] From Novice to Pro A Guide for Using Snapchat for Businesses</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/construct-playlist-with-film-assortments/"><u>Construct Playlist with Film Assortments</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/high-speed-photo-inspector-for-windows-11-for-2024/"><u>High-Speed Photo Inspector for Windows 11 for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-the-art-of-creating-impactful-ae-titles/"><u>In 2024, The Art of Creating Impactful AE Titles</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/prime-color-balancer-suite-for-2024/"><u>Prime Color Balancer Suite for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/syma-x5c-the-ideal-drone-to-elevate-your-aerial-introduction/"><u>Syma X5C The Ideal Drone to Elevate Your Aerial Introduction</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unlock-a-world-of-savings-navigate-the-community-classifieds-on-oodle-for-free/"><u>Unlock a World of Savings - Navigate the Community Classifieds on Oodle for Free!</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-reverse-video-online-top-picks-for-this-year-for-2024/"><u>Updated Reverse Video Online Top Picks for This Year for 2024</u></a></li>
 </ul></div>
 
