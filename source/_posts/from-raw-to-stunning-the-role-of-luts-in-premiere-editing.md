@@ -1,7 +1,7 @@
 ---
 title: "\"From Raw to Stunning  The Role of LUTs in Premiere Editing\""
-date: 2024-08-22T21:09:36.369Z
-updated: 2024-08-23T21:09:36.369Z
+date: 2024-12-08T21:08:11.269Z
+updated: 2024-12-11T03:19:59.254Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,10 @@ Whether you're working on a personal project or a business campaign, the procedu
 
 you grab the camera, follow your idea, and acquire your pictures, then transfer the movie to your computer and start editing. In this protracted creative process, color grading is typically the final and possibly at least one of the most crucial processes. We all hoped there's a way to speed up this procedure, and fortunately there is! Let's start!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. How to install LUTs in Premiere Pro
 
 LUTs can be applied in Premiere Pro in two different ways. Utilizing LUTs through the Creative tab of the Lumetri Color Panel is the simplest method. However, it does not make the LUTs a permanent part of the collection.
@@ -31,6 +35,10 @@ Step1Download your LUTs bundle, then unzip it to get the LUTs out. Find and copy
 Step2Locate the Lumetri LUTs folder in your Premiere Pro installation directory (for example, C: Program Files/AdobePremiere Pro CC/LumetriLUTSCreative).
 
 Step3Paste all of your fresh LUTs in this folder at this time. Your new LUTs will now show up in the Lumetri Color Panel when you launch Premiere Pro (or restart the software if it was already open). Innovative >> Looks
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. How to add LUTs to your footage
 
@@ -43,8 +51,9 @@ Step3The first Basic Correction option in the right-hand panel of Lumetri Color 
 Step4Double-click the LUT you wish to use once you've located it, and it will be applied immediately.A tiny tip I like to use occasionally is to find the Effect Controls panel on the left side, then click the drop-down arrow next to Opacity, and make adjustments if you input your LUT and feel that it's too intense.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Why use LUTs in your project?
 
 When there is no time limit or restriction on when to submit the result file, it is fun to edit your own clips because you have complete creative control over the process. Because of this, Color Grading is a rather unimportant aspect to worry about. After making a few adjustments to the Exposure and Contrast settings, you should be good to go.
@@ -55,9 +64,6 @@ Because of this, some designers employ look-up tables (LUTs) that they have crea
 
 When it comes to working on a project for a customer that has a stringent deadline to fulfill, poor color grading could result in a negative impression of your work. This is the case even if everything from the sound effects to the video effects is done to a high standard and is done well.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ## 4\. Can you adjust the strength of the LUT?
 
 There are no such modifications that can be made in a certain LUT or Look, and there is no reason to adjust them because there is no need to. However, you may change its strength, which is essentially the same thing as the opacity of the LUT that was applied, and there are still choices to color grade the entire movie after the LUT has been applied.
@@ -66,9 +72,6 @@ The entire color panel in Premiere Pro is packed with all of the color grading t
 
 The end outcome does not vary by a substantial amount, but how it looks can change depending on the LUT you use. In the event that something seems to be lacking, you can always modify the color grading.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Export LUTs
 
 An awesome feature of Premiere Pro enables you store and reuse your color modifications in multiple projects or programs. You have the option of exporting color grading information as either a.look file or a .cube LUT file, which may then be used in Adobe Premiere Pro or another application. Here's how you export them:
@@ -82,9 +85,9 @@ Step2Export ".cube" This function exports lookup tables in the.cube format so th
 Step3Store Preset: You can personalize the settings for each color effect, then save the resulting combinations as presets. Within the Save Preset dialog box, give your preset the name you want it to have. If desired, enter a description. Please visit the article on how to create and store an effect preset for further details.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Where can you find LUTs?
 
 You might be asking, "Now that I've learned more about LUTs (Lookup Tables), where can I get even more LUTs?" since you've gained some new knowledge. In the end, being able to use the built-in LUTs in Luminar is a nice feature, but these are merely samples of the thousands upon thousands of LUTs that are accessible, both for free and for purchase.
@@ -99,9 +102,9 @@ You might be asking, "Now that I've learned more about LUTs (Lookup Tables), whe
 * Urban Dark Creative LUTs
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 Additionally, check to see if you have inadvertently downloaded any viruses. There is a strong temptation to simply conduct a search for cinematic LUTs on Google, then download all free files that we come across.
@@ -136,4 +139,22 @@ Sometimes, some of them are out there to steal your money rather than provide th
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-dissecting-the-technical-aspects-of-vivavideo/"><u>[New] 2024 Approved Dissecting the Technical Aspects of VivaVideo</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-metaphysical-realms-of-the-metaverse-quotations-style/"><u>[Updated] 2024 Approved Metaphysical Realms of the Metaverse, Quotations Style</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-tweaking-audio-outputs-sony-ps4-and-ps5-tips/"><u>[Updated] 2024 Approved Tweaking Audio Outputs Sony PS4 & PS5 Tips</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-foremost-zooid-beginnings-guide-for-2024/"><u>[Updated] Foremost Zooid Beginnings Guide for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-discover-top-8-best-ios-tools-for-video-editing-and-conversion/"><u>[Updated] In 2024, Discover Top 8 Best iOS Tools for Video Editing & Conversion</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/acer-aspire-e-15-review-the-ultimate-guide-to-the-most-cost-effective-laptop-on-the-market/"><u>Acer Aspire E 15 Review: The Ultimate Guide to the Most Cost-Effective Laptop on the Market</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/constructing-authenticity-in-documentaries/"><u>Constructing Authenticity in Documentaries</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ntling-youtube-ranks-factors-and-their-effects/"><u>Dismantling YouTube Ranks Factors and Their Effects</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/eager-for-a-conversation-with-chatgpt-on-your-desktop-discover-an-exceptional-open-source-option/"><u>Eager for a Conversation with ChatGPT on Your Desktop? Discover an Exceptional Open-Source Option</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-tutorials-on-how-to-transfer-photos-from-apple-iphone-xs-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Tutorials on How to Transfer Photos From Apple iPhone XS to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-must-try-top-5-mac-streaming-applications/"><u>In 2024, Must-Try Top 5 Mac Streaming Applications</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/magix-video-pro-x-analysis-for-2024/"><u>Magix Video Pro X Analysis for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/motorola-moto-g77-comprehensive-performance-evaluation/"><u>Motorola Moto G77 - Comprehensive Performance Evaluation</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/the-triple-threat-of-worldwide-trade-restrictions-an-elderly-population-and-green-energy-transition-a-surge-in-global-inflation-pressures-against-central-ba76/"><u>The Triple Threat of Worldwide Trade Restrictions, an Elderly Population, and Green Energy Transition: A Surge in Global Inflation Pressures Against Central Bank Goals – Analysis From YL Software Expertise</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-make-your-own-cartoons-10-essential-animation-apps-for-mobile/"><u>Updated In 2024, Make Your Own Cartoons 10 Essential Animation Apps for Mobile</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  From Raw to Stunning  The Role of LUTs in Premiere Editing\""
-date: 2024-12-03T20:02:16.068Z
-updated: 2024-12-04T20:01:12.267Z
+date: 2024-12-09T04:31:32.226Z
+updated: 2024-12-10T21:41:26.439Z
 tags: 
   - screen-recording
   - ai video
@@ -38,7 +38,7 @@ Step2Locate the Lumetri LUTs folder in your Premiere Pro installation directory 
 Step3Paste all of your fresh LUTs in this folder at this time. Your new LUTs will now show up in the Lumetri Color Panel when you launch Premiere Pro (or restart the software if it was already open). Innovative >> Looks
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. How to add LUTs to your footage
@@ -51,10 +51,6 @@ Step3The first Basic Correction option in the right-hand panel of Lumetri Color 
 
 Step4Double-click the LUT you wish to use once you've located it, and it will be applied immediately.A tiny tip I like to use occasionally is to find the Effect Controls panel on the left side, then click the drop-down arrow next to Opacity, and make adjustments if you input your LUT and feel that it's too intense.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Why use LUTs in your project?
 
 When there is no time limit or restriction on when to submit the result file, it is fun to edit your own clips because you have complete creative control over the process. Because of this, Color Grading is a rather unimportant aspect to worry about. After making a few adjustments to the Exposure and Contrast settings, you should be good to go.
@@ -66,7 +62,7 @@ Because of this, some designers employ look-up tables (LUTs) that they have crea
 When it comes to working on a project for a customer that has a stringent deadline to fulfill, poor color grading could result in a negative impression of your work. This is the case even if everything from the sound effects to the video effects is done to a high standard and is done well.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Can you adjust the strength of the LUT?
@@ -78,7 +74,7 @@ The entire color panel in Premiere Pro is packed with all of the color grading t
 The end outcome does not vary by a substantial amount, but how it looks can change depending on the LUT you use. In the event that something seems to be lacking, you can always modify the color grading.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Export LUTs
@@ -92,6 +88,10 @@ Step1".look" exports color adjustments as a Lumetri file. Exporting ".look" File
 Step2Export ".cube" This function exports lookup tables in the.cube format so that they can be imported into other color grading programs.
 
 Step3Store Preset: You can personalize the settings for each color effect, then save the resulting combinations as presets. Within the Save Preset dialog box, give your preset the name you want it to have. If desired, enter a description. Please visit the article on how to create and store an effect preset for further details.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Where can you find LUTs?
 
@@ -107,7 +107,7 @@ You might be asking, "Now that I've learned more about LUTs (Lookup Tables), whe
 * Urban Dark Creative LUTs
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -146,14 +146,19 @@ Sometimes, some of them are out there to steal your money rather than provide th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-expanding-photography-quality/"><u>[New] Expanding Photography Quality</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-microcinema-plot-pointers/"><u>[New] In 2024, Microcinema Plot Pointers</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-voice-alteration-apps-magic-edition-amongst-the-best-for-2024/"><u>[New] Voice Alteration Apps Magic Edition Amongst the Best for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-unravel-the-10-best-free-iphone-image-organizers-and-designers/"><u>[Updated] In 2024, Unravel the 10 Best FREE iPhone Image Organizers and Designers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/clearing-up-distorted-sounds-in-windows-operating-systems-tips-for-windows-10-and-7-users/"><u>Clearing Up Distorted Sounds in Windows Operating Systems: Tips for Windows 10 & 7 Users</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/document-gameplay-secrets-in-galaxy-androids/"><u>Document Gameplay Secrets in Galaxy Androids</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/iphone-tutorial-snap-and-stream-simultaneously-for-2024/"><u>IPhone Tutorial Snap and Stream Simultaneously for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-error-code-0x800700e9-on-xbox-game-pass-and-windows-11/"><u>Tackling Error Code 0X800700E9 on Xbox Game Pass & Windows 11</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/your-path-to-a-unique-auditory-experience-customizing-ringtone-and-sound-on-android-for-2024/"><u>Your Path to a Unique Auditory Experience Customizing Ringtone & Sound on Android for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-avoiding-grainy-zoom-videos-techniques-included-for-2024/"><u>[New] Avoiding Grainy Zoom Videos – Techniques Included for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-breaking-the-silence-crafting-powerful-film-dialogues-for-2024/"><u>[New] Breaking the Silence Crafting Powerful Film Dialogues for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-the-ultimate-list-of-top-5-pc-screen-grabbers-ranked-1-5-for-2024/"><u>[New] The Ultimate List of Top 5 PC Screen Grabbers Ranked #1-#5 for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-pioneers-in-the-realm-of-vr-viewing/"><u>[Updated] 2024 Approved Pioneers in the Realm of VR Viewing</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-budget-breakdown-funding-the-art-of-song-capture/"><u>[Updated] In 2024, Budget Breakdown Funding The Art of Song Capture</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-simplified-ways-for-altering-clowns-windows-voice/"><u>[Updated] In 2024, Simplified Ways for Altering Clowns' Windows Voice</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-superior-animation-pack-for-text-for-2024/"><u>[Updated] Superior Animation Pack for Text for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-unveiling-the-power-of-vivacut/"><u>[Updated] Unveiling the Power of VivaCut</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-expert-tips-for-obs-and-facebook-integration/"><u>2024 Approved Expert Tips for OBS and Facebook Integration</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-ultimate-ranking-of-top-internet-recording-tools-2023/"><u>2024 Approved Ultimate Ranking of Top Internet Recording Tools 2023</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-to-modify-comment-accessibility-on-youtube-for-2024/"><u>Guide to Modify Comment Accessibility on YouTube for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/openais-struggle-with-ai-liberation/"><u>OpenAI's Struggle with AI Liberation</u></a></li>
+<li><a href="https://facebook.techidaily.com/peering-into-facebooks-content-regulation-entities/"><u>Peering Into Facebook’s Content Regulation Entities</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-12-prominent-motorola-moto-g84-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Motorola Moto G84 5G Fingerprint Not Working Solutions</u></a></li>
 </ul></div>
 

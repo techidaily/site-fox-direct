@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Comprehensive Handbook on Recording Notes by Sound"
-date: 2024-12-02T22:36:19.078Z
-updated: 2024-12-05T00:54:42.213Z
+date: 2024-12-07T16:11:03.921Z
+updated: 2024-12-10T16:59:19.074Z
 tags: 
   - screen-recording
   - ai video
@@ -35,10 +35,6 @@ Let's first look into the basic recording feature of Voice Memos on iPhone and i
 
 ![record a voice memos](https://images.wondershare.com/filmora/article-images/2022/08/voice-memo-complete-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2\. How to play the Voice Memos on iPhone and iPad?
 
 If you want to hear the previously recorded Voice Memos, please follow these steps:
@@ -51,7 +47,7 @@ If you want to hear the previously recorded Voice Memos, please follow these ste
 ![play the voice memos](https://images.wondershare.com/filmora/article-images/2022/08/voice-memo-complete-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3\. How to edit and save Voice Memos on iPhone and iPad?
@@ -65,16 +61,16 @@ How should you proceed if you find several voice clips that you want to remove? 
 
 ![choose the edit option](https://images.wondershare.com/filmora/article-images/2022/08/voice-memo-complete-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Duplicate a Voice Memos
 
 1. Select the recording to make a duplicate.
 2. Click the more options button and then choose the duplicate option.
 
 ![more options button](https://images.wondershare.com/filmora/article-images/2022/08/voice-memo-complete-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Trim Voice Memos
 
@@ -93,6 +89,10 @@ How should you proceed if you find several voice clips that you want to remove? 
 
 ![replace button](https://images.wondershare.com/filmora/article-images/2022/08/voice-memo-complete-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Save Voice Memos to a folder
 
 1. Go back from All Recordings at first and create a New Folder.
@@ -102,7 +102,7 @@ How should you proceed if you find several voice clips that you want to remove? 
 ![select the destination folder and move](https://images.wondershare.com/filmora/article-images/2022/08/voice-memo-complete-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4\. How to record a Voice Memos on Mac?
@@ -113,6 +113,10 @@ It's simple to use Voice Memos app on Mac:
 
 ![tap the start recording button](https://images.wondershare.com/filmora/article-images/2022/08/voice-memo-complete-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Once you've done recording, click the pause button and tap the done option to save it.
 
 ![click the pause button](https://images.wondershare.com/filmora/article-images/2022/08/voice-memo-complete-9.jpg)
@@ -121,11 +125,11 @@ It's simple to use Voice Memos app on Mac:
 
 ![share voice memos](https://images.wondershare.com/filmora/article-images/2022/08/voice-memo-complete-10.jpg)
 
-If you're using a Mac and don't want to use Voice Memos to record your computer's internal or external sound, we've provided 2 additional productive ways for you to do so.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+If you're using a Mac and don't want to use Voice Memos to record your computer's internal or external sound, we've provided 2 additional productive ways for you to do so.
 
 ### Way 1\. Use QuickTime Player
 
@@ -145,18 +149,14 @@ You can also use the [Wondershare Filmora](https://tools.techidaily.com/wondersh
 
 ![tap the recording option](https://images.wondershare.com/filmora/article-images/2022/08/voice-memo-complete-12.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. In the new tab, select your options and then tap the start recording button (red circle).
 2. Click the pause button once you've completed the voiceover and tap ok.
 
 ![tap ok](https://images.wondershare.com/filmora/article-images/2022/08/voice-memo-complete-13.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 5\. How to transcribe Voice Memos to text?
 
@@ -180,10 +180,6 @@ Although being a paid program, it operates easily and has a simpler user interfa
 
 Instead of typing, you can speak your content directly. There is no time limit for dictation. Voice Memos can be translated into any language and converted to text by Dictation – Speech to text.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### On Mac
 
 These are the most effective ways to transcribe your voice recordings into text on Mac:
@@ -204,10 +200,6 @@ Wondershare Filmora can also help you to transcribe your Voice Memos into text. 
 
 Dictation Speech to text is also available for Mac devices. It works the same as in the iPhone to convert Voice Memos into text.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Online
 
 These online websites will help you in converting your Voice Memos into text:
@@ -225,14 +217,22 @@ Rev is also available to transcribe audio into text online. Visit the Rev Websit
 Otranscribe is one of the best online tools to transcribe Voice Memos into text. It stands out because it's free to use, unlike other websites offering trial and purchase. It is entirely free to use and user-friendly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQ
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Can Voice Memos record phone calls?
 
 However, there is no exact feature available in the iPhone Voice Memos to do it, but one trick that can help you in this regard is that you start the call and turn on the speaker. Now pick up another iPhone and begin recording a Voice Memos on it. You can record your call using a Voice Memos in this way.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -268,14 +268,22 @@ Voice Memos is a helpful tool for iOS and Mac users. You can easily record audio
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-a-gamers-treasure-chest-top-5-ways-to-record-vr-games-professionally/"><u>[New] 2024 Approved A Gamer's Treasure Chest Top 5 Ways to Record VR Games Professionally</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-game-on-with-updated-windows-11-gems/"><u>[New] Game On with Updated Windows 11 Gems</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-audio-anomalies-essential-rhythm-altering-tools/"><u>[Updated] 2024 Approved Audio Anomalies Essential Rhythm Altering Tools</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-mastering-audio-capture-from-facetime-chats-for-2024/"><u>[Updated] Mastering Audio Capture From FaceTime Chats for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-proven-methods-to-prevent-photos-app-freezes-in-windows-10-for-2024/"><u>[Updated] Proven Methods to Prevent Photos App Freezes in Windows 10 for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/getting-started-with-windows-movie-maker-6-installs-for-2024/"><u>Getting Started with Windows Movie Maker 6 Installs for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-mi-drone-reviewed-capturing-landscapes-in-full-resolution/"><u>In 2024, MI Drone Reviewed Capturing Landscapes in Full Resolution</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-mp3-optimization-101-top-editing-practices-for-sound-quality/"><u>New 2024 Approved MP3 Optimization 101 Top Editing Practices for Sound Quality</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-troubleshooting-and-overcoming-issues-with-dragon-quest-xi-stability/"><u>Resolved: Troubleshooting and Overcoming Issues with Dragon Quest XI Stability</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-overcome-blurred-images-the-best-online-enhancers-listed/"><u>[New] 2024 Approved Overcome Blurred Images The Best Online Enhancers Listed</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-pro-level-acid-review-and-beyond-comparisons/"><u>[New] 2024 Approved Pro-Level ACID Review and Beyond Comparisons</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-videoleap-zoom-hacks-for-detailed-video-insight/"><u>[New] 2024 Approved Videoleap Zoom Hacks for Detailed Video Insight</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-crafting-the-perfect-picture-for-youtube-upload/"><u>[New] Crafting the Perfect Picture for YouTube Upload</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-first-step-into-furnishings-simplest-mc-houses-unveiled/"><u>[New] First Step Into Furnishings Simplest MC Houses Unveiled</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-freescape-extraction-revisited-a-look-at-the-latest-update/"><u>[New] Freescape Extraction Revisited A Look at the Latest Update</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-is-minimizing-unstable-movement-in-photoshop-beneficial/"><u>[New] Is Minimizing Unstable Movement in Photoshop Beneficial?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-a-decade-of-innovation-in-online-cricket-streaming/"><u>[Updated] 2024 Approved A Decade of Innovation in Online Cricket Streaming</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-best-breaks-and-takes-from-snowspeedcross-games/"><u>[Updated] 2024 Approved Best Breaks & Takes From Snowspeedcross Games</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-leveraging-keywords-and-metadata-in-podcast-seo/"><u>[Updated] 2024 Approved Leveraging Keywords and Metadata in Podcast SEO</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-cross-platform-video-sharing-tiktok-and-twitter/"><u>[Updated] In 2024, Cross-Platform Video Sharing TikTok & Twitter</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-securing-photo-libraries-without-copyright-notices/"><u>[Updated] Securing Photo Libraries Without Copyright Notices</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-audiopiece-recorder-guide-installation-and-test/"><u>2024 Approved AudioPiece Recorder Guide Installation & Test</u></a></li>
+<li><a href="https://win11.techidaily.com/efficiently-manage-apps-using-window-11-shortcuts/"><u>Efficiently Manage Apps Using Window 11 Shortcuts</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-vivo-y56-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-social-media-engagement-with-facebook-twitter-instagram-and-youtube/"><u>Mastering Social Media Engagement with Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/step-by-step-guide-transforming-multiple-mod-songs-into-high-quality-mp3s-at-once/"><u>Step-by-Step Guide: Transforming Multiple MOD Songs Into High-Quality MP3s at Once</u></a></li>
 </ul></div>
 

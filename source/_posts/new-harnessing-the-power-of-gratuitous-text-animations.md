@@ -1,7 +1,7 @@
 ---
 title: "[New] Harnessing the Power of Gratuitous Text Animations"
-date: 2024-11-28T18:13:49.882Z
-updated: 2024-12-04T22:11:25.719Z
+date: 2024-12-09T19:46:37.975Z
+updated: 2024-12-11T03:56:09.558Z
 tags: 
   - screen-recording
   - ai video
@@ -27,13 +27,13 @@ Small company product videos, social media promos, webinars, infomercials, and o
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1\. How to Add Free Animation to Video Online
 
 With the help of the text animation tool [Kapwing](https://www.kapwing.com/animated-text-video-maker), users may include moving text in their films or photographs. The fact that you can upload any text or an existing one to the app and then add your own voice to make the text speak makes it simple to use. Kapwing provides some of the fundamental tools required to make a video with animated text. Your movie may have background music added, and you can choose how quickly you want the animated text to move.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **How to Add Free Animation Using Kapwing**
 
@@ -44,6 +44,10 @@ Kapwing is a straightforward yet effective program that enables users to animate
 Create a new video project by signing into Kapwing first. To do both at once, click this link: begin right away. After that, you may either choose a template or start from scratch by making a new video. You'll enter the Kapwing video editor after making your selection. Click "Select background" and then "Upload" after tapping the canvas. Choose the video you wish to include.
 
 ![add media kapwing](https://images.wondershare.com/filmora/article-images/2022/09/add-media-kapwing.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### **2\. Add Texts to Your Video**
 
@@ -56,7 +60,7 @@ Words. Aren't they fantastic? There are practically millions of options availabl
 The fun part is about to begin. You may drag your text to any location by clicking on it. By modifying the color, size, and alignment of your words, you may completely alter the appearance of your text. Well, almost anything can be customized.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. How to Add Free Animation to Video on PC
@@ -79,15 +83,15 @@ To give your film the ideal appearance, you may choose from a wide variety of st
 
 ![add texts to videos](https://images.wondershare.com/filmora/guide/add-titles-win-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step3 Make Your Animated Text
 
 To fit the longest name or title that will be entered on the same toolbar as the Annotations tab, adjust your text's length in the bottom third. This enables you to keep a steady text size and length for the whole of your video. You may adjust the layers you've created to your tastes and the optimum flow for your video.
 
 ![make your animated text](https://images.wondershare.com/filmora/guide/text-animation-win-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step4 Add Keyframing
 
@@ -161,10 +165,6 @@ Finally, after the necessary customizations, may be saved to your phone or immed
 
 ![save project textro](https://images.wondershare.com/filmora/article-images/2022/09/save-project-textro.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 After all, during the last several years, videos have been one of the most popular forms of content marketing. Even while creating videos might be labor-intensive since you must first determine your target audience and tailor your narrative to suit them, editing films is undoubtedly one of the most demanding tasks in this respect. Knowing which text animation programs work best for your marketing videos is thus made easy with this guide.
@@ -176,6 +176,10 @@ After all, during the last several years, videos have been one of the most popul
 Right after installing the program, you need to launch the Video editor and the first step is to import your content into "Project Media," which is on the left side of the screen. Once imported, drag the material into the blank canvas.
 
 ![add media to software](https://images.wondershare.com/filmora/guide/startup-window-01.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step2 Add Texts to Videos
 
@@ -198,7 +202,7 @@ To add life and movement to your videos, use animation effects and keyframing. I
 Simply click the Export button in the top-right corner of the screen, as shown below, to export the text animations as a GIF whenever you're done using them in your projects. In addition to using the desired format option in the export box, you may now select to share your work directly from your official YouTube account with just one click.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3\. How to Add Free Animation to Video on Mac
@@ -210,10 +214,6 @@ Filmora is more than simply a tool for video editing; it also enables users to a
 On your Mac, iMovie should already be installed; if not, go to the app store and free download it.
 
 ![launch imove application](https://images.wondershare.com/filmora/article-images/2022/09/launch-imove-application.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### Step2 Import Videos
 
@@ -233,19 +233,15 @@ Now choose the appropriate title under the Titles menu. You may get a brief live
 
 ![include animation to text imovie](https://images.wondershare.com/filmora/article-images/2022/09/include-animation-to-text-imovie.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step5 Export the Project
 
 After finishing your Keynote text animation, export it sing Share > File and then select the format. To obtain the best results, be sure to export in high resolution for a better experience.
 
 ![export media from imovie](https://images.wondershare.com/filmora/article-images/2022/09/export-media-from-imovie.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4\. How to Add Free Animation to Video on Mobile
 
@@ -259,15 +255,15 @@ To get started, just download the app. It will ask you to add text when you firs
 
 ![download textro animated editor](https://images.wondershare.com/filmora/article-images/2022/09/download-textro-animated-editor.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step2 Add Text and Customize
 
 By clicking the random button, you may create an entirely new color combination or change the color scheme of the post using the options that are currently available.
 
 ![add text textro](https://images.wondershare.com/filmora/article-images/2022/09/add-text-textro.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### Step3 Add Animated Template and Customize
 
@@ -276,7 +272,7 @@ From the list of templates in both Fonts and Colors tab, select the best suited 
 ![select text color textro](https://images.wondershare.com/filmora/article-images/2022/09/select-text-color-textro.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step4 Save the Project
@@ -284,6 +280,10 @@ From the list of templates in both Fonts and Colors tab, select the best suited 
 Finally, after the necessary customizations, may be saved to your phone or immediately shared on Instagram. The project may also be downloaded on your phone or immediately shared on other social media sites.
 
 ![save project textro](https://images.wondershare.com/filmora/article-images/2022/09/save-project-textro.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -313,17 +313,19 @@ After all, during the last several years, videos have been one of the most popul
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-13-simplified-pathways-to-cash-outdoors-reddit-community/"><u>[New] 13 Simplified Pathways to Cash Outdoors Reddit Community</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-edit-like-a-pro-with-these-top-5-mac-videography-suites-for-2024/"><u>[New] Edit Like a Pro with These Top 5 Mac Videography Suites for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-chromebook-voice-alteration-guide-essential-online-reverb-and-pitch-tools/"><u>[New] In 2024, Chromebook Voice Alteration Guide Essential Online Reverb & Pitch Tools</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-xs-100-is-journey-into-the-world-of-professional-filming/"><u>[New] In 2024, XS 100 I's Journey Into the World of Professional Filming</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-the-ultimate-guide-to-digital-mastery-of-vhs-visuals-for-2024/"><u>[New] The Ultimate Guide to Digital Mastery of VHS Visuals for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-comprehensive-list-of-8-prime-youtube-to-avi-tools-for-2024/"><u>[Updated] Comprehensive List of 8 Prime YouTube-to-AVI Tools for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-on-fixing-the-update-error-in-windows-11-code-0x80240034/"><u>Expert Advice on Fixing the 'Update Error' In Windows 11 (Code 0X80240034)</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/gratuit-verbetering-en-conversie-van-flac-inhoud-naar-wmv-expertise-van-movavi/"><u>Gratuit Verbetering en Conversie Van Flac-Inhoud Naar WMV: Expertise Van Movavi</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-leading-no-ad-android-screen-recorder-hacks/"><u>In 2024, Leading No-Ad Android Screen Recorder Hacks</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-itel-p55-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Itel P55? | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimize-system-with-intelligent-520/"><u>Optimize System with Intelligent 520</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/radiant-contrast-synchronizer/"><u>Radiant Contrast Synchronizer</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-innovative-methods-for-enhancing-testimonial-video-authenticity/"><u>[New] 2024 Approved Innovative Methods for Enhancing Testimonial Video Authenticity</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-craft-crisp-visuals-with-picart-background-sweep-for-2024/"><u>[New] Craft Crisp Visuals with PicArt Background Sweep for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-incorporating-markers-a-step-by-step-videography-guide/"><u>[New] In 2024, Incorporating Markers A Step-By-Step Videography Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-sky-high-adventures-the-gopro-karma-experience/"><u>[New] In 2024, Sky-High Adventures The GoPro Karma Experience</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-perfecting-sound-design-for-canva-video-templates-for-2024/"><u>[New] Perfecting Sound Design for Canva Video Templates for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-10-tips-to-make-your-podcast-teasers-stand-out/"><u>[New] Top 10 Tips to Make Your Podcast Teasers Stand Out</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-augmented-reality-shading-exploiting-free-lut-resources-for-ar/"><u>[Updated] Augmented Reality Shading Exploiting Free LUT Resources for AR</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-effortless-documentation-speech-to-text-conversion-via-microsoft-word/"><u>[Updated] In 2024, Effortless Documentation Speech-to-Text Conversion via Microsoft Word</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-optimal-income-mastering-youtube-channel-profitability-on-mobile/"><u>[Updated] Optimal Income Mastering YouTube Channel Profitability on Mobile</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-2-methods-to-add-effects-on-tiktok/"><u>In 2024, 2 Methods To Add Effects On TikTok</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-itel-a60s-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/master-the-fix-of-ac1st16dll-mistaken-absence-a-detailed-instructional-guide/"><u>Master the Fix of ac1st16.dll Mistaken Absence - A Detailed Instructional Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/recommendation-best-websites-for-downloading-snapchat-ringtone-for-2024/"><u>Recommendation Best Websites For Downloading Snapchat Ringtone for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/sleight-of-mind-best-room-adventures-reviewed-for-2024/"><u>Sleight of Mind Best Room Adventures Reviewed for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Best Practices for High-Impact Customer Endorsements\""
-date: 2024-12-01T16:50:30.903Z
-updated: 2024-12-04T20:24:06.383Z
+date: 2024-12-04T04:53:14.026Z
+updated: 2024-12-11T00:53:36.016Z
 tags: 
   - screen-recording
   - ai video
@@ -29,12 +29,20 @@ If you want to learn how to create video testimonials that convert, then this po
 
 ![identify your perfect customer](https://images.wondershare.com/filmora/article-images/2022/07/identify-your-perfect-customer.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The first key tactic to creating a perfect testimonial video is identifying your perfect customer. The more you know about the type of person who will benefit the most from using your product or service, the better you can tailor your video content to speak directly to them.
 
 It may seem like a daunting task, but there are several ways you can go about defining who this person is:
 
 * If possible, talk with current customers and ask them what they love about their experience with your business.
 * If that's not an option for some reason (maybe there aren't any current customers), consider hiring a research firm or marketing agency that specializes in surveying potential customers and asking questions like "What would encourage you to buy from us?" or "How could we improve our service?" With this information in hand, it should be easier than ever before!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Ask Authentic Questions
 
@@ -46,16 +54,12 @@ It may seem like a daunting task, but there are several ways you can go about de
 * If there's no good reason for asking a question then don't! For example: "How was your experience with our website?"
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Include Strong Opinions
 
 ![include strong opinion](https://images.wondershare.com/filmora/article-images/2022/07/include-strong-opinion.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * Use the word “I”.
 * Use the word “we”.
@@ -66,10 +70,6 @@ It may seem like a daunting task, but there are several ways you can go about de
 ## Keep it All Short and Sweet
 
 ![keep video short and sweet](https://images.wondershare.com/filmora/article-images/2022/07/keep-video-short-and-sweet.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 When creating your video testimonial, you want to keep it short and sweet. After all, that's the point of using video testimonials in the first place! Make sure you have a tight script with a few specific questions written down. You should also plan out how you're going to arrange these questions into a flow.
 
@@ -85,13 +85,13 @@ Lighting, sound, and video quality matter.
 
 This is a given. If you want your testimonial videos to be effective and believable, they need to be properly lit, recorded with good audio quality, and captured in high resolution. While these may seem like obvious must-haves for any video production project—and they are—it's important to remember that there are many factors at play when it comes to how your audience will perceive the final product.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Really Listen to Your Prospects
 
 ![listen to your prospects](https://images.wondershare.com/filmora/article-images/2022/07/listen-to-your-prospects.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 When you're listening to your customers, don't just take notes on what they say. Also, look at their body language and eye movement. This can tell you a lot about whether they are telling the truth or not, and it will give you an idea of what may be going on in their head.
 
@@ -102,7 +102,7 @@ If someone says "I love this product," but then shows their eyes darting around 
 ![beware skeptics](https://images.wondershare.com/filmora/article-images/2022/07/beware-skeptics.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You might have skeptics and negative nellies in your audience. They're the ones who are less likely to buy, but more likely to be negative about everything.
@@ -145,21 +145,19 @@ If you're looking to boost your sales with testimonial videos, then you need to 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-a-comparative-journey-through-the-top-10-tv-streamers-for-2024/"><u>[New] A Comparative Journey Through the Top 10 TV Streamers for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-classic-chimes-catalogue-websites-of-worth-for-2024/"><u>[New] Classic Chimes Catalogue Websites of Worth for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-complete-audio-solution-for-incomplete-youtube-and-fb-sounds/"><u>[New] Complete Audio Solution for Incomplete YouTube and FB Sounds</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-meme-masterpieces-iphones-here-for-2024/"><u>[New] Meme Masterpieces, iPhones Here for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-transferring-photos-and-videos-from-one-idevice-to-another/"><u>[New] Transferring Photos & Videos From One iDevice to Another</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-on-the-go-video-making-essentials/"><u>[Updated] 2024 Approved On-The-Go Video Making Essentials</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-prime-portfolio-exceptional-webcam-supports/"><u>[Updated] 2024 Approved Prime Portfolio Exceptional Webcam Supports</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-parrots-drone-redesign-advanced-edition-review/"><u>[Updated] In 2024, Parrot's Drone Redesign - Advanced Edition Review</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210143755-9781596500396-conversations-in-apocalyptic-times/"><u>Conversations in Apocalyptic Times | Free Book</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2526261-9780811744935-haunted-colorado/"><u>Haunted Colorado | Free Book</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-poco-x6-pro-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Poco X6 Pro phone? | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-nokia-c210-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Nokia C210 | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-reliving-fun-the-vhs-era-of-goof-troop-comedy/"><u>In 2024, Reliving Fun The VHS Era of 'Goof Troop' Comedy</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-nvidia-geforce-rtx-2070-graphics-card-drivers-for-pcs/"><u>Latest NVIDIA GeForce RTX 2070 Graphics Card Drivers for PCs</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-oppo-find-x7-ultra-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Oppo Find X7 Ultra for Streaming | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/voice-yourself-audio-recording-on-windows-10-for-2024/"><u>Voice Yourself Audio Recording on Windows 10 for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-digital-lifeguard-a-quick-guide-for-saving-vids-from-fbs-waves/"><u>[New] 2024 Approved Digital Lifeguard A Quick Guide for Saving Vids From FB's Waves</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-how-to-smoothly-integrate-linktree-into-your-tiktok-bio-space/"><u>[New] How to Smoothly Integrate Linktree Into Your TikTok Bio Space</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-become-a-kinemaster-meme-wizard/"><u>[New] In 2024, Become a KineMaster Meme Wizard</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-enter-the-world-of-funimate-with-ease/"><u>[New] In 2024, Enter the World of Funimate with Ease</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-perfect-pairing-selecting-macpc-blu-ray-player-suites/"><u>[New] In 2024, Perfect Pairing Selecting Mac/PC Blu-Ray Player Suites</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-best-practices-in-confirming-your-youtube-access/"><u>[Updated] Best Practices in Confirming Your YouTube Access</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-free-software-for-sound-changes-amplify-and-elevate-your-vocal-impact-for-2024/"><u>[Updated] Free Software For Sound Changes - Amplify and Elevate Your Vocal Impact for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-share-tunes-mp3-from-fb/"><u>[Updated] In 2024, Share Tunes MP3 From FB</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-ultimate-guides-to-3d-type-exploration/"><u>[Updated] In 2024, Ultimate Guides to 3D Type Exploration</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-oppo-k11x-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Oppo K11x to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-comprehensive-tutorial-on-setting-up-and-making-calls-with-microsoft-teams-on-pcs/"><u>A Comprehensive Tutorial on Setting Up and Making Calls with Microsoft Teams on PCs</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/complete-tutorial-on-iphone-data-transfer-and-safeguarding-without-using-a-pc-or-apple-cloud-services/"><u>Complete Tutorial on iPhone Data Transfer and Safeguarding without Using a PC or Apple Cloud Services</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-zte-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on ZTE</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/top-6-video-voiceover-tools-for-windows-download-now/"><u>Top 6 Video Voiceover Tools for Windows - Download Now</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Reinstallation Steps to Restore Photo Viewer in Windows 10"
-date: 2024-12-03T21:31:29.956Z
-updated: 2024-12-04T17:57:56.336Z
+date: 2024-12-08T00:12:20.700Z
+updated: 2024-12-11T02:08:14.080Z
 tags: 
   - screen-recording
   - ai video
@@ -42,7 +42,7 @@ Stay tuned to learn more!
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: Why you prefer Windows Photo Viewer
@@ -64,14 +64,10 @@ Here is why they want to restore Windows Photo Viewer –
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Though, Windows 10 Photos offers a dark theme, the effectiveness, responsiveness and features available with Windows Photo Viewer are hard to compromise.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 1 to restore Windows Photo Viewer
@@ -81,6 +77,10 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 **Step 1**: Go to ‘Settings’ and open ‘Apps’. Click on ‘Default Apps’ and check ‘Photo Viewer’. The default photo viewer will be visible here.
 
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2**: Click on the present photo viewer app over there and look for ‘Windows Photo Viewer’. We assume that you have upgraded from an older version on Windows and Windows Photo Viewer is there in the options.
 
@@ -101,7 +101,7 @@ Here is the detailed guide –
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-back.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note**: If the Windows Photo Viewer isn't there, here is a backup. You need to change Windows Registry to make Windows Photo Viewer returned. You need to go to [Edwin over on Ten Forums](https://www.tenforums.com/software-apps/8930-windows-photo-viewer-gone-2.html#post290818) to add code on your PC.
@@ -117,7 +117,7 @@ From the above article, we found out that restoring Windows Photo Viewer on your
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -145,16 +145,21 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-ace-applications-transforming-videos-for-tweet/"><u>[New] Ace Applications Transforming Videos for Tweet</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-the-complete-guide-to-mastering-polarrs-image-precision/"><u>[New] The Complete Guide to Mastering Polarr's Image Precision</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-unlocking-the-secrets-of-srt-editing-on-a-mac/"><u>[New] Unlocking the Secrets of SRT Editing on a Mac</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-essential-iphone-techniques-for-video-downsizing/"><u>[Updated] 2024 Approved Essential iPhone Techniques for Video Downsizing</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-masterclass-in-monochrome-magic-a-professionals-guide-for-2024/"><u>[Updated] Masterclass in Monochrome Magic A Professional's Guide for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Honor X50i+ | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-tips-for-ensuring-your-mac-detects-and-uses-an-outside-monitor-correctly/"><u>Expert Tips for Ensuring Your Mac Detects and Uses an Outside Monitor Correctly</u></a></li>
-<li><a href="https://review-topics.techidaily.com/issues-playing-mov-videos-on-xiaomi-by-aiseesoft-video-converter-play-mov-on-android/"><u>Issues playing MOV videos on Xiaomi </u></a></li>
-<li><a href="https://fox-info.techidaily.com/top-10-best-gimbals-for-4k-dsrlmirrorless-cameras-for-2024/"><u>Top 10 Best Gimbals for 4K DSRL/Mirrorless Cameras for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-mic-issues-essential-fixes-for-when-your-phone-cant-hear-you/"><u>Troubleshooting iPhone Mic Issues: Essential Fixes for When Your Phone Can't Hear You</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-diverse-templates-wondershare-virbo-online-for-2024/"><u>Updated Diverse Templates | Wondershare Virbo Online for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-the-win11-vision-disturbance/"><u>[FIXED] The Win11 Vision Disturbance</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-streamlined-shots-in-the-sea-7-easy-to-follow-steps/"><u>[New] 2024 Approved Streamlined Shots in the Sea 7 Easy-to-Follow Steps</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-how-to-smoothly-integrate-linktree-into-your-tiktok-bio-space/"><u>[New] How to Smoothly Integrate Linktree Into Your TikTok Bio Space</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-become-a-kinemaster-meme-wizard/"><u>[New] In 2024, Become a KineMaster Meme Wizard</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-picsart-edge-perfecting-face-movements-with-blur-techniques/"><u>[New] Picsart Edge Perfecting Face Movements with Blur Techniques</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-striking-14-text-animation-illustrations/"><u>[Updated] 2024 Approved Striking 14 Text Animation Illustrations</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-the-role-of-storytelling-in-presenting-market-research-findings/"><u>[Updated] 2024 Approved The Role of Storytelling in Presenting Market Research Findings</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-free-software-for-sound-changes-amplify-and-elevate-your-vocal-impact-for-2024/"><u>[Updated] Free Software For Sound Changes - Amplify and Elevate Your Vocal Impact for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-photoshop-lightroom-alternative-insights/"><u>2024 Approved Photoshop Lightroom Alternative Insights</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/gtx-950-fixed-overcoming-code-43-error-on-your-windows-10-system-a-comprehensive-walkthrough/"><u>GTX 950 [Fixed] – Overcoming Code 43 Error on Your Windows 10 System: A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-can-you-unlock-iphone-6-plus-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone 6 Plus After Forgetting the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-maximizing-exposure-submitting-to-apple/"><u>In 2024, Maximizing Exposure Submitting to Apple</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-optimizing-video-content-with-perfect-youtube-titles/"><u>In 2024, Optimizing Video Content with Perfect YouTube Titles</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/keep-your-windows-computer-synced-with-new-pl2303-driver-versions-download/"><u>Keep Your Windows Computer Synced with New PL2303 Driver Versions Download</u></a></li>
+<li><a href="https://fox-http.techidaily.com/the-ultimate-guide-to-font-customization-in-ae/"><u>The Ultimate Guide to Font Customization in AE</u></a></li>
 </ul></div>
 
