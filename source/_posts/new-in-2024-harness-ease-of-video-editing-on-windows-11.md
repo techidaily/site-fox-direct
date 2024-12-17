@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Harness Ease of Video Editing on Windows 11"
-date: 2024-08-22T21:08:24.677Z
-updated: 2024-08-23T21:08:24.677Z
+date: 2024-12-13T23:05:50.872Z
+updated: 2024-12-16T19:44:16.805Z
 tags: 
   - screen-recording
   - ai video
@@ -33,6 +33,10 @@ The in-built editor in Windows 10 Photos can do that for you. Through this artic
 * [**Part1: How to trim video in Windows 10 Photos**](#part1)
 * [**Part2: How to trim video in Windows 10 with VLC**](#part2)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to trim video in Windows 10 Photos
 
 When you talk about video trimming apps on Windows 10 PC, Photos is the only built-in app capable of doing so. Whether you want to do away with the awkward starting of your video or want to club multiple video clips, get Photos on work for that. Basic level editing is possible with Photos, for additional video editing.
@@ -44,6 +48,10 @@ Here is how to trim videos in [Windows 10 Photos](https://www.microsoft.com/en-u
 **Step 2**: Tap on the video to access the menu bar. Once the menu bar appears at the top hit the **Edit and Create** \> **Trim**.
 
 ![trim videos in windows 10 Photos](https://images.wondershare.com/filmora/article-images/photos-trim.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3**: On the bottom part of the screen, there are three circles. The start and end of the markers clips are represented by two small white circles. For chopping off the unwanted portions you need to drag and adjust the marker circles. The movement of markers shows a text denoting the total selected length of the clip over the marker. The larger marker represents the present spot of your video clip. Make sure to drag around and adjust the video for including all the important parts within the video.
 
@@ -63,6 +71,10 @@ Here comes the step by step guide to trim video in VLC –
 
 ![trim videos in windows 10 using VLC](https://images.wondershare.com/filmora/article-images/vlc-trim-video.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Upon activation of the 'Advanced controls' option, four additional buttons appear over the VLC media player's play/pause button. Now, you got to add the video by 'Open File'. Well, you can also do that by dragging and dropping the video as well.
 2. Select the position from where you want to keep the video and hit the play and record button together.
 3. Now, tap the 'Record' button again where you want to stop the recording. This clip automatically gets saved as an MP4 media file. You can find it within the 'Libraries/Videos' folder if it's a Windows 7 PC.
@@ -70,8 +82,9 @@ Here comes the step by step guide to trim video in VLC –
 Note: You won't be trimmed by cutting the video here, rather recording the desired part using the inbuilt VLC decoder. Using the 'Frame by frame' button found under the 'Advanced control' section (the last button from the left) move to the exact frame you wish to begin your recording.
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 From the above article, we found that **trimming video in VLC and Windows 10 Photos** has its own set of advantages. While in Windows 10 Photos, you get the ease of operation for trimming the clip, VLC is a bit time taking. But, when it comes to more features in video editing, VLC certainly has better brownie points. But finally, it's your call to pick what suits you for your video editing needs. If you want to trim video easily, you can try [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -79,13 +92,11 @@ From the above article, we found that **trimming video in VLC and Windows 10 Pho
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
@@ -109,4 +120,24 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-master-list-of-vimeo-video-capturers/"><u>[New] 2024 Approved Master List of Vimeo Video Capturers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-navigating-color-change-pro-methods-uncovered/"><u>[New] 2024 Approved Navigating Color Change Pro Methods Uncovered</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-xsplit-vs-obs-the-showdown-to-enhance-live-broadcasts/"><u>[New] 2024 Approved XSplit Vs. OBS – The Showdown to Enhance Live Broadcasts</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-insta-marketing-mastery-crafting-viral-video-campaigns-on-social-media/"><u>[Updated] 2024 Approved Insta-Marketing Mastery Crafting Viral Video Campaigns on Social Media</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-logic-pro-x-guide-to-cohesive-track-transitions/"><u>[Updated] 2024 Approved Logic Pro X Guide to Cohesive Track Transitions</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-paving-the-path-for-creativity-turning-gifs-to-stickers-on-all-social-platforms/"><u>[Updated] 2024 Approved Paving the Path for Creativity Turning GIFS to Stickers on All Social Platforms</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-premium-video-experience-best-tools-to-upgrade-your-downloads/"><u>[Updated] 2024 Approved Premium Video Experience Best Tools to Upgrade Your Downloads</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-the-path-to-subtle-iphone-shots-4-essential-techniques-discovered/"><u>[Updated] 2024 Approved The Path to Subtle iPhone Shots 4 Essential Techniques Discovered</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-unmatched-closure-in-cyberspace-quest/"><u>[Updated] In 2024, Unmatched Closure in Cyberspace Quest</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-top-alert-tones-superior-download-sites-list-for-2024/"><u>[Updated] Top Alert Tones Superior Download Sites List for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-top-4-strategies-for-success-in-instagram-loop-creation/"><u>2024 Approved Top 4 Strategies for Success in Instagram Loop Creation</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-leading-touchpad-notebooks-of-the-year-in-depth-analysis-and-expert-ratings-zdnets-ultimate-guide/"><u>Discover the Leading Touchpad Notebooks of the Year: In-Depth Analysis & Expert Ratings | ZDNET's Ultimate Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-ways-to-address-dbghelpdll-could-not-be-located-issue/"><u>Effective Ways to Address dbghelp.dll Could Not Be Located Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-windows-11-screen-brightness-malfunction/"><u>How to Resolve Windows 11 Screen Brightness Malfunction</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harmonious-updates-musical-whatsapp-statues/"><u>In 2024, Harmonious Updates Musical WhatsApp Statues</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-the-young-entrepreneurs-guide-creating-elevating-and-earning/"><u>In 2024, The Young Entrepreneur's Guide Creating, Elevating & Earning</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/transform-your-images-proven-pixlr-strategies-for-2024/"><u>Transform Your Images Proven Pixlr Strategies for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Tailoring Your Windows Photos Display  Filters & Audio Options\""
-date: 2024-08-22T21:04:47.562Z
-updated: 2024-08-23T21:04:47.562Z
+date: 2024-12-13T08:53:29.183Z
+updated: 2024-12-16T21:59:16.335Z
 tags: 
   - screen-recording
   - ai video
@@ -45,6 +45,10 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 
 ![ add filters on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-filters.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3**: Now, you will be in an video editing page. You can name your video at start or later.
 
 **Step 4**: Click Filters at tool bar. Microsoft Photos has 14 filters you can use, including classic, adventure, sepia and so on.
@@ -52,6 +56,10 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 ![ add filters on windows 10 photos app](https://images.wondershare.com/filmora/article-images/edit-filters-microsoft-photos.jpg)
 
 **Step 5**: Just select one you like. Preview it and then click Done.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to add music on Windows 10 Photos App
 
@@ -65,15 +73,20 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 
 ![ add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-music-to-video-photos-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4**: Pick ‘Your music’ so that you can set up a custom track. There are over 20 music you can choose. You can also sync music to video's beat. You can visit ‘Recommended’ section for adding default ones.
 
 ![add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/choose-music-to-video-photos-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5**: Hit the ‘Done’ button.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 From the above article, we conclude that Windows 10 Photos app is an amazing app when it comes to photo editing and screen capturing from a video. While there are numerous options out there, you can **_add filters using Windows 10 Photos app_** in the best way possible. Moreover, this application enables you enable to even add music to videos using Windows 10 Photos app. The advantages of Windows 10 are innumerable, and with the right tools, you can get the best out of it.
@@ -81,8 +94,9 @@ From the above article, we conclude that Windows 10 Photos app is an amazing app
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
@@ -106,4 +120,24 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-grassroot-game-gear-free-film-tips-for-fans/"><u>[New] Grassroot Game Gear - Free Film Tips for Fans</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-how-to-add-music-to-facebook-videos-find-the-guide-here/"><u>[New] How to Add Music to Facebook Videos? Find The Guide Here</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-master-the-art-of-podcast-writing-with-expert-guidance-for-2024/"><u>[New] Master the Art of Podcast Writing with Expert Guidance for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-saving-big-on-final-cut-pro-without-paying/"><u>[New] Saving Big on Final Cut Pro without Paying</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-essential-insights-into-hands-free-interaction/"><u>[Updated] Essential Insights Into Hands-Free Interaction</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-iconic-stop-motion-creations-15-greatest-of-all-time/"><u>[Updated] Iconic Stop-Motion Creations - #15 Greatest of All Time</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-free-tools-to-master-voice-manipulation-and-sound-design/"><u>[Updated] In 2024, Free Tools to Master Voice Manipulation and Sound Design</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-mastering-social-media-creating-your-first-facebook-reel-for-2024/"><u>[Updated] Mastering Social Media Creating Your First Facebook Reel for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-streamline-video-editing-in-windows-10-photos-using-story-remix/"><u>[Updated] Streamline Video Editing in Windows 10 Photos Using Story Remix</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-understanding-vivas-video-experience-for-2024/"><u>[Updated] Understanding Viva's Video Experience for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/decoding-apples-leap-comparing-m1-pro-and-m1-max-capabilities-for-2024/"><u>Decoding Apple's Leap Comparing M1 Pro & M1 Max Capabilities for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/grasping-the-functionality-of-airborne-robotics-for-2024/"><u>Grasping the Functionality of Airborne Robotics for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-easy-steps-to-obscure-identities-in-piscart/"><u>In 2024, Easy Steps to Obscure Identities in PiscArt</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-social-stunt-planters-handbook-meme-mastery-at-9gag/"><u>The Social Stunt Planters' Handbook Meme Mastery at 9GAG</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unearthing-the-mightiest-multisyllable/"><u>Unearthing the Mightiest Multisyllable</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unraveling-the-secrets-to-rapidly-crafted-facebook-collage/"><u>Unraveling the Secrets to Rapidly Crafted Facebook Collage</u></a></li>
+<li><a href="https://article-files.techidaily.com/youtubes-role-in-shaping-brands-and-collaborations/"><u>YouTube's Role in Shaping Brands & Collaborations</u></a></li>
+</ul></div>
 

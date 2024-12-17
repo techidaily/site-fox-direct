@@ -1,7 +1,7 @@
 ---
 title: "\"From Still to Dynamic  The XS Action Camera Unboxed\""
-date: 2024-08-22T21:07:45.975Z
-updated: 2024-08-23T21:07:45.975Z
+date: 2024-12-11T20:03:40.128Z
+updated: 2024-12-16T17:46:35.604Z
 tags: 
   - screen-recording
   - ai video
@@ -30,9 +30,17 @@ thumbnail: https://thmb.techidaily.com/662c307b916403e88dc997e74395824da6bd2c653
 
  The article below includes detailed review of Polaroid XS 100i so that users can grab information about all added features of this product. Here we will talk about value, performance, usability, design and many more. It features attractive hardware shape along with intuitive software controls where wide angle lenses can work up to 170 degree range. You can record FULL GD videos under water with this device as it allows safe usage up to 30 feet. The sturdy shock absorbing box and advanced gyroscope sensor make it more useful for adventure sports lovers. In simple terms, Polaroid has launched something special for its users with all desired features in single unit.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Complete Review for Polaroid XS 100i
 
 ![Polaroid-XS-100-Extreme ](https://images.wondershare.com/filmora/article-images/polaroid-xs-100i-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Check price at Amazon](https://www.amazon.com/gp/product/B00F46UQ4K/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00F46UQ4K&linkId=6d1cf73dd040f47f4ac8a8a14ac9643f)
 
@@ -80,11 +88,19 @@ thumbnail: https://thmb.techidaily.com/662c307b916403e88dc997e74395824da6bd2c653
 6. **App and Wi-Fi:**  
  Polaroid XS-100i is a Wi-Fi enabled device so it can be easily controlled from remote location with dedicated smartphone application. As this device lacks in display so you can enjoy easy previews from smart phone screen so that camera can be mounted at right angles. This application also provides easy controls to device settings. When you connect your camera to computer with the help of USB connectivity then it automatically loads a software to your computer for easy file sharing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Recommend best video editing software for action camera users
 
  If you want to take your video content to the next level with some video editing without being completely overwhelmed, you will definitely want to give Wondershare Filmora (originally Wondershare Video Editor) a try. The software offers a free trial period which allows you to try before buy. Well-designed intuitive interface enables anyone to master the program within minutes.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7. **Battery and Memory:**  
  This action camera comes with built in 120mAh battery so it cannot be removed and replaced with other. But the battery life is comparatively good as it can serve up to 2.5 hours. But remember that too avail this long hour assistance you need to keep your Wi-Fi switched off. The best part is that USB charging option is included so that you can recharge your camera to make it ready for the next shoot.  
@@ -94,6 +110,10 @@ thumbnail: https://thmb.techidaily.com/662c307b916403e88dc997e74395824da6bd2c653
  If we consider the low price fact of Polaroid XS-100i then we must say that lost of features are embedded inside this affordable unit. The full HD setting will provide your crisp results if you are recording in good light conditions. The image orientation can be automatically corrected. As this device is waterproof and shockproof so it can serve with finer details to all adventure sports lovers. As the price tag is low enough so you are definitely going to spend less for such a impressive combination of features.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -118,8 +138,26 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-the-filmmakers-handbook-for-uav-operations/"><u>[New] In 2024, The Filmmaker's Handbook for UAV Operations</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-headline-economy-utilizing-slug-lines-smartly/"><u>[New] Mastering Headline Economy Utilizing Slug Lines Smartly</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-holistic-motion-analysis-2023/"><u>[Updated] 2024 Approved Holistic Motion Analysis 2023</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-deep-dive-the-high-tech-world-of-dji-phantom-3-professional/"><u>[Updated] Deep Dive The High-Tech World of DJI Phantom 3 Professional</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-enhancing-your-spotify-collection-with-youtube-music-integration-for-2024/"><u>[Updated] Enhancing Your Spotify Collection with YouTube Music Integration for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-leading-idevice-videography-tools/"><u>[Updated] In 2024, Leading iDevice Videography Tools</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-mastering-the-art-of-motion-without-contact-sensors/"><u>[Updated] In 2024, Mastering the Art of Motion Without Contact Sensors</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-perfect-your-snapchat-boomerangs-quickly/"><u>[Updated] In 2024, Perfect Your Snapchat Boomerangs Quickly</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-intimate-game-viewing-a-closer-look-at-roblox-worlds/"><u>[Updated] Intimate Game Viewing A Closer Look at Roblox Worlds</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-top-7-budget-friendly-tiktok-editors-for-macbooks-for-2024/"><u>[Updated] Top 7 Budget-Friendly TikTok Editors for MacBooks for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-the-ultimate-iphone-user-manual-for-water-imagery/"><u>2024 Approved The Ultimate iPhone User Manual for Water Imagery</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/complete-guide-access-apple-device-user-manuals-detailed-specifications-and-comprehensive-repair-instructions-on-zdnet/"><u>Complete Guide: Access Apple Device User Manuals, Detailed Specifications & Comprehensive Repair Instructions on ZDNet</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/ideal-video-player-apps-for-windows-os-enthusiasts-for-2024/"><u>Ideal Video Player Apps for Windows OS Enthusiasts for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-xiaomi-redmi-note-12t-pro-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Xiaomi Redmi Note 12T Pro Device SIM</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-optimize-your-facebook-streaming-experience-with-these-methods/"><u>In 2024, Optimize Your Facebook Streaming Experience with These Methods</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-pinnacle-of-performance-new-samsung-bdplus-review/"><u>In 2024, Pinnacle of Performance - New Samsung BD+ Review</u></a></li>
+<li><a href="https://win-able.techidaily.com/monster-hunter-rise-not-launching-fixed/"><u>Monster Hunter Rise Not Launching [Fixed]</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-do-you-want-to-discover-how-to-stabilize-a-video-are-you-in-search-of-the-finest-tools-to-establish-this-task-step-into-this-article-to-explore-the-exci/"><u>New Do You Want to Discover How to Stabilize a Video? Are You in Search of the Finest Tools to Establish This Task? Step Into This Article to Explore the Exciting Facts About It</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/the-ultimate-guide-to-polarr-photo-editor-proficiency/"><u>The Ultimate Guide to Polarr Photo Editor Proficiency</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
