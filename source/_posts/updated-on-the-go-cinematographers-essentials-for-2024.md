@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] On-the-Go Cinematographer’s Essentials for 2024\""
-date: 2024-08-15T12:55:51.773Z
-updated: 2024-08-16T12:55:51.773Z
+date: 2024-12-23T22:28:00.976Z
+updated: 2024-12-25T20:00:11.893Z
 tags: 
   - screen-recording
   - ai video
@@ -28,27 +28,30 @@ Is it worth it? Is it really necessary to upgrade a travel video? Will my money 
 
 ![travel gear review](https://images.wondershare.com/filmora/article-images/2022/07/travel-gear-review.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## My Equipments for Travel Vlogging
 
 First off, I've got a mobile phone, mirrorless camera, action camera, gimbal, tripod, selfie stick, pack of batteries, a camera bag, laptop, and some stuff.
 
 The next gadget that I want to get my hands on, A DRONE. I'm still saving, and surely, I will get that soon. First, let me explain why I got those types of equipment…
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ### 1\. Vlogging Camera (Mirrorless Camera)
 
 Sony a6400 is an APS-C mid-range compact camera that I use for vlogging and cinematic shots. It is specially made for beginners; it has a lot of cool features and at a reasonable price. What I love about this is the flip screen, and I found it very exceptional for vlogging. You can also use 4k resolution with this camera. For me, the only issue with this camera is the image stabilization but it's not that significant, because of the **[Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)**. This app offers the stabilization option that provides a smoothness level and it will be better than the raw or original clip footage of your video. Lastly, it is compact, handy and I highly recommend this.
 
 ![travel vlog camera](https://images.wondershare.com/filmora/article-images/2022/07/travel-vlog-camera.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Lenses
 
 Lenses are the most vital part of your camera; it brings light to a fixed object. Will it make a huge impact on your cinematic shot? For your montage? For your b-roll? Yes, yes, and also yes. The use of lenses has a greater and different impact because it has a contrasting effect, especially for sharpness, depth of field, details, and background blur. It is the most important parameter depending on the situation that you might have for traveling. For example, I used Sigma 16mm, a wide lens, which is good for landscape photography or montage. Another one is Sigma 30mm, this lens is good for mid-range shot portraits and it creates a dramatic effect while capturing a person or an object.
@@ -64,8 +67,9 @@ Nowadays, many filmmakers and famous vloggers are using gimbals. We often use th
 This is one of my favorite pieces of equipment and frequently used camera, the GoPro 9\. A lot of content creators that I know are using action cameras for their daily vlogging. No doubt and no questions at all because this are the smallest camera that you can get on the market. Is it too pricey? Unfortunately, yes, but some brands are not. Since it is the smallest of all, the price that you pay will be worth it. It is very convenient; you can put it in your small bag and it can also fit in your pocket. Very easy to use and the resolution you get is superior. Undeniably, this is my go-to camera. You can use it in any rough situation, that is why this cute little thing has a lot to offer.
 
 ![action camera](https://images.wondershare.com/filmora/article-images/2022/07/action-camera.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Batteries, External SSD, and Memory card
@@ -73,8 +77,9 @@ This is one of my favorite pieces of equipment and frequently used camera, the G
 In any case, we needed a few accessories to support our equipment better. Simple things like an extra pair of batteries for your camera and action came. External SSD is a big help especially when you're running out of memory on your computer. Memory card with a lot of storage space, I consider this an important part of my accessory kit. Make those two, and always have a spare card with you because anything can happen. So be prepared.
 
 ![battery ssd card](https://images.wondershare.com/filmora/article-images/2022/07/battery-ssd-card.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Laptop, desktop, or phone for editing
@@ -83,13 +88,14 @@ In my own experience, every time I go out and visit different places, I always h
 
 ![laptop devices](https://images.wondershare.com/filmora/article-images/2022/07/laptop-devices.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For Win 7 or later(64-bit)
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Stabilize the Video in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ##### Step1NEW PROJECT
@@ -104,6 +110,10 @@ from there you can choose and select which video you would like to import
 
 ![import files](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step3DRAG AND DROP
 
 just drag and drop simple as that
@@ -117,9 +127,6 @@ choose the TOOLS
 select video and you can choose Stabilization
 
 ![stabulizing the video](https://images.wondershare.com/filmora/guide/stabilization-02.png)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 
 ##### Step5ANALYZES THE SELECTED VIDEO TO STABILIZE
 
@@ -140,27 +147,18 @@ So, all in all, those are the equipment and gears that I use for any travel vlog
 click on new project
 
 ![new project](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 
 ##### Step2IMPORT FILES
 
 from there you can choose and select which video you would like to import
 
 ![import files](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 
 ##### Step3DRAG AND DROP
 
 just drag and drop simple as that
 
 ![drag and drop](https://images.wondershare.com/filmora/guide/get-started-with-filmora-03.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 
 ##### Step4STABILIZING THE VIDEO
 
@@ -169,6 +167,10 @@ choose the TOOLS
 select video and you can choose Stabilization
 
 ![stabulizing the video](https://images.wondershare.com/filmora/guide/stabilization-02.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step5ANALYZES THE SELECTED VIDEO TO STABILIZE
 
@@ -202,4 +204,22 @@ So, all in all, those are the equipment and gears that I use for any travel vlog
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-final-cut-pro-for-beginners-the-definitive-starter-pack/"><u>[New] Final Cut Pro for Beginners The Definitive Starter Pack</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-comprehensive-guide-to-applying-and-customizing-filters-in-video-editing/"><u>[New] In 2024, Comprehensive Guide to Applying and Customizing Filters in Video Editing</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-instagram-sounds-ownership-policy/"><u>[New] Instagram Sounds Ownership Policy</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-masterclass-in-media-magic-with-magix-video-pro-x/"><u>[New] Masterclass in Media Magic with Magix Video Pro X</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-mastering-video-timestamps-on-youtube-platform/"><u>[Updated] 2024 Approved Mastering Video Timestamps on YouTube Platform</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-optimal-visual-performance-in-4k-titles/"><u>[Updated] In 2024, Optimal Visual Performance in 4K Titles</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-top-10-must-have-windows-11-cam-recorders/"><u>[Updated] Top 10 Must-Have Windows 11 Cam Recorders</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-comprehensive-app-exploration-az-capture-essentials/"><u>2024 Approved Comprehensive App Exploration AZ Capture Essentials</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-hack-the-youtube-timeline-increase-or-decrease-sound/"><u>2024 Approved Hack the YouTube Timeline Increase or Decrease Sound</u></a></li>
+<li><a href="https://driver-error.techidaily.com/address-non-display-of-hardware-on-w10w11/"><u>Address Non-Display of Hardware on W10/W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-absence-in-task-managers-startups/"><u>Correcting Absence in Task Manager's Startups</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/dive-into-dreamland-asmrs-guide-for-quality-rest-for-2024/"><u>Dive Into Dreamland ASMR's Guide for Quality Rest for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/reduce-share-and-enjoy-top-5-shortened-urls-for-youtube-for-2024/"><u>Reduce, Share and Enjoy Top 5 Shortened URLs for YouTube for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209649431-9781620558881-russian-black-magic/"><u>Russian Black Magic | Free Book</u></a></li>
+<li><a href="https://extra-information.techidaily.com/solo-strategies-making-your-podcast-sensational/"><u>Solo Strategies Making Your Podcast Sensational</u></a></li>
+</ul></div>
 

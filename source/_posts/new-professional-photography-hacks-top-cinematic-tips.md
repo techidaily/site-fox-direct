@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Professional Photography Hacks  Top Cinematic Tips\""
-date: 2024-12-14T22:06:57.603Z
-updated: 2024-12-16T21:28:28.182Z
+date: 2024-12-22T17:46:34.375Z
+updated: 2024-12-25T20:20:31.329Z
 tags: 
   - screen-recording
   - ai video
@@ -39,15 +39,7 @@ Step 1 Attach your phone to the side of a door using duct tape or any strong tap
 
 ![smooth camera movement](https://images.wondershare.com/filmora/article-images/2022/12/smooth-camera-movement.gif)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2 Now open and close the door to get smooth camera movement.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Tip 2\. DIY Light Focus and Control
 
@@ -72,7 +64,7 @@ Alright! Let's check out how it looks in the video below.
 ![diy led panel](https://images.wondershare.com/filmora/article-images/2022/12/diy-led-panel.gif)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DIY Light Flag
@@ -92,6 +84,10 @@ Step 4 Now, use this DIY Light Flag to shape or block light while filming.
 Let us see how it looks;
 
 ![diy light flag](https://images.wondershare.com/filmora/article-images/2022/12/diy-light-flag.gif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### DIY Black Wrap
 
@@ -115,10 +111,6 @@ Here is a GIF attached for a better understanding of the steps.
 
 ![diy black wrap](https://images.wondershare.com/filmora/article-images/2022/12/diy-black-wrap.gif)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### DIY Light Reflector
 
 A reflector is a piece of glass or any reflective surface that can redirect light to a specific spot. For example, use aluminum foil to make a Light Reflector at your home.
@@ -138,12 +130,16 @@ There is a GIF attached below to understand the steps visually.
 ![diy light reflector](https://images.wondershare.com/filmora/article-images/2022/12/diy-light-reflector.gif)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Tip 3\. DIY Light Diffuser
 
 In professional productions, light diffusers are frequently used to soften, level out the lighting, and lessen the harshness of shadows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Diffuse Lights With a Desk Mat
 
@@ -167,10 +163,6 @@ For a better understanding of the steps, watch the GIF attached below.
 
 The most commonly used cinematic movements are the reveal and 180° presentation movements. A gimbal is needed to record these movements.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Reveal Movement
 
 It is the most famous cinematic Movement used these days. So let's discuss how you can record reveal movement using your phone and a gimbal.
@@ -188,6 +180,10 @@ Step 4 Locking mode is best for recording reveal movement shots.
 Here is a video showing how to record reveal movement.
 
 ![reveal movement](https://images.wondershare.com/filmora/article-images/2022/12/reveal-movement.gif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 180° Presentation Movement
 
@@ -208,7 +204,7 @@ A sample video attached below shows how to record 180 presentation movements.
 ![180 presentation movement](https://images.wondershare.com/filmora/article-images/2022/12/180-presentation-movement.gif)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Tip 5\. Create a Barrel Roll Shot
@@ -232,7 +228,11 @@ The video attached below will help you to understand these steps.
 ![barrel roll shot](https://images.wondershare.com/filmora/article-images/2022/12/barrel-roll-shot.gif)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Final Words
@@ -271,18 +271,14 @@ After filming the videos, edit them using [Wondershare Filmora](https://tools.te
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-best-webcam-tripods-flex-neck-and-stands/"><u>[New] 2024 Approved Best Webcam Tripods, Flex-Neck and Stands</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-evolving-photographic-moments-into-sequential-action/"><u>[Updated] 2024 Approved Evolving Photographic Moments Into Sequential Action</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-charting-a-course-youtubes-best-brands/"><u>[Updated] Charting a Course YouTube's Best Brands</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-your-signature-starts-here-free-modifiable-logos-to-define-brands/"><u>[Updated] In 2024, Your Signature Starts Here Free, Modifiable Logos to Define Brands</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-snap-and-save-your-android-no-price-tag/"><u>[Updated] Snap & Save Your Android - No Price Tag</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-transforming-the-modern-workspace-into-a-powerhouse-of-productivity/"><u>[Updated] Transforming the Modern Workspace Into a Powerhouse of Productivity</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-accessing-the-apex-high-definition-media-from-facebooks-realm/"><u>2024 Approved Accessing the Apex High-Definition Media From Facebook's Realm</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-mastering-fast-fb-videos-innovative-techniques-and-software-roundup/"><u>2024 Approved Mastering Fast FB Videos Innovative Techniques and Software Roundup</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/embarking-on-a-listening-odyssey-adding-podcasts-to-itunes-via-ios/"><u>Embarking on a Listening Odyssey Adding Podcasts to iTunes via iOS</u></a></li>
-<li><a href="https://fox-access.techidaily.com/intersecting-realities-metaverse-and-multiverse-differences/"><u>Intersecting Realities Metaverse and Multiverse Differences</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/ultimate-guides-to-3d-type-exploration-for-2024/"><u>Ultimate Guides to 3D Type Exploration for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/unseen-streamer-how-to-live-stream-privately-on-instagram/"><u>Unseen Streamer How to Live-Stream Privately on Instagram</u></a></li>
-<li><a href="https://games-able.techidaily.com/why-tipping-game-devs-would-be-a-bad-idea/"><u>Why Tipping Game Devs Would Be a Bad Idea</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-cutting-short-videos-decoding-imovies-size-reduction/"><u>[New] 2024 Approved Cutting Short Videos Decoding iMovie’s Size Reduction</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-innovative-imagery-boost-integrating-filters-into-pcmobile-videos/"><u>[New] 2024 Approved Innovative Imagery Boost Integrating Filters Into PC/Mobile Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-conquer-broadcasting-unite-obs-and-streamlabs-for-mac/"><u>[New] Conquer Broadcasting Unite OBS & Streamlabs for Mac</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-fb-forum-film-facsimile/"><u>[New] Fb Forum Film Facsimile</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/building-competence-with-lut-software-for-2024/"><u>Building Competence with LUT Software for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-ultimate-guide-on-iphone-8-plus-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Ultimate Guide on iPhone 8 Plus iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/overcoming-connectivity-issues-in-your-live-feed/"><u>Overcoming Connectivity Issues in Your Live Feed</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/return-journey-maker-collection-for-2024/"><u>Return Journey Maker Collection for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-checklist-for-hosting-an-unforgettable-labor-day-celebration-advice-by-zdnet/"><u>The Ultimate Checklist for Hosting an Unforgettable Labor Day Celebration - Advice by ZDNet</u></a></li>
 </ul></div>
 

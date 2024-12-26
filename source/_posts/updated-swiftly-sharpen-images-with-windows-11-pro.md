@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Swiftly Sharpen Images with Windows 11 Pro"
-date: 2024-08-15T12:52:04.803Z
-updated: 2024-08-16T12:52:04.803Z
+date: 2024-12-18T20:53:24.723Z
+updated: 2024-12-25T21:20:32.986Z
 tags: 
   - screen-recording
   - ai video
@@ -31,6 +31,10 @@ The Photos app in Windows 10 is one of the best and with the addition of the dra
 * [**Part1: How to Draw On Photos App in Windows 10**](#part1)
 * [**Part2: How to Draw on Photos Online**](#part2)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Draw On Photos App in Windows 10
 
 When you can add a personal touch to your videos and photos, it becomes all the way more special. Many times, it becomes essential to add a note to explain a video in a better way. Here are the steps to draw on photos in Windows 10 –
@@ -50,9 +54,6 @@ When you can add a personal touch to your videos and photos, it becomes all the 
 
 When you draw on the image or video, the ink can be attached to a particular object or person within the video. As you move the camera angle or the object, the ink stays or moves along. You just need to select the anchor icon and link it to the object in the video.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to Draw on Photos Online
 
 Are you looking forward to drawing on Photos online? [LunaPic](https://www140.lunapic.com/editor/?action=draw) is one such tool that lets you draw on your photos easily online. It is more of a paint tool that lets you edit, adjust, draw borders, add filters, effects, art, animation, and more. It has more than 200 effects option to choose from. To draw on photos online with LunaPic, follow the below-mentioned steps-
@@ -63,8 +64,9 @@ Are you looking forward to drawing on Photos online? [LunaPic](https://www140.lu
 * You get 7 options for tool selection – filled polygon, filled ellipse, ellipse, filled rectangle, rectangle, straight line, and free hand pencil. Select the free hand pencil option
 
 ![draw on photos in windows 10](https://images.wondershare.com/filmora/article-images/lunapic-drawing.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Select the color from the range of palette available
@@ -72,27 +74,27 @@ Are you looking forward to drawing on Photos online? [LunaPic](https://www140.lu
 * Click on apply if you are all set to draw or click on clear if you wish to make changes
 
 ![draw on photos in windows 10](https://images.wondershare.com/filmora/article-images/editing-drawings-on-windows-10.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * To save your drawing on the image, you must click on Apply after each action you make with the tool
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 The Photos app has an interface that is restructured with dark theme options and new drawing and editing features making it a great tool. If you want to draw on Photos in Windows 10, follow the above steps and make your actions easier. If you want to have more options to edit videos with drawing in Windows 10, why not choose [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)? You can edit your video with various drawing and text style.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -118,4 +120,16 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-how-to-make-a-gif-from-vimeo-video/"><u>[New] How to Make a GIF From Vimeo Video</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-endless-buffer-fix-for-frozen-videos-from-photo-booth/"><u>[Updated] 2024 Approved Endless Buffer Fix for Frozen Videos From Photo Booth</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-for-newcomers-discover-these-essential-gopro-upgrades/"><u>[Updated] In 2024, For Newcomers, Discover These Essential GoPro Upgrades</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/1728487498670-ssd/"><u>「SSDでのクローン保存方法：手順とそれがもたらすメリットについて学ぶ」</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/elite-techniques-for-expertise-in-full-screen-premiere-viewing-for-2024/"><u>Elite Techniques for Expertise in Full Screen Premiere Viewing for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/evaluating-youtube-premium-top-six-benefits/"><u>Evaluating YouTube Premium: Top Six Benefits</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-11-pro-to-android-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 11 Pro To Android? | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-mastering-microscopic-views-on-ms-teams-chat/"><u>In 2024, Mastering Microscopic Views on MS Teams Chat</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/the-new-dawn-of-creativity-spotlight-on-six-visionary-nftos-for-2024/"><u>The New Dawn of Creativity Spotlight on Six Visionary NFTOs for 2024</u></a></li>
+</ul></div>
 

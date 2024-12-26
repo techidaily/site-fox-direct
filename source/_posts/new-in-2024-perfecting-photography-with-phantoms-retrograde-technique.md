@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Perfecting Photography with Phantom's Retrograde Technique"
-date: 2024-08-15T12:56:12.989Z
-updated: 2024-08-16T12:56:12.989Z
+date: 2024-12-22T17:22:43.039Z
+updated: 2024-12-25T21:41:55.420Z
 tags: 
   - screen-recording
   - ai video
@@ -48,8 +48,9 @@ The camera will then capture the movement in slow motion, allowing you to see th
 ![shoot video with phantom camera](https://images.wondershare.com/filmora/article-images/2022/11/shoot-video-with-phantom-camera.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Why do we need a phantom slow-motion camera?
 
 There are many reasons why someone might want or need to use a phantom slow-motion camera. For example, law enforcement officials can use them to capture footage of high-speed car chases or accidents. Scientists can use them to study fast-moving objects or phenomena. And sports enthusiasts can use them to study the movements of athletes and improve their performance.
@@ -58,9 +59,6 @@ Phantom cameras are the newest type of camera on the market that can capture slo
 
 One of the most popular ways to use a phantom slow-motion camera is to capture beautiful slow-motion footage of nature. This can be done by setting up the camera in a location where there is a lot of natural movement. The camera will then capture the movement in slow motion, allowing you to see the beauty of the movement that would otherwise be missed.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to create a time-lapse video on a phantom slow-motion camera
 
 A phantom slow-motion camera is a special type of camera that can be used to create time-lapse videos. Time-lapse videos are created by taking a series of photos or videos over a while and then playing them back at a faster speed. This gives the appearance of time moving faster or slower than it is. To create a time-lapse video using a phantom slow-motion camera, you will need the following:
@@ -103,8 +101,9 @@ In addition to being able to edit videos quickly and easily, Filmora also offers
 You can easily install Filmora for free, after installing click on it three options will appear but you have to select the first one which is Create a new project.
 
 ![open filmora and create a new project](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step2 Add some media to edit
@@ -158,14 +157,15 @@ It is important to pick something that will move slowly or that you can control 
 The camera will then capture the movement in slow motion, allowing you to see the beauty of the movement that would otherwise be missed.
 
 ![shoot video with phantom camera](https://images.wondershare.com/filmora/article-images/2022/11/shoot-video-with-phantom-camera.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Why do we need a phantom slow-motion camera?
 
 There are many reasons why someone might want or need to use a phantom slow-motion camera. For example, law enforcement officials can use them to capture footage of high-speed car chases or accidents. Scientists can use them to study fast-moving objects or phenomena. And sports enthusiasts can use them to study the movements of athletes and improve their performance.
@@ -188,8 +188,9 @@ Once you have all of the necessary equipment, you will need to set up your camer
 Depending on the length of the video you want to create, you may need to take thousands of pictures. Once you have all of the pictures, you will need to use a time-lapse video editing software to put them all together.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2: How to edit time-lapse video on a computer
 
 If you've ever been to a nature preserve, you know that the best way to see it is with your own eyes. But what if you don't have time to go out and look at the wildlife? What if you're stuck in traffic or at work? What if there's a storm? Or what if it's dark out and you can't see anything?
@@ -219,9 +220,6 @@ In addition to being able to edit videos quickly and easily, Filmora also offers
 You can easily install Filmora for free, after installing click on it three options will appear but you have to select the first one which is Create a new project.
 
 ![open filmora and create a new project](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 
 ##### Step2 Add some media to edit
 
@@ -234,8 +232,9 @@ After creating a new project, there is an option to add media you can your the v
 Drag and drop your videos on the timeline to start the editing. Once you placed your videos on timelines put the video header at the front.
 
 ![drag media into timeline filmora](https://images.wondershare.com/filmora/article-images/2022/11/drag-media-into-timeline-filmora.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step4 Add titles, effects, and transitions to your video
@@ -251,8 +250,9 @@ When you want to save your video or share it on social media just click on the e
 ![export to your desktop](https://images.wondershare.com/filmora/guide/overview-export-win-3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 We need to use a phantom slow-motion camera since most of us will be realized the truth is that we live in a world that change very quickly. We want to keep up with changes around us so we want to capture everything with our camera. We will never stop pursuing perfection because the perfection goal is always moving further and further away from us.
@@ -285,4 +285,24 @@ As filmmakers and video lovers, we have come up with some solid examples of time
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-excellent-mic-options-enhancing-4k-video-quality/"><u>[New] 2024 Approved Excellent Mic Options Enhancing 4K Video Quality</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-cutting-edge-video-production-leveraging-windows-11s-features/"><u>[New] Cutting-Edge Video Production Leveraging Windows 11'S Features</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-deciphering-the-secrets-of-zd-soft-recorder/"><u>[Updated] Deciphering the Secrets of ZD Soft Recorder</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-efficient-video-production-tips-embracing-free-luts-in-obs-workflow/"><u>[Updated] Efficient Video Production Tips Embracing Free LUTs in OBS Workflow</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-fast-track-fps-the-ultimate-speedy-extension-guide-for-2024/"><u>[Updated] Fast-Track FPS The Ultimate Speedy Extension Guide for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-navigating-the-new-powerdirector-a-2024-blueprint/"><u>[Updated] Navigating the New PowerDirector A 2024 Blueprint</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-impact-of-music-on-a-trailers-emotional-pull/"><u>[Updated] The Impact of Music on a Trailer's Emotional Pull</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boost-your-apple-macbook-with-macos-15-the-ultimate-list-of-new-features-you-cant-miss/"><u>Boost Your Apple MacBook with MacOS 15: The Ultimate List of New Features You Can't Miss</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/cant-keep-up-with-all-those-open-tabs-in-google-chrome-regain-order-and-efficiency-now/"><u>Can't Keep Up with All Those Open Tabs in Google Chrome? Regain Order and Efficiency Now!</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/choosing-the-right-microphone-for-mac-devices-a-compreenas-for-2024/"><u>Choosing the Right Microphone for Mac Devices (A Compreenas) for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparing-copilot-basic-with-copilot-pro-insights-to-help-you-decide-on-upgrading-your-service/"><u>Comparing Copilot Basic With Copilot Pro: Insights to Help You Decide on Upgrading Your Service</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/creating-lasting-impressions-top-6-creative-hashtags-and-phrases-for-your-picture-perfect-moments/"><u>Creating Lasting Impressions: Top 6 Creative Hashtags & Phrases for Your Picture-Perfect Moments</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/discovery-at-work-a-one-man-review-on-3dr-printers/"><u>Discovery at Work A One-Man Review on '3DR' Printers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/from-viral-beats-to-ringtones-transforming-tiktok-sounds/"><u>From Viral Beats to Ringtones Transforming TikTok Sounds</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-honor-magic-5-lite-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/insta-perfection-the-leading-ten-grid-creation-software-listed/"><u>Insta-Perfection The Leading Ten Grid Creation Software Listed</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/unveiled-top-10-superior-gopro-housing-options-for-2024/"><u>Unveiled Top 10 Superior GoPro Housing Options for 2024</u></a></li>
+</ul></div>
 

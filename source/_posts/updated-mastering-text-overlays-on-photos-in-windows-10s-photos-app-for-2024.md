@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering Text Overlays on Photos in Windows 10'S Photos App for 2024"
-date: 2024-08-15T12:51:43.017Z
-updated: 2024-08-16T12:51:43.017Z
+date: 2024-12-22T23:23:08.689Z
+updated: 2024-12-26T00:23:17.735Z
 tags: 
   - screen-recording
   - ai video
@@ -42,6 +42,10 @@ Do you wish to add titles/text to video on Photos in Windows 10 for your video p
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/add-text-photos-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * You may also add the image from the project library to the storyboard if you cannot find the image in the preset categories
 * Resize the image if black parts appear by clicking on resize and then, remove black parts
 
@@ -51,9 +55,6 @@ Do you wish to add titles/text to video on Photos in Windows 10 for your video p
 * Select the best-animated text fonts to suit the background. There are different layouts for each of the font style. Preview the animation by using Playback Control. If the text is not animating, you may try to increase the duration to 3-4 seconds that works well
 * For addition of credits, try to use the Classic text style. Put each of the credits in a new line and do give credits to yourself as well
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to Make Text Move in Windows 10 Photos App
 
 The Photos app in Windows 10 is even easier than the old Windows Movie Maker. You do not need a sharp learning curve for using this app and any beginner can use it with ease and comfort. The Photos app has an anchoring system along with the text tool that makes the text move with the video images. Here’s how you can make the text move in Windows 10 Photos app-
@@ -64,39 +65,39 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 * On the right, find the effects sidebar and select any effect that you find suitable for your video text
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/effects-photos.jpg)
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * Some of the effects might not have the option to move or anchor but if you choose the one that does allow moving of texts, you get an option to attach once you select it
 * Pin the slider in Attach to a point at the On position
 * To add the 3D moving image, drag the blue anchor to the object you’d like to attach and wait as it process
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/attach-effects-photos-min.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * To increase or decrease the length of animation time, adjust the slider
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/edit-text-photos.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 To add titles/text to video on Photos in Windows 10 and to make the text move with the Windows 10 Photos app, follow the above steps and get going easily. The steps are really simple and you just need to understand and apply the steps for successfully adding texts to your videos.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -122,4 +123,20 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-balancing-intense-beats-with-fl-studios-easeful-dimming-for-2024/"><u>[New] Balancing Intense Beats with FL Studio's Easeful Dimming for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-drone-pilots-guide-to-best-vr-headsets/"><u>[New] In 2024, Drone Pilots' Guide to Best VR Headsets</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/he-role-of-timestamps-in-content-longevity-and-popularity-for-2024/"><u>[New] The Role of Timestamps in Content Longevity and Popularity for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-amplify-your-fb-video-content-a-complete-music-integration-tutorial/"><u>[Updated] In 2024, Amplify Your FB Video Content A Complete Music Integration Tutorial</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-cutting-edge-film-making-start-here/"><u>[Updated] In 2024, Cutting-Edge Film Making, Start Here</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/discover-best-4k-gimbals-for-mirrorless-cameras-for-2024/"><u>Discover Best 4K Gimbals for Mirrorless Cameras for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-asrock-ab350-pro4-windows-drivers-complimentary-access-and-easy-setup-tips/"><u>Download ASRock AB350 Pro4 Windows Drivers - Complimentary Access and Easy Setup Tips</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/dynamic-visual-storytelling-integrating-luts-into-spark-ar-projects/"><u>Dynamic Visual Storytelling Integrating LUTs Into Spark AR Projects</u></a></li>
+<li><a href="https://discover-best.techidaily.com/free-deinterlacing-techniques-mastering-video-conversion-with-handbrake/"><u>Free Deinterlacing Techniques: Mastering Video Conversion with HandBrake</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-2023-top-10-facebook-video-players/"><u>In 2024, 2023 | Top 10 Facebook Video Players</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-google-pixel-8-pro-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Google Pixel 8 Pro Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-open-conversations-windows-freedomgpt/"><u>Mastering Open Conversations: Windows FreedomGPT</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/simplify-mealtime-with-arf-pets-smart-auto-feeder-stress-free-nourishment-for-your-furry-friend/"><u>Simplify Mealtime with Arf Pets Smart Auto Feeder - Stress-Free Nourishment for Your Furry Friend</u></a></li>
+</ul></div>
 

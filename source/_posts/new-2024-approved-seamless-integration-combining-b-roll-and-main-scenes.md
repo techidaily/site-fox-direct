@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Seamless Integration  Combining B-Roll and Main Scenes\""
-date: 2024-08-15T12:54:38.377Z
-updated: 2024-08-16T12:54:38.377Z
+date: 2024-12-20T01:09:12.183Z
+updated: 2024-12-25T22:34:59.267Z
 tags: 
   - screen-recording
   - ai video
@@ -33,8 +33,9 @@ B roll can be utilized for establishing shots as well as close-ups of items. It 
 For instance, wider shots are frequently used when someone is giving a speech while seated behind a podium so that we can see both them and their surroundings, such as audience members standing close and applauding or security personnel.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Methods to use b roll
 
 Now that there are so many stock footage platforms, you have a lot of choices when you need just the right scene for your project. Most of the time, filmmakers don't use B roll footage. One good way to use it is to use it as a way to move from one scene to the next. It can also be used to set the mood for an event or show what time of day it is when filming.
@@ -48,11 +49,16 @@ On the other hand, cutaways can show how different people react to what is being
 We'll examine the top 5 uses for B rolls across a variety of video genres and discuss how to implement them effectively in your own projects.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. Archival b roll footage
 
 Aerial B roll is the solution when you like to show your viewers where your film is being recorded or when you are changing locations and want them to know it. The plane takes off and lands in another city, and then shots of the city, its landmarks, its famous streets, etc. are shown. You have probably seen this type of B roll footage in movies and TV shows. These images aid in putting the viewer in the character's current location. Check out this collection of setting images from the Neighbors television series.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Visual detail b roll footage
 
@@ -62,17 +68,14 @@ Including archival material in your video allows your audience to experience a p
 
 B roll footage can be used to tell a story that supports the narrative of your video. For example, in this video interview of Tom DeLonge, the speaker talks about living in a neighborhood. The B rolls show him driving around in his car, skateboarding on the street in the 90's. These add to the story the video creator wants to talk about not seeing people with a disability differently.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Undirected b roll footage
 
 This particular kind of B roll film is captured without any direction being given to your character, as the name suggests. For the purposes of an interview video, for instance, these can be straightforward close-up views of your character's hands and facial expressions. On the other hand, while you're doing a documentary, you might record your subject participating in everyday activities.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 5\. Atmospheric b roll footage
 
 When you are sharing a narrative that has been told in the past or that has historical significance, incorporating archival material into your video gives your audience the opportunity to see the story as it occurred at the time. This is especially useful when you are discussing a narrative that has been experienced in the past or that has futuristic relevance.
@@ -86,24 +89,13 @@ A pick-up is a tiny shot added to previously captured material. Re-shoots involv
 If flaws were discovered during primary photography, the directors could have requested another take. The producer and director should weigh the cost of rejoining cast and crew against the need for pick-ups or re-shoots to address storyline flaws (or worse) in the final edit.
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 7\. A roll vs b roll
 
 Imagine the A roll as part of the video's story. This could be a documentary film, news show, or scripted sketch. Everything else on your editing table must be rearranged to fit it. When the speaker in the following video is directly talking to the camera or interviewer, this is A roll footage. The video's most crucial segments were filmed with primary footage.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 We sincerely hope that this post will be of use to you in making your films more cinematic. You not only know how to film and edit your videos utilizing B rolls, you also have an extremely effective hack that allows you to generate amazing videos using stock footage. This is both impressive and unique.
@@ -136,4 +128,26 @@ We sincerely hope that this post will be of use to you in making your films more
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-ignite-interest-with-your-own-solo-podcast-series-for-2024/"><u>[New] Ignite Interest with Your Own Solo Podcast Series for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-calculating-gb-in-one-days-movie-duration/"><u>[New] In 2024, Calculating GB in One Day's Movie Duration</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-crafting-the-ideal-voice-over-soundtrack/"><u>[New] In 2024, Crafting the Ideal Voice Over Soundtrack</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-learn-the-art-of-making-cellphone-alarms-with-trending-tiktok-music/"><u>[New] In 2024, Learn the Art of Making Cellphone Alarms with Trending TikTok Music</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-integrating-sounds-and-music-into-your-instagram-videos-for-2024/"><u>[New] Integrating Sounds and Music Into Your Instagram Videos for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-rising-stars-choices-top-5-hmds-for-drone-enthusiasts/"><u>[New] Rising Stars' Choices Top 5 HMDs for Drone Enthusiasts</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-beginners-glossary-for-instagram-chat-rooms/"><u>[Updated] 2024 Approved Beginner's Glossary for Instagram Chat Rooms</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-ultimate-auditory-interface-win/"><u>[Updated] 2024 Approved Ultimate Auditory Interface, WIN</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-the-contrast-in-virtual-realm-highlights-and-low-points/"><u>[Updated] In 2024, The Contrast in Virtual Realm Highlights and Low Points</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-unleash-your-creativity-effective-techniques-for-crafting-podcast-scripts/"><u>[Updated] In 2024, Unleash Your Creativity Effective Techniques for Crafting Podcast Scripts</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-who-takes-the-crown-in-action-camera-warfare/"><u>[Updated] In 2024, Who Takes the Crown in Action Camera Warfare?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-8-plus-official-method-to-unlock-your-iphone-8-plus-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 8 Plus Official Method to Unlock Your iPhone 8 Plus</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-unresponsive-screen-discover-these-quick-repair-techniques/"><u>IPhone Unresponsive Screen? Discover These Quick Repair Techniques</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/e-sound-library-explore-the-best-free-downloader-apps-for-youtube-for-2024/"><u>Mobile Sound Library Explore the Best Free Downloader Apps for YouTube for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/navigating-music-production-with-magix-boom-3d/"><u>Navigating Music Production with Magix Boom 3D</u></a></li>
+<li><a href="https://techidaily.com/remove-infinix-lock-screen-without-password-infinix-note-30i-by-drfone-android-unlock-android-unlock/"><u>Remove Infinix Lock Screen without Password(Infinix Note 30i)</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/stylish-profiles-easy-downloads/"><u>Stylish Profiles, Easy Downloads</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unlocking-australian-slang-your-speaking-guide/"><u>Unlocking Australian Slang: Your Speaking Guide</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-top-5-funnier-call-enhancements-exciting-ways-to-transform-your-speech-patterns/"><u>Updated Top 5 Funnier Call Enhancements Exciting Ways to Transform Your Speech Patterns</u></a></li>
+</ul></div>
 

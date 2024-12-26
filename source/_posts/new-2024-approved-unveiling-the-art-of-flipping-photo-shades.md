@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Unveiling the Art of Flipping Photo Shades\""
-date: 2024-08-15T12:55:56.098Z
-updated: 2024-08-16T12:55:56.098Z
+date: 2024-12-24T22:33:04.536Z
+updated: 2024-12-25T20:54:17.279Z
 tags: 
   - screen-recording
   - ai video
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/09ef6fd9c7fe28eb77e63bbfa13236b988e850bf9
 
 During the age of analog photography, the image negative was one of the most important artifacts for photographers, because it enabled them to reproduce a picture as many times as they wanted. Years later photographers invert colors in photos for mostly aesthetical reasons since only a small number of photographers still take photos with analog cameras. Regardless of the type of camera you’re using, inverting colors in a photo is a straightforward process that doesn’t require too much effort. In this article, we are going to take you through some of the best options on Mac and PC computers, as well as Android phones and iPhones that let you invert colors in just a few easy steps. So, let’s dive in.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Make Image Negative of a Digital Photo?
 
 The Invert option is commonly used to invert a scanned film negative to color, but this doesn’t’ mean that you can’t use this effect in very different contexts. However, the extensive and unselective use of this effect can ruin a perfect photo. Here’s how you can invert colors in your photos.
@@ -39,6 +43,10 @@ The Invert option is commonly used to invert a scanned film negative to color, b
 **Compatibility:** Windows
 
 ![ Invert image color](https://images.wondershare.com/filmora/article-images/ms-paint-invert-color.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Open the photo you’d like to invert with MS Paint, and then choose the **Select All option** from the **Select Menu**. **Right-click** on the picture and click on the **Invert Color** option. The colors in the image will be automatically inverted, so you can then head over to the **Save As submenu** in the **File menu** to select the file format of the new photo.
 
@@ -53,6 +61,10 @@ If you are using Windows XP or an earlier version of the Windows OS, you can inv
 Besides creating image negatives, the Preview app lets you convert image files as well. Once you open a photo you’d like to invert with the Preview app, you should click on the **Tools** menu.
 
 ![ Invert image color](https://images.wondershare.com/filmora/article-images/mac-preview-invert-color-original.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Clicking on the **Adjust Color feature** will bring up the color adjustment panel that contains **Black Level and White Level** sliders. To invert the colors in the photo you have to drag the **Black Level slider to the right** and the **White Level Slider to the left.**
 
@@ -114,6 +126,10 @@ Creating a negative of photos you take with your phone can be fun, so why not us
 
 ![ Covert color](https://images.wondershare.com/filmora/article-images/negative-photo-effects-hd.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Inverting the colors in a photo with Negative Photo Effect HD is easy since you just have to select a photo from the gallery or use the iPhone’s camera to snap a new one and apply the **negative photo effect**. You can highlight the area of the photo you’d like to invert with your finger or use some of the app’s photo editing tools to enhance the colors in the negative photo. You can save or share the photos you created, but if you use the free version of the app your photos will be watermarked unless you purchase the **Free Ads and Watermark package** for **$2.99.**
 
 **Conclusion**
@@ -121,6 +137,10 @@ Inverting the colors in a photo with Negative Photo Effect HD is easy since you 
 Inverting colors in a photo is not a complicated process, but finding creative ways to use the negative image effect is since images with inverted colors are best used within a pre-defined context. Do you often create images with inverted colors? Leave a comment below and let us know your favorite method of creating image negatives.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -145,8 +165,24 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-the-essence-of-shareable-humorous-content/"><u>[New] 2024 Approved The Essence of Shareable Humorous Content</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-annual-list-highest-rated-free-lut-sources-online-for-2024/"><u>[New] Annual List Highest Rated FREE LUT Sources Online for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-enhancing-gift-box-gratification-new-approaches-to-unveiling-for-2024/"><u>[New] Enhancing Gift Box Gratification New Approaches to Unveiling for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-most-popular-fb-videos-download-now-for-2024/"><u>[New] Most Popular FB Videos - Download Now for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-obsudios-deep-dive-into-best-screencast-software-for-live-broadcasts/"><u>[New] Obsudio's Deep Dive Into Best Screencast Software for Live Broadcasts</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-ultimate-tutorial-on-permanently-removing-your-instagram-profile-for-2024/"><u>[New] The Ultimate Tutorial on Permanently Removing Your Instagram Profile for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-imgur-meme-generator-for-2024/"><u>[Updated] Imgur Meme Generator for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-positive-reactions-in-a-world-of-negative-comments/"><u>[Updated] In 2024, Positive Reactions in a World of Negative Comments</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-the-ultimate-guide-to-mastering-powerdirector/"><u>[Updated] In 2024, The Ultimate Guide to Mastering PowerDirector</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-streamline-your-path-to-youtubes-srt-files/"><u>[Updated] Streamline Your Path to YouTube's SRT Files</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-oppo-a78-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Oppo A78 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-the-best-sites-for-chromium-phone-tunes/"><u>In 2024, The Best Sites for Chromium Phone Tunes</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-xiaomi-mix-fold-3-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Xiaomi Mix Fold 3</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/kobo-forma-unveiled-taking-reading-seriously-with-advanced-ereader-technology/"><u>Kobo Forma Unveiled: Taking Reading Seriously with Advanced eReader Technology</u></a></li>
+<li><a href="https://android-frp.techidaily.com/meizu-21-pro-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Meizu 21 Pro ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/prioritizing-safety-in-windows-11-service-management/"><u>Prioritizing Safety in Windows 11 Service Management</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/unlocking-powerdirector-a-compreran-review-and-tutorial-for-2024/"><u>Unlocking PowerDirector A Compreran Review & Tutorial for 2024</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->

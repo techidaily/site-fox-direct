@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Mastering Mac's Preview App  An In-Depth Tutorial for Users\""
-date: 2024-12-15T05:45:58.092Z
-updated: 2024-12-17T09:12:27.782Z
+date: 2024-12-22T18:34:51.768Z
+updated: 2024-12-25T17:31:51.925Z
 tags: 
   - screen-recording
   - ai video
@@ -35,15 +35,15 @@ That said, the sections below explain **how to use Preview on Mac** for elementa
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Use Preview to Edit Images \[Complete Guide\]
 
 Being the default image editor for Mac, Apple tried to make the **Preview app** as simple as possible. Therefore, modifying the photos in the program isn’t much complicated as compared to its competitors from different vendors.
 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to View and Edit Photos in Preview on Mac
 
@@ -73,10 +73,6 @@ Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup 
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Crop in Preview
 
 In order to crop a photo in the **Preview app**:
@@ -93,6 +89,10 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Rotate Image in Preview
 
 Rotating an image in the **Preview app** is fairly simple. To do so:
@@ -104,6 +104,10 @@ Use the method explained above to open the photo in Preview.
 **Step 2: Rotate the Image**
 
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Add Text to Image in Preview
 
@@ -120,10 +124,6 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 **Step 3: Format the Text**
 
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Remove Background in Preview
 
@@ -142,7 +142,7 @@ Once the background portion of the image gets selected (colored in red), without
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Combine Images into One
@@ -160,6 +160,10 @@ Ensure that Preview opens with both the images listed in the sidebar in the left
 **Step 3: Combine the Images**
 
 After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Save Images in Different Formats
 
@@ -207,10 +211,6 @@ Choose a destination folder in the **Where** field, select your preferred format
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -236,17 +236,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-10-best-action-adventure-games-of-all-time/"><u>[New] 2024 Approved 10 Best Action-Adventure Games of All Time</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-highlights-from-the-lg-bp350-monitor-user-experience-review/"><u>[New] Highlights From the LG BP350 Monitor User Experience Review</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-photo-perfection-highest-rated-phone-tripods/"><u>[New] Photo Perfection Highest Rated Phone Tripods</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-unleashing-funimate-on-android-step-by-step-apk-tutorial/"><u>[Updated] 2024 Approved Unleashing Funimate on Android - Step-by-Step APK Tutorial</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-step-by-step-guide-to-high-quality-zoom-recordings-for-podcasters-for-2024/"><u>[Updated] Step-by-Step Guide to High-Quality Zoom Recordings for Podcasters for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-understanding-and-mastering-google-chromes-pip-functionality/"><u>[Updated] Understanding and Mastering Google Chrome’s PIP Functionality</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-supercharged-strategies-to-locate-online-ids/"><u>2024 Approved Supercharged Strategies to Locate Online ID's</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-your-ultimate-cheat-sheet-for-seamlessly-looping-videos-on-youtube/"><u>2024 Approved Your Ultimate Cheat Sheet for Seamlessly Looping Videos on YouTube</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-premier-selection-of-toppest-free-video-calls-and-screenshare/"><u>In 2024, Premier Selection of Toppest FREE Video Calls & Screenshare</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-portable-power-station-reviews-comprehensive-guide-by-tech-experts-zdnet/"><u>Top-Rated Portable Power Station Reviews : Comprehensive Guide by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-football-manager-2021-pc-crashes-easy-fix-guide/"><u>Troubleshooting Football Manager 2021 PC Crashes: Easy Fix Guide</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/video-guide-to-stellar-mysql-rehabilitation-with-sysadmin-destrero/"><u>Video Guide to Stellar MySql Rehabilitation with SysAdmin Destrero</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-accelerated-download-solutions-for-vimeo-files-for-2024/"><u>[New] Accelerated Download Solutions for Vimeo Files for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-access-unlimited-12-stream-livestream-content-for-2024/"><u>[New] Access Unlimited 12-Stream Livestream Content for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-gopro-hero5-session-review/"><u>[New] GoPro Hero5 Session Review</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-premium-asmr-microphones-that-dont-break-the-bank-for-2024/"><u>[New] Premium ASMR Microphones That Don't Break the Bank for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-trendsetting-images-their-histories-for-2024/"><u>[New] Trendsetting Images Their Histories for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-exploring-collaborative-designs-the-best-free-and-paid-apps-in-videomosaic/"><u>[Updated] In 2024, Exploring Collaborative Designs The Best Free & Paid Apps in Videomosaic</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-revolutionize-visual-content-leading-montage-tools-for-phones/"><u>[Updated] In 2024, Revolutionize Visual Content Leading Montage Tools for Phones</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-masterminds-of-immersive-marvellous-marvel-spheres/"><u>2024 Approved Masterminds of Immersive Marvellous Marvel Spheres</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/bios-to-uefi/"><u>BIOS-to-UEFI 系统还原进程：完成启动模式转换</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-solutions-to-stop-pacific-drive-from-stalling-on-your-computer/"><u>Effective Solutions to Stop Pacific Drive From Stalling on Your Computer</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-11-best-location-changers-for-vivo-y27s-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/navigating-the-shadows-a-step-by-step-for-anonymous-instagram-live-viewing/"><u>Navigating the Shadows A Step-by-Step for Anonymous Instagram Live Viewing</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/quick-guide-to-precision-photo-backdrop-clean-up/"><u>Quick Guide to Precision Photo Backdrop Clean-Up</u></a></li>
 </ul></div>
 

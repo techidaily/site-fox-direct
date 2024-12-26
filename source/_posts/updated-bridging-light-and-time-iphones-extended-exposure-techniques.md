@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Bridging Light and Time  IPhone's Extended Exposure Techniques\""
-date: 2024-08-15T12:53:27.380Z
-updated: 2024-08-16T12:53:27.380Z
+date: 2024-12-21T22:03:08.981Z
+updated: 2024-12-26T01:54:09.157Z
 tags: 
   - screen-recording
   - ai video
@@ -37,14 +37,15 @@ thumbnail: https://thmb.techidaily.com/a929b0d993c705dcd1293af7219e5e597567df393
 
  When you take long exposure shots using a digital SLR, the physical shutter which captures the image stays open for longer. You can also fiddle with the aperture size, to make it easier to capture these images in different light levels. This process is meticulously replicated by the iPhone's newest Photos app, so if you're already on iOS 11, here's how to use it:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Users on iOS 11
 
  First of all, make sure Live Photos is switched on. Within the camera app, simply tap the circular button in the middle of the top menu bar to turn it on. Once activated, the button will turn yellow and the 'live' notification will be shown on screen.
 
 ![take-live-photo-on-iphone](https://images.wondershare.com/filmora/article-images/take-live-photo-on-iphone.jpg)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 
  Image resource: imore
 
@@ -64,9 +65,6 @@ thumbnail: https://thmb.techidaily.com/a929b0d993c705dcd1293af7219e5e597567df393
 
 **You may also like:** [iPhone Night Photography Tips: Take Night Photos with iPhone >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ### Long Exposure Photography Tips
 
  Getting amazing long exposure shots has been made as simple as possible, thanks to the geniuses at Apple, but you're still going to need to plan for these shots carefully if you want to make them incredible. Here are some top tips for shooting better long exposure photos on iPhone:
@@ -78,9 +76,6 @@ thumbnail: https://thmb.techidaily.com/a929b0d993c705dcd1293af7219e5e597567df393
 
  This feature is one of the most exciting and interesting uses of Live Photos to date, and is well worth checking out if you haven't done so already.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ### What should you capture with your long exposure iPhone shots?
 
  Long exposure shots are magical, giving a dreamy, almost ethereal quality to everyday situations. No doubt you'll find your own amazing things to shoot, but to get you started, why not try a long exposure iPhone shot of:
@@ -94,17 +89,15 @@ thumbnail: https://thmb.techidaily.com/a929b0d993c705dcd1293af7219e5e597567df393
 * **Light trails:** Light is everywhere, and if you take your iPhone camera long exposure trick out of the house at night, you'll find some amazing opportunities to shoot. Cars on the highway, Ferris wheels at the fair and even the stars in the sky can become something amazing with a longer exposure.
 
 ![long-trails-exposure](https://images.wondershare.com/filmora/article-images/long-trails-exposure.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Image resource: WallDevil
 
 * **Motion blur:** To give the sense of something really moving fast, a motion blur can be a captivating effect. From vehicles on the city street to a galloping horse, allowing the moving object to blur whilst everything else around it stays in focus can add a dose of drama to your shots.
 
 ![motion-blur-long-exposure](https://images.wondershare.com/filmora/article-images/motion-blur-long-exposure.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image resource: Digital Photo Secrets
@@ -113,9 +106,17 @@ thumbnail: https://thmb.techidaily.com/a929b0d993c705dcd1293af7219e5e597567df393
 
 ![low-light-long-exposure](https://images.wondershare.com/filmora/article-images/low-light-long-exposure.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image resource: Nikonites
 
  Play around, try different things and get to know how variations in settings can change the outcome of your shots. Tinkering with exposure length is great fun, and will almost certainly result in some totally Facebook-worthy additions to your gallery.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## To conclude
 
@@ -124,12 +125,9 @@ thumbnail: https://thmb.techidaily.com/a929b0d993c705dcd1293af7219e5e597567df393
  With the iPhone camera long exposure shots could really up your game on social media. Whether you're a budding travel photographer, a wannabe stock photo entrepreneur or simply an Instagram lover who wants to impress their friends, have a play with the technology available to you and see what you can create. Long exposure shots are massively popular right now, so grab your iPhone and get snapping!
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -155,4 +153,19 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-slomotion-app-an-exhaustive-evaluation/"><u>[New] 2024 SloMotion App An Exhaustive Evaluation</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/du-topic-10-selective-learning-channels-online-for-2024/"><u>[New] Edu-Topic 10 Selective Learning Channels Online for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-professional-cine-tools-discover-the-top-15-luts-for-action-cams-for-2024/"><u>[Updated] Professional Cine Tools Discover the Top 15 LUTs for Action Cams for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-enhance-your-shorts-fresh-and-original-thumbnails-with-minimal-effort/"><u>2024 Approved Enhance Your Shorts Fresh and Original Thumbnails with Minimal Effort</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-taking-flight-to-better-photos-an-intensive-look-at-dji-sparks-miniature-design/"><u>2024 Approved Taking Flight to Better Photos An Intensive Look at DJI Spark's Miniature Design</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-realme-10t-5g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Realme 10T 5G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/composing-an-alluring-cinematic-teaser-track/"><u>Composing an Alluring Cinematic Teaser Track</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/confirmed-age-adjustment-editing-your-profile-on-tiktok-easily-for-2024/"><u>Confirmed Age Adjustment Editing Your Profile on TikTok Easily for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-shape-openais-interpretation-innovator/"><u>Decoding ShapE: OpenAI's Interpretation Innovator</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Oppo A1x 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-integrating-apple-tunes-with-visual-media/"><u>In 2024, Integrating Apple Tunes with Visual Media</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-optimal-placement-boosting-youtube-video-visibility/"><u>In 2024, Optimal Placement Boosting YouTube Video Visibility</u></a></li>
+</ul></div>
 

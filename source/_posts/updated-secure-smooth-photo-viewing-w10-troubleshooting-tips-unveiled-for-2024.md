@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Secure Smooth Photo Viewing  W10 Troubleshooting Tips Unveiled for 2024\""
-date: 2024-12-14T01:12:09.796Z
-updated: 2024-12-16T22:17:24.904Z
+date: 2024-12-19T02:47:18.155Z
+updated: 2024-12-25T17:42:15.942Z
 tags: 
   - screen-recording
   - ai video
@@ -47,6 +47,10 @@ In this article, we have compiled the best solutions for you to get rid of Windo
 
 ## How to fix Windows 10 Photos app crashes
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 1: Use the Troubleshooter
 
 The Windows Troubleshooter is an inbuilt troubleshooting feature embedded with Windows 10 computers. It allows a simple interface to help you choose any application for troubleshooting. Windows Troubleshooter resolves basic issues with the Windows computer so that users can seamlessly use all Windows 10 system features and functionalities.
@@ -58,12 +62,12 @@ Here is how to troubleshoot –
 
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/Troubleshooter.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. From the list of Apps displayed on the screen, click ‘Windows Store Apps’ and press the ‘Next’ button.
 2. Now, the troubleshooter will troubleshoot every app within the Windows Store Applications and fix them in a jiffy.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Solution 2: Restore Default Libraries
 
@@ -78,10 +82,6 @@ Restoring the default libraries would resolve the Windows 10 Photos App crash is
 
 1. Lastly, click on ‘Apply’ followed by ‘OK’ and the issue will be resolved.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Solution 3: Reset it
 
 When you reset the Windows Photo App itself, your issue gets resolved. Plenty of Windows users have mentioned that resetting the Photo App has fixed the unresponsive or crashing app problems.
@@ -91,6 +91,10 @@ Here is how can you reset it –
 1. Go to ‘Windows 10 Start Menu’ and then click ‘Settings’. Now, click the ‘Apps (Apps & Features)’ option followed by the ‘Photos’ app.
 2. Hit ‘Advanced Options’ and click ‘Reset’ button thereafter.
 3. Now, you got to restart your Windows system, so that Windows 10 Photos App crashing problem can be easily resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 4: Repair Photos App package
 
@@ -102,10 +106,6 @@ Let’s fix the issue by repairing the Photos App package installed on your comp
 2. Key in the command followed by ‘Enter’: Get-AppXPackage -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($\_.InstallLocation)\\AppXManifest.xml”}
 3. Allow few minutes to make the changes effective and then restart the Windows 10 computer.
 4. Now, the Windows 10 Photos App won’t crash.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Solution 5: Reinstall Windows 10 Photos app
 
@@ -119,7 +119,7 @@ Here is how to reinstall the Windows 10 Photos App –
 3. Install ‘Microsoft Photos’ after downloading it from there. Your Windows 10 Photos App crashing issue is well taken care of now.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -131,7 +131,7 @@ From the above article, we have concluded that experiencing Windows 10 Photos Ap
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -159,17 +159,20 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-unleashing-viewer-engagement-explore-12-successful-youtube-strategies/"><u>[New] 2024 Approved Unleashing Viewer Engagement - Explore 12 Successful YouTube Strategies</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-comparative-study-black-hero-4-versus-x1000v-in-action-filming/"><u>[New] In 2024, Comparative Study Black Hero 4 Versus X1000V in Action Filming</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-keeping-memories-afloat-the-top-selection-of-cloud-services-reviewed-for-2024/"><u>[New] Keeping Memories Afloat The Top Selection of Cloud Services Reviewed for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-first-steps-in-gopro-gear-selection/"><u>[Updated] First Steps in GoPro Gear Selection</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-zero-price-green-screen-resources-for-2024/"><u>[Updated] Zero-Price Green Screen Resources for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/diving-into-digital-dialogue-myai-vs-openais-intelligence/"><u>Diving Into Digital Dialogue: MyAI vs OpenAI's Intelligence</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/draw-deftly-delight-fast-win10s-pathway-to-proficient-picture-edits-for-2024/"><u>Draw Deftly, Delight Fast Win10's Pathway to Proficient Picture Edits for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-motorola-moto-g13-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Motorola Moto G13 FRP Bypass</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/jotting-down-just-a-minute-movie/"><u>Jotting Down Just a Minute Movie</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/premier-github-initiatives-for-dynamic-chatgpt-interactions/"><u>Premier Github Initiatives for Dynamic ChatGPT Interactions</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/the-instagram-analysts-handbook-decoding-engagement-and-reach/"><u>The Instagram Analyst's Handbook Decoding Engagement and Reach</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/understanding-and-repairing-faults-identified-during-power-on-self-test-post/"><u>Understanding and Repairing Faults Identified During Power-On Self Test (POST)</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-from-bits-and-bytes-to-subtitles-the-zip-to-srt-pathway/"><u>[New] 2024 Approved From Bits and Bytes to Subtitles The ZIP To SRT Pathway</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-capturing-stability-mastering-shaky-images/"><u>[New] In 2024, Capturing Stability Mastering Shaky Images</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-secrets-of-speed-instant-background-cleanse-techniques/"><u>[New] In 2024, Secrets of Speed Instant Background Cleanse Techniques</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-visionary-editing-the-pinnacle-15-gopro-cinematography-luts-reviewed/"><u>[New] In 2024, Visionary Editing The Pinnacle 15 GoPro Cinematography LUTs Reviewed</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-video-vanguard-sj6-legend-against-xiaomis-yi-kickstart-for-2024/"><u>[New] Video Vanguard SJ6 Legend Against Xiaomi's Yi Kickstart for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-avoid-piracy-safe-youtube-to-mp4-conversion-tips/"><u>[Updated] Avoid Piracy Safe YouTube to MP4 Conversion Tips</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-master-meeting-magic-key-ways-to-tweak-with-zoom-converter-for-2024/"><u>[Updated] Master Meeting Magic Key Ways to Tweak with Zoom Converter for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-intriguing-world-of-whole-sphere-videos-for-2024/"><u>[Updated] The Intriguing World of Whole Sphere Videos for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-chat-app-for-android-a-comparative-review-of-google-and-samsung-messages/"><u>Best Chat App for Android: A Comparative Review of Google and Samsung Messages</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/faster-gaming-awaits-eliminate-minecrafts-latency-problem-today/"><u>Faster Gaming Awaits: Eliminate Minecraft's Latency Problem Today!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-itel-p40-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Itel P40? | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/immerse-in-innovation-the-ultimate-vr-gear-guide-for-2024/"><u>Immerse in Innovation - The Ultimate VR Gear Guide for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-from-watcher-to-participant-facebook-live-on-roku-devices/"><u>In 2024, From Watcher to Participant Facebook LIVE on Roku Devices</u></a></li>
+<li><a href="https://review-topics.techidaily.com/itel-p40plus-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Itel P40+ Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-vivo-s18e-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Vivo S18e Device</u></a></li>
 </ul></div>
 

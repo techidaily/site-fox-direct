@@ -1,7 +1,7 @@
 ---
 title: "\"Fun-Filled Photography  How To Use Lens on Snapchat for Playfulness for 2024\""
-date: 2024-08-15T12:54:05.418Z
-updated: 2024-08-16T12:54:05.418Z
+date: 2024-12-23T02:40:05.121Z
+updated: 2024-12-26T00:06:35.244Z
 tags: 
   - screen-recording
   - ai video
@@ -38,6 +38,10 @@ Snapchat’s Cartoon Face Lens enables you to transform yourself and your pets i
 * [Part 2: How to Send a Snap Using the Cartoon Face Lens from Snapchat?](#part2)
 * [Part 3: 4 Most Popular Snapchat Cartoon Face Lens](#part3)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Why Do Snapchat’s Cartoon Filters Go Viral?
 
 Have you been wondering why cartoon eyes are popping up everywhere on social media all of a sudden? Well, the answer is simple: it’s a new Lens loved by one and all.
@@ -57,30 +61,26 @@ Snapchat allows its users to use the Cartoon lens and send a snap with the carto
 **Step-2:** Go to the camera screen and click on the smiling face icon that’s positioned on the right side of your camera button
 
 ![snapcaht smile face filter lens](https://images.wondershare.com/filmora/article-images/snapcaht-smile-face-filter-lens.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step-3:** Next, you need to head to the cartoon lens. Hence, tap on “Explore” at the bottom right-hand corner of your screen.
 
 ![explore cartoon face lens](https://images.wondershare.com/filmora/article-images/2021/explore-cartoon-face-lens.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step-4:** You will find a plethora of options and lens. Tap on the search bar to type “cartoon face” and search for the filter manually. You will see the Camera Face Lens come up as the first result. Make sure you have selected the one with “Snapchat” as the Creator.
 
 ![snapchat cartoon lens search result page](https://images.wondershare.com/filmora/article-images/snapchat-cartoon-lens-search-result-page.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step-5:** Select the filter to use for taking new photos or videos. Or, you can tap the Camera Roll button to try out the Cartoon Face Lens on other photos from your device’s Gallery by clicking on “Camera Roll”.
 
 ![snap cartoon face camera roll](https://images.wondershare.com/filmora/article-images/2021/snap-cartoon-face-camera-roll.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 
 **Step-6:** Tap the blue arrow icon to send a snap using the cartoon face lens to your friends. You can also post it to your Story!
 
@@ -110,6 +110,10 @@ Today, there’s no dearth of Disney-inspired filters out there. However, you ca
 
 ![cartoon 3d snapchat face lens](https://images.wondershare.com/filmora/article-images/2021/cartoon-3d-snapchat-face-lens.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Source: techcrunch.com
 
 #### 2.Cartoon Face Lens
@@ -125,17 +129,15 @@ Source: intheknow.com
 The Cartoon Effect Lens of Snapchat is another cartoon filter that’s loved by millennial users. It is a weirdly realistic rendering of what you would look like as a cartoon. Besides paying good attention to the details, the Lens is pretty spot-on in mimicking your expressions.
 
 ![snapchat cartoon effect](https://images.wondershare.com/filmora/article-images/2021/snapchat-cartoon-effect.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 
 #### 4.Anime Style
 
 Snapchat’s Anime Style takes its inspiration from the animation style that originated from the East. The Anime Style Lens gives you a makeover in an anime-style of animation and follows each of your expressions in real-time. The filter has a nice soft shading style that’s surprisingly artistic and looks almost like it’s been hand-drawn. Also, it’s fun to try making different expressions as they tend to transform your new anime self entirely.
 
 ![snapchat anime style face](https://images.wondershare.com/filmora/article-images/2021/snapchat-anime-style-face.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -167,4 +169,21 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-advanced-tips-excelling-at-slide-show-recordings/"><u>[New] 2024 Approved Advanced Tips Excelling at Slide Show Recordings</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-raisingthebarbeyondmycam-cameras/"><u>[New] 2024 Approved RaisingTheBarBeyondMyCam Cameras</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-easy-steps-to-setting-up-a-professional-discord-stream-for-2024/"><u>[New] Easy Steps to Setting Up a Professional Discord Stream for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-essential-list-of-premium-cost-free-webm-streaming-services/"><u>[New] Essential List of Premium, Cost-Free WebM Streaming Services</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-cinematic-hope-the-top-10-inspirational-films/"><u>[New] In 2024, Cinematic Hope The Top 10 Inspirational Films</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-tips-and-tricks-for-iphone-low-light-photography-for-2024/"><u>[New] Tips and Tricks for iPhone Low Light Photography for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-amateurs-to-experts-kinemasters-step-guide/"><u>[Updated] From Amateurs to Experts KineMaster’s Step Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-ultimate-power-supplies-for-hero5-official-and-alternative-models/"><u>[Updated] In 2024, Ultimate Power Supplies for Hero5 Official & Alternative Models</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-transforming-images-into-engaging-animation-projects/"><u>[Updated] Transforming Images Into Engaging Animation Projects</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-maximizing-earnings-with-youtube-studio-monetization-on-any-device/"><u>2024 Approved Maximizing Earnings with YouTube Studio Monetization on Any Device</u></a></li>
+<li><a href="https://win-popular.techidaily.com/einfach-sichere-sql-datenbanken-automatisches-backup-fur-robuste-datenverwaltung/"><u>Einfach Sichere SQL-Datenbanken: Automatisches Backup Für Robuste Datenverwaltung</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/review-of-the-zmi-powerpack-2-grower-and-its-potent-portability-features/"><u>Review of the ZMI PowerPack 2 Grower and Its Potent Portability Features</u></a></li>
+<li><a href="https://facebook.techidaily.com/sharing-instagram-reels-on-facebook-a-step-by-step-guide/"><u>Sharing Instagram Reels on Facebook: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-reno-10-pro-5g-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Reno 10 Pro 5G.</u></a></li>
+</ul></div>
 

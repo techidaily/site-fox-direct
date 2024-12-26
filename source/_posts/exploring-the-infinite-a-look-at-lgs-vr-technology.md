@@ -1,7 +1,7 @@
 ---
 title: "\"Exploring the Infinite  A Look at LG's VR Technology\""
-date: 2024-08-15T12:55:18.986Z
-updated: 2024-08-16T12:55:18.986Z
+date: 2024-12-24T03:21:03.763Z
+updated: 2024-12-26T03:07:26.338Z
 tags: 
   - screen-recording
   - ai video
@@ -29,22 +29,21 @@ thumbnail: https://thmb.techidaily.com/74732f3286f05f088e049d5a5051d94a307e70b48
 ## First Impression of LG 360 VR
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Design of LG 360 VR
 
  The 360 VR does not look like other headsets present in the market and in this occurrence, this is not a good feature. Certainly, it is tough, maybe terrible even, to make someone look cool while having a VR headset on their head. But with the design of 360 VR, it is quite sure that engineers have made no attempt to resolve this issue. The headset sports a look similar to what common in the 1980s imagined a futuristic invention would look like. It actually looks like a product with a low-cost, NHS-prescribed article for modifying poor vision.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Accessories of LG 360 VR
 
  Since it is connected via USB Type-C connector, so the company provides it with the package. The adjustable lenses and their covers are present. A 3.5 mm jack is also present on the headset for the headphones which are also provided. Well, many other necessary things are also provided with.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ### Product Packaging of LG 360 VR
 
  Well, the packaging is quite simple as all the other products of LG. It comes in a simple box will all the accessories in it. It is okay to say that the packaging is safe, but should be dealt with care, in the end, it is a delicate product. Everything looks good until it is inside the box.
@@ -56,13 +55,18 @@ thumbnail: https://thmb.techidaily.com/74732f3286f05f088e049d5a5051d94a307e70b48
 * The LG 360 VR turns off if your phone remains idle without playing any video or application for a minimum of 15 minutes in order to save the battery of your phone.
 * Other than that, the headset will connect to the phone if the battery of your phone is too low or the phone is too hot.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### LG 360 VR Performance
 
  When you ponder that it is the LG G5 phone that is actually doing all the work in terms of actually driving the 360 VR's practices, you would at least assume steady performance. We know that the G5 is one of the most influential smartphones present in the market, including an Adreno 530 GPU, Snapdragon 820 and a 4GB RAM. Unfortunately, the first experience with the 360 VR’s performance is unsatisfactory to say the minimum. Having a 920 x 720 resolution per eye, this headset provides a much lower resolution rate as compared to all other virtual reality headsets present in the market. Although using it is a rollercoaster ride through various mixed experiences.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Key features of the LG 360 VR headset
 
 * It has 1.88 inches IPS LCD display.
@@ -92,9 +96,6 @@ thumbnail: https://thmb.techidaily.com/74732f3286f05f088e049d5a5051d94a307e70b48
 * It also does not have any special apps to install
 * You can not experience the VR properly.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Comparison of Samsung Gear VR and LG 360 VR
 
 | |  LG 360 VR  | Samsung Gear VR                         |                                                                         |
@@ -106,8 +107,9 @@ thumbnail: https://thmb.techidaily.com/74732f3286f05f088e049d5a5051d94a307e70b48
 | Resolution    | 960x720 pixels at 693ppi                | 1,280x1,440 pixels, at 518-577ppi also depends on phone                 |
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### More about LG 360 VR headset
 
  LG 360 VR is a virtual reality device designed by LG. It was actually released with LG G5 and used to promote this phone. LG 360 VR has an internal built-in display, unlike the Gear VR designed by Samsung, which also provides a unit plugging for power directly to the phone. The headset can be controlled from the smartphone screen by just tapping and swiping. LG, however, designed this device to enjoy the virtual reality experience, but the device is not up to the mark. If you haven’t bought this device yet, it is highly advised not to buy this one. It is not a very good design and its performance is also not very good.
@@ -141,4 +143,19 @@ Follow @Benjamin Arango
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-in-depth-analysis-of-inshots-features-and-rankings/"><u>[New] 2024 Approved In-Depth Analysis of InShot's Features and Rankings</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-beat-the-best-substitutes-for-samsungs-vr-camera-gear-360-for-2024/"><u>[New] Beat the Best Substitutes for Samsung's VR Camera Gear 360 for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-windowsmacos-visual-enhancement-a-guide-to-text-embellishments-in-photos/"><u>[New] In 2024, Windows/MacOS Visual Enhancement A Guide to Text Embellishments in Photos</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-affordable-subscriber-boost-buy-and-sell-youtube-views/"><u>[Updated] 2024 Approved Affordable Subscriber Boost Buy & Sell YouTube Views</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-next-gen-media-masters-5-top-mac-videography-apps/"><u>[Updated] 2024 Approved Next-Gen Media Masters 5 Top Mac Videography Apps</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-tune-travelers-guide-transferring-playlists-with-precision/"><u>[Updated] 2024 Approved Tune Traveler's Guide Transferring Playlists with Precision</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-guide-to-sharing-on-instagram-videos-and-more/"><u>[Updated] In 2024, Guide to Sharing on Instagram Videos & More</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722207346175-choosing-your-champion-google-bard-vs-bing-chat-showdown/"><u>Choosing Your Champion: Google Bard Vs. Bing Chat Showdown!</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/echocam-grabber-for-video-calls-for-2024/"><u>EchoCam Grabber for Video Calls for 2024</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-se-2020-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone SE (2020) to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-srt-file-management-for-seamless-audible-experience/"><u>In 2024, SRT File Management for Seamless Audible Experience</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/securing-your-digital-assets-top-tips-for-selecting-a-dependable-cryptocurrency-exchange-by-yl-computing/"><u>Securing Your Digital Assets: Top Tips for Selecting a Dependable Cryptocurrency Exchange by YL Computing</u></a></li>
+</ul></div>
 
