@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Combat Oculus Discomfort  10 Methods for 2024\""
-date: 2024-08-15T12:48:15.424Z
-updated: 2024-08-16T12:48:15.424Z
+date: 2024-12-30T18:34:31.238Z
+updated: 2025-01-04T07:33:59.155Z
 tags: 
   - screen-recording
   - ai video
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/9b6869e231e2667ce5b62099e4b236daaa6b93b4b
 ##### Benjamin Arango
 
  Mar 27, 2024• Proven solutions
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10 ways to prevent Oculus Rift motion sickness
 
@@ -51,8 +55,9 @@ thumbnail: https://thmb.techidaily.com/9b6869e231e2667ce5b62099e4b236daaa6b93b4b
 **10\. Try not to move your head a lot.** Since motion sickness directly corresponds to movement, reducing your head movement left and right and up and down in one place can help you lower the chances of sickness.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Oculus have done to reduce motion sickness
 
  With the new, innovative VR devices and the head gear technology has taken a huge leap. Oculus Rift has become widely popular among its enthusiastic users. When Oculus released its first Development kit (DevKit 1) the users experienced the symptoms such as nausea, dizziness, sweating and vomiting. Even Oculus CEO Brendan Iribe experienced “motion sickness” with his own product, while using last year’s “DevKit 1” prototype. These sickness issues were so common while using DevKit 1 that its users called it the “Rift Sickness”.
@@ -60,8 +65,9 @@ thumbnail: https://thmb.techidaily.com/9b6869e231e2667ce5b62099e4b236daaa6b93b4b
  Since Oculus Rift DK1 came to the market, people were really unhappy with the sickness it gave to them. Oculus saw that issue as a big threat, and started to develop DK2 with a much better display. In the original DK1, Oculus Rift used the liquid crystal display (LCD) to display visual in its devices. LCD screen had been of very much advantage because of its brightness, geometric distortion, and less electricity consumption. But it still had been promoting to the sickness issue because of its sluggish motion time response. In replacement of LCD screens, Oculus Rift has introduced OLED (organic light emitting diode) screens which have proved to be a much better idea. Experiments of Oculus Rift with OLED screens have been successful so far in reducing motion sickness to its minimal. OLED has a much faster rate and thus much enhanced positional tracking.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -87,4 +93,26 @@ Follow @Benjamin Arango
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-8-best-free-websites-for-3d-text-psd-files/"><u>[New] 2024 Approved 8 Best Free Websites for 3D Text PSD Files</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-engaging-entrances-crafting-captivating-conversations/"><u>[New] 2024 Approved Engaging Entrances Crafting Captivating Conversations</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-how-to-make-a-youtube-thumbnail-on-mac/"><u>[New] 2024 Approved How to Make a YouTube Thumbnail On Mac</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-how-to-add-music-in-premiere-pro/"><u>[New] How To Add Music In Premiere Pro?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-optimizing-your-creative-process-windows-movie-maker-on-windows-8-unveiled/"><u>[New] Optimizing Your Creative Process Windows Movie Maker on Windows 8 Unveiled</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-swiftly-navigate-ios-magnification-features-for-2024/"><u>[New] Swiftly Navigate iOS Magnification Features for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-ravenhill-resonance-essential-websites-to-download-hearing-heroes-tones/"><u>[Updated] In 2024, Ravenhill Resonance Essential Websites to Download Hearing Heroes' Tones</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-revolutionizing-film-editing-advanced-kinemaster-methods/"><u>[Updated] In 2024, Revolutionizing Film Editing Advanced Kinemaster Methods</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-top-win11-videographers-choices-roundup/"><u>[Updated] Top Win11 Videographers' Choices Roundup</u></a></li>
+<li><a href="https://driver-download.techidaily.com/complete-step-by-step-tutorial-for-downloading-samsung-adbota-tools/"><u>Complete Step-by-Step Tutorial for Downloading Samsung ADB/OTA Tools</u></a></li>
+<li><a href="https://win-forum.techidaily.com/des-astuces-pour-faire-en-sorte-que-windows-media-player-lise-les-dvd-sans-problemes/"><u>Des Astuces Pour Faire en Sorte Que Windows Media Player Lise Les DVD Sans Problèmes!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/flip-shift-and-merge-videos-for-professional-android-results/"><u>Flip, Shift & Merge Videos for Professional Android Results</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-apple-iphone-7-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My Apple iPhone 7 After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-honor-x9a-by-drfone-android/"><u>How to Bypass FRP on Honor X9a?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-from-flight-to-fun-mavic-airs-showdown-with-spark/"><u>In 2024, From Flight to Fun Mavic Air's Showdown with Spark</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-the-path-iphone-file-exchange/"><u>In 2024, Navigating the Path IPhone File Exchange</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-the-runtimeerror-for-rundll32-within-the-windows-host-system-effectively/"><u>Solve the RuntimeError for Rundll32 Within the Windows Host System Effectively</u></a></li>
+<li><a href="https://games-able.techidaily.com/temporary-havens-in-the-gaming-universe/"><u>Temporary Havens in the Gaming Universe</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/turn-zip-into-srt-a-step-by-step-conversion-process-for-2024/"><u>Turn ZIP Into SRT A Step-by-Step Conversion Process for 2024</u></a></li>
+</ul></div>
 

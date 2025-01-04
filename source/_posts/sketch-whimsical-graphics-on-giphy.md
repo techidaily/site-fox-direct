@@ -1,7 +1,7 @@
 ---
 title: "Sketch Whimsical Graphics on Giphy"
-date: 2024-08-15T12:46:09.771Z
-updated: 2024-08-16T12:46:09.771Z
+date: 2024-12-30T04:28:58.599Z
+updated: 2025-01-04T09:57:15.541Z
 tags: 
   - screen-recording
   - ai video
@@ -32,6 +32,10 @@ Step1 Download and launch the app, then register for an account or sign in if yo
 
 ![download giphy app](https://images.wondershare.com/filmora/article-images/2022/07/download-giphy-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 To upload a video to GIPHY, click Upload. To add a video from your computer or mobile device, choose ‘Choose File’ as there is an option to do so
 
 ![upload video to giphy](https://images.wondershare.com/filmora/article-images/2022/07/upload-video-to-giphy.jpg)
@@ -40,11 +44,16 @@ Step3 If you wish to upload a video from a URL, you may do so. After you've subm
 
 ![upload video url giphy](https://images.wondershare.com/filmora/article-images/2022/07/upload-video-url-giphy.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step4 Set the sliders to the length that you choose for your GIF. Recall that shorter is always better! Click Upload Now to continue. The next page gives you the choice of adding tags, making your GIF private, adding a source URL, or adding it to a collection.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2\. Alternative Way to Make Meme Video
 
 Giphy should be a desirable option for content and advertising partners due to the search engine and the thorough social integration of its content. The language of the internet is memes. Despite the fact that some of them may be somewhat strange. There is a text option in every specialized video editing program, but [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) provides something more eye-catching for you! You may create inspiring graphics with quotes using the hundreds of other stock images that Filmora provides, as well as share personal stories, talk about current events, and more. You may also make use of your own images.
@@ -64,27 +73,21 @@ You may create your own memes for every occasion with the aid of the Filmora mem
 To start a new meme project, open the Filmora video meme creator and choose "New project." In the project options, choose the appropriate aspect ratio before selecting "Import" to submit your video. You may also import your favorite movies and pictures shot with mobile devices using Filmora. Simply choose Import, then carry out the following:
 
 ![import files to filmora](https://images.wondershare.com/filmora/guide/add-titles-win-1.png)
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 
 ##### Step3 Include Music and Subtitles
 
 The video file must then be included in the timeline. Another option is to play well-known music in the background. You may do this by dragging and dropping the music file into the program's timeline's audio track. For the subtitles for your Meme, refer to the "Title" option, you may choose the text style you wish to use. Enter the text, then alter the caption's typeface, color, and size.
 
 ![include music and subtitles](https://images.wondershare.com/filmora/guide/add-titles-win-2.png)
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step4 Edit the Meme
 
 If you want to add additional text to your meme, use the features-list menu bar. Additionally, you may use the drop-down menu to move and resize the caption box using the drop-down menu.
 
 ![edit the meme](https://images.wondershare.com/filmora/guide/text-animation-win-1.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step5 Publish or Save Your Meme
@@ -107,6 +110,10 @@ To start a new meme project, open the Filmora video meme creator and choose "New
 
 ![import files to filmora](https://images.wondershare.com/filmora/guide/add-titles-win-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step3 Include Music and Subtitles
 
 The video file must then be included in the timeline. Another option is to play well-known music in the background. You may do this by dragging and dropping the music file into the program's timeline's audio track. For the subtitles for your Meme, refer to the "Title" option, you may choose the text style you wish to use. Enter the text, then alter the caption's typeface, color, and size.
@@ -118,17 +125,11 @@ The video file must then be included in the timeline. Another option is to play 
 If you want to add additional text to your meme, use the features-list menu bar. Additionally, you may use the drop-down menu to move and resize the caption box using the drop-down menu.
 
 ![edit the meme](https://images.wondershare.com/filmora/guide/text-animation-win-1.png)
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step5 Publish or Save Your Meme
 
 Just done with it! you may now start creating as many memes as you wish. A meme has to be circulated extensively online in order to be seen and, presumably, liked. Thus, you need to distribute it across all platforms. You may now click the "Export" button to instantly upload your video meme to Vimeo or YouTube. Save your final meme and upload it right away to your email, Facebook, Twitter, etc. to share it with coworkers or friends.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 Additionally, Giphy offers a Giphy Cam software that enables users to create custom GIFs from video footage captured with their smartphone cameras. Users may effortlessly upload video to the website, where Giphy offers desktop GIF creation tools, and then publish their works without any issues elsewhere. You can certainly create a new picture using your own image if you're feeling very creative. Technically, you could do all of this using an image editor on your computer. If you're unfamiliar with this kind of program, [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is definitely the best option.
@@ -155,4 +156,16 @@ Additionally, Giphy offers a Giphy Cam software that enables users to create cus
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-an-introduction-to-simple-and-effective-hdr-methods/"><u>[Updated] 2024 Approved An Introduction to Simple and Effective HDR Methods</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-instagrams-video-content-regulations-simplified/"><u>[Updated] 2024 Approved Instagram's Video Content Regulations Simplified</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-transform-your-youtube-routine-control-over-video-delivery-speeds/"><u>2024 Approved Transform Your YouTube Routine Control Over Video Delivery Speeds</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14 With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-radiant-hue-tuner-program/"><u>In 2024, Radiant Hue Tuner Program</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-the-art-of-drone-video-recording/"><u>In 2024, The Art of Drone Video Recording</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-the-efficient-way-to-grab-all-episodes-on-your-idevice/"><u>In 2024, The Efficient Way to Grab All Episodes on Your iDevice</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/masterful-windows-melodies-for-2024/"><u>Masterful Windows Melodies for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/unlocking-content-proven-pathways-to-live-video-conversion/"><u>Unlocking Content Proven Pathways to Live Video Conversion</u></a></li>
+</ul></div>
 

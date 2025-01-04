@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Harness Ease of Video Editing on Windows 11\""
-date: 2024-12-24T23:51:23.397Z
-updated: 2024-12-26T03:25:48.839Z
+date: 2024-12-28T11:28:30.044Z
+updated: 2025-01-04T02:10:34.805Z
 tags: 
   - screen-recording
   - ai video
@@ -38,10 +38,6 @@ The in-built editor in Windows 10 Photos can do that for you. Through this artic
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to trim video in Windows 10 Photos
 
 When you talk about video trimming apps on Windows 10 PC, Photos is the only built-in app capable of doing so. Whether you want to do away with the awkward starting of your video or want to club multiple video clips, get Photos on work for that. Basic level editing is possible with Photos, for additional video editing.
@@ -55,7 +51,7 @@ Here is how to trim videos in [Windows 10 Photos](https://www.microsoft.com/en-u
 ![trim videos in windows 10 Photos](https://images.wondershare.com/filmora/article-images/photos-trim.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3**: On the bottom part of the screen, there are three circles. The start and end of the markers clips are represented by two small white circles. For chopping off the unwanted portions you need to drag and adjust the marker circles. The movement of markers shows a text denoting the total selected length of the clip over the marker. The larger marker represents the present spot of your video clip. Make sure to drag around and adjust the video for including all the important parts within the video.
@@ -63,13 +59,13 @@ Here is how to trim videos in [Windows 10 Photos](https://www.microsoft.com/en-u
 ![trim videos in windows 10 Photos](https://images.wondershare.com/filmora/article-images/start-trim-photos.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4**: Once you are happy with the changes, hit the save icon from the top menu. The clip is saved as a copy without impacting your original video in your Windows computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to trim video in Windows 10 with VLC
@@ -91,7 +87,7 @@ Here comes the step by step guide to trim video in VLC –
 Note: You won't be trimmed by cutting the video here, rather recording the desired part using the inbuilt VLC decoder. Using the 'Frame by frame' button found under the 'Advanced control' section (the last button from the left) move to the exact frame you wish to begin your recording.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -99,6 +95,10 @@ Note: You won't be trimmed by cutting the video here, rather recording the desir
 From the above article, we found that **trimming video in VLC and Windows 10 Photos** has its own set of advantages. While in Windows 10 Photos, you get the ease of operation for trimming the clip, VLC is a bit time taking. But, when it comes to more features in video editing, VLC certainly has better brownie points. But finally, it's your call to pick what suits you for your video editing needs. If you want to trim video easily, you can try [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
@@ -127,21 +127,22 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-spotlight-techniques-for-engaging-fb-giveaway-posts/"><u>[New] Spotlight Techniques for Engaging FB Giveaway Posts</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-swiftly-excise-your-youtube-comment-spam-for-2024/"><u>[Updated] How to Swiftly Excise Your Youtube Comment Spam for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-humor-haven-memes-for-iphones/"><u>[Updated] Humor Haven Memes for iPhones</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-smartest-ways-to-track-wedding-dates-ios-and-android-style/"><u>[Updated] Smartest Ways to Track Wedding Dates, iOS & Android Style</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-speedy-assembly-for-stunning-google-image-mosaics/"><u>[Updated] Speedy Assembly for Stunning Google Image Mosaics</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/5-ways-to-fix-your-backlit-keyboard-when-its-not-working-on-windows/"><u>5 Ways to Fix Your Backlit Keyboard When It’s Not Working on Windows</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/djivision-fpv-helmet-effectiveness-breakdown/"><u>DJiVision FPV Helmet Effectiveness Breakdown</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/elevating-the-television-experience-with-4k-pixels/"><u>Elevating the Television Experience with 4K Pixels</u></a></li>
-<li><a href="https://fox-info.techidaily.com/enhance-visuals-in-video-calls-with-ms-teams-zoom-for-2024/"><u>Enhance Visuals in Video Calls with MS Teams Zoom for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-with-my-infinix-note-30-vip-by-stellar-video-repair-mobile-video-repair/"><u>How to fix videos not playing with my Infinix Note 30 VIP?</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-from-concept-to-delivery-using-luts-with-adobe-ae/"><u>In 2024, From Concept to Delivery Using LUTs with Adobe AE</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-proven-methods-to-elevate-patient-testimonial-videos/"><u>In 2024, Proven Methods to Elevate Patient Testimonial Videos</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-showcasing-certifications-and-education/"><u>In 2024, Showcasing Certifications & Education</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/mastering-pubg-effective-techniques-for-altering-your-vocal-presence/"><u>Mastering PUBG Effective Techniques for Altering Your Vocal Presence</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/simultaneous-capture-excellence-with-iphones-features/"><u>Simultaneous Capture Excellence with iPhone's Features</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/the-untold-story-10-pro-vlc-tricks-for-better-playback/"><u>The Untold Story 10 Pro-VLC Tricks for Better Playback</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-cheap-sky-expeditions-under-500-drone-highlights/"><u>[New] In 2024, Cheap Sky Expeditions Under $500 Drone Highlights</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-professional-editing-techniques-for-obs-studio-success/"><u>[New] Professional Editing Techniques for OBS Studio Success</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-the-essential-checklist-for-creating-stellar-titles/"><u>2024 Approved The Essential Checklist for Creating Stellar Titles</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-turn-a-flood-of-fails-into-success-with-precision-in-tiktok-editing/"><u>2024 Approved Turn a Flood of Fails Into Success with Precision in TikTok Editing</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-under-100-investments-in-action-cameras-top-selections/"><u>2024 Approved Under $100 Investments in Action Cameras – Top Selections</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-unveiling-the-pathway-to-high-quality-images-on-deal/"><u>2024 Approved Unveiling the Pathway to High-Quality Images on Deal</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-your-easy-routine-for-viewing-well-regarded-and-favorited-comments/"><u>2024 Approved Your Easy Routine for Viewing Well-Regarded and Favorited Comments</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/advanced-motion-cameras-12-featuring-accurate-position-tracking-for-2024/"><u>Advanced Motion Cameras 12 Featuring Accurate Position Tracking for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/analyzing-pewdiepies-financial-growth-and-revenue/"><u>Analyzing PewDiePie’s Financial Growth and Revenue</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/average-earnings-in-the-world-of-podcasting-for-2024/"><u>Average Earnings in the World of Podcasting for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/beat-windows-11-blue-screen-a-comprehensive-fixer/"><u>Beat Windows 11 Blue Screen - A Comprehensive Fixer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-many-attempts-to-unlock-iphone-7-by-drfone-ios/"><u>How Many Attempts To Unlock iPhone 7</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-recognize-latest-unify-receiver-in-oses/"><u>How to Recognize Latest Unify Receiver in OSes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-free-webm-viewers-the-ultimate-comparison-of-options/"><u>In 2024, Free WebM Viewers The Ultimate Comparison of Options</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-ineffectiveness-to-influence-with-smm-mastery/"><u>In 2024, From Ineffectiveness to Influence with SMM Mastery</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/the-flip-side-when-vr-becomes-a-stumbling-block/"><u>The Flip Side When VR Becomes a Stumbling Block</u></a></li>
+<li><a href="https://discover-able.techidaily.com/world-gold-councils-ceo-wang-lixin-affirms-volatile-gold-price-shifts-are-ordinary-market-dynamics-insights-from-yl-computing-and-yl-software/"><u>World Gold Council's CEO Wang Lixin Affirms: Volatile Gold Price Shifts Are Ordinary Market Dynamics - Insights From YL Computing and YL Software</u></a></li>
 </ul></div>
 

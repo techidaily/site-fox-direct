@@ -1,7 +1,7 @@
 ---
 title: "\"Sky-High Adventures  The GoPro Karma Experience\""
-date: 2024-12-22T19:06:26.004Z
-updated: 2024-12-25T21:32:48.836Z
+date: 2024-12-31T22:23:41.869Z
+updated: 2025-01-04T05:31:45.954Z
 tags: 
   - screen-recording
   - ai video
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/c44e4e5c600145f0a206a8e58618f5b19fc163e0b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Pros and cons of GoPro Karma
@@ -61,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/c44e4e5c600145f0a206a8e58618f5b19fc163e0b
  The overall verdict is that this is a fantastic drone for capturing stunning images but it doesn't have the easy flying mode or the battery life to compete with some of the best drones available at the same price point. Although you might have to sacrifice a bit in image quality when compared to a GoPro camera with some competitors, it's often worth it for value knowing that you can capture the shot and maintain control over your drone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Detailed review for GoPro Karma
@@ -101,7 +101,7 @@ thumbnail: https://thmb.techidaily.com/c44e4e5c600145f0a206a8e58618f5b19fc163e0b
 ![gopro karma controller](https://images.wondershare.com/filmora/article-images/gopro-karma-controller.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  One thing that the GoPro Karma did especially well was creating a beautiful controller. The RC controller is relatively small but it feels exactly like playing a videogame with plenty of functions and no need to have a compatible device to use the drone. The other extremely strong point is the camera. Nobody can build a great outdoor camera that is it as resilient as a GoPro with the Hero 5 Black version of this drone capable of shooting in 4K with an astounding video quality, you can catch some amazing video as well as incredible still images on this drone.
@@ -113,7 +113,7 @@ Overall, the GoPro Karma is a fairly strong showing for a drone. Although it can
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -141,18 +141,21 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-ever-fading-memories-revived-youtubes-lost-content-hunt/"><u>[New] 2024 Approved Ever-Fading Memories Revived YouTube's Lost Content Hunt</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-elevate-video-consumption-constructing-an-ideal-watch-later-list-on-youtube/"><u>[New] In 2024, Elevate Video Consumption Constructing an Ideal 'Watch Later' List on YouTube</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-humor-hierarchy-ranking-10-memes-in-order-of-delight/"><u>[New] In 2024, Humor Hierarchy Ranking #10 Memes in Order of Delight</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-unveiling-the-hidden-mastering-the-mask-of-background-blur/"><u>[Updated] Unveiling the Hidden Mastering the Mask of Background Blur</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/best-vector-illustration-software-a-must-have-list-for-artists-for-2024/"><u>Best Vector Illustration Software A Must-Have List for Artists for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixing-the-causes-behind-black-ops-4s-unexpected-lag-spikes-and-fps-drops/"><u>Fixing the Causes Behind Black Ops 4'S Unexpected Lag Spikes and FPS Drops</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-a-step-by-step-journey-to-itunes-audio-acquisition-on-ios-devices/"><u>In 2024, A Step-by-Step Journey to iTunes Audio Acquisition on iOS Devices</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-chucklechain-master-the-art-of-memes-at-home/"><u>In 2024, ChuckleChain Master the Art of Memes at Home</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Vivo V27e | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-swift-windows-document-reviewing-techniques/"><u>In 2024, Swift Windows Document Reviewing Techniques</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/scripting-space-and-time-manipulation-for-movies-for-2024/"><u>Scripting Space & Time Manipulation for Movies for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-6-essential-study-aids-best-homework-apps-for-kids-and-parents/"><u>Top 6 Essential Study Aids: Best Homework Apps for Kids & Parents</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-samsung-galaxy-m54-5g-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Samsung Galaxy M54 5G Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-trailblazers-designing-marvels-digital-playground/"><u>[New] 2024 Approved Trailblazers Designing Marvel's Digital Playground</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-best-panzoid-intro-maker-templates/"><u>[New] Best Panzoid Intro Maker Templates</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-top-7-affordable-solutions-to-watch-movies-on-pcs/"><u>[New] In 2024, Top 7 Affordable Solutions to Watch Movies on PCs</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-premier-text-motion-manuals/"><u>[Updated] 2024 Approved Premier Text Motion Manuals</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-global-audiences-local-stories-crafting-engaging-instagramcaptions/"><u>[Updated] Global Audiences, Local Stories - Crafting Engaging #InstagramCaptions</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-essential-tips-for-picking-leading-free-srt-translation-tools/"><u>[Updated] In 2024, Essential Tips for Picking Leading Free SRT Translation Tools</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-photographers-choice-top-10-watermarks-software-for-2024/"><u>[Updated] Photographer's Choice Top 10 Watermarks Software for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-enhance-video-content-with-these-expertly-curated-online-subtitles-editors/"><u>2024 Approved Enhance Video Content with These Expertly Curated Online Subtitles Editors</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-trio-a-deep-dive-into-vr-ar-and-mr/"><u>2024 Approved Unveiling the Trio A Deep Dive Into VR, AR, & MR</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/crucial-picks-the-most-influential-6-networking-websites-for-biz/"><u>Crucial Picks The Most Influential 6 Networking Websites for Biz</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ting-content-strategy-with-effective-youtube-partnerships-for-2024/"><u>Elevating Content Strategy with Effective YouTube Partnerships for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/lens-leaders-showcase-unveiling-the-best-6-4k-dslrs/"><u>Lens Leaders Showcase Unveiling the Best 6 4K DSLRs</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-best-powerdirector-replacement-apps-for-android-and-ios-users/"><u>New In 2024, Best PowerDirector Replacement Apps for Android and iOS Users</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/sending-past-moments-via-snapchat-camera-roll-guide-for-2024/"><u>Sending Past Moments via Snapchat Camera Roll Guide for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/664381-9781846946578-superconscious-relationships/"><u>Superconscious Relationships | Free Book</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Mastering Mac's Preview App  An In-Depth Tutorial for Users\""
-date: 2024-12-22T18:34:51.768Z
-updated: 2024-12-25T17:31:51.925Z
+date: 2024-12-31T12:08:41.815Z
+updated: 2025-01-04T00:15:49.373Z
 tags: 
   - screen-recording
   - ai video
@@ -36,7 +36,7 @@ That said, the sections below explain **how to use Preview on Mac** for elementa
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Use Preview to Edit Images \[Complete Guide\]
@@ -44,6 +44,10 @@ That said, the sections below explain **how to use Preview on Mac** for elementa
 Being the default image editor for Mac, Apple tried to make the **Preview app** as simple as possible. Therefore, modifying the photos in the program isn’t much complicated as compared to its competitors from different vendors.
 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to View and Edit Photos in Preview on Mac
 
@@ -90,7 +94,7 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Rotate Image in Preview
@@ -106,7 +110,7 @@ Use the method explained above to open the photo in Preview.
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Add Text to Image in Preview
@@ -125,6 +129,10 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Remove Background in Preview
 
 As it is with some of the advanced image manipulation programs, even the **Preview app** allows you to remove background from a photo, and that too pretty easily. To get this done:
@@ -141,10 +149,6 @@ Once the background portion of the image gets selected (colored in red), without
 
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Combine Images into One
 
 This process is generally used to place an object present in one image over the background of the other photo. A good example could be to place a picture of a fish on to a second photo that has a sea or river. The **Preview app** lets you do this easily using the following steps:
@@ -160,10 +164,6 @@ Ensure that Preview opens with both the images listed in the sidebar in the left
 **Step 3: Combine the Images**
 
 After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Save Images in Different Formats
 
@@ -236,18 +236,14 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-accelerated-download-solutions-for-vimeo-files-for-2024/"><u>[New] Accelerated Download Solutions for Vimeo Files for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-access-unlimited-12-stream-livestream-content-for-2024/"><u>[New] Access Unlimited 12-Stream Livestream Content for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-gopro-hero5-session-review/"><u>[New] GoPro Hero5 Session Review</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-premium-asmr-microphones-that-dont-break-the-bank-for-2024/"><u>[New] Premium ASMR Microphones That Don't Break the Bank for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-trendsetting-images-their-histories-for-2024/"><u>[New] Trendsetting Images Their Histories for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-exploring-collaborative-designs-the-best-free-and-paid-apps-in-videomosaic/"><u>[Updated] In 2024, Exploring Collaborative Designs The Best Free & Paid Apps in Videomosaic</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-revolutionize-visual-content-leading-montage-tools-for-phones/"><u>[Updated] In 2024, Revolutionize Visual Content Leading Montage Tools for Phones</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-masterminds-of-immersive-marvellous-marvel-spheres/"><u>2024 Approved Masterminds of Immersive Marvellous Marvel Spheres</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/bios-to-uefi/"><u>BIOS-to-UEFI 系统还原进程：完成启动模式转换</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/effective-solutions-to-stop-pacific-drive-from-stalling-on-your-computer/"><u>Effective Solutions to Stop Pacific Drive From Stalling on Your Computer</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-11-best-location-changers-for-vivo-y27s-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Vivo Y27s | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/navigating-the-shadows-a-step-by-step-for-anonymous-instagram-live-viewing/"><u>Navigating the Shadows A Step-by-Step for Anonymous Instagram Live Viewing</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/quick-guide-to-precision-photo-backdrop-clean-up/"><u>Quick Guide to Precision Photo Backdrop Clean-Up</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-moneyminded-cloud-vault-capacious-cost-effective/"><u>[New] MoneyMinded Cloud Vault - Capacious, Cost-Effective</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-transform-your-profile-into-an-instagram-powerhouse-with-these-verification-insights-for-2024/"><u>[Updated] Transform Your Profile Into an Instagram Powerhouse with These Verification Insights for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-transform-every-moment-top-tasks-to-master-while-listening-to-your-favorite-podcasts/"><u>2024 Approved Transform Every Moment Top Tasks to Master While Listening to Your Favorite Podcasts</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-unveiling-the-power-of-free-countdown-tools-for-time-management/"><u>2024 Approved Unveiling the Power of Free Countdown Tools for Time Management</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/accessible-and-quality-the-best-10-online-passport-photo-tools-revealed-for-2024/"><u>Accessible & Quality The Best 10 Online Passport Photo Tools Revealed for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/auditory-purity-in-ffmpeg-a-format-friendly-perspective-for-2024/"><u>Auditory Purity in FFmpeg A Format-Friendly Perspective for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-infinix-note-30i-by-fonelab-android-recover-photos/"><u>How to recover deleted photos from Infinix Note 30i.</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On OnePlus Nord N30 SE? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/iphoneandroid-choose-great-focus-shots/"><u>IPhone/Android Choose Great Focus Shots</u></a></li>
 </ul></div>
 

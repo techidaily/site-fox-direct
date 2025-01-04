@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Ultimate Vectors Sourcebook - Top 10 List for 2024\""
-date: 2024-12-24T21:12:23.414Z
-updated: 2024-12-26T00:12:09.943Z
+date: 2025-01-02T16:18:39.032Z
+updated: 2025-01-03T23:01:12.556Z
 tags: 
   - screen-recording
   - ai video
@@ -35,10 +35,6 @@ If you want to find free **vector stock images**, several websites offer a rich 
 
 Multiple **free vectors websites** are currently active. You can access them to get hold of a comprehensive library of usable and high-quality vector images. Here are 10 of the best resources you should check out for variety and quality regarding **vector stock images.**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. [iStock](https://www.istockphoto.com/)
 
 When it comes to **free vectors websites,** iStock is easily one of the top options to try out. There are countless types of images available on this site, based on variations based on the type of design. You can directly search for the style you want and get various available options.
@@ -48,7 +44,7 @@ The quality of the images is top-notch, though you need to upgrade to paid plans
 ![istock vector image](https://images.wondershare.com/filmora/article-images/2023/01/best-10-websites-for-premium-quality-vector-stock-images-in-2022-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Cost**: Credit pack starting at USD 4.17 per credit, Annual image plan- USD 13.31 per month, Monthly image plan- USD 20.57 per month
@@ -70,6 +66,10 @@ Illustrators or artists in different fields offer their creations as **free vect
 
 ![behance stock vector image](https://images.wondershare.com/filmora/article-images/2023/01/best-10-websites-for-premium-quality-vector-stock-images-in-2022-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Cost**: Free
 
  Pros
@@ -83,10 +83,6 @@ Illustrators or artists in different fields offer their creations as **free vect
 * Only registered users can access and download files.
 * The download process takes multiple steps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. [Adobe Stock](https://stock.adobe.com/)
 
 If you are interested in getting **vector images for free,** Adobe Stock is a good choice that offers quality choices. However, you can avail of these options for free by downloading 10 options only during the trial period. Then, you must upgrade to a paid plan and get varying options for graphical illustrations and logos. Plus, you will get advanced editing support if you have an Adobe account or other Adobe editing products.
@@ -94,7 +90,7 @@ If you are interested in getting **vector images for free,** Adobe Stock is a go
 ![adobe stock vector image](https://images.wondershare.com/filmora/article-images/2023/01/best-10-websites-for-premium-quality-vector-stock-images-in-2022-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Cost**: Credit packs start at USD 48.26 for 5 credits; subscription plans start at USD 28.96 per month
@@ -129,10 +125,6 @@ In terms of high-quality **royalty-free vectors**, Vecteezy is one of the best o
 * Only Pro users get editor access features.
 * Free users do not get full commercial rights.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. [Vectorportal](https://www.vexels.com/)
 
 Another suitable site for high-grade free stock vector images is Vectorportal. Quickly put in the keyword for the type of content you want or search for options through the categorized sections. Choose directly for files under the top 100 options or recently added to the roster.
@@ -151,10 +143,6 @@ Another suitable site for high-grade free stock vector images is Vectorportal. Q
 
 * Sports or celebrity-based images require permission to use and then distribute across platforms.
 * Attribution is compulsory for all images here.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. [Flaticon](https://www.flaticon.com/)
 
@@ -186,7 +174,7 @@ The quality of the images is grade-A here. This is because top artists make them
 ![vectorstock stock vector image](https://images.wondershare.com/filmora/article-images/2023/01/best-10-websites-for-premium-quality-vector-stock-images-in-2022-8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Cost**: Per-Paid Credits- USD 1 per image, Pay-Per Image- USD 14.99 for each time, Subscription- 55 cents per image.
@@ -313,7 +301,7 @@ Step6 Drag the stock image to the point in your video you will insert it and dro
 ![drag the stock image to the video](https://images.wondershare.com/filmora/article-images/2023/01/best-10-websites-for-premium-quality-vector-stock-images-in-2022-15.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step7 Click on Export after completing all other edits and follow the given customizations for the file before the final export.
@@ -368,6 +356,10 @@ In terms of high-quality **royalty-free vectors**, Vecteezy is one of the best o
 
 ![vecteezy stock vector image](https://images.wondershare.com/filmora/article-images/2023/01/best-10-websites-for-premium-quality-vector-stock-images-in-2022-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Cost**: Free, Monthly- USD 7, Yearly- USD 4.50
 
  Pros
@@ -408,6 +400,10 @@ Besides these, dynamic stickers are available to choose from that you can apply 
 
 ![flaticon stock vector image](https://images.wondershare.com/filmora/article-images/2023/01/best-10-websites-for-premium-quality-vector-stock-images-in-2022-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Cost**: Free, Monthly- USD 10.27, Yearly pack- USD 7.71 per month
 
  Pros
@@ -428,6 +424,10 @@ Besides these, dynamic stickers are available to choose from that you can apply 
 The quality of the images is grade-A here. This is because top artists make them with well-honed visual art knowledge.
 
 ![vectorstock stock vector image](https://images.wondershare.com/filmora/article-images/2023/01/best-10-websites-for-premium-quality-vector-stock-images-in-2022-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Cost**: Per-Paid Credits- USD 1 per image, Pay-Per Image- USD 14.99 for each time, Subscription- 55 cents per image.
 
@@ -514,6 +514,10 @@ You can use the websites mentioned in the list here to search for various vector
 * **PDF (Portable Document Format)-** The PDF file type relates to portable digital documents that are the standard option for forms, documents, and graphics. Note that this file extension type works with both raster and vector images- i.e., you can apply both images into a PDF file. In terms of usage, this format is best for getting high-quality uniform documental file prints.
 * **.svg (Scalable Vector Graphics)-** SVG or Scalable Vector Graphics is the conventional vector file format that web designers focus on. It has universal open standard support, works on different browsers, and appears smooth and crisp during displays on differently-sized screens. The SVG files are mainly used for web-based file transfers.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part III. Reasons to Turn to Filmora for Editing Videos and Adding Graphic Images
 
 When watching videos online, have you seen cases where the main person is talking and another reaction clip or picture flashes in the middle, emphasizing what they just said?
@@ -542,10 +546,6 @@ Step3 Click on the Stock Media tab at the top toolbar. Choose one of the options
 
 ![click on the stock media tab](https://images.wondershare.com/filmora/article-images/2023/01/best-10-websites-for-premium-quality-vector-stock-images-in-2022-13.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step4 Click on the tabs for different file types as per the resources. Get high-resolution images under Unsplash, videos and images (4K/1080p) under Pixabay, stickers/GIFs under Giphy, and high-quality photos and videos under Pexels.
 
 Step5 Browse your options and click the download icon for the image.
@@ -556,13 +556,13 @@ Step6 Drag the stock image to the point in your video you will insert it and dro
 
 ![drag the stock image to the video](https://images.wondershare.com/filmora/article-images/2023/01/best-10-websites-for-premium-quality-vector-stock-images-in-2022-15.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step7 Click on Export after completing all other edits and follow the given customizations for the file before the final export.
 
 If you want to know more about the best way to use stock media, click on this [video](https://www.youtube.com/watch?v=WlqCBCuStIY).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -592,22 +592,24 @@ There are multiple resources available online for high-quality vector image choi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-natures-canvas-a-variety-of-downloads-to-enhance-cinematic-work/"><u>[New] 2024 Approved Nature’s Canvas A Variety of Downloads to Enhance Cinematic Work</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-thrifty-filmmakers-action-camera-options/"><u>[New] 2024 Approved Thrifty Filmmaker's Action Camera Options</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-exclusive-content-review-the-best-15-youtube-unboxers-of-2024/"><u>[New] Exclusive Content Review The Best 15 YouTube Unboxers of 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-action-camera-mics-top-tier-selection-unveiled/"><u>[New] In 2024, Action Camera Mics Top-Tier Selection Unveiled</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-spotting-the-top-10-discreet-instagram-story-followers/"><u>[New] In 2024, Spotting the Top 10 Discreet Instagram Story Followers</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-final-cut-pro-for-beginners-the-definitive-starter-pack-for-2024/"><u>[Updated] Final Cut Pro for Beginners The Definitive Starter Pack for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-digital-display-delights-top-plugins-and-apps-for-photo-frames/"><u>[Updated] In 2024, Digital Display Delights Top Plugins & Apps for Photo Frames</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-nighttime-action-gopro-hero5-vs-star-sj7/"><u>[Updated] In 2024, Nighttime Action GoPro Hero5 vs Star SJ7</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-the-foundation-defining-electronic-storytelling-for-2024/"><u>[Updated] The Foundation Defining Electronic Storytelling for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-comprehensive-guide-to-rl-streaming-setup/"><u>2024 Approved Comprehensive Guide to RL Streaming Setup</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/budding-entrepreneurs-mastering-telegram-advertising-basics/"><u>Budding Entrepreneurs Mastering Telegram Advertising Basics</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/create-brand-symbols-from-templates-at-no-cost-for-2024/"><u>Create Brand Symbols From Templates at No Cost for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/from-frantic-movements-to-leisurely-views-crafting-spectacular-slow-motion-videos-for-instragram/"><u>From Frantic Movements to Leisurely Views Crafting Spectacular Slow Motion Videos for Instragram</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-standard-to-spectacular-your-guide-to-choosing-a-high-res-screen-for-2024/"><u>From Standard to Spectacular Your Guide to Choosing a High-Res Screen for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/supreme-graphics-power-for-4k-gamers-only-for-2024/"><u>Supreme Graphics Power For 4K Gamers Only for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-infinix-smart-8-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Infinix Smart 8 Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/wiederherstellung-von-beschadigten-datentragern-unter-windows-11-schritt-fur-schritt-anleitung/"><u>Wiederherstellung Von Beschädigten Datenträgern Unter Windows 11: Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ive-into-design-get-a-complimentary-set-of-50-banner-pieces/"><u>[New] Dive Into Design Get a Complimentary Set of 50 Banner Pieces!</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-add-dynamic-blur-to-images-a-photoshop-journey/"><u>2024 Approved Add Dynamic Blur to Images – A Photoshop Journey</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-best-practices-for-a-robust-spotify-ad-campaign/"><u>2024 Approved Best Practices for a Robust Spotify Ad Campaign</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-bridging-audio-gaps-the-complete-guide-to-smooth-blending-in-audacity/"><u>2024 Approved Bridging Audio Gaps The Complete Guide to Smooth Blending in Audacity</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-crowned-titles-top-sierra-dvd-creation-software/"><u>2024 Approved Crowned Titles Top Sierra DVD Creation Software</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-eradicating-warped-imagery-a-complete-guide-to-fixing-gopro-fish-eye/"><u>2024 Approved Eradicating Warped Imagery A Complete Guide to Fixing GoPro Fish Eye</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-foremost-quintet-of-cutting-edge-photo-tech/"><u>2024 Approved Foremost Quintet of Cutting-Edge Photo Tech</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-picsart-secret-conceal-faces-easily/"><u>2024 Approved Picsart Secret Conceal Faces Easily</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-precision-and-playfulness-building-high-quality-gifs/"><u>2024 Approved Precision and Playfulness Building High-Quality GIFs</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-proven-techniques-for-amplifying-tiktok-unboxing-success/"><u>2024 Approved Proven Techniques for Amplifying TikTok Unboxing Success</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/dealing-with-youtubes-challenging-earnings-model-for-2024/"><u>Dealing with YouTube's Challenging Earnings Model for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevate-design-15-must-have-plugins-for-after-effects/"><u>Elevate Design 15 Must-Have Plugins for After Effects</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-newest-hdmi-drivers-for-your-usb-adapter/"><u>Get the Newest HDMI Drivers for Your USB Adapter</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-libeay32dll-issues-effective-solutions-for-when-it-goes-astray/"><u>Overcoming libeay32.dll Issues: Effective Solutions for When It Goes Astray</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-enabling-two-factor-security-in-your-gmail-account/"><u>Step-by-Step Guide: Enabling Two-Factor Security in Your Gmail Account</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-note-30i-by-fonelab-android-recover-data/"><u>The way to get back lost data from Note 30i</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/three-way-clash-of-bots-creativity-analyzing-which-ai-excelled-with-the-same-challenge/"><u>Three-Way Clash of Bots' Creativity: Analyzing Which AI Excelled with the Same Challenge</u></a></li>
 </ul></div>
 

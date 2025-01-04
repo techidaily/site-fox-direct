@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Secrets to a Reliable Windows 11 Photo Viewer"
-date: 2024-12-21T20:45:30.057Z
-updated: 2024-12-25T23:36:47.304Z
+date: 2025-01-03T12:08:14.455Z
+updated: 2025-01-03T21:43:59.151Z
 tags: 
   - screen-recording
   - ai video
@@ -61,6 +61,10 @@ Here is how to troubleshoot –
 1. From the list of Apps displayed on the screen, click ‘Windows Store Apps’ and press the ‘Next’ button.
 2. Now, the troubleshooter will troubleshoot every app within the Windows Store Applications and fix them in a jiffy.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 2: Restore Default Libraries
 
 Restoring the default libraries would resolve the Windows 10 Photos App crash issues. Resetting the Photo App to its default source to a valid network, path fixes the case.
@@ -72,11 +76,11 @@ Restoring the default libraries would resolve the Windows 10 Photos App crash is
 
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/windows-10-photos-app-crashes-restore.jpg)
 
-1. Lastly, click on ‘Apply’ followed by ‘OK’ and the issue will be resolved.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+1. Lastly, click on ‘Apply’ followed by ‘OK’ and the issue will be resolved.
 
 ### Solution 3: Reset it
 
@@ -100,7 +104,7 @@ Let’s fix the issue by repairing the Photos App package installed on your comp
 4. Now, the Windows 10 Photos App won’t crash.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Solution 5: Reinstall Windows 10 Photos app
@@ -115,7 +119,7 @@ Here is how to reinstall the Windows 10 Photos App –
 3. Install ‘Microsoft Photos’ after downloading it from there. Your Windows 10 Photos App crashing issue is well taken care of now.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -125,14 +129,10 @@ From the above article, we have concluded that experiencing Windows 10 Photos Ap
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -159,21 +159,22 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-essentials-acquiring-quality-unboxing-soundtracks/"><u>[New] Essentials Acquiring Quality Unboxing Soundtracks</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-face-off-frenzy-legendary-sj6-vs-xiaomis-four-k-creators/"><u>[New] Face-Off Frenzy Legendary SJ6 Vs. Xiaomi's Four-K Creators</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-iphone-2024s-best-friend-ranked-8-sticks/"><u>[New] Iphone 2024'S Best Friend Ranked #8 Sticks</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-why-are-my-videos-flipped-in-instagram-written-by-michael-aaron-millman-and-richard-g-cox-jr-for-2024/"><u>[New] Why Are My Videos Flipped in Instagram' Written by Michael Aaron Millman and Richard G. Cox, Jr for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-best-of-the-best-6-superior-signature-background-removers/"><u>[Updated] 2024 Approved Best of the Best 6 Superior Signature Background Removers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-go-live-with-google-meet-youtube-broadcasting-steps-for-2024/"><u>[Updated] Go Live with Google Meet YouTube Broadcasting Steps for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-redefining-realities-practical-vr-uses/"><u>[Updated] In 2024, Redefining Realities Practical VR Uses</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-the-ultimate-checklist-for-transforming-your-tiktok-handle/"><u>[Updated] The Ultimate Checklist for Transforming Your TikTok Handle</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-unlocking-window-11s-best-kept-secrets-for-maximum-productivity-for-2024/"><u>[Updated] Unlocking WINDOW 11'S Best-Kept Secrets for Maximum Productivity for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/best-complimentary-universal-media-server-application-for-apple-computers-a-guide/"><u>Best Complimentary Universal Media Server Application for Apple Computers: A Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discreet-preservation-of-dialogues-with-gpt-assistant/"><u>Discreet Preservation of Dialogues with GPT Assistant</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-groundwork-on-image-detail-a-novices-reference/"><u>In 2024, Groundwork on Image Detail A Novice's Reference</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Realme C33 2023? | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/shotsizesavvy-fine-tuning-your-social-media-content-for-instagram-for-2024/"><u>ShotSizeSavvy Fine-Tuning Your Social Media Content for Instagram for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/strategic-exposure-the-art-of-opening-gains/"><u>Strategic Exposure The Art of Opening Gains</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/unleashing-the-magic-top-lego-stop-motion-artists/"><u>Unleashing the Magic Top Lego Stop Motion Artists</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-vanguards-choice-of-top-12-high-tech-action-cams-with-locators/"><u>[New] 2024 Approved Vanguard's Choice of Top 12 High-Tech Action Cams With Locators</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-high-definition-heroes-10-in-4ktvs/"><u>[New] High Definition Heroes – #10 in 4KTVs</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-four-essential-tips-for-acquiring-youtube-srt/"><u>[New] In 2024, Four Essential Tips for Acquiring YouTube SRT</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-stunning-slideshow-for-social-sharing/"><u>[New] Stunning Slideshow for Social Sharing</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-instilling-illusions-blur-wonders-in-adobes-visual-staging-tools/"><u>[Updated] 2024 Approved Instilling Illusions Blur Wonders in Adobe's Visual Staging Tools</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-become-a-social-butterfly-engage-in-fb-live-on-your-roku-box/"><u>[Updated] In 2024, Become a Social Butterfly Engage in FB Live on Your Roku Box</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-top-pick-unlimited-valorant-sound-transformation-tool-free/"><u>[Updated] In 2024, Top Pick Unlimited Valorant Sound Transformation Tool (Free)</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-quick-escapes-dodging-edgenuity-online-course-videos-easily/"><u>[Updated] Quick Escapes Dodging Edgenuity Online Course Videos Easily</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-streamline-video-saving-from-linkedin-using-this-6-app-compilation-for-2024/"><u>[Updated] Streamline Video Saving From LinkedIn Using This 6-App Compilation for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-make-your-comments-pop-with-emojis-in-youtube/"><u>2024 Approved Make Your Comments Pop with Emojis in YouTube</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/boosting-visual-clarity-comprehensive-strategies-for-zooming-photos-and-videos/"><u>Boosting Visual Clarity Comprehensive Strategies for Zooming Photos & Videos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/gopro-hero5-black-showdown-with-hero4-silver-for-2024/"><u>GoPro Hero5 Black Showdown with Hero4 Silver for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-realme-narzo-60x-5g-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Realme Narzo 60x 5G Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-mastering-audio-transitions-in-premiere-pro/"><u>In 2024, Mastering Audio Transitions in Premiere Pro</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-win-11-mov-file-recording-guide/"><u>In 2024, Win 11 MOV File Recording Guide</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-best-gameplay-quality-reviews-and-insights-of-the-samsung-q6nf3w-series-tvs-with-4k-smart-features/"><u>The Best Gameplay Quality: Reviews & Insights of the Samsung Q6nf3w Series TVs with 4K Smart Features</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/troubleshooting-steps-for-pc-players-of-granblue-fantasy-with-recurring-relink-glitches/"><u>Troubleshooting Steps for PC Players of Granblue Fantasy with Recurring ReLink Glitches</u></a></li>
 </ul></div>
 

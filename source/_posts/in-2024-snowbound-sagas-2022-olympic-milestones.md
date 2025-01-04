@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Snowbound Sagas  2022 Olympic Milestones\""
-date: 2024-12-25T01:21:08.715Z
-updated: 2024-12-25T19:14:47.616Z
+date: 2024-12-27T23:44:34.616Z
+updated: 2025-01-03T23:32:31.529Z
 tags: 
   - screen-recording
   - ai video
@@ -29,6 +29,10 @@ The grand opening ceremony was held on 4th February and the grand closing will b
 
 ### Watch Video: 10 Best Winter Olympics Highlight Moment \[2022\]
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Lindsey Jacobellis Gives US Its First Beijing Olympics Gold
 
 American snowboarder Lindsey Jacobellis wins the gold medal in the women's snowboard cross at Beijing Winter Olympics. She broke the deadlock for the United States at Winter Olympics by giving her country the first gold. In fact, Lindsey Jacobellis had to wait 16 years to wind her maiden gold at the Olympics.
@@ -36,6 +40,10 @@ American snowboarder Lindsey Jacobellis wins the gold medal in the women's snowb
 ![lindsey jacobellis wins the gold medal](https://images.wondershare.com/filmora/article-images/lindsey-jacobellis-wins-the-gold-medal.jpg)
 
 Lindsey Jacobellis become a viral internet figure after her premature celebration at Turin 2006 Winter Olympics that cost her medal at the event. The 36-year-old snowboarder has now become the oldest American to win a gold medal at Winter Games.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Nathan Chen Breaks World Record
 
@@ -53,6 +61,10 @@ Injuries are part of sports events but some injuries are gruesome and are result
 
 She lost her balance before she could cross the finishing line and she slid across the finish. She was screaming in pain as she left the event on a stretcher. The good news is that she is alert and responding. She has returned home to Colorado and she has received a warm welcome back home.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. US-Born Eileen Gu Wins Gold for China
 
 Born in America, Eileen Gu represented China at Winter Olympics and managed to win the gold medal in the inaugural freeski big air event. Therefore, she will go down in the history as the first woman to win the gold medal for freeski big air event. She stunned everyone by completing two off-axis rotations in the air.
@@ -60,10 +72,6 @@ Born in America, Eileen Gu represented China at Winter Olympics and managed to w
 ![eileen gu wins gold](https://images.wondershare.com/filmora/article-images/us-born-eileen-gu-wins-gold-for-china.jpg)
 
 Eileen Gu's father is American while her mother is Chinese and she belongs to San Francisco. Yet, she represented China in the Winter Olympics which has sparked controversies. She has been representing China since 2019\. She wishes to represent China going forward and she has become a fan favorite in China.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Van der Poel Breaks the World Record
 
@@ -74,7 +82,7 @@ Nil Van der Poel broke his own record to win the Olympic gold medal. The 25-year
 Following the victory, he stated that he was sure to win the gold with eight laps remaining. However, he went not just for the gold but the world record with the remaining four laps. Patrick Roest from the Netherlands won the silver and the third spot went to Davide Ghittio of Italy.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Yan Wengang Wins China's First Medal in Sliding Sport
@@ -83,21 +91,17 @@ Yan Wengang becomes the first medalist from China in a sliding sport. In a four-
 
 ![yan wen gang](https://images.wondershare.com/filmora/article-images/yan-wen-gang.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The competitiveness of Wengwang has made him the first medalist for China in men's skeleton. The 24-year-old Tianjin native was happy as well as disappointed after the competition. With a fighting spirit, he gave everything he had in the last heat. His victory makes only the second time when a non-North American or non-European stood on the Olympic podium for skeleton.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Chloe Kim Wins Second Straight Olympic Gold
 
 21-year-old Chloe Kim became back-to-back Olympic champion by dominating in the halfpipe. The American confirmed a gold medal on the first run itself. Her runs had 1080, a switch 900, and a switch backside of 540\. It further added another 1080\. She dominated the Snowboarding Women's Halfpipe Final with 94 points. Spain's Queralkt Castellet won silver and the bronze went to Sena Tomita of Japan.
 
 ![chloe kim](https://images.wondershare.com/filmora/article-images/chloe-kim.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 With the triumph, she joins Shaun White to be the only snowboarders to successfully defend their Olympic title. Following the victory, she was overwhelmed and emotional. Despite having the worst practice before the final, Kim went on to create history.
 
@@ -107,10 +111,6 @@ We are all aware of the tensions between Ukraine and Russia are at their peak an
 
 ![ukrainian athlete](https://images.wondershare.com/filmora/article-images/ukrainian-athlete.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 He showed the sign directly to the cameras after he finished his run at Beijing Olympics. It remains to be seen if any penalty will be imposed on him but Heraskevych has said that he is ready to face any repercussion even though he hopes that the Olympics will support him instead.
 
 ## 9\. American Favorite Out of the Tournament
@@ -119,11 +119,11 @@ US skater Vincent Zhou has tested positive for coronavirus and therefore, he is 
 
 ![american favorite out of the tournament](https://images.wondershare.com/filmora/article-images/american-favorite-out-of-the-tournament.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Zhou is considering the silver win as a consolation prize but he could not showcase his brilliance at the singles competitions. However, he said that he would prepare for the Winter Olympics in Milan and make a bigger comeback the world has not seen yet.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10\. Russian Figure Skater Tests Positive for Banned Substance
 
@@ -132,7 +132,7 @@ Doping scandals have become a part of the Olympics and this year is no different
 ![russian figure skater](https://images.wondershare.com/filmora/article-images/russian-figure-skater.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 However, due to some miscommunication, she was allowed to be a participant in the team figure skating competition. She led the team to win gold but the medal is yet to be awarded due to the big confusion regarding the timeline of her drug test, suspension order, and miscommunication. The issue has become a controversial Beijing winter Olympics highlights.
@@ -156,18 +156,16 @@ However, due to some miscommunication, she was allowed to be a participant in th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-from-fragmented-footage-to-fluid-editing-inshots-pathway-to-perfection/"><u>[Updated] 2024 Approved From Fragmented Footage to Fluid Editing Inshot's Pathway to Perfection</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-androvid-video-editor-complete-review-2023-for-2024/"><u>[Updated] AndroVid Video Editor – Complete Review 2023 for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-exclusive-access-to-the-finest-ae-templates-all-free/"><u>[Updated] In 2024, Exclusive Access to The Finest AE Templates, All-Free</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-expertly-remove-items-from-iphone-photo-with-top-6-apps/"><u>[Updated] In 2024, Expertly Remove Items From iPhone Photo with Top 6 Apps</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-master-the-switch-making-your-graphic-style-a-sticker-on-every-platform-for-2024/"><u>[Updated] Master the Switch Making Your Graphic Style a Sticker on Every Platform for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-professionally-speaking-the-top-5-drone-recommendations/"><u>[Updated] Professionally Speaking The Top 5 Drone Recommendations</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-affordable-high-frame-rate-recordings/"><u>2024 Approved Affordable High Frame Rate Recordings</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Poco X5 Pro? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722871033429-from-pixels-to-papers-discover-the-best-in-electronics-and-literary-treasures/"><u>From Pixels to Papers: Discover the Best in Electronics & Literary Treasures</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-motorola-moto-e13-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Motorola Moto E13 Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-unleashing-the-power-of-time-lapse-photography-using-gopro/"><u>In 2024, Unleashing the Power of Time-Lapse Photography Using GoPro</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/sj7s-pioneering-star-4k-camera-the-ultimate-guide-for-action-filmmakers/"><u>SJ7's Pioneering Star 4K Camera - The Ultimate Guide for Action Filmmakers</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-song-selection-guide-copyright-free-melodies-for-montages/"><u>Updated 2024 Approved Song Selection Guide Copyright-Free Melodies for Montages</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-contrast-and-composition-theory-in-design/"><u>2024 Approved Contrast and Composition Theory in Design</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-essential-tactics-for-effective-handc-facebook-promos/"><u>2024 Approved Essential Tactics for Effective H&C Facebook Promos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-step-by-step-to-upgraded-windows-photos-visuals-and-tunes-for-2024/"><u>A Step-by-Step to Upgraded Windows Photos Visuals & Tunes for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/balance-your-shots-best-camera-stabilizers-reviewed/"><u>Balance Your Shots Best Camera Stabilizers Reviewed</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/craft-professional-videos-with-free-intros-for-2024/"><u>Craft Professional Videos with Free Intros for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-asus-rog-phone-8-pro-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Asus ROG Phone 8 Pro.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/getting-canon-dr-c225-drivers-for-your-windows-operating-system-windows-11108/"><u>Getting Canon DR-C225 Drivers for Your Windows Operating System (Windows 11/10/8)</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/how-the-nokia-72-exceeds-and-innovates-within-the-affordable-smartphone-segment/"><u>How the Nokia 7.2 Exceeds and Innovates Within the Affordable Smartphone Segment</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-uncompromised-quality-activate-av1-for-youtube-streams/"><u>In 2024, Uncompromised Quality Activate AV1 for YouTube Streams</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/invisible-handshakes-encrypted-transfers-for-ws11w10-users/"><u>Invisible Handshakes: Encrypted Transfers for WS11/W10 Users</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/say-it-with-feeling-a-beginners-guide-to-making-a-valentines-day-video/"><u>Say It with Feeling A Beginners Guide to Making a Valentines Day Video</u></a></li>
 </ul></div>
 

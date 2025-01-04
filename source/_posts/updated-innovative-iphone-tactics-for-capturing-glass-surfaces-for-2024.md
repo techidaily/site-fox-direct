@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Innovative iPhone Tactics for Capturing Glass Surfaces for 2024"
-date: 2024-12-19T21:47:07.878Z
-updated: 2024-12-25T19:04:41.211Z
+date: 2024-12-27T19:21:33.885Z
+updated: 2025-01-03T21:46:00.407Z
 tags: 
   - screen-recording
   - ai video
@@ -39,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/bdb8177ec45e10fcd4ec5499f6e255ec00146feb5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Tips For Perfect Reflective Photography With Your iPhone
 
 #### 1\.  The Surface
@@ -50,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/bdb8177ec45e10fcd4ec5499f6e255ec00146feb5
 ![reflection-surface](https://images.wondershare.com/filmora/article-images/reflection-surface.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  A Crystal/Glass Ball
@@ -62,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/bdb8177ec45e10fcd4ec5499f6e255ec00146feb5
 ![water-reflection](https://images.wondershare.com/filmora/article-images/water-reflection.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 2\.  Pay Attention to Composition
@@ -90,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/bdb8177ec45e10fcd4ec5499f6e255ec00146feb5
 ![keep-the-image-simple](https://images.wondershare.com/filmora/article-images/keep-the-image-simple.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Awful
@@ -107,10 +111,6 @@ thumbnail: https://thmb.techidaily.com/bdb8177ec45e10fcd4ec5499f6e255ec00146feb5
 
 ![reality-and-reflection](https://images.wondershare.com/filmora/article-images/reality-and-reflection.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### 5\.  Texture
 
  Using a still reflective surface is good, but reflective photos are more effective if you have been able to capture texture. Where the reflective surface distorts the real life subject, you're able to artistically capture an entirely unique affect each time. This is why waves are a great way to create a truly different image with each shot.
@@ -118,6 +118,10 @@ thumbnail: https://thmb.techidaily.com/bdb8177ec45e10fcd4ec5499f6e255ec00146feb5
  It is also just good photography practice to have your subjects bend and distort the light. The contrasts make for an aesthetically beautiful image, and makes post production optimization even easier.
 
 ![make-use-of-texture](https://images.wondershare.com/filmora/article-images/make-use-of-texture.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Post Production Reflective Effects
 
@@ -143,10 +147,6 @@ thumbnail: https://thmb.techidaily.com/bdb8177ec45e10fcd4ec5499f6e255ec00146feb5
 #### 2\. [Reflection](https://itunes.apple.com/us/app/reflection-create-water-reflection-photo-arts/id672111257?mt=8)
 
 ![reflection-create-water-reflection-photo-arts](https://images.wondershare.com/filmora/article-images/reflection-create-water-reflection-photo-arts.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Super user friendly app lets you create HD photos and it's intuitive feature means you can create reflective photos in a few taps. This is one of the best apps in terms of the quality of images/edits. It has all of the reflective effects of many of the top editing packages like Photoshop.
 
@@ -191,24 +191,17 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-how-to-craft-an-engaging-solo-auditory-adventure/"><u>[New] How to Craft an Engaging Solo Auditory Adventure</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-xsplit-digest-in-depth-splits-reviews/"><u>[New] XSplit Digest In-Depth Splits Reviews</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-snowball-rally-highlights-from-the-beijing-games-2022/"><u>[Updated] 2024 Approved Snowball Rally Highlights From the Beijing Games, 2022</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-the-ultimate-list-watching-nba-in-real-time/"><u>[Updated] 2024 Approved The Ultimate List Watching NBA in Real-Time</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-unleashing-creativity-essential-tips-for-canva-pros/"><u>[Updated] 2024 Approved Unleashing Creativity Essential Tips for Canva Pros</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-enhance-with-ease-introduction-to-video-enhancer-v22-for-2024/"><u>[Updated] Enhance with Ease Introduction to Video Enhancer V2.2 for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-gopro-film-perfection-best-15-lut-list-unveiled/"><u>[Updated] In 2024, GoPro Film Perfection Best 15 LUT List Unveiled</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/editing-workshop-portal/"><u>Editing Workshop Portal</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-initiate-clipboard-integration-within-microsofts-app-guard-on-windows-11/"><u>How to Initiate Clipboard Integration Within Microsoft's App Guard on Windows 11</u></a></li>
-<li><a href="https://win-special.techidaily.com/ifind-data-recovery-tutorial-for-retrieving-deleted-files-from-windows-os-versions-1178/"><u>IFind Data Recovery Tutorial for Retrieving Deleted Files From Windows OS Versions 11/7/8</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-10-simple-steps-to-superior-pixlr-edits/"><u>In 2024, 10 Simple Steps to Superior Pixlr Edits</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-pro-without-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 13 Pro Without Passcode? | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-pinpointing-precision-with-minecrafts-zoom-feature/"><u>In 2024, Pinpointing Precision with Minecraft's Zoom Feature</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-the-key-to-accumulating-a-huge-collection-of-tiktok-videos/"><u>In 2024, The Key to Accumulating a Huge Collection of TikTok Videos</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-best-in-class-audio-editing-software-for-music-and-post-production-for-2024/"><u>New Best-in-Class Audio Editing Software for Music and Post-Production for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/photoshop-hdr-mastery-from-basics-to-advanced-strategies-for-2024/"><u>Photoshop HDR Mastery From Basics to Advanced Strategies for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/poetic-creations-simplified-leveraging-chatgpt-for-innovative-poems/"><u>Poetic Creations Simplified: Leveraging ChatGPT for Innovative Poems</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Oppo A59 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/zeven-slechte-praktijken-om-te-ongedaan-met-mp4-versieen-bestaan-u-met-movavi-nl/"><u>Zeven Slechte Praktijken Om Te Ongedaan Met MP4-Versieën, Bestaan U Met Movavi NL</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-olympic-highlights-thrilling-runs-from-x-games/"><u>[Updated] 2024 Approved Olympic Highlights Thrilling Runs From X Games</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-from-filmless-to-film-rich-digitizing-yesteryears-images/"><u>2024 Approved From Filmless to Film-Rich Digitizing Yesteryears' Images</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-haste-assessment-of-windows-documents/"><u>2024 Approved Haste Assessment of Windows Documents</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-mastery-over-instagram-video-playback-pace/"><u>2024 Approved Mastery Over Instagram Video Playback Pace</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-pushing-boundaries-the-innovations-of-magix-vpx/"><u>2024 Approved Pushing Boundaries The Innovations of Magix VPX</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-quantum-hdr-simplified-a-photographers-guide/"><u>2024 Approved Quantum HDR Simplified A Photographer's Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-srt-simplified-core-concepts-made-clear/"><u>2024 Approved SRT Simplified Core Concepts Made Clear</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-motorola-g24-power-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Motorola G24 Power to iPhone | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-showcase-of-excellence-the-best-9-platforms-for-accessing-3d-font-innovations/"><u>A Showcase of Excellence The Best 9 Platforms for Accessing 3D Font Innovations</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-access-boot-options-menu-in-windows-10-solved/"><u>How to Access Boot Options Menu in Windows 10 [Solved]</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-oppo-reno-9a-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Oppo Reno 9A Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-5-cloud-voice-editors-for-chrome-os-transforming-your-tone-and-pitch-for-2024/"><u>Top 5 Cloud Voice Editors for Chrome OS Transforming Your Tone and Pitch for 2024</u></a></li>
 </ul></div>
 

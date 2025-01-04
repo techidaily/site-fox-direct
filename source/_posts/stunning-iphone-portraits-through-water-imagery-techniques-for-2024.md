@@ -1,7 +1,7 @@
 ---
 title: "Stunning iPhone Portraits Through Water Imagery Techniques for 2024"
-date: 2024-12-18T17:22:36.551Z
-updated: 2024-12-25T17:03:08.423Z
+date: 2024-12-31T09:35:04.759Z
+updated: 2025-01-03T18:26:17.659Z
 tags: 
   - screen-recording
   - ai video
@@ -50,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962
 ![reflection-surface](https://images.wondershare.com/filmora/article-images/reflection-surface.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  A Crystal/Glass Ball
@@ -60,10 +60,6 @@ thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962
  Water in a wine glass (turns everything upside down too!)
 
 ![water-reflection](https://images.wondershare.com/filmora/article-images/water-reflection.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### 2\.  Pay Attention to Composition
 
@@ -93,10 +89,6 @@ thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962
 
 ![awful-composition](https://images.wondershare.com/filmora/article-images/awful-composition.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### 4\.  Reality and Reflection
 
  Don't just focus on the reflection, these tend to distract from how good the reflection is. Of course if the reflective surface reflects too well and you just focus on that. The image might come out as looking the same as if you had just pointed and shot the subject.
@@ -116,7 +108,7 @@ thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962
 ![make-use-of-texture](https://images.wondershare.com/filmora/article-images/make-use-of-texture.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Post Production Reflective Effects
@@ -139,7 +131,7 @@ thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962
 ![reflect-mirror-camera-app](https://images.wondershare.com/filmora/article-images/reflect-mirror-camera-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Really easy to use entry level app, you can simply add reflections to your photos and there's also an option to do this as you take the photograph. The user interface is really clean and easy to use. You also get access to a massive library of templates and effects to make photos truly unique.
@@ -148,11 +140,19 @@ thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962
 
 ![reflection-create-water-reflection-photo-arts](https://images.wondershare.com/filmora/article-images/reflection-create-water-reflection-photo-arts.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Super user friendly app lets you create HD photos and it's intuitive feature means you can create reflective photos in a few taps. This is one of the best apps in terms of the quality of images/edits. It has all of the reflective effects of many of the top editing packages like Photoshop.
 
 #### 3\. [Photo Reflection](https://itunes.apple.com/us/app/photo-reflection/id484604482?mt=8)
 
 ![photo-reflection-app](https://images.wondershare.com/filmora/article-images/photo-reflection-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you're not looking for professional level images then photo reflection is a good choice because it's free! It lacks some of the advanced features of the other apps but great for the very occasional photographer!
 
@@ -191,24 +191,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-excellent-mic-options-enhancing-4k-video-quality/"><u>[New] 2024 Approved Excellent Mic Options Enhancing 4K Video Quality</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-cutting-edge-tricks-for-sculptable-text-in-ps-mastery-for-2024/"><u>[New] Cutting-Edge Tricks for Sculptable Text in PS Mastery for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-cutting-edge-video-production-leveraging-windows-11s-features/"><u>[New] Cutting-Edge Video Production Leveraging Windows 11'S Features</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-digital-dazzle-vertical-panorama-magic-for-mobile-for-2024/"><u>[New] Digital Dazzle Vertical Panorama Magic for Mobile for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-the-digital-archivists-toolkit-downloading-videos-from-messenger/"><u>[New] In 2024, The Digital Archivist's Toolkit Downloading Videos From Messenger</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-navigating-the-new-powerdirector-a-2024-blueprint/"><u>[Updated] Navigating the New PowerDirector A 2024 Blueprint</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-starting-off-with-vlogging-necessary-equipmentsoftware/"><u>[Updated] Starting Off with Vlogging Necessary Equipment/Software</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-the-ultimate-guide-to-personalized-phone-tones-for-android-users-for-2024/"><u>[Updated] The Ultimate Guide to Personalized Phone Tones for Android Users for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/discovery-at-work-a-one-man-review-on-3dr-printers/"><u>Discovery at Work A One-Man Review on '3DR' Printers</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/download-tennistv-matches-the-ultimate-guide-to-saving-your-favorite-tennis-games/"><u>Download Tennistv Matches: The Ultimate Guide to Saving Your Favorite Tennis Games</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/from-viral-beats-to-ringtones-transforming-tiktok-sounds/"><u>From Viral Beats to Ringtones Transforming TikTok Sounds</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/how-to-join-an-existing-zoom-call-effortlessly-android-style-for-2024/"><u>How to Join an Existing Zoom Call Effortlessly (Android Style) for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-zte-axon-40-lite-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your ZTE Axon 40 Lite Phone Now with These Tips</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-fundamentals-of-income-for-t-series-on-youtube/"><u>In 2024, The Fundamentals of Income for T-Series on YouTube</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-unlocking-facebooks-hidden-vault-of-high-def-media/"><u>In 2024, Unlocking Facebook's Hidden Vault of High-Def Media</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/speedily-solve-no-battery-alerts-easy-tips-and-tricks/"><u>Speedily Solve 'No Battery' Alerts - Easy Tips and Tricks</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/top-10-free-video-editing-tools-for-trimming-videos-online/"><u>Top 10 Free Video Editing Tools for Trimming Videos Online</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/unveiled-top-10-superior-gopro-housing-options-for-2024/"><u>Unveiled Top 10 Superior GoPro Housing Options for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Infinix Hot 40 Pro? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-trim-perfect-clearing-thin-lines-on-youtube/"><u>[New] Trim Perfect Clearing Thin Lines on YouTube</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-harnessing-new-trends-transmitting-fb-videos-through-whatsapp/"><u>[Updated] Harnessing New Trends Transmitting FB Videos Through WhatsApp</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-make-your-videos-a-youtube-hit-top-tips-and-strategies-for-2024/"><u>[Updated] How To Make Your Videos a YouTube Hit Top Tips and Strategies for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-unlocking-full-potential-with-obs-and-skype-collaboration-tools/"><u>[Updated] In 2024, Unlocking Full Potential with OBS and Skype Collaboration Tools</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-asmr-studio-essentials-great-quality-easy-on-wallet/"><u>2024 Approved ASMR Studio Essentials Great Quality, Easy On Wallet</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-capture-clarity-with-leading-photo-gridding-services/"><u>2024 Approved Capture Clarity with Leading Photo Gridding Services</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-creating-high-quality-professional-gopro-videos/"><u>2024 Approved Creating High-Quality, Professional GoPro Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-dji-phantom-3-standard-vs-advanced-vs-professional-vs-4k/"><u>2024 Approved DJI Phantom 3 Standard Vs Advanced Vs Professional Vs 4K</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-enhancing-visual-interest-utilizing-secondary-footage-wisely/"><u>2024 Approved Enhancing Visual Interest Utilizing Secondary Footage Wisely</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-experts-list-of-lightweight-easy-carrying-viewers/"><u>2024 Approved Expert's List of Lightweight, Easy-Carrying Viewers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-free-frameworks-for-every-movie-epilogue-you-dream/"><u>2024 Approved Free Frameworks for Every Movie Epilogue You Dream</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-mastering-bg-removal-in-figma-designs/"><u>2024 Approved Mastering BG Removal in Figma Designs</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-pin-to-playlist-the-ultimate-guide-to-downloading-videos/"><u>2024 Approved Pin-to-Playlist The Ultimate Guide to Downloading Videos</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-realme-narzo-60-pro-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Realme Narzo 60 Pro 5G via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/iphone-mastery-complete-guide-to-capturing-podcasts-for-2024/"><u>IPhone Mastery Complete Guide to Capturing Podcasts for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ry-of-removal-eliminating-downloaded-youtube-clips/"><u>Mastery of Removal Eliminating Downloaded YouTube Clips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-best-th-of-july-phone-deals-zdnet/"><u>The Best #Th of July Phone Deals | ZDNET.</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/transforming-audio-content-structuring-your-rss-feed/"><u>Transforming Audio Content Structuring Your RSS Feed</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/wildwood-lake-nature-center/"><u>Wildwood Lake Nature Center</u></a></li>
 </ul></div>
 

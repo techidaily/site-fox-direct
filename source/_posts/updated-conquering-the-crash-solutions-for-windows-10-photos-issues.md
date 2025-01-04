@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Conquering the Crash  Solutions for Windows 10 Photos Issues\""
-date: 2024-12-20T02:00:47.664Z
-updated: 2024-12-25T22:58:23.972Z
+date: 2024-12-31T21:02:35.504Z
+updated: 2025-01-03T20:41:25.965Z
 tags: 
   - screen-recording
   - ai video
@@ -46,7 +46,7 @@ In this article, we have compiled the best solutions for you to get rid of Windo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to fix Windows 10 Photos app crashes
@@ -62,11 +62,15 @@ Here is how to troubleshoot –
 
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/Troubleshooter.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. From the list of Apps displayed on the screen, click ‘Windows Store Apps’ and press the ‘Next’ button.
 2. Now, the troubleshooter will troubleshoot every app within the Windows Store Applications and fix them in a jiffy.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Solution 2: Restore Default Libraries
@@ -92,10 +96,6 @@ Here is how can you reset it –
 2. Hit ‘Advanced Options’ and click ‘Reset’ button thereafter.
 3. Now, you got to restart your Windows system, so that Windows 10 Photos App crashing problem can be easily resolved.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Solution 4: Repair Photos App package
 
 A corrupted Photos App package might wreak havoc in your photo viewing, as the app doesn’t buzz follow your commands. The least you can do here is repair the package to fix minor glitches within and get it going.
@@ -108,7 +108,7 @@ Let’s fix the issue by repairing the Photos App package installed on your comp
 4. Now, the Windows 10 Photos App won’t crash.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Solution 5: Reinstall Windows 10 Photos app
@@ -129,7 +129,7 @@ From the above article, we have concluded that experiencing Windows 10 Photos Ap
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
@@ -159,22 +159,22 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-echo-chambers-tech-updates/"><u>[New] 2024 Approved Echo Chambers Tech Updates</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-how-to-analyze-your-and-competitors-youtube-video/"><u>[New] How to Analyze Your and Competitor’s YouTube Video</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-mastering-canva-imagery-top-10-pro-level-techniques-for-2024/"><u>[New] Mastering Canva Imagery Top 10 Pro-Level Techniques for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-the-ideal-companion-15-tripods-and-mounts-for-gopro-excellence/"><u>[New] The Ideal Companion 15 Tripods and Mounts for GoPro Excellence</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-top-picks-hd-cameras-under-100-for-extreme-sports-for-2024/"><u>[New] Top Picks HD Cameras Under $100 for Extreme Sports for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-10-must-know-iphone-x-tricks-to-enhance-usage-for-2024/"><u>[Updated] 10 Must-Know iPhone X Tricks to Enhance Usage for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-diy-anchors-and-stabilizers-for-handheld-video/"><u>[Updated] DIY Anchors and Stabilizers for Handheld Video</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-expanding-your-audience-on-youtube-step-by-step/"><u>[Updated] Expanding Your Audience on Youtube Step by Step</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-salt-and-surge-2023s-best-surf-cam-tech-review/"><u>[Updated] In 2024, Salt & Surge 2023'S Best Surf Cam Tech Review</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-top-20-video-cameras-expert-reviews-for-2024/"><u>[Updated] Top 20 Video Cameras – Expert Reviews for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-transform-your-twitter-usage-best-unfollower-tools-reviewed/"><u>[Updated] Transform Your Twitter Usage Best Unfollower Tools Reviewed</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-seamless-integration-with-picture-in-picture-mode/"><u>2024 Approved Seamless Integration with Picture-In-Picture Mode</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exploring-why-apples-latest-ai-innovations-at-wwdc-arent-groundbreaking-and-thats-a-good-thing-according-to-zdnet/"><u>Exploring Why Apple’s Latest AI Innovations at WWDC Aren’t Groundbreaking - And That’s a Good Thing, According to ZDNet</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-reactivate-windows-photo-viewer-with-ease-win-11/"><u>In 2024, Reactivate Windows Photo Viewer with Ease (Win 11)</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-why-is-instagram-turning-my-videos-sideways/"><u>In 2024, Why Is Instagram Turning My Videos Sideways?</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolving-delayed-sms-delivery-issues-top-9-solutions-for-your-iphone/"><u>Resolving Delayed SMS Delivery Issues: Top 9 Solutions for Your iPhone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721467756065-why-arent-my-iphone-notifications-showing-try-these-7-troubleshooting-tips/"><u>Why Aren't My iPhone Notifications Showing? Try These 7 Troubleshooting Tips</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-download-and-relive-a-compreran-review-of-top-youtube-playlist-extractors/"><u>[New] In 2024, Download and Relive A Compreran Review of Top YouTube Playlist Extractors</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-bravest-battles-and-bold-journeys-top-10-adventure-games/"><u>[Updated] In 2024, Bravest Battles & Bold Journeys – Top 10 Adventure Games</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-tech-savvy-gaming-windows-10-video-capture-tactics-for-2024/"><u>[Updated] Tech-Savvy Gaming Windows 10 Video Capture Tactics for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-the-core-upgrades-of-windows-11/"><u>2024 Approved The Core Upgrades of Windows 11</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-the-ultimate-guide-to-panasonic-hx-a1-action-recorder/"><u>2024 Approved The Ultimate Guide to Panasonic HX-A1 Action Recorder</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-understanding-modern-motion-perception-technologies/"><u>2024 Approved Understanding Modern Motion Perception Technologies</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-unlocking-iphone-x-secrets-restoring-face-id-functionality/"><u>2024 Approved Unlocking iPhone X Secrets Restoring Face ID Functionality</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-z2-play-analysis-next-gen-tech-insights/"><u>2024 Approved Z2 Play Analysis Next-Gen Tech Insights</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/7-top-budget-friendly-digital-camera-editing-tools/"><u>7 Top Budget-Friendly Digital Camera Editing Tools</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/9-epic-live-gaming-stations-unlocked-for-2024/"><u>9 Epic Live Gaming Stations Unlocked for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/activatingdeactivating-picture-in-picture-feature/"><u>Activating/Deactivating Picture-in-Picture Feature</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/free-final-cut-pro-mastery-secrets-revealed-for-2024/"><u>Free Final Cut Pro Mastery Secrets Revealed for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Vivo S17t? | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-audacity-advantage-effective-methods-for-quieting-audio-distractions-for-2024/"><u>New The Audacity Advantage Effective Methods for Quieting Audio Distractions for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-download-instant-linksys-wrt1900ac6100-ac800-wifi-router-firmware-update/"><u>Quick Download: [INSTANT] Linksys WRT1900AC6100 AC800 WiFi Router Firmware Update</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/top-9-complimentary-christmas-films-on-youtube/"><u>Top 9 Complimentary Christmas Films on YouTube</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unleash-immersive-viewing-experience-snag-a-giant-samsung-oled-monitor-for-just-60-less-exclusive-offer/"><u>Unleash Immersive Viewing Experience: Snag a Giant Samsung OLED Monitor for Just $60 Less – Exclusive Offer</u></a></li>
 </ul></div>
 

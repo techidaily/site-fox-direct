@@ -1,7 +1,7 @@
 ---
 title: "[Updated] A Comprehensive Guide to Subtitle Sharing on Tumblr and Discord for 2024"
-date: 2024-12-20T21:19:32.469Z
-updated: 2024-12-25T20:48:58.639Z
+date: 2025-01-02T21:47:40.431Z
+updated: 2025-01-04T02:56:26.785Z
 tags: 
   - screen-recording
   - ai video
@@ -63,10 +63,14 @@ Step2Select the Video that you want to add SRT to. Then click 'Add Language' and
 
 ![add language](https://images.wondershare.com/filmora/article-images/2022/09/how-to-upload-srt-file-to-youtube-video-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3Click Add under the Subtitle section and upload your SRT file through the pop-up that appears on your screen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: Upload SRT Files to Tweets
@@ -81,10 +85,6 @@ Step2Upload the video you want to add the SRT file to. Then select 'Upload Capti
 
 ![upload caption file](https://images.wondershare.com/filmora/article-images/2022/09/how-to-upload-srt-file-to-tweets-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step3Click on 'Upload Caption' from the pop-up that appears on your screen. Then choose the SRT file that you want to upload.
 
 ![upload caption](https://images.wondershare.com/filmora/article-images/2022/09/how-to-upload-srt-file-to-tweets-2.jpg)
@@ -94,10 +94,6 @@ Step4Click Done. Then you'll see the name of the language in your captions is wr
 Step5Now play the video to preview the subtitle and if you're satisfied, publish your tweet instantly.
 
 ![tweet instantly](https://images.wondershare.com/filmora/article-images/2022/09/how-to-upload-srt-file-to-tweets-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: Upload SRT Files to Your Vimeo Video
 
@@ -125,13 +121,13 @@ Step1Open your Facebook account and locate the Video that you want to add SRT su
 
 ![click on edit](https://images.wondershare.com/filmora/article-images/2022/09/how-to-upload-srt-file-to-facebook-videos-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2Click on "Ädd Captions" and use the "Upload" button to add your SRT file. Your SRT file must be in this format Filename.en\_US.srt.
 
 ![dd captions](https://images.wondershare.com/filmora/article-images/2022/09/how-to-upload-srt-file-to-facebook-videos-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step3Once the SRT file upload is completed, use the Save button to complete the SRT upload operation.
 
@@ -153,10 +149,6 @@ Step1Launch the Filmora software on your PC and use the Import button to upload 
 
 ![upload the srt file](https://images.wondershare.com/filmora/article-images/2022/09/how-to-edit-srt-for-videos-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2Move the uploaded SRT file to the timeline and right-click on it, then select "Advanced Edit" from the pop-up list.
 
 ![advanced edit](https://images.wondershare.com/filmora/article-images/2022/09/how-to-edit-srt-for-videos-2.jpg)
@@ -166,7 +158,7 @@ Step3Edit different aspects of the SRT subtitle ranging from its time code, text
 ![changing subtitle styles](https://images.wondershare.com/filmora/article-images/2022/09/how-to-edit-srt-for-videos-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step4Once editing is completed, navigate to the timeline of the SRT file and right-click on it, then choose "Export Subtitle file" to complete the action.
@@ -184,6 +176,10 @@ However, when you're looking to edit SRT subtitle file, the best thing to do is 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
 
 From the overview table above, it's obvious you can easily create one SRT file and easily use it on different social media channels. This saves you the stress of creating different subtitle files for each platform. So, without further ado, let's dive in to find out how to upload and add .srt files to different social media platforms.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Upload SRT Files to YouTube Videos
 
@@ -227,7 +223,7 @@ Step3Click on 'Upload Caption' from the pop-up that appears on your screen. Then
 ![upload caption](https://images.wondershare.com/filmora/article-images/2022/09/how-to-upload-srt-file-to-tweets-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step4Click Done. Then you'll see the name of the language in your captions is written
@@ -248,13 +244,13 @@ Step3Click 'Advanced' from the Settings page. Then navigate to "Add Caption & Su
 
 ![choose file](https://images.wondershare.com/filmora/article-images/2022/09/how-to-upload-srt-file-to-vimeo-videos-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step4Once you've successfully uploaded the SRT file, it'll show up under "Enable Captions & Subtitles". Then verify that 'Status' is turned ON and select your file language and file type is SRT.
 
 Step5Finally, hit the 'Save' button to complete the operation.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: Upload SRT Files to Facebook Videos
 
@@ -267,20 +263,20 @@ Step1Open your Facebook account and locate the Video that you want to add SRT su
 ![click on edit](https://images.wondershare.com/filmora/article-images/2022/09/how-to-upload-srt-file-to-facebook-videos-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step2Click on "Ädd Captions" and use the "Upload" button to add your SRT file. Your SRT file must be in this format Filename.en\_US.srt.
 
 ![dd captions](https://images.wondershare.com/filmora/article-images/2022/09/how-to-upload-srt-file-to-facebook-videos-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3Once the SRT file upload is completed, use the Save button to complete the SRT upload operation.
 
 ![complete the srt upload operation](https://images.wondershare.com/filmora/article-images/2022/09/how-to-upload-srt-file-to-facebook-videos-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bonus Tips: Level Up Your Video by Editing SRT Subtitles Before Uploading
 
@@ -301,6 +297,10 @@ Step1Launch the Filmora software on your PC and use the Import button to upload 
 Step2Move the uploaded SRT file to the timeline and right-click on it, then select "Advanced Edit" from the pop-up list.
 
 ![advanced edit](https://images.wondershare.com/filmora/article-images/2022/09/how-to-edit-srt-for-videos-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step3Edit different aspects of the SRT subtitle ranging from its time code, text, etc., and changing subtitle styles, like text color, shadow, fonts, etc.
 
@@ -344,18 +344,24 @@ However, when you're looking to edit SRT subtitle file, the best thing to do is 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-hype-generating-headline-author/"><u>[New] 2024 Approved Hype-Generating Headline Author</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-streamers-playbook-broadcasting-to-facebook-network-for-2024/"><u>[New] Streamer's Playbook Broadcasting to Facebook Network for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-eternal-banishment-of-youtubes-quick-clips/"><u>[Updated] 2024 Approved Eternal Banishment of YouTube's Quick Clips</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-redefining-visual-storytelling-with-vidas-advanced-tools/"><u>[Updated] In 2024, Redefining Visual Storytelling with Vida's Advanced Tools</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-visual-storytelling-support-center-for-2024/"><u>[Updated] Visual Storytelling Support Center for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/conquer-live-streaming-a-stepwise-guide-to-excellence-for-2024/"><u>Conquer Live Streaming A Stepwise Guide to Excellence for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-speak-out-altering-soundtracks-in-ps4ps5-games/"><u>In 2024, Speak Out Altering Soundtracks in PS4/PS5 Games</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-nulaxys-km18-car-stereo-bluetooth-unit-vintage-quality-current-excellence/"><u>The Ultimate Guide to Nulaxy's KM18 Car Stereo Bluetooth Unit: Vintage Quality, Current Excellence</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/top-5-best-action-cameras-for-fishing-for-2024/"><u>Top 5 Best Action Cameras for Fishing for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/troubleshooting-steps-resolving-stopped-recordings-in-fraps/"><u>Troubleshooting Steps: Resolving Stopped Recordings in Fraps</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-vivo-s17t-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Vivo S17t IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/understanding-the-use-of-burst-feature-in-gopros/"><u>Understanding the Use of Burst Feature in GoPros</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ing-income-a-streamers-guide-to-earning-for-2024/"><u>Yielding Income A Streamer's Guide to Earning for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-mastering-visual-communication-title-and-caption-overlays-on-video-clips-via-photos/"><u>[New] 2024 Approved Mastering Visual Communication Title & Caption Overlays on Video Clips via Photos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-best-practices-snatching-supreme-photos-for-free/"><u>[New] In 2024, Best Practices Snatching Supreme Photos for Free</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-transform-your-livestreams-with-eco-friendly-screen-effects-for-2024/"><u>[New] Transform Your Livestreams with Eco-Friendly Screen Effects for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-unlocking-the-secrets-of-advanced-virtualization/"><u>[New] Unlocking the Secrets of Advanced Virtualization</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-the-ultimate-guide-to-picture-text-enhancement/"><u>[Updated] 2024 Approved The Ultimate Guide to Picture Text Enhancement</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-quick-click-methodology-building-google-collage-projects-at-breakneck-speeds/"><u>[Updated] In 2024, Quick Click Methodology Building Google Collage Projects at Breakneck Speeds</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-refined-retakes-how-to-crop-and-perfect-iphone-shots/"><u>[Updated] In 2024, Refined Retakes How to Crop and Perfect iPhone Shots</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-unlock-the-power-of-high-quality-webcam-videos/"><u>[Updated] In 2024, Unlock the Power of High-Quality Webcam Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-laughing-through-the-metaverse-making-your-own-humor/"><u>[Updated] Laughing Through the Metaverse Making Your Own Humor</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-mastering-17-techniques-to-log-digital-broadcasts-for-2024/"><u>[Updated] Mastering 17 Techniques to Log Digital Broadcasts for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-unlock-the-potential-of-your-youtube-videos-with-effective-end-screens/"><u>[Updated] Unlock the Potential of Your YouTube Videos with Effective End Screens</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-ultimate-ringtone-bazaar-navigating-online-sound-archives/"><u>2024 Approved Ultimate Ringtone Bazaar Navigating Online Sound Archives</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/engage-with-mematic-seamless-note-management/"><u>Engage with Mematic Seamless Note Management</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722965242947-fast-and-simple-download-acer-wireless-bluetooth-drivers/"><u>Fast & Simple Download: Acer Wireless Bluetooth Drivers</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-vivo-y78plus-t1-edition-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Vivo Y78+ (T1) Edition Devices</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-quintessential-audio-drama-story-creation/"><u>In 2024, Quintessential Audio-Drama Story Creation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/savings-alert-the-unbeatable-80-off-on-apple-watch-series-se-2nd-gen-post-prime-day-exclusive-analysis/"><u>Savings Alert: The Unbeatable $80 Off on Apple Watch Series SE (2Nd Gen) Post-Prime Day | Exclusive Analysis</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-oppo-f23-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Oppo F23 5G with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/top-7-icloud-activation-bypass-tools-for-your-iphone-13-mini-by-drfone-ios/"><u>Top 7 iCloud Activation Bypass Tools For your iPhone 13 mini</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Troubleshooting Tips for a Stable Windows 11 Photo Experience\""
-date: 2024-12-21T18:25:06.687Z
-updated: 2024-12-25T23:12:30.165Z
+date: 2025-01-02T22:08:15.217Z
+updated: 2025-01-04T05:06:06.816Z
 tags: 
   - screen-recording
   - ai video
@@ -47,10 +47,6 @@ In this article, we have compiled the best solutions for you to get rid of Windo
 
 ## How to fix Windows 10 Photos app crashes
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Solution 1: Use the Troubleshooter
 
 The Windows Troubleshooter is an inbuilt troubleshooting feature embedded with Windows 10 computers. It allows a simple interface to help you choose any application for troubleshooting. Windows Troubleshooter resolves basic issues with the Windows computer so that users can seamlessly use all Windows 10 system features and functionalities.
@@ -63,7 +59,7 @@ Here is how to troubleshoot –
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/Troubleshooter.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. From the list of Apps displayed on the screen, click ‘Windows Store Apps’ and press the ‘Next’ button.
@@ -80,10 +76,14 @@ Restoring the default libraries would resolve the Windows 10 Photos App crash is
 
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/windows-10-photos-app-crashes-restore.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Lastly, click on ‘Apply’ followed by ‘OK’ and the issue will be resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Solution 3: Reset it
@@ -107,6 +107,10 @@ Let’s fix the issue by repairing the Photos App package installed on your comp
 3. Allow few minutes to make the changes effective and then restart the Windows 10 computer.
 4. Now, the Windows 10 Photos App won’t crash.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 5: Reinstall Windows 10 Photos app
 
 Alternatively, if nothing works out in your favor, you can always fix Windows 10 Photos App crash issue by reinstalling Windows 10 Photos App. A corrupted Photos App might create disturbance for you, so reinstalling would get a fresh and bug free version on your system from the Microsoft Store.
@@ -118,10 +122,6 @@ Here is how to reinstall the Windows 10 Photos App –
 2. Now, visit the ‘Microsoft Store on your computer and find ‘Microsoft Photos.’
 3. Install ‘Microsoft Photos’ after downloading it from there. Your Windows 10 Photos App crashing issue is well taken care of now.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 From the above article, we have concluded that experiencing Windows 10 Photos App crashes is not uncommon. But, resolving them shouldn’t give you nightmares as well. From the above-mentioned process guides, you can fix the Windows 10 Photos App crashes effectively without any hassle. Try following each method until you get the Photos App crash issue fixed, so you can view your photos without any trouble.
@@ -131,7 +131,7 @@ From the above article, we have concluded that experiencing Windows 10 Photos Ap
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -159,24 +159,24 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-unlocking-the-metaverse-simplified-avatar-designs/"><u>[New] 2024 Approved Unlocking the Metaverse Simplified Avatar Designs</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-rich-archive-of-cost-effective-superior-vector-graphics-websites/"><u>[New] Rich Archive of Cost-Effective, Superior Vector Graphics Websites</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-unlocking-the-secrets-of-profitability-on-vimeo-platform/"><u>[New] Unlocking the Secrets of Profitability on Vimeo Platform</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-windows-hdplus-insights-exploring-hdr-video-potential-for-2024/"><u>[New] Windows HD+ Insights Exploring HDR Video Potential for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-a-fresh-take-on-samsungs-ultrablade-k850-review/"><u>[Updated] 2024 Approved A Fresh Take on Samsung’s UltraBlade K850 Review</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-professional-livestream-tools-outside-of-standard-obs/"><u>[Updated] 2024 Approved Professional Livestream Tools Outside of Standard OBS</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-archive-all-your-images-flawlessly-infinite-no-charge-and-elite-paid-storage-for-2024/"><u>[Updated] Archive All Your Images Flawlessly Infinite, No-Charge & Elite Paid Storage for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-comprehensive-guide-unraveling-google-podcasts-app-for-2024/"><u>[Updated] Comprehensive Guide Unraveling Google Podcasts App for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-beyondthebaseline-mycams-successor/"><u>[Updated] In 2024, BeyondTheBaseline MyCam's Successor?</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-the-insider-guide-to-flourishing-on-youtube-games-included/"><u>[Updated] In 2024, The Insider Guide to Flourishing on YouTube, Games Included</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-ultimate-fps-enhancement-choosing-the-best-extensions/"><u>[Updated] In 2024, Ultimate FPS Enhancement Choosing the Best Extensions</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-narrative-basics-explanation-for-2024/"><u>[Updated] Narrative Basics Explanation for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-top-free-iphone-enhancement-apps-elevate-your-selfie-game-for-2024/"><u>[Updated] Top Free iPhone Enhancement Apps - Elevate Your Selfie Game for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-oneplus-nord-n30-se-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring OnePlus Nord N30 SE PC | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-comprehensive-guide-to-youtube-video-captioning/"><u>In 2024, Comprehensive Guide to YouTube Video Captioning</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-hearth-warming-hear-from-happy-customers/"><u>In 2024, Hearth-Warming Hear From Happy Customers</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-ultimate-guide-to-youtubes-best-music-responses/"><u>In 2024, The Ultimate Guide to YouTube's Best Music Responses</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-software-guide-for-video-game-shows/"><u>In 2024, Ultimate Software Guide for Video Game Shows</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/magixs-acid-pro-reviewed-comparing-similar-software/"><u>Magix's ACID Pro Reviewed Comparing Similar Software</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-enhanced-color-and-contrast-why-hdr-outshines-sdr/"><u>[New] Enhanced Color and Contrast Why HDR Outshines SDR</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-pros-and-cons-reviewing-nikon-d7500-for-2024/"><u>[New] Pros & Cons Reviewing Nikon D7500 for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-crafting-the-futures-past-digital-conversion-for-timeless-images-for-2024/"><u>[Updated] Crafting the Future's Past Digital Conversion for Timeless Images for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-headset-face-off-googles-simplicity-and-samsungs-complexity/"><u>[Updated] In 2024, Headset Face-Off Google's Simplicity and Samsung's Complexity</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-premier-low-cost-time-tracking-tools-for-2024/"><u>[Updated] Premier Low-Cost Time Tracking Tools for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-strategies-to-elevate-your-video-in-the-trending-topics/"><u>[Updated] Strategies to Elevate Your Video in the Trending Topics</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-top-10-virtual-backdrops-swap-effortlessly-with-picsmagic-for-2024/"><u>[Updated] Top 10 Virtual Backdrops Swap Effortlessly with PicsMagic for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-beyond-the-basics-advanced-video-splitting/"><u>2024 Approved Beyond the Basics Advanced Video Splitting</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/5-best-sd-card-for-gopro-cameras-hero-87-included/"><u>5 Best SD Card for GoPro Cameras - Hero 8/7 Included</u></a></li>
+<li><a href="https://win-best.techidaily.com/descargar-e-instalar-software-libre-para-convertir-de-m2p-a-mpeg-online/"><u>Descargar E Instalar Software Libre Para Convertir De M2P a MPEG Online</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-for-restoring-functionality-to-your-primary-aux-jack-no-sweat/"><u>Expert Tips for Restoring Functionality to Your Primary AUX Jack – No Sweat!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirror-your-apple-iphone-15-pro-display-drfone-by-drfone-ios/"><u>How to Screen Mirror your Apple iPhone 15 Pro Display? | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-advanced-tips-for-smooth-transitions-and-effects-in-gopro-studio/"><u>In 2024, Advanced Tips for Smooth Transitions and Effects in GoPro Studio</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-xiaomi-redmi-note-13-5g-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Xiaomi Redmi Note 13 5G Pattern Lock Screen</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-motorola-moto-g-5g-2023-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Motorola Moto G 5G (2023) Lock Screen Password</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-depth-look-best-iphone-camera-aids-for-2024/"><u>In-Depth Look Best iPhone Camera Aids for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-lenovo-thinkphone-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Lenovo ThinkPhone? Fixed | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/premium-portals-best-websites-to-secure-snapalert-beats/"><u>Premium Portals Best Websites to Secure SnapAlert Beats</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-the-ultimate-ranking-best-5-car-audio-mixer-apps-that-work-with-macos/"><u>Updated 2024 Approved The Ultimate Ranking Best 5 Car Audio Mixer Apps That Work with macOS</u></a></li>
 </ul></div>
 

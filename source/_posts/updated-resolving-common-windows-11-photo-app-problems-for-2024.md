@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Resolving Common Windows 11 Photo App Problems for 2024"
-date: 2024-12-22T16:51:20.971Z
-updated: 2024-12-25T18:42:27.380Z
+date: 2024-12-30T10:09:01.358Z
+updated: 2025-01-04T07:45:28.130Z
 tags: 
   - screen-recording
   - ai video
@@ -58,10 +58,6 @@ Here is how to troubleshoot –
 
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/Troubleshooter.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. From the list of Apps displayed on the screen, click ‘Windows Store Apps’ and press the ‘Next’ button.
 2. Now, the troubleshooter will troubleshoot every app within the Windows Store Applications and fix them in a jiffy.
 
@@ -76,10 +72,14 @@ Restoring the default libraries would resolve the Windows 10 Photos App crash is
 
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/windows-10-photos-app-crashes-restore.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Lastly, click on ‘Apply’ followed by ‘OK’ and the issue will be resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Solution 3: Reset it
@@ -91,10 +91,6 @@ Here is how can you reset it –
 1. Go to ‘Windows 10 Start Menu’ and then click ‘Settings’. Now, click the ‘Apps (Apps & Features)’ option followed by the ‘Photos’ app.
 2. Hit ‘Advanced Options’ and click ‘Reset’ button thereafter.
 3. Now, you got to restart your Windows system, so that Windows 10 Photos App crashing problem can be easily resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Solution 4: Repair Photos App package
 
@@ -108,7 +104,7 @@ Let’s fix the issue by repairing the Photos App package installed on your comp
 4. Now, the Windows 10 Photos App won’t crash.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Solution 5: Reinstall Windows 10 Photos app
@@ -123,7 +119,7 @@ Here is how to reinstall the Windows 10 Photos App –
 3. Install ‘Microsoft Photos’ after downloading it from there. Your Windows 10 Photos App crashing issue is well taken care of now.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -131,6 +127,10 @@ Here is how to reinstall the Windows 10 Photos App –
 From the above article, we have concluded that experiencing Windows 10 Photos App crashes is not uncommon. But, resolving them shouldn’t give you nightmares as well. From the above-mentioned process guides, you can fix the Windows 10 Photos App crashes effectively without any hassle. Try following each method until you get the Photos App crash issue fixed, so you can view your photos without any trouble.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
@@ -159,17 +159,21 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-exceptional-20-no-license-pubg-images/"><u>[New] 2024 Approved Exceptional 20 No-License PUBG Images</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-mastered-collection-of-excellent-8-free-4k-software/"><u>[New] 2024 Approved Mastered Collection of Excellent 8 Free 4K Software</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-twilight-tactics-a-complete-guide-to-nighttime-photography-for-2024/"><u>[New] Twilight Tactics A Complete Guide to Nighttime Photography for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-essential-green-screen-strategies-in-video-editing-with-kinemaster/"><u>[Updated] 2024 Approved Essential Green Screen Strategies in Video Editing with Kinemaster</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-decoding-the-m1-max-clip-functionality-for-2024/"><u>[Updated] Decoding the M1 Max Clip Functionality for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-methods-for-extracting-video-tweets-from-twitter-and-youtube-into-mp3-format/"><u>[Updated] Methods for Extracting Video Tweets From Twitter & YouTube Into MP3 Format</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-5-premier-drone-engines-to-supercharge-your-qxp/"><u>2024 Approved 5 Premier Drone Engines to Supercharge Your QXP</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/beyond-gmail-the-leading-8-email-providers-of-202currents/"><u>Beyond Gmail: The Leading 8 Email Providers of 202Currents</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/enhance-your-pcs-speed-with-essential-hardware-upgrades-expert-tips-by-yl-software/"><u>Enhance Your PC's Speed with Essential Hardware Upgrades: Expert Tips by YL Software</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-motorola-moto-g-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Motorola Moto G 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-and-critique-of-the-pioneer-bdr-xd05b-blu-ray-burner-identifying-key-flaws/"><u>In-Depth Analysis & Critique of the Pioneer BDR-XD05B Blu-Ray Burner: Identifying Key Flaws</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-vivo-y78t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-becoming-a-metaverse-veteran-top-7-gadgets-for-the-experts/"><u>[New] 2024 Approved Becoming a Metaverse Veteran Top 7 Gadgets for the Experts</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-enhancing-aerial-video-the-best-gimbals-reviewed/"><u>[New] Enhancing Aerial Video The Best Gimbals Reviewed</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-enhancing-your-gopros-energy-duration/"><u>[New] Enhancing Your GoPro's Energy Duration</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-the-solo-art-of-personalized-instagram-ringtone-making/"><u>[New] In 2024, The Solo Art of Personalized Instagram Ringtone Making</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-elite-virtual-storage-service-ranking/"><u>[Updated] 2024 Approved Elite Virtual Storage Service Ranking</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-permanent-deactivation-the-ultimate-guide-to-youtube-shorts-for-2024/"><u>[Updated] Permanent Deactivation The Ultimate Guide to YouTube Shorts for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-speedy-steps-to-save-slideshows-for-2024/"><u>[Updated] Speedy Steps to Save Slideshows for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-ultimate-checklist-for-a-premium-4k-lens-buy/"><u>[Updated] The Ultimate Checklist for a Premium 4K Lens Buy</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-picture-perfectionism-top-tools-and-sites-for-adding-frame-elements/"><u>2024 Approved Picture Perfectionism Top Tools & Sites for Adding Frame Elements</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-pixelperfect-image-transformations/"><u>2024 Approved PixelPerfect Image Transformations</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/crystal-clear-tvs-a-thorough-comparison-of-8k-pioneers-for-2024/"><u>Crystal Clear TVs A Thorough Comparison of 8K Pioneers for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-itel-s23-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Itel S23? | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-streamlining-text-workflow-in-after-effects/"><u>In 2024, Streamlining Text Workflow in After Effects</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/snag-the-ultimate-vr-experience-save-big-on-metas-512gb-quest-pro-bundle-this-october-prime-day-tech-insights-by-zdnet/"><u>Snag the Ultimate VR Experience: Save Big on Meta's 512GB Quest Pro Bundle This October Prime Day | Tech Insights by ZDNET</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-xiaomi-14-ultra-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Xiaomi 14 Ultra Phones</u></a></li>
 </ul></div>
 
