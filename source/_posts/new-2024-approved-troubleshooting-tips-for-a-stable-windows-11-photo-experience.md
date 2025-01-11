@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Troubleshooting Tips for a Stable Windows 11 Photo Experience\""
-date: 2025-01-02T22:08:15.217Z
-updated: 2025-01-04T05:06:06.816Z
+date: 2025-01-10T04:34:30.992Z
+updated: 2025-01-11T05:28:31.823Z
 tags: 
   - screen-recording
   - ai video
@@ -58,10 +58,6 @@ Here is how to troubleshoot –
 
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/Troubleshooter.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. From the list of Apps displayed on the screen, click ‘Windows Store Apps’ and press the ‘Next’ button.
 2. Now, the troubleshooter will troubleshoot every app within the Windows Store Applications and fix them in a jiffy.
 
@@ -77,13 +73,13 @@ Restoring the default libraries would resolve the Windows 10 Photos App crash is
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/windows-10-photos-app-crashes-restore.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Lastly, click on ‘Apply’ followed by ‘OK’ and the issue will be resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Solution 3: Reset it
@@ -96,6 +92,10 @@ Here is how can you reset it –
 2. Hit ‘Advanced Options’ and click ‘Reset’ button thereafter.
 3. Now, you got to restart your Windows system, so that Windows 10 Photos App crashing problem can be easily resolved.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 4: Repair Photos App package
 
 A corrupted Photos App package might wreak havoc in your photo viewing, as the app doesn’t buzz follow your commands. The least you can do here is repair the package to fix minor glitches within and get it going.
@@ -106,10 +106,6 @@ Let’s fix the issue by repairing the Photos App package installed on your comp
 2. Key in the command followed by ‘Enter’: Get-AppXPackage -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($\_.InstallLocation)\\AppXManifest.xml”}
 3. Allow few minutes to make the changes effective and then restart the Windows 10 computer.
 4. Now, the Windows 10 Photos App won’t crash.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Solution 5: Reinstall Windows 10 Photos app
 
@@ -122,6 +118,10 @@ Here is how to reinstall the Windows 10 Photos App –
 2. Now, visit the ‘Microsoft Store on your computer and find ‘Microsoft Photos.’
 3. Install ‘Microsoft Photos’ after downloading it from there. Your Windows 10 Photos App crashing issue is well taken care of now.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 From the above article, we have concluded that experiencing Windows 10 Photos App crashes is not uncommon. But, resolving them shouldn’t give you nightmares as well. From the above-mentioned process guides, you can fix the Windows 10 Photos App crashes effectively without any hassle. Try following each method until you get the Photos App crash issue fixed, so you can view your photos without any trouble.
@@ -131,7 +131,7 @@ From the above article, we have concluded that experiencing Windows 10 Photos Ap
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -159,24 +159,16 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-enhanced-color-and-contrast-why-hdr-outshines-sdr/"><u>[New] Enhanced Color and Contrast Why HDR Outshines SDR</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-pros-and-cons-reviewing-nikon-d7500-for-2024/"><u>[New] Pros & Cons Reviewing Nikon D7500 for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-crafting-the-futures-past-digital-conversion-for-timeless-images-for-2024/"><u>[Updated] Crafting the Future's Past Digital Conversion for Timeless Images for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-headset-face-off-googles-simplicity-and-samsungs-complexity/"><u>[Updated] In 2024, Headset Face-Off Google's Simplicity and Samsung's Complexity</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-premier-low-cost-time-tracking-tools-for-2024/"><u>[Updated] Premier Low-Cost Time Tracking Tools for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-strategies-to-elevate-your-video-in-the-trending-topics/"><u>[Updated] Strategies to Elevate Your Video in the Trending Topics</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-top-10-virtual-backdrops-swap-effortlessly-with-picsmagic-for-2024/"><u>[Updated] Top 10 Virtual Backdrops Swap Effortlessly with PicsMagic for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-beyond-the-basics-advanced-video-splitting/"><u>2024 Approved Beyond the Basics Advanced Video Splitting</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/5-best-sd-card-for-gopro-cameras-hero-87-included/"><u>5 Best SD Card for GoPro Cameras - Hero 8/7 Included</u></a></li>
-<li><a href="https://win-best.techidaily.com/descargar-e-instalar-software-libre-para-convertir-de-m2p-a-mpeg-online/"><u>Descargar E Instalar Software Libre Para Convertir De M2P a MPEG Online</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-for-restoring-functionality-to-your-primary-aux-jack-no-sweat/"><u>Expert Tips for Restoring Functionality to Your Primary AUX Jack – No Sweat!</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirror-your-apple-iphone-15-pro-display-drfone-by-drfone-ios/"><u>How to Screen Mirror your Apple iPhone 15 Pro Display? | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-advanced-tips-for-smooth-transitions-and-effects-in-gopro-studio/"><u>In 2024, Advanced Tips for Smooth Transitions and Effects in GoPro Studio</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-xiaomi-redmi-note-13-5g-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Xiaomi Redmi Note 13 5G Pattern Lock Screen</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-motorola-moto-g-5g-2023-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Motorola Moto G 5G (2023) Lock Screen Password</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-depth-look-best-iphone-camera-aids-for-2024/"><u>In-Depth Look Best iPhone Camera Aids for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-lenovo-thinkphone-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Lenovo ThinkPhone? Fixed | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/premium-portals-best-websites-to-secure-snapalert-beats/"><u>Premium Portals Best Websites to Secure SnapAlert Beats</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-the-ultimate-ranking-best-5-car-audio-mixer-apps-that-work-with-macos/"><u>Updated 2024 Approved The Ultimate Ranking Best 5 Car Audio Mixer Apps That Work with macOS</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-how-to-shoot-vertical-panorama-photos-with-your-smartphone-androidios/"><u>[New] In 2024, How to Shoot Vertical Panorama Photos with Your Smartphone Android/iOS</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-pictureweaversierra-blending-apple-media-artfully/"><u>[New] PictureWeaverSierra Blending Apple Media Artfully</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-sensational-headline-architect/"><u>[New] Sensational Headline Architect</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-the-top-5-techniques-for-quiet-filming-experiences/"><u>[Updated] 2024 Approved The Top 5 Techniques for Quiet Filming Experiences</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-ultimate-frames-per-second-for-languid-visuals/"><u>[Updated] Ultimate Frames Per Second for Languid Visuals</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-unleash-the-full-potential-of-your-android-device-with-obs-studio/"><u>2024 Approved Unleash the Full Potential of Your Android Device with OBS Studio</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/fehlerfreies-backup-einer-sql-datenbank-auf-entfernte-speicherorte-sichern/"><u>Fehlerfreies Backup Einer SQL-Datenbank Auf Entfernte Speicherorte Sichern</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/professional-video-intros-no-cost/"><u>Professional Video Intros, No Cost</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-using-the-picture-in-picture-feature-on-macbook-air-for-better-multitasking/"><u>Step-by-Step Tutorial: Using the Picture-in-Picture Feature on MacBook Air for Better Multitasking</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209730484-9780806539621-the-wicca-garden/"><u>The Wicca Garden | Free Book</u></a></li>
+<li><a href="https://techtrends.techidaily.com/uncover-your-digital-footprint-get-a-free-ip-location-tool-now/"><u>Uncover Your Digital Footprint: Get a Free IP Location Tool Now</u></a></li>
 </ul></div>
 

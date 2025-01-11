@@ -1,7 +1,7 @@
 ---
 title: "\"Sky-High Adventures  The GoPro Karma Experience\""
-date: 2024-12-31T22:23:41.869Z
-updated: 2025-01-04T05:31:45.954Z
+date: 2025-01-04T06:43:45.600Z
+updated: 2025-01-10T16:36:13.287Z
 tags: 
   - screen-recording
   - ai video
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/c44e4e5c600145f0a206a8e58618f5b19fc163e0b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Pros and cons of GoPro Karma
@@ -61,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/c44e4e5c600145f0a206a8e58618f5b19fc163e0b
  The overall verdict is that this is a fantastic drone for capturing stunning images but it doesn't have the easy flying mode or the battery life to compete with some of the best drones available at the same price point. Although you might have to sacrifice a bit in image quality when compared to a GoPro camera with some competitors, it's often worth it for value knowing that you can capture the shot and maintain control over your drone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Detailed review for GoPro Karma
@@ -101,7 +101,7 @@ thumbnail: https://thmb.techidaily.com/c44e4e5c600145f0a206a8e58618f5b19fc163e0b
 ![gopro karma controller](https://images.wondershare.com/filmora/article-images/gopro-karma-controller.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  One thing that the GoPro Karma did especially well was creating a beautiful controller. The RC controller is relatively small but it feels exactly like playing a videogame with plenty of functions and no need to have a compatible device to use the drone. The other extremely strong point is the camera. Nobody can build a great outdoor camera that is it as resilient as a GoPro with the Hero 5 Black version of this drone capable of shooting in 4K with an astounding video quality, you can catch some amazing video as well as incredible still images on this drone.
@@ -113,7 +113,7 @@ Overall, the GoPro Karma is a fairly strong showing for a drone. Although it can
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -141,21 +141,16 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-trailblazers-designing-marvels-digital-playground/"><u>[New] 2024 Approved Trailblazers Designing Marvel's Digital Playground</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-best-panzoid-intro-maker-templates/"><u>[New] Best Panzoid Intro Maker Templates</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-top-7-affordable-solutions-to-watch-movies-on-pcs/"><u>[New] In 2024, Top 7 Affordable Solutions to Watch Movies on PCs</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-premier-text-motion-manuals/"><u>[Updated] 2024 Approved Premier Text Motion Manuals</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-global-audiences-local-stories-crafting-engaging-instagramcaptions/"><u>[Updated] Global Audiences, Local Stories - Crafting Engaging #InstagramCaptions</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-essential-tips-for-picking-leading-free-srt-translation-tools/"><u>[Updated] In 2024, Essential Tips for Picking Leading Free SRT Translation Tools</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-photographers-choice-top-10-watermarks-software-for-2024/"><u>[Updated] Photographer's Choice Top 10 Watermarks Software for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-enhance-video-content-with-these-expertly-curated-online-subtitles-editors/"><u>2024 Approved Enhance Video Content with These Expertly Curated Online Subtitles Editors</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-trio-a-deep-dive-into-vr-ar-and-mr/"><u>2024 Approved Unveiling the Trio A Deep Dive Into VR, AR, & MR</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Xiaomi Redmi K70 | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/crucial-picks-the-most-influential-6-networking-websites-for-biz/"><u>Crucial Picks The Most Influential 6 Networking Websites for Biz</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ting-content-strategy-with-effective-youtube-partnerships-for-2024/"><u>Elevating Content Strategy with Effective YouTube Partnerships for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/lens-leaders-showcase-unveiling-the-best-6-4k-dslrs/"><u>Lens Leaders Showcase Unveiling the Best 6 4K DSLRs</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-best-powerdirector-replacement-apps-for-android-and-ios-users/"><u>New In 2024, Best PowerDirector Replacement Apps for Android and iOS Users</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/sending-past-moments-via-snapchat-camera-roll-guide-for-2024/"><u>Sending Past Moments via Snapchat Camera Roll Guide for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/664381-9781846946578-superconscious-relationships/"><u>Superconscious Relationships | Free Book</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-top-budget-friendly-timer-tools/"><u>[New] 2024 Approved Top Budget-Friendly Timer Tools</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-best-websites-to-access-text-styling-resources/"><u>[New] Best Websites to Access Text Styling Resources</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-top-20-auto-surveillance-cams-reviews/"><u>[New] In 2024, Top 20 Auto Surveillance Cams Reviews</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-budget-friendly-miniature-aerials-review/"><u>[Updated] Budget-Friendly Miniature Aerials Review</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-exploring-the-world-of-digital-color-grading/"><u>[Updated] In 2024, Exploring the World of Digital Color Grading</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-ultimate-guide-to-budget-friendly-4k-cameras/"><u>[Updated] In 2024, Ultimate Guide to Budget-Friendly 4K Cameras</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-is-financial-compensation-behind-product-evaluations-for-2024/"><u>[Updated] Is Financial Compensation Behind Product Evaluations for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-expert-endorsed-ae-text-tools/"><u>2024 Approved Expert-Endorsed AE Text Tools</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-cod-vanguard-hurdles-your-ultimate-guide-to-fixing-error-code-0x00001338/"><u>Overcome CoD Vanguard Hurdles: Your Ultimate Guide to Fixing Error Code 0X00001338</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/troubleshooting-why-is-ffxiv-for-pc-frequently-freezing-or-crashing/"><u>Troubleshooting: Why Is FFXIV for PC Frequently Freezing or Crashing?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-the-secrets-of-seamless-video-and-picture-upload-w11-for-2024/"><u>Unlocking the Secrets of Seamless Video & Picture Upload W11 for 2024</u></a></li>
 </ul></div>
 

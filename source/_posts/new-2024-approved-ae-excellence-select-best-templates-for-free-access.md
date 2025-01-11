@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  AE Excellence  Select Best Templates for Free Access\""
-date: 2025-01-02T07:44:01.428Z
-updated: 2025-01-04T10:57:23.643Z
+date: 2025-01-09T20:58:34.898Z
+updated: 2025-01-11T00:34:01.405Z
 tags: 
   - screen-recording
   - ai video
@@ -50,6 +50,10 @@ If your video has a futuristic theme, the Future Action After Effects Title Temp
 
 ![feature action ae title tempalte](https://images.wondershare.com/filmora/article-images/2022/07/feature-action-ae-title-tempalte.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Arrive- After Effects Title Template
 
 This is a relatively simple, but very effective title template that can be used for a variety of videos. Its minimalistic effect makes it an ideal solution for a wide range of genres and it is fully customizable, meaning that you can change the colors and text as needed.
@@ -57,11 +61,7 @@ This is a relatively simple, but very effective title template that can be used 
 ![arrive ae title tempalte](https://images.wondershare.com/filmora/article-images/2022/07/arrive-ae-title-tempalte.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Laser After Effects Title Templates
@@ -95,7 +95,7 @@ The complete opposite of the previous title template, the Masonry Title Template
 ![masonry ae title tempalte](https://images.wondershare.com/filmora/article-images/2022/07/masonry-ae-title-tempalte.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 8\. Glitch Titles- After Effects Title Templates
@@ -104,15 +104,19 @@ This is an After Effects title template bundle that comes with different types o
 
 ![glitch ae title tempalte](https://images.wondershare.com/filmora/article-images/2022/07/glitch-ae-title-tempalte.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 9\. Cinematic After Effects Title Template
 
 This is another great title template that you can choose if you want animations to feature prominently in your title. The template has amazing 3D effects that can make your title stand out, making it an ideal solution for creative or entertainment projects. It is fully customizable in After Effects.
 
 ![cinematic ae title tempalte](https://images.wondershare.com/filmora/article-images/2022/07/cinematic-ae-title-tempalte.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 10\. Abstract Titles After Effects Text Animations
 
@@ -132,6 +136,10 @@ Step1 Start by creating a new composition and then go to the crosshair icon unde
 
 ![line title animation ae](https://images.wondershare.com/filmora/article-images/2022/07/line-title-animation-ae.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Click on the Text Tool and type in your title. You can use the “Character Window” on the right to change the font, size, and formatting for the video.
 
 **_2\. Adding A Shape Around the Title_**
@@ -141,10 +149,6 @@ If you would like to add a shape around the title just to make it stand out more
 Step1 Select the Rectangle Tool and proceed to draw a shape around the title.
 
 ![add a shape around title](https://images.wondershare.com/filmora/article-images/2022/07/add-a-shape-around-title.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step2 Under “Fill” select “None” and under “Stroke,” set to “Solid Color.”
 
@@ -168,6 +172,10 @@ Step1 Select all the layers that you have created so far and then go to “Layer
 
 ![create on exit animation ae](https://images.wondershare.com/filmora/article-images/2022/07/create-on-exit-animation-ae.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Move the playhead to about 3 seconds and then click on “Edit” and select “Split Layer.” Delete the top Split Layer.”
 
 ![delete the top split layer](https://images.wondershare.com/filmora/article-images/2022/07/delete-the-top-split-layer.jpg)
@@ -176,13 +184,13 @@ Step3 Select the comp that is remaining and click on “Edit” to select “Dup
 
 ![edit duplicate ae](https://images.wondershare.com/filmora/article-images/2022/07/edit-duplicate-ae.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step4 Right-click on the duplicated layer and choose “Time” to select “Time Reverse Layer.”
 
 ![time reverse layer ae](https://images.wondershare.com/filmora/article-images/2022/07/time-reverse-layer-ae.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step5 Move the duplicated layers to the right until you find that there are no gaps between the two layers.
 
@@ -221,7 +229,11 @@ This is a relatively simple, but very effective title template that can be used 
 ![arrive ae title tempalte](https://images.wondershare.com/filmora/article-images/2022/07/arrive-ae-title-tempalte.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Laser After Effects Title Templates
@@ -241,10 +253,6 @@ This is another minimalistic title template that can be useful for just any vide
 This title template is a combination of cyberpunk designs and brush effects to create some of the most unique video titles you will ever see. Because it is so colorful, this title may not be ideal for most projects, but each of the 10 different titles that you will find in this bundle is fully customizable and comes with its unique typography and animations. These titles are ideal for YouTube or Instagram clips whose main aim is to generate engagement.
 
 ![cyber brush ae title tempalte](https://images.wondershare.com/filmora/article-images/2022/07/cyber-brush-ae-title-tempalte.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Minimal Titles After Effects Templates
 
@@ -288,10 +296,6 @@ Step1 Start by creating a new composition and then go to the crosshair icon unde
 
 ![line title animation ae](https://images.wondershare.com/filmora/article-images/2022/07/line-title-animation-ae.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2 Click on the Text Tool and type in your title. You can use the “Character Window” on the right to change the font, size, and formatting for the video.
 
 **_2\. Adding A Shape Around the Title_**
@@ -323,10 +327,6 @@ You can then close the animation loop by designing an exit animation. Here’s h
 Step1 Select all the layers that you have created so far and then go to “Layers > Pre-compose.”
 
 ![create on exit animation ae](https://images.wondershare.com/filmora/article-images/2022/07/create-on-exit-animation-ae.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step2 Move the playhead to about 3 seconds and then click on “Edit” and select “Split Layer.” Delete the top Split Layer.”
 
@@ -384,22 +384,24 @@ Step4 You can then use the “Effects Window” to change the color as desired.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-screenplay-sage-answers-for-beginners/"><u>[New] 2024 Approved Screenplay Sage Answers for Beginners</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-elevate-your-images-in-depth-guide-to-smooth-shutter-effect-in-ps/"><u>[New] Elevate Your Images In-Depth Guide to Smooth Shutter Effect in PS</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-designing-logos-that-stand-out-for-podcast-marketing/"><u>[New] In 2024, Designing Logos That Stand Out for Podcast Marketing</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-top-10-relaxing-hobbies-outside-the-athletic-domain/"><u>[New] In 2024, Top 10 Relaxing Hobbies Outside the Athletic Domain</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-radiant-renderings-perfecting-video-light-quality/"><u>[Updated] 2024 Approved Radiant Renderings Perfecting Video Light Quality</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-from-device-footage-to-youtube-shorts-your-streamlined-approach/"><u>[Updated] In 2024, From Device Footage to YouTube Shorts - Your Streamlined Approach</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-spectrum-perfection-color-grading-basics/"><u>[Updated] In 2024, Spectrum Perfection Color Grading Basics</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-seamless-filmmaking-kinemaster-transition-techniques-for-2024/"><u>[Updated] Seamless Filmmaking Kinemaster Transition Techniques for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/best-free-public-domain-pubg-screen-shots/"><u>Best Free Public Domain PUBG Screen Shots</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723010138636-fortnite-sign-in-troubles-heres-a-fast-and-simple-guide-to-get-you-back-in/"><u>Fortnite Sign-In Troubles? Here's a Fast & Simple Guide to Get You Back In</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-itel-p40plus-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Itel P40+ to iPad | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-conquering-the-crash-solutions-for-windows-10-photos-issues/"><u>In 2024, Conquering the Crash Solutions for Windows 10 Photos Issues</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-unveiling-top-ten-os-agnostic-video-players/"><u>In 2024, Unveiling Top Ten OS-Agnostic Video Players</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/leading-programs-for-quality-video-recording-via-laptop-camera-integration/"><u>Leading Programs for Quality Video Recording via Laptop Camera Integration</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-create-stunning-visual-stories-best-online-collage-software/"><u>New 2024 Approved Create Stunning Visual Stories Best Online Collage Software</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-steps-for-disconnected-pc-accessories/"><u>Troubleshooting Steps for Disconnected PC Accessories</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/unveiling-3dr-a-personal-perspective-on-printing-alone-for-2024/"><u>Unveiling '3DR' A Personal Perspective on Printing Alone for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-converting-moments-into-memorable-gifs-for-2024/"><u>[New] Converting Moments Into Memorable GIFs for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-navigating-the-maze-of-zoom-broadcasting-tools-for-2024/"><u>[New] Navigating the Maze of Zoom Broadcasting Tools for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-pay-attention-focus-fully-on-the-speaker-avoid-distractions-and-show-interest-in-what-theyre-saying-for-2024/"><u>[New] Pay Attention Focus Fully on the Speaker, Avoid Distractions, and Show Interest in What They're Saying for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-rise-above-the-crowd-in-instagram-world-with-these-9-must-try-strategies/"><u>[Updated] 2024 Approved Rise Above the Crowd in Instagram World with These 9 Must-Try Strategies</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-enhance-your-livestreams-on-mac-with-these-elite-software/"><u>[Updated] Enhance Your Livestreams on Mac with These Elite Software</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-apple-podcasts-a-quick-download-method/"><u>[Updated] In 2024, Apple Podcasts A Quick Download Method</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-sonic-sharing-adding-music-to-your-whatsapp-status/"><u>[Updated] In 2024, Sonic Sharing Adding Music to Your WhatsApp Status</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/enjoy-continuous-audio-bliss-with-ions-tailgater-plus-quick-button-activated-bass-upgrade-reviewed/"><u>Enjoy Continuous Audio Bliss with ION's Tailgater Plus - Quick Button-Activated Bass Upgrade Reviewed</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-huawei-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Huawei</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-tecno-camon-20-premier-5g-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Tecno Camon 20 Premier 5G Phones? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-sync-your-android-phone-with-a-windows-pc/"><u>How to Sync Your Android Phone With a Windows PC</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-crafting-success-pushing-your-video-into-top-charts/"><u>In 2024, Crafting Success Pushing Your Video Into Top Charts</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-essential-cameras-of-the-year-top-10-reviewed/"><u>In 2024, Essential Cameras of the Year - Top 10 Reviewed</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-explore-new-realms-the-ultimate-guide-to-iphone-vr-gaming/"><u>In 2024, Explore New Realms The Ultimate Guide to IPhone VR Gaming</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-from-basic-to-bold-installing-unique-customizable-ringtones-and-sounds-on-android/"><u>In 2024, From Basic to Bold Installing Unique, Customizable Ringtones & Sounds on Android</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-poco-c50-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Poco C50 Phones? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/switching-platforms-how-to-port-your-whatsapp-messages-and-contacts-from-android-to-iphone/"><u>Switching Platforms: How to Port Your WhatsApp Messages and Contacts From Android to iPhone</u></a></li>
+<li><a href="https://win-studio.techidaily.com/troubleshooting-tips-resolving-issues-when-your-lacie-external-hdd-is-unseen-by-windows-10/"><u>Troubleshooting Tips: Resolving Issues When Your Lacie External HDD Is Unseen by Windows 10</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/vlogging-equipment-and-basic-software-tools-to-start-vlogging-for-2024/"><u>Vlogging Equipment and Basic Software Tools to Start Vlogging for 2024</u></a></li>
 </ul></div>
 
