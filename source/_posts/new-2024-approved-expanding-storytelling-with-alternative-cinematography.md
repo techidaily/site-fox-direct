@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Expanding Storytelling with Alternative Cinematography\""
-date: 2024-08-08T04:59:55.553Z
-updated: 2024-08-09T04:59:55.553Z
+date: 2025-01-09T16:14:32.003Z
+updated: 2025-01-16T20:14:23.272Z
 tags: 
   - screen-recording
   - ai video
@@ -33,8 +33,9 @@ B roll can be utilized for establishing shots as well as close-ups of items. It 
 For instance, wider shots are frequently used when someone is giving a speech while seated behind a podium so that we can see both them and their surroundings, such as audience members standing close and applauding or security personnel.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Methods to use b roll
 
 Now that there are so many stock footage platforms, you have a lot of choices when you need just the right scene for your project. Most of the time, filmmakers don't use B roll footage. One good way to use it is to use it as a way to move from one scene to the next. It can also be used to set the mood for an event or show what time of day it is when filming.
@@ -44,8 +45,9 @@ The ideal way to use B roll is to put it behind interviews. This kind of footage
 On the other hand, cutaways can show how different people react to what is being said in an interview. After all, transitions are commonly used to switch from one person's experience with a certain topic to another person's experience with the same topic. All of these different kinds of footage give filmmakers and videographers more freedom to tell their stories without relying too much on dialogue or narration.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. What types of b roll are there?
 
 We'll examine the top 5 uses for B rolls across a variety of video genres and discuss how to implement them effectively in your own projects.
@@ -54,27 +56,25 @@ We'll examine the top 5 uses for B rolls across a variety of video genres and di
 
 Aerial B roll is the solution when you like to show your viewers where your film is being recorded or when you are changing locations and want them to know it. The plane takes off and lands in another city, and then shots of the city, its landmarks, its famous streets, etc. are shown. You have probably seen this type of B roll footage in movies and TV shows. These images aid in putting the viewer in the character's current location. Check out this collection of setting images from the Neighbors television series.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Visual detail b roll footage
 
 Including archival material in your video allows your audience to experience a previously covered or historically significant story as it occurred. Look at this illustration from Netflix's 14 Peaks: Nothing Is Impossible, which was made utilizing old b roll film from the era to help the viewer connect with the narrative.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ### 3\. Storytelling b roll footage
 
 B roll footage can be used to tell a story that supports the narrative of your video. For example, in this video interview of Tom DeLonge, the speaker talks about living in a neighborhood. The B rolls show him driving around in his car, skateboarding on the street in the 90's. These add to the story the video creator wants to talk about not seeing people with a disability differently.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Undirected b roll footage
 
 This particular kind of B roll film is captured without any direction being given to your character, as the name suggests. For the purposes of an interview video, for instance, these can be straightforward close-up views of your character's hands and facial expressions. On the other hand, while you're doing a documentary, you might record your subject participating in everyday activities.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Atmospheric b roll footage
 
@@ -82,9 +82,6 @@ When you are sharing a narrative that has been told in the past or that has hist
 
 Have a look at the scenes from the episode "14 Peaks: Nothing Is Impossible" that can be found on Netflix. As a result of the use of archive film footage of b roll from the relevant time period in its production, the audience is able to connect with the narrative on a deeper level.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 6\. Pick-up shots
 
 A pick-up is a tiny shot added to previously captured material. Re-shoots involve redoing entire scenes. Both types of shots are commonly added during film editing to fix, logic, continuity, or quality flaws. These photos happen a while after the sets have been taken down, clothes and props stowed, and the actors and crew have gone on to new projects.
@@ -92,8 +89,9 @@ A pick-up is a tiny shot added to previously captured material. Re-shoots involv
 If flaws were discovered during primary photography, the directors could have requested another take. The producer and director should weigh the cost of rejoining cast and crew against the need for pick-ups or re-shoots to address storyline flaws (or worse) in the final edit.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 7\. A roll vs b roll
 
 Imagine the A roll as part of the video's story. This could be a documentary film, news show, or scripted sketch. Everything else on your editing table must be rearranged to fit it. When the speaker in the following video is directly talking to the camera or interviewer, this is A roll footage. The video's most crucial segments were filmed with primary footage.
@@ -130,4 +128,24 @@ We sincerely hope that this post will be of use to you in making your films more
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-precision-countdown-ios-and-android-wedding-timer-selection/"><u>[New] 2024 Approved Precision Countdown IOS and Android Wedding Timer Selection</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-prime-cut-film-highlights/"><u>[New] 2024 Approved Prime Cut Film Highlights</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-unleashing-creativity-mastering-the-art-of-360-degree-videography-for-youtube/"><u>[New] 2024 Approved Unleashing Creativity Mastering the Art of 360-Degree Videography for YouTube</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-breakthrough-techniques-for-building-intricate-iphone-photo-collages/"><u>[New] Breakthrough Techniques for Building Intricate iPhone Photo Collages</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-current-state-of-vr-hardware/"><u>[New] Current State of VR Hardware</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-discover-these-popular-periscope-alternatives-on-smartphones-for-2024/"><u>[New] Discover These Popular Periscope Alternatives on Smartphones for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-vr-on-the-go-smartphones-top-10-choices/"><u>[New] VR on the Go Smartphones' Top 10 Choices</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-laughmaker-begin-your-content-creation-journey/"><u>[Updated] 2024 Approved LaughMaker Begin Your Content Creation Journey</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-live-streaming-guide-facebook-via-androidios-devices/"><u>[Updated] 2024 Approved Live Streaming Guide Facebook via Android/iOS Devices</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-cutting-edge-guide-to-mastering-windows-11-conferencing-via-zoom/"><u>[Updated] In 2024, Cutting-Edge Guide to Mastering Windows 11 Conferencing via Zoom</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-quietude-quotient-windowsmac-music-control/"><u>[Updated] In 2024, Quietude Quotient Windows/Mac Music Control</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-mastering-video-segmentation-the-easy-fades-way-for-2024/"><u>[Updated] Mastering Video Segmentation The Easy Fades Way for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-guides-to-3d-type-exploration/"><u>[Updated] Ultimate Guides to 3D Type Exploration</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/aural-tales-the-best-of-radio-plays/"><u>Aural Tales The Best of Radio Plays</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-top-picks-in-the-market-for-cheap-but-high-quality-screens/"><u>In 2024, Top Picks in the Market for Cheap but High-Quality Screens</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/navigating-zoom-settings-for-top-notch-audio-capture/"><u>Navigating ZOOM Settings for Top-Notch Audio Capture</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/secure-and-simple-download-of-canon-mg3620-drivers/"><u>Secure and Simple Download of Canon MG3620 Drivers</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The GoPro Editor's Blueprint to Stunning Colored Images\""
-date: 2024-07-29T03:38:38.143Z
-updated: 2024-07-30T03:38:38.143Z
+date: 2025-01-14T19:37:44.471Z
+updated: 2025-01-16T16:48:50.704Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/0ca2747bace885998e167d601fb15c3166c8be683
 
 # How to Do Color Correction in GoPro Studio
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -47,22 +44,22 @@ thumbnail: https://thmb.techidaily.com/0ca2747bace885998e167d601fb15c3166c8be683
 
 **Step 2:** Split the Image- On the right of the screen there is a split button. You need to shift the point almost halfway. Doing this would split the window in ½ though you will not be able to see that. When the color profile of the image is changed the right side is going to change without affecting the left side. This would allow you to compare the image as it was before and after correcting the color. In order to view the original image or the edited one you have to draw the pointer to the right or left.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Color correction in GoPro Studio](https://images.wondershare.com/filmora/article-images/color-correction-in-gopro-studio-0.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** Color Correction- On the right hand side of your window the color correction can be done just by hitting on the arrow beside the White Balance button and the Image button. Now you can see the options which needed to be changed in order to correct the color. You will be able to view all the options like temperature, exposure, sharpness, contrast, tint and saturation. You can also choose to apply different preset overlays to give the footage a special filter.
 
 ![how to do color correction in GoPro Studio](https://images.wondershare.com/filmora/article-images/color-correction-in-gopro-studio-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The GoPro Studio is very user friendly and effective video editing software but in order to use it you need to convert the format of your video before you start to edit. There aren't many options especially when you require enhanced controls on the GoPro recordings. This is why we would recommend you to use the [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) editing software. It is equipped with a special action cam tool which not only allows the user to alter the color by changing the brightness, saturation, vignette, tint or temp but even comes with loads of 3D LUT filters which adds a nice effect.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
  The all new version of the Wondershare Filmora editing software for Windows and Mac is packed with exciting features meant exclusively for action cameras. These features include:
@@ -70,6 +67,10 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 1. [Video stabilization](https://tools.techidaily.com/wondershare/filmora/download/), advanced speed control (slow motion, fast motion, replay, freeze frame and reverse), audio de-noise, along with color correction features (3D, white balance, LUT etc).
 2. The Instant Cutter tool would give the users the option of trimming and merging video files without any loss of quality. It would allow you to cut a 8GB footage within just a minutes time.
 3. It fully supports  encoded MP4 format, MTS and Mov videos shot on any action cams, camcorders and phones.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## GoPro Footage Color Correction in Wondershare Filmora
 
@@ -83,23 +84,22 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 ![correct gopro footage color](https://images.wondershare.com/filmora/article-images/color-corretion-in-gopro-studio-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The compare button located on the top right lets you check all the segments before and after the correction simultaneously. While the Reset button ![color-tuning-reset-button](https://images.wondershare.com/filmora/guide/color-tuning-reset-button.png) would allow you to clear all the color corrections anytime.
 
 **Step 3:** Save and Share- Once the edit is finished you need to hit the Export button in order to save the edited clip as MOV or MP4 format. You can also alter the video res and the frames per sec. Now just hit the OK button to start the export.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Export](https://images.wondershare.com/filmora/guide/8-action-cam-tool-export.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -125,4 +125,20 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-optimizing-color-depth-and-gradients-for-obs/"><u>[New] 2024 Approved Optimizing Color Depth and Gradients for OBS</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-maximize-your-youtube-srt-a-three-pronged-plan/"><u>[New] In 2024, Maximize Your Youtube SRT A Three-Pronged Plan</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-sonic-sharing-adding-music-to-your-whatsapp-status/"><u>[New] In 2024, Sonic Sharing Adding Music to Your WhatsApp Status</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-maximizing-your-impact-with-periscope-live/"><u>[Updated] 2024 Approved Maximizing Your Impact with Periscope Live</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-5-innovative-yt-tales-share-your-life-journey/"><u>[Updated] In 2024, 5 Innovative YT Tales Share Your Life Journey</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-time-saving-tips-regaining-archived-reddit-posts/"><u>[Updated] In 2024, Time-Saving Tips Regaining Archived Reddit Posts</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-snicker-spinner-picture-editor/"><u>[Updated] Snicker Spinner Picture Editor</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/1726029163211-windows7/"><u>「完全ガイド：Windows7 デスクトップをフルサポートする録画方法」</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/demystifying-income-for-t-series-on-youtube-for-2024/"><u>Demystifying Income for T-Series on YouTube for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-steps-to-update-and-obtain-epson-xp-440-driver-software-online/"><u>Easy Steps to Update & Obtain Epson XP-440 Driver Software Online</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-unlock-smooth-video-playback-top-webm-to-mp4-converters/"><u>New Unlock Smooth Video Playback Top WebM to MP4 Converters</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-tutorial-restoring-functionality-on-a-disabled-ios-device/"><u>Step-by-Step Tutorial: Restoring Functionality on a Disabled iOS Device</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/vr-gear-top-10-pc-headsets-2023-edition/"><u>VR Gear Top 10 PC Headsets, 2023 Edition</u></a></li>
+</ul></div>
 

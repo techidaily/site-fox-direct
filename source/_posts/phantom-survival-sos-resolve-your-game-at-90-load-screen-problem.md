@@ -1,7 +1,7 @@
 ---
 title: "Phantom Survival SOS: Resolve Your Game at 90%% Load Screen Problem"
-date: 2024-08-08T05:03:18.100Z
-updated: 2024-08-09T05:03:18.100Z
+date: 2025-01-15T18:14:43.923Z
+updated: 2025-01-16T19:05:14.383Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ Phasmophobia is, according to the reviews, the best ghost game ever made. It all
 5. **[Run Steam as an administrator](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reset your network](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Uninstall and reinstall Phasmophobia](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 1: Make sure your computer meets the specs
 
@@ -67,11 +71,19 @@ OR
 
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/solved-phasmophobia-stuck-at-90-loading-screen/#option2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 1 – Manually update your drivers
 
 [NVIDIA](https://tools.techidaily.com/drivereasy/download/) , [AMD](https://www.amd.com/en/support) , and[Intel](https://www.intel.com/content/www/us/en/download-center/home.html) keep releasing driver updates. To get them, you need to go to the official websites, find the correct drivers, and download them manually.
 
  Once you’ve downloaded the drivers, double-click on the downloaded file and follow the on-screen instructions to install the drivers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Option 2 – Automatically update your drivers**
 
@@ -85,6 +97,10 @@ OR
 
 ![update drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
@@ -97,19 +113,17 @@ OR
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3: Verify the integrity of game files
 
  Verifying the integrity of game files is a recommended troubleshooting step you should take when you’re faced with game bugs like the screen stuck at loading. It can help you verify if the integrity of your game files is intact. If it is not, it’ll then restore any missing or corrupted files. Here’s how you can do this:
 
  1) Launch Steam client. From the**LIBRARY** section, right-click on**Phasmophobia** and select**Properties** from the menu.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![verify integrity of game files Phasmophobia stuck at 90% loading screen](https://images.drivereasy.com/wp-content/uploads/2020/10/click-on-Properties-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Select the**LOCAL FILES** tab and click the**VERIFY INTEGRITY OF GAME FILES…** button.
 
@@ -125,20 +139,12 @@ OR
 
  1) On your keyboard, press the**Windows logo key** ![windows logo key](https://images.drivereasy.com/wp-content/uploads/2020/09/Start-icon.jpg) and**R** at the same time to invoke the Run box.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Type**%appdata%LocalLowKinetic GamesPhasmophobia** , then press**Enter** on your keyboard.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![delete save file Phasmophobia stuck at 90% loading screen](https://images.drivereasy.com/wp-content/uploads/2020/10/delete-save-file.png)
 
  3) Locate the**saveData.txt** file and delete it.
@@ -150,24 +156,19 @@ OR
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 5: Run Steam as an administrator
 
  Granting Steam administrative rights would probably let you play your game smoothly. So here, you can run Steam in Administrator mode.
 
  1) Right-click on the Steam shortcut from your desktop and select **Open file location** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/run-Steam-as-an-administrator-right-click-from-the-desktop-and-select-open-file-location.jpg)
 
  2) Scroll down and find the **Steam application** . It should be highlighted. Right-click on it and select **Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![run Steam as an administrator to fix Phasmophobia stuck at 90% loading screen](https://images.drivereasy.com/wp-content/uploads/2020/11/run-Steam-as-an-administrator-select-Properties-1.jpg)
 
  3) Select the**Compatibility**  tab and check the box next to **Run this program as an administrator** . Then click **Apply > OK** .
@@ -178,9 +179,6 @@ If this didn’t work, move on to the next fix.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 6: Reset your network
 
  The game stuck at 90% loading screen is an issue related to network connections. When you are troubleshooting it, one of the recommended tips is to reset the network settings. Network reset is a feature that restores all the network-related features and settings to their original values — factory state. So to fix the issue, you need to do a network reset.
@@ -189,33 +187,20 @@ Here’s how you can do this:
 
  1) In the Search bar, type **network reset** and click **Network reset**  from the results.  
   
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![reset network](https://images.drivereasy.com/wp-content/uploads/2020/10/network-reset-type-in-the-search-bar.jpg)
 
  2) Click **Reset now** .  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![do a network reset](https://images.drivereasy.com/wp-content/uploads/2020/10/network-reset-click-Reset-now.jpg)
 
  3) Click **Yes** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![reset network to fix phosmophobia stuck at 90% loading screen](https://images.drivereasy.com/wp-content/uploads/2020/10/network-reset-click-Yes.jpg)
 
 Now restart your computer and your problem should be fixed.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## Fix 7: Uninstall and reinstall Phasmophobia
 
  If, unfortunately, none of the fixes listed above work for you, you should consider uninstalling and reinstalling Phasmophobia. Though this will remove your progress.
@@ -227,6 +212,10 @@ Take these steps:
  2) Type**%appdata%LocalLowKinetic Games** and press**Enter** .
 
 ![uninstall and reinstall Phasmophobia stuck at 90% loading screen](https://images.drivereasy.com/wp-content/uploads/2020/10/delete-save-file.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Delete everything in the**Kinetic Games folder** .
 
@@ -249,8 +238,6 @@ Take these steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -258,4 +245,26 @@ Take these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-enhancing-digital-art-with-layered-imagery/"><u>[New] 2024 Approved Enhancing Digital Art with Layered Imagery</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-geniusedit-ai-precision-in-photo-mastery/"><u>[New] 2024 Approved GeniusEdit AI Precision in Photo Mastery</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-professionals-guide-to-top-10-fcp-tools-for-2024/"><u>[New] Professional's Guide to Top 10 FCP Tools for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-top-unrestricted-data-saver-solutions-for-2024/"><u>[New] Top Unrestricted Data Saver Solutions for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-generate-funny-image-jokes-at-flipfotohub/"><u>[Updated] 2024 Approved Generate Funny Image Jokes at FlipFotoHub</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-sticky-visuals-at-a-glance-iphoneandroids-best-sticker-add-on-apps/"><u>[Updated] 2024 Approved Sticky Visuals at a Glance – iPhone/Android's Best Sticker Add-On Apps</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-apples-m1-performance-enhancing-video-editing/"><u>[Updated] Apple’s M1 Performance Enhancing Video Editing?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-minimagic-mugger-assessment-and-opinions/"><u>[Updated] Minimagic Mugger Assessment & Opinions</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-top-sites-for-downloading-desired-youtube-ringtones-for-2024/"><u>[Updated] Top Sites for Downloading Desired YouTube Ringtones for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-google-pixel-8-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Google Pixel 8 Activity | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-navigating-workplace-rules-and-potential-firing-cases/"><u>ChatGPT: Navigating Workplace Rules and Potential Firing Cases</u></a></li>
+<li><a href="https://fox-info.techidaily.com/exclusive-insight-into-selecting-the-top-5-digital-title-makers-for-2024/"><u>Exclusive Insight Into Selecting the Top 5 Digital Title Makers for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-beat-blast-innovative-audio/"><u>In 2024, Beat Blast Innovative Audio</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-from-novice-to-pro-the-ultimate-guide-to-gaming-with-kinemaster-app/"><u>In 2024, From Novice to Pro The Ultimate Guide to Gaming with KineMaster App</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-pursuit-of-ultra-clarity-the-4k-z32x-reviewed/"><u>In 2024, The Pursuit of Ultra Clarity The 4K Z32X Reviewed</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/kostenlose-anleitung-wie-man-eine-dvd-auf-einen-usb-stick-ubertragen/"><u>Kostenlose Anleitung: Wie Man Eine DVD Auf Einen USB-Stick Übertragen</u></a></li>
+<li><a href="https://win-hot.techidaily.com/master-your-pcs-updates-how-to-adjust-windows-update-settings-in-the-control-panel-with-yl-software-insights/"><u>Master Your PC's Updates: How to Adjust Windows Update Settings in the Control Panel with YL Software Insights</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/strategies-for-sustainable-income-via-product-based-videos/"><u>Strategies for Sustainable Income via Product-Based Videos</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/44or44k944kz44oz5zwp6agm44k844ot5yyw77ya44kv44op44km44oj44oq44od44kv44ki44od44ox44gn5pyq5p2l44ks5a6i44kl5pa55rov/"><u>パソコン問題ゼロ化：クラウドバックアップで未来を守る方法</u></a></li>
+</ul></div>
 

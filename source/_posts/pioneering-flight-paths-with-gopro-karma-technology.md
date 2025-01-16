@@ -1,7 +1,7 @@
 ---
 title: "Pioneering Flight Paths with GoPro Karma Technology"
-date: 2024-08-08T05:02:16.124Z
-updated: 2024-08-09T05:02:16.124Z
+date: 2025-01-13T18:22:01.695Z
+updated: 2025-01-16T16:16:48.431Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/19ce8481b5575ff1faf6716113cc99f8aa092b92d
 
 # GoPro Karma Drone Review
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -31,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/19ce8481b5575ff1faf6716113cc99f8aa092b92d
 
  The GoPro Karma is this second or [GoPro](https://tools.techidaily.com/wondershare/filmora/download/) has created and hopefully a much more refined version than the drones that GoPro first launched in October. The original version of the Karma drone was recalled just 16 days after its initial launch when many drones were losing connection and battery power at certain altitudes. GoPro discovered a fault with the battery popping out of place causing immediate power loss and returns the drone to the drawing board to produce improved versions of the device for release.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![gopro karma](https://images.wondershare.com/filmora/article-images/gopro-karma.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01N5V4HKQ/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01N5V4HKQ&linkId=62a69de1ac6675d917158fa1421eceee)
@@ -43,8 +37,9 @@ thumbnail: https://thmb.techidaily.com/19ce8481b5575ff1faf6716113cc99f8aa092b92d
  Apart from the battery latch, GoPro introduced auxiliary features such as a tilted horizon line for improved imaging as well as quieter propellers. The rerelease of the Karma drone is a much more polished product that is more suitable for reviewing as well as improved for general use. But does the Karma drone matchup with major contenders in the marketplace such as the Parrot or the DJI phantom line?
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Pros and cons of GoPro Karma
 
 **Pros**
@@ -61,8 +56,9 @@ thumbnail: https://thmb.techidaily.com/19ce8481b5575ff1faf6716113cc99f8aa092b92d
  The overall verdict is that this is a fantastic drone for capturing stunning images but it doesn't have the easy flying mode or the battery life to compete with some of the best drones available at the same price point. Although you might have to sacrifice a bit in image quality when compared to a GoPro camera with some competitors, it's often worth it for value knowing that you can capture the shot and maintain control over your drone.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Detailed review for GoPro Karma
 
 #### 1\.  Price
@@ -97,10 +93,11 @@ thumbnail: https://thmb.techidaily.com/19ce8481b5575ff1faf6716113cc99f8aa092b92d
 
 #### 5\.  Controller
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![gopro karma controller](https://images.wondershare.com/filmora/article-images/gopro-karma-controller.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  One thing that the GoPro Karma did especially well was creating a beautiful controller. The RC controller is relatively small but it feels exactly like playing a videogame with plenty of functions and no need to have a compatible device to use the drone. The other extremely strong point is the camera. Nobody can build a great outdoor camera that is it as resilient as a GoPro with the Hero 5 Black version of this drone capable of shooting in 4K with an astounding video quality, you can catch some amazing video as well as incredible still images on this drone.
 
@@ -108,10 +105,11 @@ thumbnail: https://thmb.techidaily.com/19ce8481b5575ff1faf6716113cc99f8aa092b92d
 
 Overall, the GoPro Karma is a fairly strong showing for a drone. Although it can be expensive when compared to the specifications on some of the other drones, if you do have some experience flying drones and you are looking for a great image quality, this could be the choice for you especially if you are looking for a portable drone.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -136,4 +134,26 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-4k-clarity-comparison-projectors-vs-traditional-televisions/"><u>[New] 2024 Approved 4K Clarity Comparison Projectors vs Traditional Televisions</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-the-art-of-going-unseen-during-instagram-live-events/"><u>[New] 2024 Approved The Art of Going Unseen During Instagram Live Events</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-downloading-insta-videos-in-two-simple-ways/"><u>[New] In 2024, Downloading Insta Videos in Two Simple Ways</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-mastering-close-up-cinematography-through-zooming/"><u>[New] In 2024, Mastering Close-Up Cinematography Through Zooming</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-top-best-fast-photo-viewer-for-windows-11-for-2024/"><u>[New] Top Best Fast Photo Viewer for Windows 11 for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/nlock-content-reach-smart-use-of-video-tags-for-2024/"><u>[New] Unlock Content Reach Smart Use of Video Tags for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-affordable-webm-streaming-alternatives-unveiled/"><u>[Updated] 2024 Approved Affordable WebM Streaming Alternatives Unveiled</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-explore-innovative-ways-for-sound-capture-in-modern-windows-11-pcs/"><u>[Updated] Explore Innovative Ways for Sound Capture in Modern Windows 11 PCs</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-top-offline-speech-to-text-transcription-apps/"><u>[Updated] Top Offline Speech-to-Text Transcription Apps</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-get-smart-capturing-your-screen-in-minutes/"><u>2024 Approved Get Smart Capturing Your Screen in Minutes</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-prime-selection-of-innovative-vr-cycling-games/"><u>2024 Approved Prime Selection of Innovative VR Cycling Games</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-xiaomi-redmi-12-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Xiaomi Redmi 12 Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/getting-acquainted-with-langchain-technology/"><u>Getting Acquainted with LangChain Technology</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-iphone-se-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your iPhone SE Lock Screen with Notifications?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/investigating-unmodified-audio-from-ffmpeg-output/"><u>Investigating Unmodified Audio From FFmpeg Output</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/leading-streaming-interface-cards-unveiled-the-ultimate-list/"><u>Leading Streaming Interface Cards Unveiled: The Ultimate List</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/master-guide-convert-youtube-videos-seamlessly-to-mpeg-for-2024/"><u>Master Guide Convert YouTube Videos Seamlessly to MPEG for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/masterworks-of-screenwriting-by-thematic-quarters/"><u>Masterworks of Screenwriting by Thematic Quarters</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/why-my-affection-for-the-huawei-p30-pro-persists-an-in-depth-review/"><u>Why My Affection for the Huawei P30 Pro Persists: An In-Depth Review</u></a></li>
+</ul></div>
 

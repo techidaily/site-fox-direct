@@ -1,7 +1,7 @@
 ---
 title: "How to Use Premiere Audio Transition for 2024"
-date: 2025-01-08T23:14:42.519Z
-updated: 2025-01-10T23:39:35.624Z
+date: 2025-01-09T20:55:01.873Z
+updated: 2025-01-16T19:21:42.570Z
 tags: 
   - screen-recording
   - ai video
@@ -34,10 +34,6 @@ A scene or speech transition in which the audio gradually (or abruptly) lowers i
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1\. Types of Audio Transitions in Premiere Pro
 
 Let's briefly take a look at the most popular audio transitions in Premiere Pro before going through the step-by-step tutorial on making an audio fade out. The audio fade is essentially a visual transition. Crossfading describes the audible transition between two audio samples on the same track. The terms "fade-in" and "fade-out" refer to the two different kinds of crossfade transitions, and Premiere Pro offers its customers three different crossfade effects: constant gain, constant power, and exponential fade. Following are some specifics:
@@ -52,13 +48,13 @@ In Premiere, the fade that dilutes the audio volume fluctuations between clips i
 
 It is used to gradually reduce audio for the first clip at start, then swiftly when the transition comes to a close. It works by gradually speeding up at the conclusion of the transition before gradually reducing the audio for your initial clip. This crossfades raises audio in the second clip swiftly at initially and then more gradually at the conclusion of the transition.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Exponential Fade
 
 This crossfade operates in an exponential manner, beginning slowly before accelerating till the conclusion of the clip, giving the impression of a moving curve. An audio transition known as an exponential fade begins off slowly before gradually lowering or raising the level until it is finished. It works well for sequences with dialogue switches or for the conclusion. Without the abrupt flip, it provides a considerably shorter fade out that ends fast yet gracefully. Perfect for switching scenes with various atmospheres or for conversation.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2\. How to Crossfade Audio in Premiere Pro
 
@@ -80,11 +76,19 @@ Select a crossfade effect by expanding the audio transition folder in the Effect
 
 ![open the transition effects](https://images.wondershare.com/filmora/article-images/2022/07/audio-transitions-premiere.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step4 Choose the Fade Type
 
 To assign your audio file to the Audio track if you're starting from scratch, just drag it into the timeline in Premiere Pro. Drag your audio file downward to make room in the audio track of your sequence if you're currently working on a project. If you want to adjust the audio speed, double-click the fade type.
 
 ![choose the fade type](https://images.wondershare.com/filmora/article-images/2022/07/add-audio-transitions-premiere.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step5 Select Duration and Save Effect
 
@@ -93,7 +97,7 @@ You may now shorten or lengthen the time that your audio fades in or out. You ma
 ![select duration and save effect](https://images.wondershare.com/filmora/article-images/2022/07/set-transition-duration-premiere.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3\. Alternative way to add audio transitions in videos
@@ -117,7 +121,7 @@ This step requires you to launch the software since you have likely already down
 ![launch filmora and add files to timeline](https://images.wondershare.com/filmora/guide/get-started-with-filmora-03.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step2 Split the audio track for Transition
@@ -131,6 +135,10 @@ You may now use the splitting audio approach to clip off the portions of your au
 We focus on how you would use the editing feature on your audio that was divided for transitional reasons in this stage. So, to use this option, choose the relevant track, right-click on it to bring up the audio file's settings, and then choose Edit Audio.
 
 ![make the audio transitions](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 In this main step, you’ll get to know the transitioning technique with the Filmora. To use, follow these instructions in the audio editor, which has just appeared on the right side of the program screen. You can simply create the audio transitions without any hassles by going to the Volume area of the audio editor from there and modifying the volume of the audio track that you had separated for this reason.
 
@@ -146,6 +154,10 @@ In a nutshell, it's important to use the right program to customize the fade in/
 
 Let's briefly take a look at the most popular audio transitions in Premiere Pro before going through the step-by-step tutorial on making an audio fade out. The audio fade is essentially a visual transition. Crossfading describes the audible transition between two audio samples on the same track. The terms "fade-in" and "fade-out" refer to the two different kinds of crossfade transitions, and Premiere Pro offers its customers three different crossfade effects: constant gain, constant power, and exponential fade. Following are some specifics:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Constant Gain
 
 When switching between scenes, audio is constantly increased or decreased. The audio frequently sounds abrupt during this crossfade. Constant gain crossfade is a kind of audio transition where the audio is consistently increased or decreased as you switch between clips. Additionally, it lacks the exponential fade's smoothness. Don't ignore it however; it does have its uses. You'll probably use this sparingly.
@@ -192,10 +204,6 @@ You may now shorten or lengthen the time that your audio fades in or out. You ma
 
 ![select duration and save effect](https://images.wondershare.com/filmora/article-images/2022/07/set-transition-duration-premiere.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3\. Alternative way to add audio transitions in videos
 
 It is now abundantly evident from the aforementioned strategies how to use this user-friendly program to carry out the numerous audio editing procedures. Therefore, even if you have never used manual audio editing procedures, you may use the [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) program without any problem since it is simple to learn. If you're a beginner, the ideal alternative for you is to use Filmora and the aforementioned approaches to create audio transitions.
@@ -216,10 +224,6 @@ This step requires you to launch the software since you have likely already down
 
 ![launch filmora and add files to timeline](https://images.wondershare.com/filmora/guide/get-started-with-filmora-03.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step2 Split the audio track for Transition
 
 You may now use the splitting audio approach to clip off the portions of your audio files where you wish to generate audio transitions, just as you did when you imported and moved your files about the timeline as described above. To accomplish it, choose the audio file, then click the Split icon at the timeline's top as seen below:
@@ -232,10 +236,6 @@ We focus on how you would use the editing feature on your audio that was divided
 
 ![make the audio transitions](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 In this main step, you’ll get to know the transitioning technique with the Filmora. To use, follow these instructions in the audio editor, which has just appeared on the right side of the program screen. You can simply create the audio transitions without any hassles by going to the Volume area of the audio editor from there and modifying the volume of the audio track that you had separated for this reason.
 
 ##### Step4 Export and Share the File
@@ -243,7 +243,7 @@ In this main step, you’ll get to know the transitioning technique with the Fil
 The exporting procedure may now be completed in the last step with just a few clicks from the program interface by selecting the Export button in the top-right corner of your software screen as shown below:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -274,22 +274,20 @@ In a nutshell, it's important to use the right program to customize the fade in/
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-the-choreography-of-audio-and-visuals-a-guide-to-editing-videos/"><u>[New] 2024 Approved The Choreography of Audio and Visuals A Guide to Editing Videos</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-a-guide-to-outstanding-hdr-cameras/"><u>[Updated] 2024 Approved A Guide to Outstanding HDR Cameras</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-astonishing-assessment-and-alternative-choices/"><u>[Updated] Astonishing Assessment & Alternative Choices</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-mastering-the-art-of-motion-without-contact-sensors/"><u>[Updated] Mastering the Art of Motion Without Contact Sensors</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-nailing-iphone-snaps-top-editing-tricks/"><u>[Updated] Nailing iPhone Snaps Top Editing Tricks</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-uncover-the-best-10-online-vectors-collections-for-2024/"><u>[Updated] Uncover the Best 10 Online Vectors Collections for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-optimal-cloud-vaults-recommended-solutions/"><u>2024 Approved Optimal Cloud Vaults Recommended Solutions</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-start-off-right-top-gear-for-aspiring-gopro-users/"><u>2024 Approved Start Off Right Top Gear for Aspiring GoPro Users</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/windows-114/"><u>複数セーブ策となるWindows 11バックアップ手法、4コツ探求</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-deep-dive-gopro-hero5-performance/"><u>In 2024, Deep Dive GoPro Hero5 Performance</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-discover-the-leading-8-web-resources-for-free-3d-text-psdfiles/"><u>In 2024, Discover the Leading 8 Web Resources for Free 3D Text PSDFiles</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Oppo A38 | Dr.fone</u></a></li>
-<li><a href="https://win-superb.techidaily.com/reparacion-del-registro-y-archivos-del-sistema-con-scandisk-en-windows-11-un-prologo-facil-e-informativo/"><u>Reparación Del Registro Y Archivos Del Sistema Con ScanDisk en Windows 11: Un Prólogo Fácil E Informativo</u></a></li>
-<li><a href="https://blog-min.techidaily.com/step-by-step-tutorial-adjusting-your-videos-aspect-ratio-perfectly-for-tiktok/"><u>Step-by-Step Tutorial: Adjusting Your Videos' Aspect Ratio Perfectly for TikTok</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/the-easy-way-to-verify-and-edit-your-age-on-tiktok/"><u>The Easy Way to Verify and Edit Your Age on TikTok</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-rated-affordable-beginner-home-cinema-systems/"><u>Top-Rated Affordable Beginner Home Cinema Systems</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-fixes-for-assassins-creed-mirage-launch-problems-insider-advice-for-gamers-in-2n14/"><u>Ultimate Fixes for Assassin's Creed Mirage Launch Problems - Insider Advice for Gamers in 2N14</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ompiling-chords-and-crafting-a-unique-youtube-playlist/"><u>[New] Compiling Chords and Crafting a Unique YouTube Playlist</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-upload-tunes-with-images-digitally/"><u>[New] In 2024, Upload Tunes with Images Digitally</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-desktoponline-passport-picture-creation-10-per-person/"><u>[Updated] Desktop/Online Passport Picture Creation - 10 Per Person</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-quick-tips-tiktok-age-authentication/"><u>[Updated] In 2024, Quick Tips TikTok Age Authentication</u></a></li>
+<li><a href="https://windows11.techidaily.com/1-seamless-integration-microsoft-office-and-libreoffice-working-together-smoothly/"><u>1. Seamless Integration: Microsoft Office and LibreOffice Working Together Smoothly</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-cutting-edge-4k-cameras-ranked-1-15/"><u>2024 Approved Cutting-Edge 4K Cameras Ranked #1-15</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/easy-guide-to-boost-your-videos-speed-in-snapchat-for-2024/"><u>Easy Guide to Boost Your Videos Speed in Snapchat for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/game-on-6-efficient-techniques-for-perfect-pc-snapshots/"><u>Game On 6 Efficient Techniques for Perfect PC Snapshots</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/how-to-cultivate-your-own-metaverse-humor-garden/"><u>How to Cultivate Your Own Metaverse Humor Garden</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-microsoft-excel-2016-error-code-0x800a03ec-by-stellar-guide/"><u>How to Fix Microsoft Excel 2016 Error Code 0x800A03EC?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-eye-popping-360-cameras-deciding-the-best/"><u>In 2024, Eye-Popping 360 Cameras Deciding the Best</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/overcoming-handheld-vibration-secure-your-gopro-movies-for-2024/"><u>Overcoming Handheld Vibration Secure Your GoPro Movies for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/the-power-of-apples-m1-max-clip-for-2024/"><u>The Power of Apple’s M1 Max Clip for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-18-utilitarios-mais-eficientes-para-transformar-mp4-em-dvd-sem-custo-algum/"><u>Top 18 Utilitários Mais Eficientes Para Transformar MP4 Em DVD Sem Custo Algum!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-is-my-steam-stream-lagging-and-how-to-quickly-resolve-it/"><u>Why Is My Steam Stream Lagging and How to Quickly Resolve It?</u></a></li>
 </ul></div>
 

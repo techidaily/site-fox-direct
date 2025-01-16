@@ -1,7 +1,7 @@
 ---
 title: "How to Fix Black Ops Cold War Hurdle: The CODE 887A0005 Error Explained"
-date: 2024-08-08T05:00:52.013Z
-updated: 2024-08-09T05:00:52.013Z
+date: 2025-01-13T19:33:21.865Z
+updated: 2025-01-16T21:09:16.101Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/5bfb2b2f01975a3eebb8a0b131dcc5bf0873594ba
 
  Though seems tricky, this error might not be so hard to fix at all. Here we’ve put together some working fixes for you, try them and go back to the field right away.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you find the one that does the trick.
@@ -38,14 +42,13 @@ thumbnail: https://thmb.techidaily.com/5bfb2b2f01975a3eebb8a0b131dcc5bf0873594ba
 Here’s a quick guide for that:
 
 1. Open your **Blizzard Battle.net** client. From the left menu, select **Call of Duty: BOCW** .  
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify.jpg)
 2. Click **Options**  and select **Scan and Repair** from the drop-down menu. Wait until the checking finishes.  
+
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify-2.jpg)
 
 You can now launch Black Ops Cold War and see if it crashes again.
@@ -62,14 +65,8 @@ If this trick doesn’t help you, simply continue to the next one.
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -79,8 +76,9 @@ If this trick doesn’t help you, simply continue to the next one.
  If updating the GPU driver doesn’t solve your problem, simply move on to the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Install all Windows updates
 
  Microsoft has just released the 20H2 update for Windows 10, including some regular security patches and loads of new features. We always recommend players to**keep their system up to date** , as it could help avoid lots of troubles.
@@ -88,11 +86,13 @@ If this trick doesn’t help you, simply continue to the next one.
 And it’s fairly easy to update:
 
 1. On your keyboard, press **Win+I** (the Windows logo key and the i key) at the same time to open the Windows Settings app. Click **Update & Security** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click **Check for updates** . Then wait for Windows to download and install all available updates.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
@@ -101,9 +101,6 @@ And it’s fairly easy to update:
 
  If the updates don’t stop the crash, you can take a look at the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Disable HAGs (GeForce 10 series or later/Radeon 5600 or 5700 series)
 
  In the 2004 version of Windows 10, Microsoft rolled out a new feature called **Hardware-accelerated GPU scheduling** , which will allegedly improve applications performance. To unlock this feature, you must be using the **latest 2004 version Windows** , a   **GeForce 10 series or later/Radeon 5600 or 5700 series graphics card** along with the **latest GPU driver** .
@@ -117,24 +114,18 @@ Here’s how:
 2. Under the **Multiple displays** section, click **Graphics settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-02.jpg)
 3. Under the **Default settings** section, click **Change default graphics settings** .  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-3.jpg)
 4. Turn off**Hardware-accelerated GPU scheduling** .  
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/hags-off.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If this method doesn’t fix your issue, simply check out the next one.
 
@@ -161,8 +152,6 @@ Here’s how:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -170,4 +159,24 @@ Here’s how:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-the-voice-maestros-toolkit-free-applications-to-enrich-your-auditory-palette/"><u>[New] 2024 Approved The Voice Maestro's Toolkit Free Applications to Enrich Your Auditory Palette</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-achieve-flawless-live-videos-with-strategic-obs-utilization/"><u>[New] Achieve Flawless Live Videos with Strategic OBS Utilization</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-navigating-through-youtube-settings-to-mute-snapshots/"><u>[New] In 2024, Navigating Through YouTube Settings to Mute Snapshots</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-top-notch-techniques-for-saving-online-radio-broadcasts/"><u>[New] In 2024, Top-Notch Techniques for Saving Online Radio Broadcasts</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-power-up-storage-ultimate-ps5-hard-drives-compared/"><u>[New] Power Up Storage Ultimate PS5 Hard Drives Compared</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-the-startups-secret-weapon-kit-must-have-items-that-set-you-apart/"><u>[Updated] 2024 Approved The Startup's Secret Weapon Kit Must-Have Items That Set You Apart</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-creative-image-collage-tools-ranked-10/"><u>[Updated] In 2024, Creative Image Collage Tools Ranked #10</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-enhance-ppts-appeal-through-soundtracks/"><u>[Updated] In 2024, Enhance PPT's Appeal Through Soundtracks</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-subtitles-that-shine-discover-the-best-free-online-tools/"><u>[Updated] Subtitles That Shine - Discover the Best Free Online Tools</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-leading-10-apps-for-sketching-and-drawing-on-chrome/"><u>[Updated] The Leading 10 Apps for Sketching and Drawing on Chrome</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-xr-without-apple-password-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone XR Without Apple Password? | Stellar</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-securing-success-in-win11-conferences-via-zoom/"><u>In 2024, Securing Success in Win11 Conferences via Zoom</u></a></li>
+<li><a href="https://win-able.techidaily.com/install-or-upgrade-your-logitech-g403-controller-free-driver-downloads-and-user-friendly-instructions-for-windows-pcs/"><u>Install or Upgrade Your Logitech G403 Controller - Free Driver Downloads & User-Friendly Instructions for Windows PCs</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/next-gen-editing-excellence-perfect-for-vimeo-content/"><u>Next-Gen Editing Excellence Perfect for Vimeo Content</u></a></li>
+<li><a href="https://driver-install.techidaily.com/step-by-step-process-reinstalling-graphic-drivers/"><u>Step-by-Step Process: Reinstalling Graphic Drivers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-mastering-powerdirector-for-2024/"><u>The Ultimate Guide to Mastering PowerDirector for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/top-5-mac-os-sierra-video-editing-apps/"><u>Top 5 Mac OS Sierra Video Editing Apps</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Overcoming the Sea of Thieves Crash Problem Effortlessly
-date: 2024-08-08T05:01:38.746Z
-updated: 2024-08-09T05:01:38.746Z
+date: 2025-01-13T20:41:20.534Z
+updated: 2025-01-16T21:22:07.275Z
 tags:
   - win11
   - win10
@@ -26,9 +26,6 @@ You may encounter**Sea of Thieves crashing problem** now and then. The game just
 | Graphics card   | NVIDIA GeForce GTX 660/ AMD Radeon HD 7850   |
 | RAM             | 4 GB                                         |
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ## Methods you can try
 
 1. [Add Sea of Thieves into your antivirus file exclusions](https://tools.techidaily.com/drivereasy/download/)
@@ -36,19 +33,21 @@ You may encounter**Sea of Thieves crashing problem** now and then. The game just
 3. [Update your driver](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 1: Add Sea of Thieves into your antivirus file exclusions
 
  One reason for the Sea of Thieves crashing problem is that your antivirus software is scanning the game. To solve it, you can set file exclusions to prevent it happen again. We take Trend Micro as an example, you can follow the same steps for your antivirus software.
 
 1. Press the**Windows logo key + X** together and click the**Windows PowerShell** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/wp.jpg)
 2. Run the below command.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **`Get-AppxPackage *SeaOfThieves* | ForEach{$_.InstallLocation}`**
 3. Copy the content which looks like this:  
 **`C:\Program Files\WindowsApps\Microsoft.SeaofThieves_2.78.5523.2_x64__8wekyb3d8bbwe`**
@@ -61,15 +60,17 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 10. Select **OK** to save your changes and close the Exception List window.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2: Lower the graphics settings in the game
 
  It is possible that the game can be crashed because your graphics card cannot capable of the high settings in the game. So if you’re using an old graphics card, you can try to lower the graphics setting in the game to fix the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 3: Update your driver
 
  The outdated or missing driver can cause game crashing. You have to make sure your drivers have been updated and install correctly.
@@ -85,11 +86,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update button** next to the selected driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Restart your computer and check the Anthem has sound or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  We hope you find these techniques useful. You’re welcome to leave comments and questions below.
 
@@ -101,8 +103,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -110,4 +110,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-save-pc-sound-frequencies-and-mic-dialogue/"><u>[New] 2024 Approved Save PC Sound Frequencies & Mic Dialogue</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-step-by-step-how-to-convert-and-download-vids-from-social-media-to-mp3s/"><u>[New] 2024 Approved Step-by-Step How to Convert and Download Vids From Social Media to MP3s</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-convert-photos-on-ios-efficiently-from-jpegpng-to-pdf-for-2024/"><u>[New] Convert Photos on IOS Efficiently From JPEG/PNG to PDF for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-connected-healing-telemedicine-evolved/"><u>[New] In 2024, Connected Healing Telemedicine Evolved</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-maximizing-your-online-influence-for-earnings-through-brand-collaborations-on-youtube/"><u>[Updated] In 2024, Maximizing Your Online Influence for Earnings Through Brand Collaborations on YouTube</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-sns-hdr-pro-review-is-it-worth-using-and-what-other-hdr-software-to-u/"><u>[Updated] In 2024, SNS HDR Pro Review Is It Worth Using and What Other HDR Software to U</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-soothing-serenity-sessions-leading-asmr-artists/"><u>[Updated] In 2024, Soothing Serenity Sessions Leading ASMR Artists</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-magical-sound-alteration-apps-for-your-device/"><u>[Updated] Magical Sound Alteration Apps for Your Device</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-which-screen-recorder-prevails-bandicam-vs-camtasia-in-2024/"><u>[Updated] Which Screen Recorder Prevails Bandicam vs Camtasia, In 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-prime-posting-hours-the-key-to-youtube-dominance/"><u>2024 Approved Prime Posting Hours The Key to YouTube Dominance</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-why-instagram-videos-flip-onto-their-sides/"><u>2024 Approved Why Instagram Videos Flip Onto Their Sides</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-samsung-galaxy-a05mirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Samsung Galaxy A05Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-iphone-6-plus-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on iPhone 6 Plus</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/ranking-the-best-mac-recording-alternatives-to-bandicam/"><u>Ranking the Best Mac Recording Alternatives to Bandicam</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-solution-for-overcoming-the-nsp4dll-is-absent-error/"><u>The Ultimate Solution for Overcoming the 'nsp4.dll Is Absent' Error</u></a></li>
+</ul></div>
 

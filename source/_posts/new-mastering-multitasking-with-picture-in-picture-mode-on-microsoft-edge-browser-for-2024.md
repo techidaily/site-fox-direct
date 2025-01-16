@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Multitasking with Picture-in-Picture Mode on Microsoft Edge Browser for 2024\""
-date: 2024-08-08T05:03:57.883Z
-updated: 2024-08-09T05:03:57.883Z
+date: 2025-01-12T16:47:43.861Z
+updated: 2025-01-16T16:48:20.808Z
 tags: 
   - screen-recording
   - ai video
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/122fad585a96b844750a62c04c4dce3455583d7df
 
 Picture-in-Picture is an important feature on Windows and Android computers. It allows you to watch videos while they float on the screen of your desktop or smartphone. Microsoft Edge has PIP on Android and all other platforms to enable you to float videos on your screen on mini mode. And you can watch them as you perform other tasks on different apps and programs.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ## Part 1\. How to Enable and Disable Picture in Picture in Edge
 
 To exploit the PIP mode on your desktop computer, there are simple steps to follow to achieve this. And once you are in PIP mode, you can turn it off at your convenience.
@@ -47,10 +43,11 @@ To enable PiP in edge on your desktop computer using the button, there are cheap
 4. Go to **Show Picture in Picture Control inside Video Frame** and turn on the button.
 5. Resize the floating window to your favorite size and drag it to the position you like on the screen
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![using the pip button](https://images.wondershare.com/filmora/article-images/2022/07/use-pip-on-microsoft-edge-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 And here is a simple step-by-step procedure to follow to turn on PiP on your PC by right-clicking on the video.
 
@@ -60,16 +57,10 @@ And here is a simple step-by-step procedure to follow to turn on PiP on your PC 
 4. Move your mouse over the video and right-click twice on it.
 5. Select Picture in Picture on the new menu so that Edge adds the video as a floating window on your screen.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![right click on the video](https://images.wondershare.com/filmora/article-images/2022/07/use-pip-on-microsoft-edge-2.jpg)
 
 You can drag and move the floating window around the screen and drop it at any location that you want with your mouse. And you can also resize that video so that it gives you a large space to proceed with other activities.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Turn off PIP
 
 Even after turning on PiP on your desktop, you can still decide to switch off the PiP button on Microsoft Edge on your computer. And here is how to do it.
@@ -82,32 +73,29 @@ Even after turning on PiP on your desktop, you can still decide to switch off th
 
 ![click switch off](https://images.wondershare.com/filmora/article-images/2022/07/use-pip-on-microsoft-edge-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Once you follow the steps above, you will be able to manipulate the PIP feature on your computer to use it as you like.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 2\. Useful Add-ons for PiP on Edge
 
 There are simpler ways to access and exploit Picture in Picture on your PC. Some supplement shortcut utilities that can enable you to enjoy this feature with ease are here.
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### [PIP - Picture in Picture Plus](https://microsoftedge.microsoft.com/addons/detail/pip-picture-in-picture-/gokdpnhaggoioddclnnlpjfnkdinjjcc)
 
 The keyboard shortcut for PiP mode is **Alt + P**. Just click **Alt + P** and you are ready to go. This feature applies to YouTube, Twitter, Facebook, and other platforms.
 
 ![pip plus](https://images.wondershare.com/filmora/article-images/2022/07/use-pip-on-microsoft-edge-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can also achieve this in three simple steps.
 
@@ -117,6 +105,10 @@ You can also achieve this in three simple steps.
 
 And you are ready to go.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### [Picture in Picture - PIP View](https://microsoftedge.microsoft.com/addons/detail/picture-in-picture-pip-/ebkloopllebgbjeppnncbekpfcglbcmp?hl=en-US)
 
 PIP View is an add-on in Microsoft Edge that eases up the use of Picture in Picture on your PC. It is based on manifest V3 and performs well for players in an iframe.
@@ -125,9 +117,6 @@ PIP View is an add-on in Microsoft Edge that eases up the use of Picture in Pict
 
 PIP View is an extension that is available on all websites with HTML video element. It is a crucial feature on YouTube that helps you save with Picture in Picture mode. On YouTube, it is added just next to the Settings in the app, and it allows you to float your video easily across the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ### [Picture-in-Picture Everywhere](https://microsoftedge.microsoft.com/addons/detail/pictureinpicture-everyw/cmnlinjalaieggoebkmamaphjghpafhn?hl=en-US)
 
 This is a feature that enables you to use picture in picture on any site that you love. You can use Picture-in-Picture on your TV and Movies app anytime at any place.
@@ -160,4 +149,18 @@ You can then resize or drag it around to the location you love.
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-essential-approach-for-blending-gopro-vids-with-continuous-360-degree-visuals/"><u>[New] Essential Approach for Blending GoPro Vids with Continuous 360-Degree Visuals</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-maximizing-your-iphones-creative-capabilities/"><u>[New] Maximizing Your iPhone's Creative Capabilities</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-sns-hdr-pro-analysis-worth-its-weight-in-gold-in-2024/"><u>[New] SNS HDR Pro Analysis Worth Its Weight in Gold, In 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-blissful-clip-grabber-insight/"><u>[Updated] In 2024, Blissful Clip Grabber Insight</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-capture-and-convert-photos-into-dynamic-videos-in-pixiz/"><u>[Updated] In 2024, Capture and Convert Photos Into Dynamic Videos in Pixiz</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-morphvox-transformation-tactics-for-professionals/"><u>[Updated] In 2024, MorphVOX Transformation Tactics for Professionals</u></a></li>
+<li><a href="https://fox-making.techidaily.com/guia-detalhado-sobre-como-recuperar-arquivos-excluidos-do-servidor-windows-server-2cu-2012-r2-aulas-de-backup-e-restauracao/"><u>Guia Detalhado Sobre Como Recuperar Arquivos Excluídos Do Servidor Windows Server 2Cu 2012 (R2) – Aulas De Backup E Restauração</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-iphone-14-activation-lock-by-drfone-ios-unlock-ios-unlock/"><u>How to bypass iPhone 14 activation lock</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/how-to-recover-deleted-documents-from-the-windowsold-directory-in-windows-10/"><u>How to Recover Deleted Documents From the 'Windows.old' Directory in Windows 10</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/setting-up-parental-control-features-on-windows-10-a-step-by-step-guide-by-yl-software/"><u>Setting Up Parental Control Features on Windows 10: A Step-by-Step Guide by YL Software</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/toms-tech-reviews-unlocking-the-secrets-of-computer-hardware/"><u>Tom's Tech Reviews: Unlocking the Secrets of Computer Hardware</u></a></li>
+</ul></div>
 

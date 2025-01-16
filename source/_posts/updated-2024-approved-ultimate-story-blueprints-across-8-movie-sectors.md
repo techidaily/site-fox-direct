@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Ultimate Story Blueprints Across 8 Movie Sectors\""
-date: 2025-01-05T17:18:53.145Z
-updated: 2025-01-11T05:31:20.492Z
+date: 2025-01-12T19:13:03.638Z
+updated: 2025-01-16T19:51:00.892Z
 tags: 
   - screen-recording
   - ai video
@@ -46,6 +46,10 @@ Sure, we'd all love to write one of those big blockbusters, but it's going to ta
 
 As aspiring screenwriters, it is important for us to focus on markets where we can break through. Some genres don't necessarily require a huge budget or an A-list star to be successful, and that's good news. Making a movie is the beginning of the journey to getting hired to write a superhero movie.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2\. Scripts examples from 8 genre
 
 ### Best horror scripts
@@ -126,10 +130,6 @@ Angel, a child fairy, learns a valuable lesson about caring for the sick when sh
 
 ![best promotional video scripts](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 _**1\. Announcement**_
 
 A simple template best suited for short, straightforward promotional videos. It can jump right out of the digital noise and really grab attention.
@@ -169,10 +169,6 @@ Ages of the actors: _Approximately 30-40 years of age_
 Suitable for: _All ages_
 
 ![a gift](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 In this ten-minute play for two actors, two young men meet on a train. One is a serious young man on his way to propose to his girlfriend, the other is a cynical loner who advises the former to escape the wedding while he can. The council backfires and an earnest young man sets out on a journey, leaving the recluse in this comedy-drama with a wonderful twist to his story.
 
@@ -270,21 +266,17 @@ The money Cinderella made from its release, subsequent record sales, publishing,
 
 ![the lion king 1994](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-16.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Like any child of the 90s, I admit to having a soft spot for The Lion King. The film was clearly heavily influenced by biblical stories, the Epic of Sundiatus and Shakespeare's Hamlet. It tells the story of Simba, the destined king of Pride Rock, who runs away guilt-ridden after "blaming" his father's death. The film is the highest-grossing hand-drawn film in history and won two Academy Awards for musical score.
 
 **Download the script here:** <https://www.studiobinder.com/blog/the-lion-king-script-screenplay-pdf-download/>
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3\. Make your own short movie now
 
 Have you ever stored various videos and photos on a memory card or on the computer? Why not create a movie to show them off? Once finish making a great movie, you can share it with others in a variety of ways including on YouTube, Facebook, and Instagram. Your followers will be amazed at the extraordinarily delightful works. In fact, making a movie using your own photos, videos and audio is easy.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Make a Video with Wondershare Filmora Easy Movie Maker
 
@@ -303,10 +295,6 @@ The 4K editing support feature enables users to edit and export videos at a reso
 The [color tuning](https://tools.techidaily.com/wondershare/filmora/download/) feature enables users to adjust the white balance and dynamic range of their clips. The audio mixer feature enables changing the audio of each track. The advanced text editor allows editing the color, size, font, and even animation of the text. The screen recording feature enables recording the screen of the computer and webcam efficiently. The video stabilization feature eliminates the effects of camera shake.
 
 ![color tuning](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-18.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -326,6 +314,10 @@ As aspiring screenwriters, it is important for us to focus on markets where we c
 
 ## Part 2\. Scripts examples from 8 genre
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best horror scripts
 
 **_1\. Annabelle_**
@@ -352,10 +344,6 @@ Part of its enduring appeal is the simplicity of its concept: A kid who murdered
 
 **Download the script here:** <https://www.studiobinder.com/blog/halloween-script-screenplay-pdf-download/>
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best comedy scripts
 
 **_1\. 21 Jump Street_**
@@ -374,6 +362,10 @@ Download the script here: <https://www.scriptslug.com/script/21-jump-street-2012
 
 ![the edge of seventeen](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Writer:** Kelly Fremon Craig
 
 How this amazing comedy drama script came about is a good example of a writer who punches above his weight. If you have a great comedy script and a favorite producer or director, there's nothing stopping you from sending it to them and seeing what happens.
@@ -387,10 +379,6 @@ That's exactly what new screenwriter [**Kelly Fremon Craig**](https://en.wikiped
 _**1\. A Christmas Carol – Large Cast**_Every man has the power to do good.
 
 ![a christmas carol is large cast](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 _**Writer:**_ [Charles Dickens](https://en.wikipedia.org/wiki/Charles%5FDickens)
 
@@ -433,6 +421,10 @@ _**2\. Explainer**_
 A short video (usually animated) that explains ideas, products, or services in a memorable way. There are three popular explainer video script formulas:
 
 This template begins with a scene where a character is struggling with the same problem your audience is facing. Once you've established a connection, you present the solution, show how it works and the results it delivers, and wrap it up with a call to action.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best short drama scripts
 
@@ -480,15 +472,15 @@ When Jack meets Esther in the park one day, he swears she looks familiar. Althou
 
 **Download the script here:** <http://offthewallplays.com/wp-content/uploads/2018/12/WALK-IN-PARK-half-script-1.pdf>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best action scripts
 
 **_1\. 2 Guns_**
 
 ![2 guns](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-11.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Writers:** Blake Masters (screenplay by) Steven Grant
 
@@ -505,6 +497,10 @@ _**2\. Casino Royale**_
 Secret Agent James Bond sets out on a mission as 007 in a screenplay that can show writers how to keep audiences guessing.
 
 **Download the script:** <https://thescriptlab.com/script-library/casinoroyale-pdf/>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best thriller scripts
 
@@ -526,10 +522,6 @@ Download the script here: <https://www.takarabio.com/documents/User%20Manual/RR0
 
 ![unbreakable](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-14.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Writer:** M. Night Shyamalan
 
 Night Shyamalan (not necessarily a name you'd expect on a list of 'thriller screenplays you should read') has been praised as much for THE SIXTH SENSE as he is criticized for everything that isn't THE SIXTH SENSE, but UNBREAKABLE is a film that ironically, it breaks the mold.
@@ -537,6 +529,10 @@ Night Shyamalan (not necessarily a name you'd expect on a list of 'thriller scre
 The film stands out in the now crowded genre by avoiding any cataclysmic showdown and instead focusing on a man unsure of who and what he is. Although David exhibits some potentially "super" powers, the story is vague enough that whether he's truly superhuman won't be entirely clear until later, and it's because of this that he's in a constant crisis of faith.
 
 **Download the script here:** <https://www.scripts.com/script/unbreakable%5F1086>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best animation scripts
 
@@ -555,6 +551,10 @@ The money Cinderella made from its release, subsequent record sales, publishing,
 **Writers:** Brenda Chapman, Barry Johnson, Andy Gaskill, Kevin Harkey, Tom Sito, Rick Maki, Burny Mattinson, Lorna Cook, Gary Trousdale, Jorgen Klubien, Larry Leker, Ed Gombert, Mark Kausler, Thom Enriquez, Jim Capobianco, Chris Sanders, Joe Ranft, Francis Glebas
 
 ![the lion king 1994](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-16.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Like any child of the 90s, I admit to having a soft spot for The Lion King. The film was clearly heavily influenced by biblical stories, the Epic of Sundiatus and Shakespeare's Hamlet. It tells the story of Simba, the destined king of Pride Rock, who runs away guilt-ridden after "blaming" his father's death. The film is the highest-grossing hand-drawn film in history and won two Academy Awards for musical score.
 
@@ -576,15 +576,15 @@ The key features offered by [Wondershare Filmora](https://tools.techidaily.com/w
 
 ![make a video with wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-17.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The 4K editing support feature enables users to edit and export videos at a resolution of up to 4K. The GIF support feature allows importing, editing, and exporting of GIF files. The noise removal feature facilitates removal of unwanted background noise readily.
 
 The [color tuning](https://tools.techidaily.com/wondershare/filmora/download/) feature enables users to adjust the white balance and dynamic range of their clips. The audio mixer feature enables changing the audio of each track. The advanced text editor allows editing the color, size, font, and even animation of the text. The screen recording feature enables recording the screen of the computer and webcam efficiently. The video stabilization feature eliminates the effects of camera shake.
 
 ![color tuning](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-18.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -614,16 +614,17 @@ Creating video content that can potentially go viral is no longer a complicated 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-unleashing-the-power-of-social-proof-tips-to-amplify-brand-visibility/"><u>[New] 2024 Approved Unleashing the Power of Social Proof Tips to Amplify Brand Visibility</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-8-things-to-consider-before-buying-next-lens-for-4k-camera-for-2024/"><u>[New] 8 Things to Consider Before Buying Next Lens for 4K Camera for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-a-polaroid-revelation-elevating-live-action-video-recording-for-2024/"><u>[New] A Polaroid Revelation Elevating Live-Action Video Recording for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/analyzing-and-ranking-lowest-priced-cloud-services/"><u>Analyzing & Ranking Lowest-Priced Cloud Services</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-steps-for-soothing-the-soul/"><u>ChatGPT Steps for Soothing the Soul</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/elevate-your-cinematography-mastering-transitions-in-kinemaster-for-2024/"><u>Elevate Your Cinematography Mastering Transitions in Kinemaster for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/1719369512280-ifas-best-laptops-of-2023-now/"><u>IFA's Best Laptops of 2023, Now</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-the-ultimate-guide-3-easy-video-game-recording-solutions/"><u>New 2024 Approved The Ultimate Guide 3 Easy Video Game Recording Solutions</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/the-evolving-gameplay-of-madden-19-refreshing-aspects-and-signs-of-ageing/"><u>The Evolving Gameplay of Madden 19: Refreshing Aspects and Signs of Ageing</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-motorola-razr-40-ultra-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Motorola Razr 40 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/why-im-choosing-apples-new-mini-iphone-16-pro-over-the-max-model-insights-and-analysis/"><u>Why I'm Choosing Apple's New Mini iPhone 16 Pro Over the Max Model – Insights & Analysis</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-professionals-guide-to-outstanding-4k-filmmaking-gear/"><u>[New] 2024 Approved Professionals' Guide to Outstanding 4K Filmmaking Gear</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-lullabies-and-lightheartedness-asmr-sleep-helpers/"><u>[New] In 2024, Lullabies and Lightheartedness ASMR Sleep Helpers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-photo-hdr-excellence-tips-from-the-pros/"><u>[New] In 2024, Photo-HDR Excellence Tips From the Pros</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-the-ultimate-guide-to-using-adobe-and-finding-substitutes/"><u>[Updated] In 2024, The Ultimate Guide to Using Adobe and Finding Substitutes</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/elevating-your-youtube-experience-tips-on-channel-art-and-sizes/"><u>Elevating Your YouTube Experience Tips on Channel Art and Sizes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/high-performance-hp-laptop-wireless-mouse-and-access-to-microsoft-productivity-tools-for-just-400-techsavvy-deals-at-zdnet/"><u>High-Performance HP Laptop, Wireless Mouse & Access to Microsoft Productivity Tools for Just $400 | TechSavvy Deals at ZDNET</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-canvas-hidden-power-ups-for-stunning-visuals/"><u>In 2024, Canva's Hidden Power-Ups for Stunning Visuals</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/premier-recommendations-best-iphone-tones-designers/"><u>Premier Recommendations Best iPhone Tones Designers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pros-and-cons-of-virtual-reality/"><u>Pros and Cons of Virtual Reality</u></a></li>
+<li><a href="https://fox-search.techidaily.com/transform-your-digital-space-with-justin-quiles-stunning-visuals-from-yl-tech-experts/"><u>Transform Your Digital Space with Justin Quiles' Stunning Visuals From YL Tech Experts</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-top-online-tools-for-creating-fake-faces/"><u>Updated Top Online Tools for Creating Fake Faces</u></a></li>
 </ul></div>
 

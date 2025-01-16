@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Understanding AR's Capabilities and Limits"
-date: 2024-08-08T05:00:53.042Z
-updated: 2024-08-09T05:00:53.042Z
+date: 2025-01-15T20:47:54.411Z
+updated: 2025-01-16T20:25:38.896Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/3b240b43c93d639302106c546caada2668474e961
 
 # What is Augmented Reality?
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -30,8 +27,9 @@ thumbnail: https://thmb.techidaily.com/3b240b43c93d639302106c546caada2668474e961
  Mar 27, 2024• Proven solutions
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Definition of AR
 
  Augmented Reality (AR) is the application of technology to superimpose information on digitally rendered images into real world environments to give a sense of virtual reality or create an illusion. For example, images and sounds are superimposed over what users see and hear.
@@ -41,8 +39,9 @@ thumbnail: https://thmb.techidaily.com/3b240b43c93d639302106c546caada2668474e961
  The presentation of augmented reality is in some form of futuristic technology, despite the fact that it has been around for many years. For example, the heads-up display in many fighter jets utilizes the principles of augmented reality, and these date back to the early 1990s when they were used to show information about altitude, speed and direction of the aircraft.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How does Augmented Reality work
 
  The kind of augmented reality you are likely to experience these days utilizes a range of sensors such as cameras and computer components as well as display devices in creating the illusion of virtual objects in the real world. Some of the smartphones in the market today have all the necessary components needed in the creation of augmented reality hence they are commonly used for most of AR experiences. The basic working of augmented reality is as follows-:
@@ -50,8 +49,9 @@ thumbnail: https://thmb.techidaily.com/3b240b43c93d639302106c546caada2668474e961
  In general, the device will search for a particular object, which can be anything, but in most cases, they are usually 2D images like in the form of a movie poster. The augmented reality application will recognize the target through the camera and it will then process the image and augment it in some form through the utilization of sound and pictures. For example, if the target object was a movie poster, you may see it spring into life to play a trailer of the movie. So long as you continue viewing the poster through the “window” of the display object, you will see augmented reality rather than the plain old normal poster in normal reality.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The future of Augmented Reality
 
  The future of augmented reality has never been brighter as it is at the moment. Though mobile devices are the primary avenues for VR at the moment, this is not expected to remain the case since a lot of developments, enhancements and innovations are currently taking place in the industry. For instance, work is currently on in the development of augmented reality ear buds which will allow users to adjust sounds coming from the environment.
@@ -61,8 +61,9 @@ thumbnail: https://thmb.techidaily.com/3b240b43c93d639302106c546caada2668474e961
  Like with every new technology, augmented reality comes with a plethora or ethical and political issues. For example, the Google Glass came along with a lot of privacy concerns, with some people worried that pictures may be snapped or conversations may be recorded surreptitiously. But amidst all these concerns, AR technology is expected to gather more steam in the near future and it will be a part of life for the majority.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Applications of Augmented Reality
 
  Augmented reality is used widely across different industries for various applications, with education and gaming taking the lion’s share of the uses. Discussed below are some of the applications of augmented reality:
@@ -95,10 +96,11 @@ thumbnail: https://thmb.techidaily.com/3b240b43c93d639302106c546caada2668474e961
 
  In times of emergencies, first responders such as the police and firefighters usually arrive at chaotic scenes and these sometimes hamper their rescue operations. With augmented reality, the responders could have x-ray visions or virtual maps to give them a better idea of what to expect on the ground so that the SAR operations can be more effective.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -123,4 +125,20 @@ Follow @Benjamin Arango
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-captivating-snaps-with-snapchats-colorful-cartoon-lens-for-2024/"><u>[Updated] Captivating Snaps with Snapchat’s Colorful Cartoon Lens for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-green-screen-ease-crafting-effective-youtube-ctas/"><u>[Updated] In 2024, Green Screen Ease Crafting Effective YouTube CTAs</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-mastering-ringtones-on-ios-a-comprehensible-process-for-2024/"><u>[Updated] Mastering Ringtones on iOS A Comprehensible Process for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-parroting-perfection-dissecting-bebops-latest-flight-feature/"><u>[Updated] Parroting Perfection Dissecting Bebop's Latest Flight Feature</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-zte-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your ZTE Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/d-link-powerline-2000-review-easy-setup-and-fast-data-transfer/"><u>D-Link Powerline 2000 Review: Easy Setup and Fast Data Transfer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixed-how-to-bypass-preparing-to-configure-windows-dilemma/"><u>Fixed! How to Bypass 'Preparing to Configure Windows' Dilemma</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-transforming-personal-narratives-best-practices-for-video-praise/"><u>In 2024, Transforming Personal Narratives Best Practices for Video Praise</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-understanding-budgets-youtube-marketing-investments/"><u>In 2024, Understanding Budgets YouTube Marketing Investments</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-the-missing-mscorwksdll-file-a-step-by-step-guide/"><u>Resolving the 'Missing mscorwks.dll' File: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/say-goodbye-to-game-bugs-solve-your-football-manager-2eplus23-7-pc-launching-problems-now/"><u>Say Goodbye to Game Bugs! Solve Your Football Manager 2E+23-7 PC Launching Problems Now!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-gifting-carbon-offset-certificates-this-festive-period-insights-from-zdnet/"><u>The Ultimate Guide to Gifting Carbon Offset Certificates This Festive Period - Insights From ZDNet</u></a></li>
+</ul></div>
 

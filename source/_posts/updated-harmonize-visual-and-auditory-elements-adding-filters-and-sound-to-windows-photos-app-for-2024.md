@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Harmonize Visual & Auditory Elements  Adding Filters & Sound to Windows Photos App for 2024\""
-date: 2025-01-03T16:12:47.481Z
-updated: 2025-01-10T20:34:04.499Z
+date: 2025-01-09T19:24:03.712Z
+updated: 2025-01-16T16:05:01.591Z
 tags: 
   - screen-recording
   - ai video
@@ -38,6 +38,10 @@ Having Windows 10 Photos app is an advantage for you. This is not like any other
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to add filters on Windows 10 Photos App
 
 If you have got Windows 10 Photos app and wish to add filters, though, it is by default a photo viewing app, its editing features are worth to mention. This step by step guide is your perfect savior in that case.
@@ -51,7 +55,7 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 ![ add filters on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-filters.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3**: Now, you will be in an video editing page. You can name your video at start or later.
@@ -63,7 +67,7 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 **Step 5**: Just select one you like. Preview it and then click Done.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to add music on Windows 10 Photos App
@@ -79,28 +83,24 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 ![ add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-music-to-video-photos-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4**: Pick ‘Your music’ so that you can set up a custom track. There are over 20 music you can choose. You can also sync music to video's beat. You can visit ‘Recommended’ section for adding default ones.
 
 ![add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/choose-music-to-video-photos-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 5**: Hit the ‘Done’ button.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
 From the above article, we conclude that Windows 10 Photos app is an amazing app when it comes to photo editing and screen capturing from a video. While there are numerous options out there, you can **_add filters using Windows 10 Photos app_** in the best way possible. Moreover, this application enables you enable to even add music to videos using Windows 10 Photos app. The advantages of Windows 10 are innumerable, and with the right tools, you can get the best out of it.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -127,24 +127,18 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-decoding-the-secret-of-instagrams-video-cap-for-2024/"><u>[New] Decoding the Secret of Instagram's Video Cap for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-endorsements-on-screen-shaping-perceptions/"><u>[New] Endorsements on Screen Shaping Perceptions</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-groundbreaking-photo-editor-photonshift-tech/"><u>[New] Groundbreaking Photo Editor PhotonShift Tech</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-seamless-sound-transfer-top-10-youtube-to-mp3-picks/"><u>[New] In 2024, Seamless Sound Transfer Top 10 YouTube to Mp3 Picks</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-free-and-open-airwaves-at-home-internet-radio-recordings-explained/"><u>[Updated] 2024 Approved Free and Open Airwaves at Home - Internet Radio Recordings Explained</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-step-by-step-guide-to-swap-fins-sounds-on-windows/"><u>[Updated] 2024 Approved Step-by-Step Guide to Swap Fins' Sounds on Windows</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-garageband-guide-gently-dissolve-decibels-for-2024/"><u>[Updated] Garageband Guide Gently Dissolve Decibels for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-maximize-productivity-innovative-windows-10-tips/"><u>[Updated] In 2024, Maximize Productivity Innovative Windows 10 Tips</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-the-best-professional-template-pack-for-premiere-pro/"><u>[Updated] In 2024, The Best Professional Template Pack for Premiere Pro</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-key-elements-for-effective-spotify-ad-execution/"><u>2024 Approved The Key Elements for Effective Spotify Ad Execution</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/green-thumbs-united-top-10-agrigames-for-friends-and-family-for-2024/"><u>Green Thumbs United Top 10 AgriGames for Friends and Family for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-choreographing-a-stellar-tiktok-wrap-up/"><u>In 2024, Choreographing a Stellar TikTok Wrap-Up</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-from-beginner-to-expert-choose-studio-or-beta/"><u>In 2024, From Beginner to Expert Choose Studio or Beta</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-unlocking-the-potential-of-drone-footage-through-editing/"><u>In 2024, Unlocking the Potential of Drone Footage Through Editing</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/mastering-youtube-captions-3-effective-methods-to-download-srt-files-for-2024/"><u>Mastering YouTube Captions 3 Effective Methods to Download SRT Files for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-mov-video-cutter-reviews-top-6-free-options/"><u>New In 2024, MOV Video Cutter Reviews Top 6 Free Options</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/prime-camcorders-of-2024-ranked-and-reviewed/"><u>Prime Camcorders of 2024 Ranked & Reviewed</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/strategies-for-adjusting-music-tempo-on-spotify-app/"><u>Strategies for Adjusting Music Tempo on Spotify App</u></a></li>
-<li><a href="https://win-latest.techidaily.com/44gz44g544gm44gu44oh44oq44kk44k544gn5l244gi44klisdjg6jgqtjg6tjg7zjg4njg7vjgqjjg6zjg6hjg7pjg4tjg5djg4pjgqjgqljg4pjg5fjgr3jg5xjg4jjgihku4rjgznjgzdnhkhmlpnjg4d319/"><u>すべてのデバイスで使える! ワイヤード・エレメンツバックアップソフト、今すぐ無料ダウンロード!</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-mastering-the-procedure-of-attaining-facebooks-blue-status-badge/"><u>[New] 2024 Approved Mastering the Procedure of Attaining Facebook's Blue Status Badge</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-gain-listener-traffic-advanced-techniques-in-podcast-seo-for-2024/"><u>[New] Gain Listener Traffic Advanced Techniques in Podcast SEO for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-simplifying-the-complexities-of-vr-devices/"><u>[New] Simplifying the Complexities of VR Devices</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-expert-techniques-to-efficiently-manipulate-whiteboards-in-web-conferencing-tools/"><u>[Updated] 2024 Approved Expert Techniques to Efficiently Manipulate Whiteboards in Web Conferencing Tools</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-building-a-brand-with-captivating-haul-videos-and-edits/"><u>[Updated] Building a Brand with Captivating Haul Videos and Edits</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-explore-10-cost-effective-video-players-on-linuxwindowsmac/"><u>[Updated] In 2024, Explore 10 Cost-Effective Video Players on Linux/Windows/Mac</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-innovative-virtual-engagement-harnessing-the-power-of-zoom-in-gmail/"><u>[Updated] Innovative Virtual Engagement Harnessing the Power of Zoom in Gmail</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-solutions-for-keyboard-spacebar-glitches-in-windows-11-computers-and-laptops/"><u>Easy Solutions for Keyboard Spacebar Glitches in Windows 11 Computers and Laptops</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/explore-creative-photos-applying-radial-blur-techniques-ps/"><u>Explore Creative Photos Applying Radial Blur Techniques PS</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-ride-the-waves-with-top-tier-surf-cameras/"><u>In 2024, Ride the Waves with Top-Tier Surf Cameras</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-the-photographers-path-to-perfected-colors/"><u>In 2024, The Photographer's Path to Perfected Colors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/regaining-control-over-your-chatgpt-experience/"><u>Regaining Control Over Your ChatGPT Experience</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/sync-your-sound-step-by-step-audio-editing-in-avidemux-for-the-modern-producer/"><u>Sync Your Sound Step-by-Step Audio Editing in Avidemux for the Modern Producer</u></a></li>
 </ul></div>
 

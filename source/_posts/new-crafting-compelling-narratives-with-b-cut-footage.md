@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Crafting Compelling Narratives with B-Cut Footage\""
-date: 2025-01-04T23:40:08.152Z
-updated: 2025-01-11T06:41:00.432Z
+date: 2025-01-09T20:17:54.926Z
+updated: 2025-01-16T21:23:10.476Z
 tags: 
   - screen-recording
   - ai video
@@ -28,7 +28,7 @@ Now that we know that, let's dive in!
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. B roll In TV And Movies
@@ -41,10 +41,6 @@ B roll can be utilized for establishing shots as well as close-ups of items. It 
 
 For instance, wider shots are frequently used when someone is giving a speech while seated behind a podium so that we can see both them and their surroundings, such as audience members standing close and applauding or security personnel.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Methods to use b roll
 
 Now that there are so many stock footage platforms, you have a lot of choices when you need just the right scene for your project. Most of the time, filmmakers don't use B roll footage. One good way to use it is to use it as a way to move from one scene to the next. It can also be used to set the mood for an event or show what time of day it is when filming.
@@ -53,37 +49,41 @@ The ideal way to use B roll is to put it behind interviews. This kind of footage
 
 On the other hand, cutaways can show how different people react to what is being said in an interview. After all, transitions are commonly used to switch from one person's experience with a certain topic to another person's experience with the same topic. All of these different kinds of footage give filmmakers and videographers more freedom to tell their stories without relying too much on dialogue or narration.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. What types of b roll are there?
 
 We'll examine the top 5 uses for B rolls across a variety of video genres and discuss how to implement them effectively in your own projects.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Archival b roll footage
 
 Aerial B roll is the solution when you like to show your viewers where your film is being recorded or when you are changing locations and want them to know it. The plane takes off and lands in another city, and then shots of the city, its landmarks, its famous streets, etc. are shown. You have probably seen this type of B roll footage in movies and TV shows. These images aid in putting the viewer in the character's current location. Check out this collection of setting images from the Neighbors television series.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Visual detail b roll footage
 
 Including archival material in your video allows your audience to experience a previously covered or historically significant story as it occurred. Look at this illustration from Netflix's 14 Peaks: Nothing Is Impossible, which was made utilizing old b roll film from the era to help the viewer connect with the narrative.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Storytelling b roll footage
 
 B roll footage can be used to tell a story that supports the narrative of your video. For example, in this video interview of Tom DeLonge, the speaker talks about living in a neighborhood. The B rolls show him driving around in his car, skateboarding on the street in the 90's. These add to the story the video creator wants to talk about not seeing people with a disability differently.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Undirected b roll footage
 
 This particular kind of B roll film is captured without any direction being given to your character, as the name suggests. For the purposes of an interview video, for instance, these can be straightforward close-up views of your character's hands and facial expressions. On the other hand, while you're doing a documentary, you might record your subject participating in everyday activities.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Atmospheric b roll footage
 
@@ -135,22 +135,14 @@ We sincerely hope that this post will be of use to you in making your films more
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-30-groundbre-writers-making-metaverse-memes-thrive-for-2024/"><u>[New] 30 Groundbre Writers Making Metaverse Memes Thrive for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-best-image-safekeepers-online/"><u>[New] In 2024, Best Image Safekeepers Online</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-turbocharged-triumphs-the-leading-10-srt-upgrades-for-os-x-and-windows/"><u>[New] In 2024, Turbocharged Triumphs The Leading 10 SRT Upgrades for OS X & Windows</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-uncharted-territory-latest-windows-10-apps-and-games/"><u>[New] In 2024, Uncharted Territory Latest Windows 10 Apps & Games</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-innovative-10-plugin-upgrades-for-fcp-users/"><u>[New] Innovative 10 Plugin Upgrades for FCP Users</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-laughing-moments-crafting-with-adobe-for-2024/"><u>[New] Laughing Moments Crafting with Adobe for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-speakers-file-extract-and-analysis-for-2024/"><u>[New] Speaker's File Extract & Analysis for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-the-essential-beginning-lineups-for-panzoids/"><u>[New] The Essential Beginning Lineups for Panzoids</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-a-beginners-guide-to-creating-impactful-slug-lines/"><u>[Updated] 2024 Approved A Beginner's Guide to Creating Impactful Slug Lines</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-crucial-collections-8-innovative-products-to-boost-your-professional-edge/"><u>[Updated] 2024 Approved Crucial Collections 8 Innovative Products to Boost Your Professional Edge</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-step-up-your-game-free-software-for-professional-thumbnails-for-2024/"><u>[Updated] Step Up Your Game Free Software for Professional Thumbnails for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-asmr-mastery-your-guide-to-nighttime-relaxation/"><u>2024 Approved ASMR Mastery Your Guide to Nighttime Relaxation</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/adjust-your-timeline-facebook-look-back-guide/"><u>Adjust Your Timeline Facebook Look Back Guide</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/elevate-your-exercise-routine-with-the-samsung-galaxy-fit-the-top-pick-for-health-tracking/"><u>Elevate Your Exercise Routine with the Samsung Galaxy Fit - The Top Pick for Health Tracking</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-the-fix-overcoming-network-not-registered-on-your-samsung-device/"><u>Mastering the Fix: Overcoming 'Network Not Registered' On Your Samsung Device</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/tailored-file-recovery-restore-your-files-selectively/"><u>Tailored File Recovery: Restore Your Files Selectively</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/ultimate-guide-to-professional-video-editing-tools-for-enhancing-youtube-videos/"><u>Ultimate Guide to Professional Video Editing Tools for Enhancing YouTube Videos</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-why-youtubes-viewer-numbers-matter-more-than-you-think/"><u>[New] 2024 Approved Why YouTube's Viewer Numbers Matter More Than You Think</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-belly-laughs-ledger-no-fee-funny-templates/"><u>[New] In 2024, Belly Laughs Ledger No-Fee Funny Templates</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-exceptional-aspects-of-inexpensive-asmr-microphones/"><u>[New] In 2024, Exceptional Aspects of Inexpensive ASMR Microphones</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-steps-to-create-a-compelling-community-giving-event-post-for-2024/"><u>[Updated] Steps to Create a Compelling Community Giving Event Post for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/crafting-the-auditory-journey-in-a-film-teaser-for-2024/"><u>Crafting the Auditory Journey in a Film Teaser for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/elevating-video-experience-best-youtube-to-avi-companions-for-2024/"><u>Elevating Video Experience Best YouTube-to-AVI Companions for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-divergent-paths-in-video-sharing-comparing-igtv-and-youtube/"><u>In 2024, Divergent Paths in Video Sharing Comparing IGTV & YouTube</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-realme-narzo-n55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/the-covert-guide-to-livestreaming-on-instagram-unseen-for-2024/"><u>The Covert Guide to Livestreaming on Instagram Unseen for 2024</u></a></li>
 </ul></div>
 

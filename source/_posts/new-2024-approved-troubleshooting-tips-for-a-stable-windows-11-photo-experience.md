@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Troubleshooting Tips for a Stable Windows 11 Photo Experience\""
-date: 2025-01-10T04:34:30.992Z
-updated: 2025-01-11T05:28:31.823Z
+date: 2025-01-09T18:39:24.608Z
+updated: 2025-01-16T18:34:33.288Z
 tags: 
   - screen-recording
   - ai video
@@ -47,6 +47,10 @@ In this article, we have compiled the best solutions for you to get rid of Windo
 
 ## How to fix Windows 10 Photos app crashes
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 1: Use the Troubleshooter
 
 The Windows Troubleshooter is an inbuilt troubleshooting feature embedded with Windows 10 computers. It allows a simple interface to help you choose any application for troubleshooting. Windows Troubleshooter resolves basic issues with the Windows computer so that users can seamlessly use all Windows 10 system features and functionalities.
@@ -58,8 +62,16 @@ Here is how to troubleshoot –
 
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/Troubleshooter.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. From the list of Apps displayed on the screen, click ‘Windows Store Apps’ and press the ‘Next’ button.
 2. Now, the troubleshooter will troubleshoot every app within the Windows Store Applications and fix them in a jiffy.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 2: Restore Default Libraries
 
@@ -73,14 +85,10 @@ Restoring the default libraries would resolve the Windows 10 Photos App crash is
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/windows-10-photos-app-crashes-restore.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Lastly, click on ‘Apply’ followed by ‘OK’ and the issue will be resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Solution 3: Reset it
 
@@ -91,10 +99,6 @@ Here is how can you reset it –
 1. Go to ‘Windows 10 Start Menu’ and then click ‘Settings’. Now, click the ‘Apps (Apps & Features)’ option followed by the ‘Photos’ app.
 2. Hit ‘Advanced Options’ and click ‘Reset’ button thereafter.
 3. Now, you got to restart your Windows system, so that Windows 10 Photos App crashing problem can be easily resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Solution 4: Repair Photos App package
 
@@ -107,6 +111,10 @@ Let’s fix the issue by repairing the Photos App package installed on your comp
 3. Allow few minutes to make the changes effective and then restart the Windows 10 computer.
 4. Now, the Windows 10 Photos App won’t crash.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 5: Reinstall Windows 10 Photos app
 
 Alternatively, if nothing works out in your favor, you can always fix Windows 10 Photos App crash issue by reinstalling Windows 10 Photos App. A corrupted Photos App might create disturbance for you, so reinstalling would get a fresh and bug free version on your system from the Microsoft Store.
@@ -118,10 +126,6 @@ Here is how to reinstall the Windows 10 Photos App –
 2. Now, visit the ‘Microsoft Store on your computer and find ‘Microsoft Photos.’
 3. Install ‘Microsoft Photos’ after downloading it from there. Your Windows 10 Photos App crashing issue is well taken care of now.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 From the above article, we have concluded that experiencing Windows 10 Photos App crashes is not uncommon. But, resolving them shouldn’t give you nightmares as well. From the above-mentioned process guides, you can fix the Windows 10 Photos App crashes effectively without any hassle. Try following each method until you get the Photos App crash issue fixed, so you can view your photos without any trouble.
@@ -129,10 +133,6 @@ From the above article, we have concluded that experiencing Windows 10 Photos Ap
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -159,16 +159,21 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-how-to-shoot-vertical-panorama-photos-with-your-smartphone-androidios/"><u>[New] In 2024, How to Shoot Vertical Panorama Photos with Your Smartphone Android/iOS</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-pictureweaversierra-blending-apple-media-artfully/"><u>[New] PictureWeaverSierra Blending Apple Media Artfully</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-sensational-headline-architect/"><u>[New] Sensational Headline Architect</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-the-top-5-techniques-for-quiet-filming-experiences/"><u>[Updated] 2024 Approved The Top 5 Techniques for Quiet Filming Experiences</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-ultimate-frames-per-second-for-languid-visuals/"><u>[Updated] Ultimate Frames Per Second for Languid Visuals</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-unleash-the-full-potential-of-your-android-device-with-obs-studio/"><u>2024 Approved Unleash the Full Potential of Your Android Device with OBS Studio</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/fehlerfreies-backup-einer-sql-datenbank-auf-entfernte-speicherorte-sichern/"><u>Fehlerfreies Backup Einer SQL-Datenbank Auf Entfernte Speicherorte Sichern</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/professional-video-intros-no-cost/"><u>Professional Video Intros, No Cost</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-using-the-picture-in-picture-feature-on-macbook-air-for-better-multitasking/"><u>Step-by-Step Tutorial: Using the Picture-in-Picture Feature on MacBook Air for Better Multitasking</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209730484-9780806539621-the-wicca-garden/"><u>The Wicca Garden | Free Book</u></a></li>
-<li><a href="https://techtrends.techidaily.com/uncover-your-digital-footprint-get-a-free-ip-location-tool-now/"><u>Uncover Your Digital Footprint: Get a Free IP Location Tool Now</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-dive-into-iphone-photo-magic-with-surface-mirror-tips/"><u>[New] 2024 Approved Dive Into iPhone Photo Magic with Surface Mirror Tips</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-prohero-gopro-vs-nikkor-keymission-camera-faceoff/"><u>[New] In 2024, ProHero GoPro VS Nikkor Keymission Camera Faceoff</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-unlocking-optimal-zoom-features-in-google-meet-webinars/"><u>[New] In 2024, Unlocking Optimal Zoom Features in Google Meet Webinars</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-spark-creativity-get-to-know-windows-11s-movie-maker-app/"><u>[New] Spark Creativity Get to Know Windows 11'S Movie Maker App</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-best-of-the-best-in-open-world-gaming/"><u>[New] The Best of the Best in Open World Gaming</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-conquering-subreddit-mastering-the-art-of-public-discussion/"><u>[Updated] Conquering Subreddit Mastering the Art of Public Discussion</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-digital-image-synergy-tactics-for-2024/"><u>[Updated] Digital Image Synergy Tactics for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-mastery-in-motion-an-in-depth-look-at-polarrs-toolset/"><u>[Updated] In 2024, Mastery in Motion An In-Depth Look at Polarr’s Toolset</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-professional-livestream-tools-outside-of-standard-obs-for-2024/"><u>[Updated] Professional Livestream Tools Outside of Standard OBS for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-essential-distinctions-between-metaverse-and-multimeva-for-2024/"><u>[Updated] The Essential Distinctions Between Metaverse and Multimeva for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-batch-transformation-from-wav-to-aac-audio-on-pc-expert-tips-and-tools/"><u>Effortless Batch Transformation From WAV to AAC Audio on PC: Expert Tips & Tools</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-tecno-spark-10-4g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Tecno Spark 10 4G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-a-comprehensive-selection-of-free-must-hear-game-sounds-for-2024/"><u>New A Comprehensive Selection of Free, Must-Hear Game Sounds for 2024</u></a></li>
+<li><a href="https://win-best.techidaily.com/step-by-step-guide-quick-and-effortless-cloning-of-ide-drives-to-sata-storage-on-windows-11-10-8-and-7/"><u>Step-by-Step Guide: Quick & Effortless Cloning of IDE Drives to SATA Storage on Windows 11, 10, 8, and 7</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/the-ultimate-resource-50plus-no-fee-visual-effects-websites-reviewed/"><u>The Ultimate Resource 50+ No-Fee Visual Effects Websites Reviewed</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-the-ultimate-list-of-the-most-accessible-no-cost-daw-programs-for-emerging-producers/"><u>Updated The Ultimate List of the Most Accessible, No-Cost DAW Programs for Emerging Producers</u></a></li>
 </ul></div>
 
