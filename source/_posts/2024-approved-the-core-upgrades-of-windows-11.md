@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Core Upgrades of Windows 11\""
-date: 2024-07-29T03:35:55.091Z
-updated: 2024-07-30T03:35:55.091Z
+date: 2025-01-19T20:48:07.914Z
+updated: 2025-01-22T21:06:16.018Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/0fde8be80e602ff65625842ff908df27188b32034
 
 # Windows 10 New Features at a Glance
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 ##### Liza Brown
@@ -41,28 +38,18 @@ Microsoft is clearly looking to bring the world at large on board with Windows 1
 
 **Cortana Virtual Assistant**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![update win10 13](https://images.wondershare.com/windows10/update-win10-13.png)
 
 Cortana is one of the biggest features Microsoft is rolling out for the Windows 10\. If you have been using the Windows Phone, then you already have an idea of what to expect from the tablet/PC version. This digital assistant is designed to be vastly superior to Siri or Google Now. You'll find Cortana next to your desktop's start button, but you can also say "Hey, Cortana" to bring it to life. You remain in complete control of how much Cortana knows about you, but you'll definitely love the way Cortana can bring up requested information instantly. Early users have also noted that Cortana is more than capable of maintaining a full, almost-natural conversational flow.
 
 **Edge Web Browser**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![edge](https://images.wondershare.com/filmora/article-images/edge.jpg)
 
 Say goodbye to Internet Explorer. The long-disliked browser is finally being chucked aside, in favor of something that will strive to be decidedly different. Although IE will still support legacy software, Edge is clearly the one taking center stage as the default browser for Windows 10\. Features will include a screen grabbing tool that offers touchscreen sketching capabilities, a reading mode, and even a notepad. Search results will be built around your preferences, and you will have the ability as well to get restaurant information or directions shot to you in an instant.
 
 **Windows 10 Start Menu**
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![a8](https://images.wondershare.com/windows10/a8.png)
 
 No one really liked the start menu layout for Windows 8 and Windows 8.1\. Windows 10 offers a fantastic improvement to that end. If the start menu looks quite familiar, that's because Microsoft has made it a point to bring back the style virtually all of us prefer. Yet Windows 10 will have some decided differences. The start menu will allow you to look over frequently-used apps, use the universal search without swiping, and yes, the tiles will be there, as well. However, you will be able to control how prominent they are.
@@ -75,18 +62,12 @@ The above three features are good examples of what Windows 10 will bring to the 
 
 **Xbox App and Streaming**
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![xbox games windows10](https://images.wondershare.com/windows10/xboy-games-windows10-1.png)
 
 Windows 10 will include an exciting Xbox app, which will come loaded with possibilities. The Xbox app will give you the ability to control your Xbox One, but you'll also be able to utilize your DVR capture for your Windows games. Even more exciting is the way you'll have the ability to play multiplayer titles across between your Xbox One and your PC. With the streaming side of things, Windows 10 will allow you to stream titles from your Xbox Box. There will also be DirectX 12 support.
 
  **Universal Apps**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![universal_apps](https://images.wondershare.com/filmora/article-images/universal_apps.jpg)
 
 If you're going to use Windows 10 across several different devices, you're going to love this aspect. Photos, Music, Video, Map, People, and other apps will be available across all your devices. Furthermore, Windows 10 will ensure that your apps will look and function the same, regardless of the app you're using.
@@ -124,4 +105,22 @@ Follow @Liza Brown
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-navigating-srt-in-windows-macos-environments/"><u>[New] 2024 Approved Navigating SRT in Windows, macOS Environments</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-convert-spoken-words-into-written-content-using-ms-words-in-built-tools/"><u>[New] Convert Spoken Words Into Written Content Using MS Word's In-Built Tools</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-picart-anonymizer-swiftly-hide-identities/"><u>[New] PicArt Anonymizer Swiftly Hide Identities</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-cutting-edge-strategies-for-real-time-green-screen-applications-for-2024/"><u>[Updated] Cutting-Edge Strategies for Real-Time Green Screen Applications for 2024</u></a></li>
+<li><a href="https://solve-help.techidaily.com/1-step-by-step-guide-printer-setup-and-document-printing-on-windows-yl-tech-support/"><u>1. Step-by-Step Guide: Printer Setup & Document Printing on Windows - YL Tech Support</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-high-definition-recording-mastering-live-footage-using-logitech-cam/"><u>2024 Approved High Definition Recording Mastering Live Footage Using Logitech Cam</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-ultimate-strategy-for-top-tier-youtube-titles-and-tags/"><u>2024 Approved The Ultimate Strategy for Top-Tier Youtube Titles & Tags</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-xiaomi-redmi-12-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Xiaomi Redmi 12 5G to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-master-quick-video-cuts-on-windows-11-photos/"><u>In 2024, Master Quick Video Cuts on Windows 11 Photos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/the-ins-and-outs-of-designing-a-standout-podcast-promo/"><u>The Ins and Outs of Designing a Standout Podcast Promo</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

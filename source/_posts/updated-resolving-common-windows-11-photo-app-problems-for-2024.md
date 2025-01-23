@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Resolving Common Windows 11 Photo App Problems for 2024"
-date: 2025-01-09T19:23:33.184Z
-updated: 2025-01-16T16:06:18.455Z
+date: 2025-01-18T20:26:16.294Z
+updated: 2025-01-23T02:32:13.704Z
 tags: 
   - screen-recording
   - ai video
@@ -58,12 +58,12 @@ Here is how to troubleshoot –
 
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/Troubleshooter.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. From the list of Apps displayed on the screen, click ‘Windows Store Apps’ and press the ‘Next’ button.
 2. Now, the troubleshooter will troubleshoot every app within the Windows Store Applications and fix them in a jiffy.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 2: Restore Default Libraries
 
@@ -77,7 +77,7 @@ Restoring the default libraries would resolve the Windows 10 Photos App crash is
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/windows-10-photos-app-crashes-restore.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Lastly, click on ‘Apply’ followed by ‘OK’ and the issue will be resolved.
@@ -104,7 +104,7 @@ Let’s fix the issue by repairing the Photos App package installed on your comp
 4. Now, the Windows 10 Photos App won’t crash.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Solution 5: Reinstall Windows 10 Photos app
@@ -119,7 +119,7 @@ Here is how to reinstall the Windows 10 Photos App –
 3. Install ‘Microsoft Photos’ after downloading it from there. Your Windows 10 Photos App crashing issue is well taken care of now.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -131,7 +131,7 @@ From the above article, we have concluded that experiencing Windows 10 Photos Ap
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -159,21 +159,24 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-mastering-viral-videos-creating-engaging-memes-for-fbinsta/"><u>[New] Mastering Viral Videos Creating Engaging Memes for FB/Insta</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-professional-tips-rotate-and-flip-iphone-imagery/"><u>[New] Professional Tips Rotate and Flip iPhone Imagery</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-urgent-my-videos-halted-is-it-fair/"><u>[New] Urgent My Videos Halted - Is It Fair?</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-viewpoint-validation-digest-for-2024/"><u>[New] Viewpoint Validation Digest for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-examining-performance-lg-bp350-screen-review/"><u>[Updated] Examining Performance LG BP350 Screen Review</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-is-an-m1-enabled-laptop-a-worthwhile-investment-for-editors/"><u>[Updated] In 2024, Is an M1-Enabled Laptop a Worthwhile Investment for Editors?</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-macos-sierra-switching-back-to-os-x-el-capitan-for-2024/"><u>[Updated] MacOS Sierra Switching Back To OS X El Capitan for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/essential-fixes-to-resolve-missing-or-not-found-errors-with-d3dx924dll/"><u>Essential Fixes to Resolve 'Missing or Not Found' Errors with d3dx9_24.dll</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-best-20-anime-openers-anthems-in-order/"><u>In 2024, Best 20 Anime Openers' Anthems in Order</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/master-audio-on-chrome-selecting-the-best-web-based-speech-modifiers/"><u>Master Audio on Chrome Selecting the Best Web-Based Speech Modifiers</u></a></li>
-<li><a href="https://win11.techidaily.com/narrowing-down-user-rights-settings-on-everyday-windows-pcs/"><u>Narrowing Down User Rights Settings on Everyday Windows PCs</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-vertical-video-editing-made-easy-top-ios-and-android-apps-for-2024/"><u>New Vertical Video Editing Made Easy Top iOS and Android Apps for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/quick-steps-to-access-high-rate-youtube-likes-for-2024/"><u>Quick Steps to Access High-Rate YouTube Likes for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-8-cam-filters-for-optimal-online-performance-for-2024/"><u>Top 8 Cam Filters for Optimal Online Performance for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-the-challenge-of-keeping-artificial-intelligence-in-check/"><u>Understanding the Challenge of Keeping Artificial Intelligence in Check</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-which-video-editor-should-you-choose-sony-vegas-vs-adobe-premiere-pro/"><u>Updated Which Video Editor Should You Choose? Sony Vegas vs Adobe Premiere Pro</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-pinnacle-cloud-space-for-enterprise-success/"><u>[New] 2024 Approved Pinnacle Cloud Space for Enterprise Success</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-transform-your-images-into-dynamic-visual-stories/"><u>[New] 2024 Approved Transform Your Images Into Dynamic Visual Stories</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-how-to-rewind-android-movies-successfully/"><u>[New] How to Rewind Android Movies Successfully</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-unlock-youtube-partnership-aim-for-a-10k-views-target/"><u>[New] In 2024, Unlock YouTube Partnership Aim for a 10K Views Target</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-mastering-pexels-a-photographers-toolkit/"><u>[New] Mastering Pexels A Photographer's Toolkit</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-the-ultimate-checklist-for-video-praise-mastery-for-2024/"><u>[New] The Ultimate Checklist for Video Praise Mastery for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-index-of-videography-gadgets-by-type/"><u>[Updated] 2024 Approved Index of Videography Gadgets by Type</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-best-video-recording-gear-guide/"><u>[Updated] Best Video Recording Gear Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-scrutinizing-high-dynamic-range-insights-from-luminance/"><u>[Updated] In 2024, Scrutinizing High Dynamic Range Insights From Luminance</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-analyzing-the-best-for-gaming-screens/"><u>2024 Approved Analyzing the Best for Gaming Screens</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-legal-woes-google-news-feed-revised-and-get-the-best-mobile-internet-on-vacation/"><u>ChatGPT Legal Woes, Google News Feed Revised, and Get the Best Mobile Internet on Vacation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722106342965-exploring-the-viability-of-using-chatgpt-to-enhance-your-writing-through-proofreading-assistance/"><u>Exploring the Viability of Using ChatGPT to Enhance Your Writing Through Proofreading Assistance.</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gopros-battle-royale-hero5-b-stacked-against-session-for-2024/"><u>GoPro's Battle Royale Hero5 B Stacked Against Session for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-meizu-21-pro-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Meizu 21 Pro online without jailbreak</u></a></li>
+<li><a href="https://driver-error.techidaily.com/immediate-remedies-correcting-itbm-error-code-driver-unavailable/"><u>Immediate Remedies: Correcting ITBm Error Code 'Driver Unavailable'</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-samsung-galaxy-s23-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Samsung Galaxy S23 via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-how-to-master-every-feature-of-periscope/"><u>In 2024, How to Master Every Feature of Periscope</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-guide-to-top-instagram-metrics-monitors-for-ambitious-marketers/"><u>In 2024, The Guide to Top Instagram Metrics Monitors for Ambitious Marketers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-video-cataloging-mastery-perfecting-playlists-on-youtube-platform/"><u>In 2024, Video Cataloging Mastery Perfecting Playlists on YouTube Platform</u></a></li>
 </ul></div>
 

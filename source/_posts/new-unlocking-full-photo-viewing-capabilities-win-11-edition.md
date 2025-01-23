@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Unlocking Full Photo Viewing Capabilities  Win 11 Edition\""
-date: 2025-01-10T17:36:25.735Z
-updated: 2025-01-16T21:08:58.837Z
+date: 2025-01-17T16:23:44.147Z
+updated: 2025-01-22T20:06:18.410Z
 tags: 
   - screen-recording
   - ai video
@@ -42,7 +42,7 @@ Stay tuned to learn more!
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: Why you prefer Windows Photo Viewer
@@ -65,14 +65,10 @@ Here is why they want to restore Windows Photo Viewer –
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Though, Windows 10 Photos offers a dark theme, the effectiveness, responsiveness and features available with Windows Photo Viewer are hard to compromise.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 1 to restore Windows Photo Viewer
 
@@ -83,16 +79,12 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2**: Click on the present photo viewer app over there and look for ‘Windows Photo Viewer’. We assume that you have upgraded from an older version on Windows and Windows Photo Viewer is there in the options.
 
 **Step 3**: Tap on ‘Windows Photo Viewer’ and then exit ‘Settings’. Now, you have successfully restored Windows Photo Viewer and you can open photos in Windows Photo Viewer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2 to get Windows Photo Viewer back
 
@@ -108,9 +100,17 @@ Here is the detailed guide –
 
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-back.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note**: If the Windows Photo Viewer isn't there, here is a backup. You need to change Windows Registry to make Windows Photo Viewer returned. You need to go to [Edwin over on Ten Forums](https://www.tenforums.com/software-apps/8930-windows-photo-viewer-gone-2.html#post290818) to add code on your PC.
 
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -145,15 +145,20 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-how-to-control-speed-of-instagram-videos-effortlessly/"><u>[New] In 2024, How To Control Speed of Instagram Videos Effortlessly</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-blackout-blitz-60-second-effort/"><u>[Updated] 2024 Approved Blackout Blitz 60-Second Effort</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-prime-8-the-elite-select-for-facebook-movies-in-23/"><u>[Updated] 2024 Approved Prime 8 The Elite Select for Facebook Movies in '23</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-from-frame-to-script-innovative-ways-of-integrating-text-in-images/"><u>[Updated] From Frame to Script Innovative Ways of Integrating Text in Images</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-mastering-audio-transitions-audacity-guide/"><u>[Updated] In 2024, Mastering Audio Transitions Audacity Guide</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-revolutionizing-screen-experience-lgs-2023-bp550-for-2024/"><u>[Updated] Revolutionizing Screen Experience - LG's 2023 BP550 for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/behind-the-scenes-at-facebook-exploring-the-policies-center/"><u>Behind-the-Scenes at Facebook: Exploring the Policies Center</u></a></li>
-<li><a href="https://facebook.techidaily.com/delving-into-facebook-groups-a-community-exploration/"><u>Delving Into Facebook Groups: A Community Exploration</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-reinstall-hardware-drivers-in-windows-11-and-10-and-7-by-drivereasy-guide/"><u>How to use Device Manager to reinstall hardware drivers in Windows 11 & 10 & 7</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-apple-iphone-15-plus-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Apple iPhone 15 Plus iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-grading-inshot-does-it-reign-supreme/"><u>[New] 2024 Approved Grading InShot Does It Reign Supreme?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-pinnacle-5-image-alteration-apps-iphone-x78-edition/"><u>[New] 2024 Approved Pinnacle 5 Image Alteration Apps IPhone X/7/8 Edition</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-the-art-of-saturation-and-contrast-in-gopro-editing/"><u>[New] 2024 Approved The Art of Saturation and Contrast in GoPro Editing</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-essential-video-grabbers-for-windows-10-users/"><u>[New] Essential Video Grabbers for Windows 10 Users</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-master-iphones-natural-features-with-these-photo-hacks/"><u>[New] In 2024, Master iPhone's Natural Features with These Photo Hacks</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-reimagining-storytelling-through-vr-screens/"><u>[New] Reimagining Storytelling Through VR Screens</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-elevating-your-immersive-video-storytelling-mastering-360-degree-edits-in-premierepro-for-2024/"><u>[Updated] Elevating Your Immersive Video Storytelling Mastering 360-Degree Edits in PremierePro for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-fierce-facades-top-laptop-picks-for-uhd-editing-enthusiasts/"><u>[Updated] In 2024, Fierce Facades Top Laptop Picks for UHD Editing Enthusiasts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-understanding-the-key-of-youtube-aspect-ratios-for-success/"><u>[Updated] Understanding the Key of YouTube Aspect Ratios for Success</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-understanding-youtube-community-interaction/"><u>[Updated] Understanding YouTube Community Interaction</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/comment-retrouver-vos-fichiers-et-photographies-largement-partages-sur-dropbox/"><u>Comment Retrouver Vos Fichiers Et Photographies Largement Partagés Sur Dropbox?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-highlighted-6-exceptional-tools-for-cleaning-up-images/"><u>In 2024, Highlighted 6 Exceptional Tools for Cleaning Up Images</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-oppo-a38-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Oppo A38</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-independent-filming-freedoms-agreement/"><u>In 2024, Independent Filming Freedoms Agreement</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/troubleshooting-tips-for-win-11s-stubborn-photos-app/"><u>Troubleshooting Tips for Win 11'S Stubborn Photos App</u></a></li>
 </ul></div>
 

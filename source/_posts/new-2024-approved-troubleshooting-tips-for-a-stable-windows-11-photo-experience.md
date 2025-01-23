@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Troubleshooting Tips for a Stable Windows 11 Photo Experience\""
-date: 2025-01-09T18:39:24.608Z
-updated: 2025-01-16T18:34:33.288Z
+date: 2025-01-15T19:37:29.141Z
+updated: 2025-01-23T00:07:13.135Z
 tags: 
   - screen-recording
   - ai video
@@ -45,11 +45,11 @@ In this article, we have compiled the best solutions for you to get rid of Windo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-## How to fix Windows 10 Photos app crashes
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## How to fix Windows 10 Photos app crashes
 
 ### Solution 1: Use the Troubleshooter
 
@@ -63,15 +63,11 @@ Here is how to troubleshoot –
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/Troubleshooter.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. From the list of Apps displayed on the screen, click ‘Windows Store Apps’ and press the ‘Next’ button.
 2. Now, the troubleshooter will troubleshoot every app within the Windows Store Applications and fix them in a jiffy.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Solution 2: Restore Default Libraries
 
@@ -85,7 +81,7 @@ Restoring the default libraries would resolve the Windows 10 Photos App crash is
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/windows-10-photos-app-crashes-restore.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Lastly, click on ‘Apply’ followed by ‘OK’ and the issue will be resolved.
@@ -100,6 +96,10 @@ Here is how can you reset it –
 2. Hit ‘Advanced Options’ and click ‘Reset’ button thereafter.
 3. Now, you got to restart your Windows system, so that Windows 10 Photos App crashing problem can be easily resolved.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 4: Repair Photos App package
 
 A corrupted Photos App package might wreak havoc in your photo viewing, as the app doesn’t buzz follow your commands. The least you can do here is repair the package to fix minor glitches within and get it going.
@@ -112,7 +112,7 @@ Let’s fix the issue by repairing the Photos App package installed on your comp
 4. Now, the Windows 10 Photos App won’t crash.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Solution 5: Reinstall Windows 10 Photos app
@@ -159,21 +159,18 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-dive-into-iphone-photo-magic-with-surface-mirror-tips/"><u>[New] 2024 Approved Dive Into iPhone Photo Magic with Surface Mirror Tips</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-prohero-gopro-vs-nikkor-keymission-camera-faceoff/"><u>[New] In 2024, ProHero GoPro VS Nikkor Keymission Camera Faceoff</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-unlocking-optimal-zoom-features-in-google-meet-webinars/"><u>[New] In 2024, Unlocking Optimal Zoom Features in Google Meet Webinars</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-spark-creativity-get-to-know-windows-11s-movie-maker-app/"><u>[New] Spark Creativity Get to Know Windows 11'S Movie Maker App</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-best-of-the-best-in-open-world-gaming/"><u>[New] The Best of the Best in Open World Gaming</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-conquering-subreddit-mastering-the-art-of-public-discussion/"><u>[Updated] Conquering Subreddit Mastering the Art of Public Discussion</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-digital-image-synergy-tactics-for-2024/"><u>[Updated] Digital Image Synergy Tactics for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-mastery-in-motion-an-in-depth-look-at-polarrs-toolset/"><u>[Updated] In 2024, Mastery in Motion An In-Depth Look at Polarr’s Toolset</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-professional-livestream-tools-outside-of-standard-obs-for-2024/"><u>[Updated] Professional Livestream Tools Outside of Standard OBS for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-the-essential-distinctions-between-metaverse-and-multimeva-for-2024/"><u>[Updated] The Essential Distinctions Between Metaverse and Multimeva for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/effortless-batch-transformation-from-wav-to-aac-audio-on-pc-expert-tips-and-tools/"><u>Effortless Batch Transformation From WAV to AAC Audio on PC: Expert Tips & Tools</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-tecno-spark-10-4g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Tecno Spark 10 4G to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-a-comprehensive-selection-of-free-must-hear-game-sounds-for-2024/"><u>New A Comprehensive Selection of Free, Must-Hear Game Sounds for 2024</u></a></li>
-<li><a href="https://win-best.techidaily.com/step-by-step-guide-quick-and-effortless-cloning-of-ide-drives-to-sata-storage-on-windows-11-10-8-and-7/"><u>Step-by-Step Guide: Quick & Effortless Cloning of IDE Drives to SATA Storage on Windows 11, 10, 8, and 7</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/the-ultimate-resource-50plus-no-fee-visual-effects-websites-reviewed/"><u>The Ultimate Resource 50+ No-Fee Visual Effects Websites Reviewed</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-the-ultimate-list-of-the-most-accessible-no-cost-daw-programs-for-emerging-producers/"><u>Updated The Ultimate List of the Most Accessible, No-Cost DAW Programs for Emerging Producers</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-harmonious-hush-managing-music-on-pc-mac/"><u>[New] 2024 Approved Harmonious Hush Managing Music on PC, Mac</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-whip-up-your-own-web-humor-snippet/"><u>[New] 2024 Approved Whip Up Your Own Web Humor Snippet</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-elite-playlist-compiler-android-edition-for-2024/"><u>[New] Elite Playlist Compiler Android Edition for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-streamlining-zoom-sessions-with-invisible-edges/"><u>[New] In 2024, Streamlining Zoom Sessions with Invisible Edges</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-best-gopro-hero5-black-batteries-and-chargers-official-and-3rd-party/"><u>[Updated] Best GoPro Hero5 Black Batteries & Chargers Official and 3Rd Party</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-unraveling-the-latest-features-of-lgs-360-camera-series/"><u>[Updated] In 2024, Unraveling the Latest Features of LG's 360 Camera Series</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-samba-seed-eaters/"><u>[Updated] Samba Seed Eaters</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-itel-a60-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Itel A60? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-samsung-galaxy-s23-tactical-edition-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Samsung Galaxy S23 Tactical Edition Without PUK Codes</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-ways-to-create-engaging-intros-on-iphones-and-android-for-2024/"><u>Proven Ways to Create Engaging Intros on iPhones & Android for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ssential-guide-to-sports-highlight-video-creation/"><u>The Essential Guide to Sports Highlight Video Creation</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/top-tracks-for-a-professional-unboxing-presentation-for-2024/"><u>Top Tracks for a Professional Unboxing Presentation for 2024</u></a></li>
 </ul></div>
 

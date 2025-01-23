@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Perfecting Color Balance in GoPro Editing"
-date: 2025-01-08T01:00:20.351Z
-updated: 2025-01-11T01:05:09.755Z
+date: 2025-01-20T17:20:43.784Z
+updated: 2025-01-22T18:28:30.646Z
 tags: 
   - screen-recording
   - ai video
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/19529825bc864f6a7105eee056c51264b322fc80a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Color Correction in GoPro Studio
 
  One of the easiest and most convenient ways of making the most out of your action camera is to use the ["Protune"](https://gopro.com/support/articles/how-to-use-protune) setting. The Protune among other things is capable of enhancing the dynamic recording range. The enhanced dynamic range would offer you a flat log like image which appears more vigorous while during color grading.
@@ -51,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/19529825bc864f6a7105eee056c51264b322fc80a
 
 ![Color correction in GoPro Studio](https://images.wondershare.com/filmora/article-images/color-correction-in-gopro-studio-0.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** Color Correction- On the right hand side of your window the color correction can be done just by hitting on the arrow beside the White Balance button and the Image button. Now you can see the options which needed to be changed in order to correct the color. You will be able to view all the options like temperature, exposure, sharpness, contrast, tint and saturation. You can also choose to apply different preset overlays to give the footage a special filter.
 
 ![how to do color correction in GoPro Studio](https://images.wondershare.com/filmora/article-images/color-correction-in-gopro-studio-1.jpg)
@@ -59,19 +67,11 @@ thumbnail: https://thmb.techidaily.com/19529825bc864f6a7105eee056c51264b322fc80a
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The all new version of the Wondershare Filmora editing software for Windows and Mac is packed with exciting features meant exclusively for action cameras. These features include:
 
 1. [Video stabilization](https://tools.techidaily.com/wondershare/filmora/download/), advanced speed control (slow motion, fast motion, replay, freeze frame and reverse), audio de-noise, along with color correction features (3D, white balance, LUT etc).
 2. The Instant Cutter tool would give the users the option of trimming and merging video files without any loss of quality. It would allow you to cut a 8GB footage within just a minutes time.
 3. It fully supports  encoded MP4 format, MTS and Mov videos shot on any action cams, camcorders and phones.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## GoPro Footage Color Correction in Wondershare Filmora
 
@@ -82,7 +82,7 @@ thumbnail: https://thmb.techidaily.com/19529825bc864f6a7105eee056c51264b322fc80a
 ![color correction](https://images.wondershare.com/filmora/guide/1-action-cam-tool-fix-entrance.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2:** Color Tuning. Now you need to choose the Color Tab on the left of your control panel. Here you will be able to drag the individual slider so as to alter the contrast, brightness, tint, vignette and saturation.
@@ -90,14 +90,10 @@ thumbnail: https://thmb.techidaily.com/19529825bc864f6a7105eee056c51264b322fc80a
 ![correct gopro footage color](https://images.wondershare.com/filmora/article-images/color-corretion-in-gopro-studio-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The compare button located on the top right lets you check all the segments before and after the correction simultaneously. While the Reset button ![color-tuning-reset-button](https://images.wondershare.com/filmora/guide/color-tuning-reset-button.png) would allow you to clear all the color corrections anytime.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3:** Save and Share- Once the edit is finished you need to hit the Export button in order to save the edited clip as MOV or MP4 format. You can also alter the video res and the frames per sec. Now just hit the OK button to start the export.
 
@@ -106,6 +102,10 @@ thumbnail: https://thmb.techidaily.com/19529825bc864f6a7105eee056c51264b322fc80a
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -132,22 +132,22 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-a-step-by-step-approach-how-to-record-and-archive-online-radio/"><u>[New] A Step-by-Step Approach How To Record & Archive Online Radio</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-crafting-connections-the-art-and-science-of-personalized-facebook-profiles/"><u>[New] Crafting Connections The Art and Science of Personalized Facebook Profiles</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-gopro-vs-garmin-hero5-black-vs-virb-ultra-gadget-showdown/"><u>[New] In 2024, GoPro Vs. Garmin Hero5 Black Vs. VIRB Ultra - Gadget Showdown</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-storyboarding-through-instagram-slides/"><u>[New] In 2024, Storyboarding Through Instagram Slides</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-saving-space-with-efficient-hd-video-downloads-from-fb/"><u>[New] Saving Space with Efficient HD Video Downloads From FB</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-spectacular-photo-narrative-construction-suite/"><u>[New] Spectacular Photo Narrative Construction Suite</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-top-10-text-presets-for-visual-impact-for-2024/"><u>[New] Top 10 Text Presets for Visual Impact for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-crescendo-creations-adding-audio-magic-to-instagram-stories/"><u>[Updated] Crescendo Creations Adding Audio Magic to Instagram Stories</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/boost-creativity-how-to-use-movie-maker-on-windows-8-for-2024/"><u>Boost Creativity How to Use Movie Maker on Windows 8 for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpts-innovative-approaches-to-your-wellness-plan/"><u>ChatGPT’s Innovative Approaches to Your Wellness Plan</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/craft-clever-comical-content/"><u>Craft Clever, Comical Content</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/decoding-vivacut-video-editing-essentials-for-2024/"><u>Decoding VivaCut Video Editing Essentials for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/effortless-installation-of-validity-fingerprint-detection-software-direct-download-link-inside/"><u>Effortless Installation of Validity Fingerprint Detection Software – Direct Download Link Inside</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-oppo-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Oppo</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-a-comprehensive-look-celebrating-15-outstanding-unboxing-vloggers/"><u>In 2024, A Comprehensive Look Celebrating 15 Outstanding Unboxing Vloggers</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-procedure-of-ending-linkedin-services-and-deletion-process/"><u>In 2024, Procedure of Ending LinkedIn Services and Deletion Process</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/masterful-techniques-to-alter-facial-gender-in-instagram-snapchat-and-facebook-pictures/"><u>Masterful Techniques to Alter Facial Gender in Instagram, Snapchat & Facebook Pictures</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-boosting-viewership-and-fanship-through-strategic-igtv-hashtag-use/"><u>[New] Boosting Viewership and Fanship Through Strategic IGTV Hashtag Use</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-canon-camera-experience-no-cost-but-pay-for-more-luts/"><u>[New] Canon Camera Experience No Cost, But Pay for More LUTs</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-streamlining-your-workflow-with-mac-preview-complete-guide/"><u>[New] Streamlining Your Workflow with Mac Preview Complete Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-3-straightforward-methods-to-fine-tune-shades/"><u>[Updated] 3 Straightforward Methods to Fine-Tune Shades</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-audiovisual-adaptability-in-free-fire-for-2024/"><u>[Updated] Audiovisual Adaptability in Free Fire for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-strategies-for-enthralling-vlog-content-flow/"><u>[Updated] In 2024, Strategies for Enthralling Vlog Content Flow</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-make-every-podcast-session-count-with-these-15-powerful-activities-for-2024/"><u>[Updated] Make Every Podcast Session Count with These 15 Powerful Activities for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-hidden-reasons-behind-imovies-cuts/"><u>[Updated] The Hidden Reasons Behind iMovie’s Cuts</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-leveraging-spotifys-advertising-mechanisms/"><u>2024 Approved Leveraging Spotify's Advertising Mechanisms</u></a></li>
+<li><a href="https://win-guides.techidaily.com/comment-passe-partout-un-document-microsoft-word-sans-licence-guide-complet/"><u>Comment Passe-Partout Un Document Microsoft Word Sans Licence? - Guide Complet</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/vering-the-best-music-playback-on-youtube-2023/"><u>Discovering the Best Music Playback on YouTube, 2023</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-expert-techniques-for-streamers-on-macos/"><u>In 2024, Expert Techniques for Streamers on macOS</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-the-best-monitors-for-xbox-series-x/"><u>In 2024, The Best Monitors for Xbox Series X</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/liberez-le-potentiel-des-videos-en-haute-definition-avec-notre-codec-h265-gratuit/"><u>Libérez Le Potentiel Des Vidéos en Haute Définition Avec Notre Codec H.265 Gratuit</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/next-gen-tech-talk-samsungs-bdplus-k850-ultra-review/"><u>Next-Gen Tech Talk Samsung's BD+ K850 Ultra Review</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-essence-of-e-story-creation-techniques/"><u>The Essence of E-Story Creation Techniques</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-successfully-getting-cyberpunk-2077-on-your-pc-via-steam/"><u>Ultimate Guide: Successfully Getting Cyberpunk 2077 on Your PC via Steam</u></a></li>
 </ul></div>
 

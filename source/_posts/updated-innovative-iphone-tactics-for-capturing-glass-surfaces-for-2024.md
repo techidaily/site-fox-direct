@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Innovative iPhone Tactics for Capturing Glass Surfaces for 2024"
-date: 2025-01-07T06:08:19.057Z
-updated: 2025-01-11T03:45:51.811Z
+date: 2025-01-17T19:20:47.556Z
+updated: 2025-01-22T20:19:16.599Z
 tags: 
   - screen-recording
   - ai video
@@ -54,12 +54,16 @@ thumbnail: https://thmb.techidaily.com/bdb8177ec45e10fcd4ec5499f6e255ec00146feb5
 ![reflection-photography-for-iPhone](https://images.wondershare.com/filmora/article-images/crystal-ball.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Water in a wine glass (turns everything upside down too!)
 
 ![water-reflection](https://images.wondershare.com/filmora/article-images/water-reflection.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 2\.  Pay Attention to Composition
 
@@ -89,10 +93,6 @@ thumbnail: https://thmb.techidaily.com/bdb8177ec45e10fcd4ec5499f6e255ec00146feb5
 
 ![awful-composition](https://images.wondershare.com/filmora/article-images/awful-composition.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### 4\.  Reality and Reflection
 
  Don't just focus on the reflection, these tend to distract from how good the reflection is. Of course if the reflective surface reflects too well and you just focus on that. The image might come out as looking the same as if you had just pointed and shot the subject.
@@ -103,10 +103,6 @@ thumbnail: https://thmb.techidaily.com/bdb8177ec45e10fcd4ec5499f6e255ec00146feb5
 
 ![reality-and-reflection](https://images.wondershare.com/filmora/article-images/reality-and-reflection.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### 5\.  Texture
 
  Using a still reflective surface is good, but reflective photos are more effective if you have been able to capture texture. Where the reflective surface distorts the real life subject, you're able to artistically capture an entirely unique affect each time. This is why waves are a great way to create a truly different image with each shot.
@@ -114,6 +110,10 @@ thumbnail: https://thmb.techidaily.com/bdb8177ec45e10fcd4ec5499f6e255ec00146feb5
  It is also just good photography practice to have your subjects bend and distort the light. The contrasts make for an aesthetically beautiful image, and makes post production optimization even easier.
 
 ![make-use-of-texture](https://images.wondershare.com/filmora/article-images/make-use-of-texture.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Post Production Reflective Effects
 
@@ -134,21 +134,25 @@ thumbnail: https://thmb.techidaily.com/bdb8177ec45e10fcd4ec5499f6e255ec00146feb5
 
 ![reflect-mirror-camera-app](https://images.wondershare.com/filmora/article-images/reflect-mirror-camera-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Really easy to use entry level app, you can simply add reflections to your photos and there's also an option to do this as you take the photograph. The user interface is really clean and easy to use. You also get access to a massive library of templates and effects to make photos truly unique.
 
 #### 2\. [Reflection](https://itunes.apple.com/us/app/reflection-create-water-reflection-photo-arts/id672111257?mt=8)
 
 ![reflection-create-water-reflection-photo-arts](https://images.wondershare.com/filmora/article-images/reflection-create-water-reflection-photo-arts.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Super user friendly app lets you create HD photos and it's intuitive feature means you can create reflective photos in a few taps. This is one of the best apps in terms of the quality of images/edits. It has all of the reflective effects of many of the top editing packages like Photoshop.
 
 #### 3\. [Photo Reflection](https://itunes.apple.com/us/app/photo-reflection/id484604482?mt=8)
 
 ![photo-reflection-app](https://images.wondershare.com/filmora/article-images/photo-reflection-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you're not looking for professional level images then photo reflection is a good choice because it's free! It lacks some of the advanced features of the other apps but great for the very occasional photographer!
 
@@ -161,10 +165,6 @@ thumbnail: https://thmb.techidaily.com/bdb8177ec45e10fcd4ec5499f6e255ec00146feb5
  The app also has a large library of free and premium templates for you to use...
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -191,19 +191,16 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-10-excellent-cost-free-video-meeting-solutions-for-2024/"><u>[New] 10 Excellent, Cost-Free Video Meeting Solutions for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-mastering-viral-meme-creation-techniques/"><u>[New] In 2024, Mastering Viral Meme Creation Techniques</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-precision-flight-the-new-era-with-yuneec-drone-review/"><u>[New] Precision Flight The New Era with Yuneec Drone Review</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-perfect-purity-extract-background-from-your-photos-at-home/"><u>[Updated] 2024 Approved Perfect Purity Extract Background From Your Photos at Home</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-finding-the-best-mp4-recorder-on-market/"><u>[Updated] Finding the Best MP4 Recorder on Market</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-ultimate-list-selecting-excellent-webcams-for-podcasts/"><u>[Updated] In 2024, Ultimate List Selecting Excellent Webcams for Podcasts</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/2024s-top-strategies-for-repairing-damaged-video-game-data-on-your-computer/"><u>2024'S Top Strategies for Repairing Damaged Video Game Data on Your Computer</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/choosing-between-ipad-pro-models-a-detailed-comparison-of-apples-top-tablets-techradar/"><u>Choosing Between iPad Pro Models: A Detailed Comparison of Apple's Top Tablets | TechRadar</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/dare-to-innovate-with-claude-3-the-top-4-reasons-to-switch-up/"><u>Dare to Innovate with Claude 3: The Top 4 Reasons to Switch Up</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-enhance-your-mobile-shots-best-iphone-apps-for-object-removal/"><u>In 2024, Enhance Your Mobile Shots Best iPhone Apps for Object Removal</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-screen-scanning-mastery-using-fraps-tools/"><u>In 2024, Screen Scanning Mastery Using Fraps Tools</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-film-like-a-pro-a-beginners-guide-to-making-movies/"><u>New 2024 Approved Film Like a Pro A Beginners Guide to Making Movies</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/138571601-9781475978872-nine-simple-laws-to-create-joy-and-grace/"><u>Nine Simple Laws to Create Joy and Grace | Free Book</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ins-and-outs-of-sms-receipts-ensuring-your-text-is-actually-read/"><u>The Ins and Outs of SMS Receipts: Ensuring Your Text Is Actually Read</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-how-to-trim-and-cut-vimeo-videos-for-2024/"><u>[New] How to Trim and Cut Vimeo Videos for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-accurate-screen-shots-at-lightning-speed/"><u>[Updated] Accurate Screen Shots at Lightning Speed</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-artists-secret-high-quality-free-text-files-for-2024/"><u>[Updated] The Artist's Secret High-Quality Free Text Files for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-complete-inshot-editors-handbook-to-smoothness-for-2024/"><u>[Updated] The Complete Inshot Editor's Handbook to Smoothness for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-xsplit-digest-detailed-video-game-reviews-for-2024/"><u>[Updated] XSplit Digest Detailed Video Game Reviews for 2024</u></a></li>
+<li><a href="https://win-bits.techidaily.com/1-transferring-files-to-your-external-storage-a-step-by-step-guide-by-yl-computing/"><u>1. Transferring Files to Your External Storage: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-lava-yuva-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/preserving-profile-prestige-from-pretend-popularity-pitfalls/"><u>Preserving Profile Prestige From Pretend Popularity Pitfalls</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/revolutionizing-action-video-with-polaroid-xs-100i/"><u>Revolutionizing Action Video with Polaroid XS 100I</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/streamlining-your-experience-live-cricket-viewing-tips/"><u>Streamlining Your Experience Live Cricket Viewing Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-your-task-scheduling-solve-troubles/"><u>Unleash Your Task Scheduling, Solve Troubles</u></a></li>
 </ul></div>
 

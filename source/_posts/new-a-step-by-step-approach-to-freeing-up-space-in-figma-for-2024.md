@@ -1,7 +1,7 @@
 ---
 title: "\"[New] A Step-by-Step Approach to Freeing Up Space in Figma for 2024\""
-date: 2024-12-29T23:01:31.820Z
-updated: 2025-01-03T18:58:53.932Z
+date: 2025-01-20T18:28:36.296Z
+updated: 2025-01-23T00:51:25.489Z
 tags: 
   - screen-recording
   - ai video
@@ -32,7 +32,7 @@ So, keep reading to find out about removing an image's background in Figma!
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Best Option to Remove Image's Background in Figma
@@ -61,6 +61,10 @@ This function lets you use brushstrokes to remove watermarks from your target pi
 
 With its Image Englargement feature, you can expand the size of your picture up to 400% without losing the quality.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to use PixCut to remove the background in Figma
 
 Here's how you can get the PixCut plugin in Figma and use it to remove the background in just three simple steps:
@@ -80,7 +84,7 @@ Step3 Paste the Appkey in the pop-up window in Figma and click **"Save."** Now, 
 ![running the pixcut plugin in figma](https://images.wondershare.com/filmora/article-images/2023/03/running-the-pixcut-plugin-in-figma.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The program will start running the plugin, and the background of your image will disappear. Click the **"Export"** option and save your file on your system.
@@ -88,6 +92,10 @@ The program will start running the plugin, and the background of your image will
 ## Other Options To Remove Image's Background In Figma
 
 Apart from using PixCut Plugin in Figma, there are some alternatives that you can use to remove the image's background in Figma:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### (1) When Images Are With Transparent or Solid Colour Backgrounds
 
@@ -118,10 +126,6 @@ Step3 Select **"Find More Plugins"** and use the search option in the pop-up win
 
 ![accessing the plugin installation page in figma](https://images.wondershare.com/filmora/article-images/2023/03/accessing-the-plugin-installation-page-in-figma.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### (3) Using Online Removers
 
 Another alternative is to use any tool that **removes the image background online**. For example, we recommend using the [Remove BG tool](https://www.remove.bg/).
@@ -129,7 +133,7 @@ Another alternative is to use any tool that **removes the image background onlin
 To use the Remove BG tool, visit its website, drop your image file, or click the **"Upload"** option to import your file. Now, wait for the program to process your image and then click **"Download"** to save your picture. Afterward, you can import it to Figma for further editing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Video Tutorial - How to remove background from images in Figma in 2minutes
@@ -137,7 +141,7 @@ To use the Remove BG tool, visit its website, drop your image file, or click the
 Hopefully, you have found an ideal solution by now. To help you remove the image's background in Figma with more ease, we have prepared a video for you. You can combine the video content with the guidance above:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -159,10 +163,6 @@ Step2 **Right-click** on the image in the editor and click **"Plugins."**
 Step3 Select **"Find More Plugins"** and use the search option in the pop-up window to find the plugin you need.
 
 ![accessing the plugin installation page in figma](https://images.wondershare.com/filmora/article-images/2023/03/accessing-the-plugin-installation-page-in-figma.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### (3) Using Online Removers
 
@@ -206,24 +206,21 @@ Hopefully, this article helped resolve your queries, and you can now use the Fig
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-accelerated-pathway-through-keying-fundamentals-for-2024/"><u>[Updated] Accelerated Pathway Through Keying Fundamentals for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-easy-media-sharing-on-twitter-no-retweets-required/"><u>[Updated] In 2024, Easy Media Sharing on Twitter - No Retweets Required</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-captivating-features-the-allure-of-filmora-editing/"><u>2024 Approved Captivating Features The Allure of Filmora Editing</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-cutting-edge-components-in-desktops/"><u>2024 Approved Cutting-Edge Components in Desktops</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-diy-filming-hacks-to-learn-and-implement-at-home/"><u>2024 Approved DIY Filming Hacks to Learn and Implement at Home</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-film-making-mastery-guidebook/"><u>2024 Approved Film Making Mastery Guidebook</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-from-script-to-screen-your-windowed-path-to-video-creation-excellence/"><u>2024 Approved From Script to Screen Your Windowed Path to Video Creation Excellence</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-ideal-digital-talk-initiator/"><u>2024 Approved Ideal Digital Talk Initiator</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-mastering-the-vr-lingo-core-terminology-guide/"><u>2024 Approved Mastering the VR Lingo Core Terminology Guide</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-step-by-step-editing-ios-ringtone-settings/"><u>2024 Approved Step-by-Step Editing iOS Ringtone Settings</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-step-by-step-process-to-master-color-grading-with-luts-in-pscc/"><u>2024 Approved Step-by-Step Process to Master Color Grading with LUTs in PSCC</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/efficient-partition-recovery-tools-bring-back-lost-or-locked-drives/"><u>Efficient Partition Recovery Tools: Bring Back Lost or Locked Drives</u></a></li>
-<li><a href="https://extra-information.techidaily.com/elite-eight-polishing-pictures-through-premium-grid-makers/"><u>Elite Eight Polishing Pictures Through Premium Grid Makers</u></a></li>
-<li><a href="https://win-dash.techidaily.com/guide-installing-latest-drivers-for-intel-hd-graphics-5500/"><u>Guide: Installing Latest Drivers for Intel HD Graphics 5500</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-from-apple-iphone-7-plus-by-drfone-ios/"><u>How to Fix when Apple Account Locked From Apple iPhone 7 Plus?</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-top-15-slow-motion-capcut-templates-to-work-with-for-2024/"><u>New Top 15 Slow Motion CapCut Templates to Work With for 2024</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/overcoming-the-hurdle-unlocking-and-repairing-disabled-system-restore-in-windows-11/"><u>Overcoming the Hurdle: Unlocking and Repairing Disabled System Restore in Windows 11</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/speeding-up-your-pc-proven-strategies-and-techniques-by-yl-computing-experts/"><u>Speeding Up Your PC: Proven Strategies and Techniques by YL Computing Experts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-guide-how-to-effortlessly-extract-audio-from-videos-on-pcs-with-windows-10-or-11-including-bulk-processing/"><u>Ultimate Guide: How to Effortlessly Extract Audio From Videos on PCs with Windows 10 or 11, Including Bulk Processing</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-elite-mobile-filming-tech-for-iphones/"><u>[New] In 2024, Elite Mobile Filming Tech for iPhones</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-social-strategies-for-disseminating-health-information/"><u>[New] In 2024, Social Strategies for Disseminating Health Information</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-securely-saving-your-instagram-videos-on-pc-and-macos-for-2024/"><u>[New] Securely Saving Your Instagram Videos on PC and MacOS for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-anti-fog-strategies-optimal-gopro-video-quality/"><u>[Updated] Anti-Fog Strategies Optimal GoPro Video Quality</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-elite-women-gaming-leaders-top-10-on-yt-for-2024/"><u>[Updated] Elite Women Gaming Leaders Top 10 On YT for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-experts-picks-top-5-free-screen-recorders-for-pc-users/"><u>[Updated] In 2024, Expert's Picks Top 5 Free Screen Recorders For PC Users</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-mastering-virtual-worlds-compreenas-top-8-metaverse-headgear-for-2024/"><u>[Updated] Mastering Virtual Worlds Compreenas Top 8 Metaverse Headgear for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-itel-a60-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Itel A60 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/computational-photography-what-are-auto-hdr-smart-hdr-3-and-4-shooting-modes-in-2024/"><u>Computational Photography What Are Auto HDR, Smart HDR 3 & 4 Shooting Modes, In 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/getting-your-pc-ready-for-enhanced-innovation-with-windows-11-creators-updates-key-steps/"><u>Getting Your PC Ready for Enhanced Innovation with Windows 11 Creator's Updates: Key Steps!</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-free-sustainable-scenes-for-filmmakers/"><u>In 2024, Free Sustainable Scenes for Filmmakers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/peer-reviewed-evaluation-of-action-screening-tech/"><u>Peer-Reviewed Evaluation of Action Screening Tech</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/revamp-your-sound-experience-update-sound-card-drivers-with-yls-tutorial/"><u>Revamp Your Sound Experience: Update Sound Card Drivers with YL's Tutorial</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/the-ultimate-guide-to-professional-iphoneipad-podcast-production-for-2024/"><u>The Ultimate Guide to Professional iPhone/iPad Podcast Production for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-xiaomi-redmi-13c-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Xiaomi Redmi 13C Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-plugins-list-after-effects-edition-for-2024/"><u>Ultimate Plugins List After Effects Edition for 2024</u></a></li>
 </ul></div>
 
