@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Harmonize Visual & Auditory Elements  Adding Filters & Sound to Windows Photos App for 2024\""
-date: 2025-01-17T00:32:07.866Z
-updated: 2025-01-23T03:09:55.892Z
+date: 2025-01-27T13:09:05.534Z
+updated: 2025-01-30T14:16:38.459Z
 tags: 
   - screen-recording
   - ai video
@@ -38,10 +38,6 @@ Having Windows 10 Photos app is an advantage for you. This is not like any other
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to add filters on Windows 10 Photos App
 
 If you have got Windows 10 Photos app and wish to add filters, though, it is by default a photo viewing app, its editing features are worth to mention. This step by step guide is your perfect savior in that case.
@@ -61,10 +57,14 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 ![ add filters on windows 10 photos app](https://images.wondershare.com/filmora/article-images/edit-filters-microsoft-photos.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 5**: Just select one you like. Preview it and then click Done.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to add music on Windows 10 Photos App
 
@@ -79,21 +79,17 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 ![ add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-music-to-video-photos-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4**: Pick ‘Your music’ so that you can set up a custom track. There are over 20 music you can choose. You can also sync music to video's beat. You can visit ‘Recommended’ section for adding default ones.
 
 ![add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/choose-music-to-video-photos-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 5**: Hit the ‘Done’ button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -101,6 +97,10 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 From the above article, we conclude that Windows 10 Photos app is an amazing app when it comes to photo editing and screen capturing from a video. While there are numerous options out there, you can **_add filters using Windows 10 Photos app_** in the best way possible. Moreover, this application enables you enable to even add music to videos using Windows 10 Photos app. The advantages of Windows 10 are innumerable, and with the right tools, you can get the best out of it.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -127,17 +127,16 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-the-artistic-edge-premium-text-tools-for-adobe-after-effects/"><u>[New] 2024 Approved The Artistic Edge Premium Text Tools for Adobe After Effects</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-everlasting-screen-saving-utility-for-2024/"><u>[New] Everlasting Screen Saving Utility for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-top-10-ios-auditory-options/"><u>[New] Top 10 iOS Auditory Options</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-best-of-the-best-in-drone-following-capabilities/"><u>[Updated] In 2024, Best of the Best in Drone Following Capabilities</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-integrating-vimeo-to-instagram-posts-for-2024/"><u>[Updated] Integrating Vimeo to Instagram Posts for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-twitch-time-reversal-17-methods-to-master-your-live-stream-for-2024/"><u>[Updated] Twitch Time Reversal 17 Methods to Master Your Live Stream for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-unleash-creativity-10-must-know-tips-for-cover-art-for-2024/"><u>[Updated] Unleash Creativity 10 Must-Know Tips for Cover Art for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/cutting-edge-the-6-leading-video-apps-for-macos-big-sur-for-2024/"><u>Cutting Edge The 6 Leading Video Apps for macOS Big Sur for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-charting-uncharted-territories-with-jaunt-vr/"><u>In 2024, Charting Uncharted Territories with Jaunt VR</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-easy-steps-for-screenshotting-instagrams-story-section/"><u>In 2024, Easy Steps for Screenshotting Instagram's Story Section</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-melodypulse-recorder-downloads-guide/"><u>In 2024, Melodypulse Recorder Downloads Guide</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlock-your-disabled-apple-iphone-se-without-itunes-in-5-ways-by-drfone-ios/"><u>Unlock Your Disabled Apple iPhone SE Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-from-script-to-screen-effective-editing-on-windows-10-for-filmmakers-for-2024/"><u>[New] From Script to Screen Effective Editing on Windows 10 for Filmmakers for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-installation-route-to-windows-movie-maker-6-version-6-for-2024/"><u>[New] Installation Route to Windows Movie Maker 6 Version 6 for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-prime-pictures-visuals-for-livestream-excellence/"><u>[New] Prime Pictures Visuals for Livestream Excellence</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-elite-collective-photo-music-plus-visual-creation-fusion-for-2024/"><u>[Updated] Elite Collective Photo, Music + Visual Creation Fusion for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-faces-in-flux-perfecting-motion-blur-on-human-figures-in-photos/"><u>[Updated] In 2024, Faces in Flux Perfecting Motion Blur on Human Figures in Photos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-what-is-a-parody-and-how-to-make-a-parody-video/"><u>[Updated] In 2024, What Is a Parody and How to Make a Parody Video</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-magic-box-inside-a-top-tier-vr-device/"><u>[Updated] The Magic Box Inside a Top-Tier VR Device</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-top-10-online-video-tools-perfecting-webcam-footage/"><u>2024 Approved Top 10 Online Video Tools Perfecting Webcam Footage</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-chasing-deals-on-vr-gear-in-china/"><u>In 2024, Chasing Deals on VR Gear in China</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/mastering-the-ice-with-a-detailed-look-at-nhl-19s-virtual-gameplay/"><u>Mastering the Ice with a Detailed Look at NHL 19'S Virtual Gameplay</u></a></li>
 </ul></div>
 
