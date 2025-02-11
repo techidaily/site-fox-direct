@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  High-Capacity Card for A7S Professional Use\""
-date: 2024-08-15T12:42:34.040Z
-updated: 2024-08-16T12:42:34.040Z
+date: 2025-02-09T19:08:51.732Z
+updated: 2025-02-11T17:48:07.589Z
 tags: 
   - screen-recording
   - ai video
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/0791bf71ffcd0caa089c5eb4acb0659b94a163050
  Sony A7S II is well known for its abilities to process all media file formats along with 4K resolution levels. But note that you will need huge storage capacity to work with all advanced features of this camera so here is a need to go through available memory cards. Note that Sony A7S II is highly dependent upon type of memory card and when it find that memory card is not meeting desired requirements then card type it simply disables few important features. It is good to ensure that you have bought right card so that your camera can function properly.
 
  The article below can help you to select right memory cards for your Sony A7S II camera:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to choose the right memory card for your Sony A7S II
 
@@ -68,8 +72,9 @@ thumbnail: https://thmb.techidaily.com/0791bf71ffcd0caa089c5eb4acb0659b94a163050
 * The SD cards are small sized, compact units so whether you carry a 64GB card in your pocket or choose a 128GB package, none of these are going to put additional weight on your pocket.
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Best Memory Cards for Sony A7S II
 
 #### 1. Sony 64GB High Performance Class 10 UHS-1/U3 SDXC
@@ -109,8 +114,9 @@ thumbnail: https://thmb.techidaily.com/0791bf71ffcd0caa089c5eb4acb0659b94a163050
 * Ensures perfect results for Full HD, 3D and 4K resolution levels.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -136,8 +142,21 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-bridging-platforms-posting-igtv-on-facebook-efficiently/"><u>[New] 2024 Approved Bridging Platforms Posting IGTV on Facebook Efficiently</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/liminate-camera-sway-no-tripods-allowed-for-2024/"><u>[New] Eliminate Camera Sway No Tripods, Allowed for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-overcoming-virtual-reality-discomfort/"><u>[Updated] In 2024, Overcoming Virtual Reality Discomfort</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-swift-restoration-of-photos-viewer-performance-in-windows-10/"><u>[Updated] In 2024, Swift Restoration of Photos Viewer Performance in Windows 10</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-budgeting-approach-to-making-music-videos/"><u>2024 Approved Budgeting Approach to Making Music Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-gratuitous-goal-games-capturing-kicks-without-costs/"><u>2024 Approved Gratuitous Goal Games Capturing Kicks Without Costs</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-journey-to-high-definition-mastering-sdr-to-hdr-conversion/"><u>2024 Approved Journey to High Definition Mastering SDR to HDR Conversion</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-multitask-media-magic-employing-netflix-picture-in-picture/"><u>2024 Approved Multitask Media Magic Employing Netflix Picture-in-Picture</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-silent-snapshots-avoiding-blurry-blows/"><u>2024 Approved Silent Snapshots Avoiding Blurry Blows</u></a></li>
+<li><a href="https://extra-information.techidaily.com/audiophiles-guide-to-the-renewed-lg-bp550-for-2024/"><u>Audiophile's Guide to the Renewed LG BP550 for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-samsung-galaxy-a24-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on Samsung Galaxy A24?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Nokia 105 Classic? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unraveling-youtubes-monetization-shifts/"><u>In 2024, Unraveling YouTube's Monetization Shifts</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-tecno-phantom-v-flip-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Tecno Phantom V Flip Device Top 5 Picks to Remove Android Locks</u></a></li>
+</ul></div>
 

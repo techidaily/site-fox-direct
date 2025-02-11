@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Dive Into iPhone Photo Magic with Surface Mirror Tips\""
-date: 2024-08-15T12:42:56.484Z
-updated: 2024-08-16T12:42:56.484Z
+date: 2025-02-05T19:50:02.383Z
+updated: 2025-02-11T16:36:26.639Z
 tags: 
   - screen-recording
   - ai video
@@ -52,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/bb9b7157cde51ae69f835473474384e7538166f29
 
 ![water-reflection](https://images.wondershare.com/filmora/article-images/water-reflection.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 2\.  Pay Attention to Composition
 
  Composition is the very basis of good photography, as the person taking the picture you decide the scene. The most integral part of good composition is the rule of thirds. This means you should divide up the scene/subject into 9 equal squares/rectangles (depending on frame).
@@ -80,6 +84,10 @@ thumbnail: https://thmb.techidaily.com/bb9b7157cde51ae69f835473474384e7538166f29
 
 ![awful-composition](https://images.wondershare.com/filmora/article-images/awful-composition.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 4\.  Reality and Reflection
 
  Don't just focus on the reflection, these tend to distract from how good the reflection is. Of course if the reflective surface reflects too well and you just focus on that. The image might come out as looking the same as if you had just pointed and shot the subject.
@@ -99,8 +107,13 @@ thumbnail: https://thmb.techidaily.com/bb9b7157cde51ae69f835473474384e7538166f29
 ![make-use-of-texture](https://images.wondershare.com/filmora/article-images/make-use-of-texture.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Post Production Reflective Effects
 
  It's possible to create great reflective photographs by using reflective effects after you have taken it. You can deceptively take one of your great photos and use the reflective effect to make it appear on a reflective looking surface. Here's some examples of photos that were created using this effect through software:
@@ -119,8 +132,9 @@ thumbnail: https://thmb.techidaily.com/bb9b7157cde51ae69f835473474384e7538166f29
 #### 1\. Reflect Mirror Camera
 
 ![reflect-mirror-camera-app](https://images.wondershare.com/filmora/article-images/reflect-mirror-camera-app.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Really easy to use entry level app, you can simply add reflections to your photos and there's also an option to do this as you take the photograph. The user interface is really clean and easy to use. You also get access to a massive library of templates and effects to make photos truly unique.
@@ -128,36 +142,24 @@ thumbnail: https://thmb.techidaily.com/bb9b7157cde51ae69f835473474384e7538166f29
 #### 2\. Reflection
 
 ![reflection-create-water-reflection-photo-arts](https://images.wondershare.com/filmora/article-images/reflection-create-water-reflection-photo-arts.jpg)
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Super user friendly app lets you create HD photos and it's intuitive feature means you can create reflective photos in a few taps. This is one of the best apps in terms of the quality of images/edits. It has all of the reflective effects of many of the top editing packages like Photoshop.
 
 #### 3\. Photo Reflection
 
 ![photo-reflection-app](https://images.wondershare.com/filmora/article-images/photo-reflection-app.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  If you're not looking for professional level images then photo reflection is a good choice because it's free! It lacks some of the advanced features of the other apps but great for the very occasional photographer!
 
 #### 4\. Photo Mirror Effects
 
 ![photo-mirror-effects-reflection-editor](https://images.wondershare.com/filmora/article-images/photo-mirror-effects-reflection-editor.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Another great choice for getting started with reflective photography. It has some mid range editing features, but this is made up in it's easy of use. Perhaps one of the best free reflective photography apps and you can even share the images directly to your social media feeds.
 
  The app also has a large library of free and premium templates for you to use...
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -182,8 +184,26 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-unlocking-the-power-of-facebook-slideshows-in-digital-marketing/"><u>[New] In 2024, Unlocking the Power of Facebook Slideshows in Digital Marketing</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-navigating-tiktok-with-mac-key-knowledge-points-for-2024/"><u>[New] Navigating TikTok with Mac Key Knowledge Points for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-advanced-tips-and-tricks-for-speech-transcription-with-gdoc/"><u>2024 Approved Advanced Tips and Tricks for Speech Transcription with GDoc</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-apex-pcs-the-summit-of-desktop-technology/"><u>2024 Approved Apex PCs - The Summit of Desktop Technology</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-desktoponline-passport-picture-creation-10-per-person/"><u>2024 Approved Desktop/Online Passport Picture Creation - 10 Per Person</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-exploring-free-superior-webm-video-playback-solutions/"><u>2024 Approved Exploring Free, Superior WebM Video Playback Solutions</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-how-to-adjust-frame-rate-on-your-story-feed-in-instagram/"><u>2024 Approved How to Adjust Frame Rate on Your Story Feed in Instagram</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-how-to-leverage-longer-vids-on-instagram-effectively/"><u>2024 Approved How to Leverage Longer Vids on Instagram Effectively</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-how-to-uncover-hidden-facebook-vids-updated-guide/"><u>2024 Approved How to Uncover Hidden Facebook Vids (Updated Guide)</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-ideal-7-video-players-for-apple-devices/"><u>2024 Approved Ideal 7 Video Players for Apple Devices</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-mastering-haul-vids-creation-and-editing-basics/"><u>2024 Approved Mastering Haul Vids Creation & Editing Basics</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-navigating-metaverse-marketing-landscapes/"><u>2024 Approved Navigating Metaverse Marketing Landscapes</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-navigating-srt-extensions-on-operating-systems/"><u>2024 Approved Navigating SRT Extensions on Operating Systems</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-pilots-perspective-dji-dualsense-fpv-tech/"><u>2024 Approved Pilot's Perspective DJI DualSense FPV Tech</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-new-geforce-1660-super-gpu-drivers-downloading-and-updating-instructions/"><u>Get the New GeForce 1660 Super GPU Drivers: Downloading & Updating Instructions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-resolve-compatibility-problems-with-ralink-rt3290-wi-fi-adapter-in-windows-1187-systems/"><u>How to Resolve Compatibility Problems with Ralink RT3290 Wi-Fi Adapter in Windows 11/8/7 Systems</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-8-to-other-iphone-15-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 8 to other iPhone 15 devices? | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-todays-drone-usage-tomorrows-revolutionary-pathways/"><u>In 2024, Today's Drone Usage, Tomorrow's Revolutionary Pathways</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-board-games-with-chatgpt-unleash-the-power-of-my-gpt-bot-creations/"><u>Mastering Board Games with ChatGPT: Unleash the Power of My GPT Bot Creations</u></a></li>
+</ul></div>
 

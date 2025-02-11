@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Crafting Compelling Narratives with B-Cut Footage\""
-date: 2025-01-26T19:42:14.762Z
-updated: 2025-01-29T17:09:14.915Z
+date: 2025-02-06T20:24:45.209Z
+updated: 2025-02-11T18:39:15.269Z
 tags: 
   - screen-recording
   - ai video
@@ -27,6 +27,10 @@ Now that we know that, let's dive in!
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. B roll In TV And Movies
 
 Broll is an acronym for "background" or "behind," respectively. It usually refers to extra footage captured with a movie camera while keeping the lighting consistent between scenes in the movie industry. When the filmmaker doesn't want to show any dialogue or action on screen but needs some movement within the frame, it might be utilized as filler.
@@ -37,6 +41,10 @@ B roll can be utilized for establishing shots as well as close-ups of items. It 
 
 For instance, wider shots are frequently used when someone is giving a speech while seated behind a podium so that we can see both them and their surroundings, such as audience members standing close and applauding or security personnel.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Methods to use b roll
 
 Now that there are so many stock footage platforms, you have a lot of choices when you need just the right scene for your project. Most of the time, filmmakers don't use B roll footage. One good way to use it is to use it as a way to move from one scene to the next. It can also be used to set the mood for an event or show what time of day it is when filming.
@@ -46,23 +54,19 @@ The ideal way to use B roll is to put it behind interviews. This kind of footage
 On the other hand, cutaways can show how different people react to what is being said in an interview. After all, transitions are commonly used to switch from one person's experience with a certain topic to another person's experience with the same topic. All of these different kinds of footage give filmmakers and videographers more freedom to tell their stories without relying too much on dialogue or narration.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. What types of b roll are there?
 
 We'll examine the top 5 uses for B rolls across a variety of video genres and discuss how to implement them effectively in your own projects.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Archival b roll footage
 
 Aerial B roll is the solution when you like to show your viewers where your film is being recorded or when you are changing locations and want them to know it. The plane takes off and lands in another city, and then shots of the city, its landmarks, its famous streets, etc. are shown. You have probably seen this type of B roll footage in movies and TV shows. These images aid in putting the viewer in the character's current location. Check out this collection of setting images from the Neighbors television series.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Visual detail b roll footage
@@ -70,16 +74,12 @@ Aerial B roll is the solution when you like to show your viewers where your film
 Including archival material in your video allows your audience to experience a previously covered or historically significant story as it occurred. Look at this illustration from Netflix's 14 Peaks: Nothing Is Impossible, which was made utilizing old b roll film from the era to help the viewer connect with the narrative.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Storytelling b roll footage
 
 B roll footage can be used to tell a story that supports the narrative of your video. For example, in this video interview of Tom DeLonge, the speaker talks about living in a neighborhood. The B rolls show him driving around in his car, skateboarding on the street in the 90's. These add to the story the video creator wants to talk about not seeing people with a disability differently.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Undirected b roll footage
 
@@ -135,22 +135,18 @@ We sincerely hope that this post will be of use to you in making your films more
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-de-jelling-drone-mobility-captures/"><u>[New] 2024 Approved De-Jelling Drone Mobility Captures</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-expert-endorsed-gpus-for-top-quality-online-video-playback/"><u>[New] 2024 Approved Expert-Endorsed GPUs for Top Quality Online Video Playback</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-full-review-for-bublcam-360-camera/"><u>[New] 2024 Approved Full Review for Bublcam 360 Camera</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-unveiling-the-best-skype-recorders-of-this-year/"><u>[New] 2024 Approved Unveiling the Best Skype Recorders of This Year</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-supreme-seminar-strategist-summit/"><u>[New] Supreme Seminar Strategist Summit</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-gigglegif-builder/"><u>[Updated] 2024 Approved GiggleGif Builder</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-crafting-engaging-reels-adding-music-without-compromise/"><u>[Updated] Crafting Engaging Reels Adding Music without Compromise</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-the-insider-guide-to-simplifying-character-voice-modification-pubg-for-2024/"><u>[Updated] The Insider Guide to Simplifying Character Voice Modification (PUBG) for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-the-best-of-the-best-reddits-all-time-favorites/"><u>2024 Approved The Best of the Best Reddit's All-Time Favorites</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-y27-5g-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Y27 5G.</u></a></li>
-<li><a href="https://change-location.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Samsung Galaxy M34 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/high-def-camera-the-top-audio-mics-guide-for-2024/"><u>High-Def Camera The Top Audio Mics Guide for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mp4-files-on-galaxy-a24-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How do you play MP4 files on Galaxy A24?</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-realme-11-pro-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Realme 11 Pro by Name | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/network-interface-interrupt-tested-successfully/"><u>Network Interface Interrupt Tested Successfully</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/overcoming-msvcrt10dll-errors-fixes-and-prevention-tips/"><u>Overcoming MSVCRT10.DLL Errors: Fixes and Prevention Tips</u></a></li>
-<li><a href="https://facebook.techidaily.com/safeguarding-your-profile-on-facebook-activating-protection-system/"><u>Safeguarding Your Profile on Facebook: Activating Protection System</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-breaking-down-the-selfie-security-on-insta/"><u>[New] 2024 Approved Breaking Down the Selfie Security on Insta</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-the-ultimate-speech-refinement-kit-free-tools-for-flawless-audio-effects/"><u>2024 Approved The Ultimate Speech Refinement Kit Free Tools for Flawless Audio Effects</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-transform-into-a-metaverse-virtuoso-essential-tools-list/"><u>2024 Approved Transform Into a Metaverse Virtuoso - Essential Tools List</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-your-pathway-to-effective-zoom-hosting/"><u>2024 Approved Your Pathway to Effective Zoom Hosting</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/advanced-color-techniques-incorporating-luts-for-cinematic-flair-for-2024/"><u>Advanced Color Techniques Incorporating Luts for Cinematic Flair for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/amp-up-creativity-premiere-pro-templates-free-for-2024/"><u>Amp Up Creativity Premiere Pro Templates, FREE for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/android-gaming-delight-with-kinemaster-app-explored-for-2024/"><u>Android Gaming Delight with KineMaster App Explored for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-nokia-c300-device-sim-by-drfone-android/"><u>Easily Unlock Your Nokia C300 Device SIM</u></a></li>
+<li><a href="https://win-able.techidaily.com/football-manager-2022s-launch-issues-a-comprehensive-fix-guide/"><u>Football Manager 2022'S Launch Issues: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-samsung-galaxy-z-flip-5-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Samsung Galaxy Z Flip 5 FRP?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-venture-into-virtuality-comprehensively-reviewing-top-10-vr-streamers/"><u>In 2024, Venture Into Virtuality Comprehensively Reviewing Top 10 VR Streamers</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-realme-v30-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Realme V30? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/steps-to-stream-fubotv-using-your-amazon-fire-tv-stick/"><u>Steps to Stream FuboTV Using Your Amazon Fire TV Stick</u></a></li>
 </ul></div>
 

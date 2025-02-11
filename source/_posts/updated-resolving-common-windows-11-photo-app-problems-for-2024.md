@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Resolving Common Windows 11 Photo App Problems for 2024"
-date: 2025-01-25T06:05:50.065Z
-updated: 2025-01-30T11:27:42.465Z
+date: 2025-02-10T16:25:50.790Z
+updated: 2025-02-11T16:35:00.970Z
 tags: 
   - screen-recording
   - ai video
@@ -46,13 +46,13 @@ In this article, we have compiled the best solutions for you to get rid of Windo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to fix Windows 10 Photos app crashes
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Solution 1: Use the Troubleshooter
@@ -66,16 +66,8 @@ Here is how to troubleshoot –
 
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/Troubleshooter.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. From the list of Apps displayed on the screen, click ‘Windows Store Apps’ and press the ‘Next’ button.
 2. Now, the troubleshooter will troubleshoot every app within the Windows Store Applications and fix them in a jiffy.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Solution 2: Restore Default Libraries
 
@@ -100,6 +92,10 @@ Here is how can you reset it –
 2. Hit ‘Advanced Options’ and click ‘Reset’ button thereafter.
 3. Now, you got to restart your Windows system, so that Windows 10 Photos App crashing problem can be easily resolved.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 4: Repair Photos App package
 
 A corrupted Photos App package might wreak havoc in your photo viewing, as the app doesn’t buzz follow your commands. The least you can do here is repair the package to fix minor glitches within and get it going.
@@ -112,7 +108,7 @@ Let’s fix the issue by repairing the Photos App package installed on your comp
 4. Now, the Windows 10 Photos App won’t crash.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Solution 5: Reinstall Windows 10 Photos app
@@ -131,6 +127,10 @@ Here is how to reinstall the Windows 10 Photos App –
 From the above article, we have concluded that experiencing Windows 10 Photos App crashes is not uncommon. But, resolving them shouldn’t give you nightmares as well. From the above-mentioned process guides, you can fix the Windows 10 Photos App crashes effectively without any hassle. Try following each method until you get the Photos App crash issue fixed, so you can view your photos without any trouble.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
@@ -159,17 +159,18 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-is-your-yt-channel-earning-as-it-should-tips-to-find-out/"><u>[New] 2024 Approved Is Your YT Channel Earning as It Should? – Tips to Find Out</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-nosoftware-needed-youtube-video-capture/"><u>[New] 2024 Approved NoSoftware Needed YouTube Video Capture</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-the-best-4k-blu-ray-experience-ranking-of-devices/"><u>[New] The Best 4K Blu-Ray Experience Ranking of Devices</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-captivate-audiences-with-this-essential-guide-to-making-youtube-shorts-for-2024/"><u>[Updated] Captivate Audiences with This Essential Guide to Making YouTube Shorts for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-navigating-reddit-submissions-practical-steps-unveiled/"><u>[Updated] Navigating Reddit Submissions Practical Steps Unveiled</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-the-ultimate-adventure-companion-a-garmin-ultra-30-analysis/"><u>2024 Approved The Ultimate Adventure Companion - A Garmin Ultra 30 Analysis</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/effortless-transfer-of-windows-1011-to-new-ssd-hard-drive-top-3-methods-revealed/"><u>Effortless Transfer of Windows 10/11 to New SSD Hard Drive - Top 3 Methods Revealed</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-add-visual-appeal-with-these-methods-for-yt-video-inclusion-in-ppt/"><u>In 2024, Add Visual Appeal with These Methods for YT Video Inclusion in PPT</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-visual-upgrade-engine-windows-mac-and-online-edition/"><u>In 2024, Visual Upgrade Engine – Windows, Mac & Online Edition</u></a></li>
-<li><a href="https://fox-access.techidaily.com/navigating-the-2024-cloud-cost-landscape/"><u>Navigating the 2024 Cloud Cost Landscape</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/ricoh-theta-s-uncovered-a-complete-audit-for-2024/"><u>Ricoh Theta S Uncovered A Complete Audit for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/surging-up-the-search-listings-key-tips-for-optimizing-your-videos/"><u>Surging Up the Search Listings Key Tips for Optimizing Your Videos</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-cost-effective-action-cameras-secure-your-selection-below-100/"><u>[New] In 2024, Cost-Effective Action Cameras Secure Your Selection Below $100</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-depth-assessment-the-dji-quadcopter-model-3/"><u>[Updated] In-Depth Assessment The DJI Quadcopter Model 3</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/7-crucial-gadgets-for-successful-metaverse-journey-for-2024/"><u>7 Crucial Gadgets for Successful Metaverse Journey for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/add-personal-touch-to-videos-with-text-labels-using-photos-app-windows-11/"><u>Add Personal Touch to Videos with Text Labels Using Photos App (Windows 11)</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/anonymous-legacy-non-protected-creative-pieces-for-2024/"><u>Anonymous Legacy Non-Protected Creative Pieces for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/apple-podcast-listing-essentials-for-2024/"><u>Apple Podcast Listing Essentials for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/avatar-assembly-the-no-frills-guide-to-virtual-realms-for-2024/"><u>Avatar Assembly The No-Frills Guide to Virtual Realms for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/destiny-2-pc-version-fixed-now-launching-successfully/"><u>Destiny 2 PC Version Fixed: Now Launching Successfully</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/eco-conscious-speedsters-unveiled-in-depth-analysis-of-teamgroups-t-force-vulcan-ddr5-6000-2x16gb-stick-set-a-comprehensive-review/"><u>Eco-Conscious Speedsters Unveiled: In-Depth Analysis of TeamGroup's T-Force Vulcan DDR5-6000, 2X16GB Stick Set - A Comprehensive Review</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/mastering-the-art-of-downloading-fb-status-videos/"><u>Mastering the Art of Downloading Fb Status Videos</u></a></li>
+<li><a href="https://network-issues.techidaily.com/removing-obstacles-fixing-drivers-of-r9-on-win10/"><u>Removing Obstacles: Fixing Drivers of R9 on Win10</u></a></li>
+<li><a href="https://win-net.techidaily.com/seamless-video-conversion-with-digitalmarketer-download-and-save-as-mp4-format/"><u>Seamless Video Conversion with DigitalMarketer: Download and Save as MP4 Format</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-journeying-in-chatgpt-inspired-rpgs/"><u>Step by Step: Journeying in ChatGPT-Inspired RPGs</u></a></li>
 </ul></div>
 
