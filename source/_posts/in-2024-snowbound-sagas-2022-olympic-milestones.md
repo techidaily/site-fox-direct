@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Snowbound Sagas  2022 Olympic Milestones\""
-date: 2025-02-07T18:16:31.534Z
-updated: 2025-02-11T18:01:20.332Z
+date: 2025-02-27T19:07:42.859Z
+updated: 2025-03-02T17:18:49.123Z
 tags: 
   - screen-recording
   - ai video
@@ -29,19 +29,11 @@ The grand opening ceremony was held on 4th February and the grand closing will b
 
 ### Watch Video: 10 Best Winter Olympics Highlight Moment \[2022\]
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Lindsey Jacobellis Gives US Its First Beijing Olympics Gold
 
 American snowboarder Lindsey Jacobellis wins the gold medal in the women's snowboard cross at Beijing Winter Olympics. She broke the deadlock for the United States at Winter Olympics by giving her country the first gold. In fact, Lindsey Jacobellis had to wait 16 years to wind her maiden gold at the Olympics.
 
 ![lindsey jacobellis wins the gold medal](https://images.wondershare.com/filmora/article-images/lindsey-jacobellis-wins-the-gold-medal.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Lindsey Jacobellis become a viral internet figure after her premature celebration at Turin 2006 Winter Olympics that cost her medal at the event. The 36-year-old snowboarder has now become the oldest American to win a gold medal at Winter Games.
 
@@ -52,10 +44,6 @@ Nathan Chen of the United States set a world-record score in men's figure skatin
 ![nathan chen best male skater](https://images.wondershare.com/filmora/article-images/nathan-chen-breaks-world-record.jpg)
 
 Chen won the gold medal in men's figure skating with a combined score of 332.60 in the short program and free skate competitions. The defending champion Yuzuru Hanyu was not even in the top three and did not manage to win any medal which is naturally a major disappointment. On the contrary, Chen was elated and said that his performance is close to his best and that we could see even better performance going ahead.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Nina O'Brien Suffered a Terrifying Crash
 
@@ -73,10 +61,6 @@ Born in America, Eileen Gu represented China at Winter Olympics and managed to w
 
 Eileen Gu's father is American while her mother is Chinese and she belongs to San Francisco. Yet, she represented China in the Winter Olympics which has sparked controversies. She has been representing China since 2019\. She wishes to represent China going forward and she has become a fan favorite in China.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Van der Poel Breaks the World Record
 
 Nil Van der Poel broke his own record to win the Olympic gold medal. The 25-year-old Swede started strongly and crossed the finish line in 12 minutes 30.74 seconds to set the world record. His victory also made Sweden taste an Olympic medal after 1988\. The victory also made him the tenth man to win both the 10,000 races and 5,000 races in the same event. It is also the largest Olympic victory as he triumphed the record set by Johan Olav Kloss in 1994 by 18.70 seconds.
@@ -84,10 +68,6 @@ Nil Van der Poel broke his own record to win the Olympic gold medal. The 25-year
 ![van poel breaks the world record](https://images.wondershare.com/filmora/article-images/van-poel-breaks-the-world-record.jpg)
 
 Following the victory, he stated that he was sure to win the gold with eight laps remaining. However, he went not just for the gold but the world record with the remaining four laps. Patrick Roest from the Netherlands won the silver and the third spot went to Davide Ghittio of Italy.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Yan Wengang Wins China's First Medal in Sliding Sport
 
@@ -104,10 +84,6 @@ The competitiveness of Wengwang has made him the first medalist for China in men
 ![chloe kim](https://images.wondershare.com/filmora/article-images/chloe-kim.jpg)
 
 With the triumph, she joins Shaun White to be the only snowboarders to successfully defend their Olympic title. Following the victory, she was overwhelmed and emotional. Despite having the worst practice before the final, Kim went on to create history.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Ukrainian Athlete Shows ‘No War' Sign During Skeleton Event
 
@@ -131,10 +107,6 @@ Doping scandals have become a part of the Olympics and this year is no different
 
 ![russian figure skater](https://images.wondershare.com/filmora/article-images/russian-figure-skater.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 However, due to some miscommunication, she was allowed to be a participant in the team figure skating competition. She led the team to win gold but the medal is yet to be awarded due to the big confusion regarding the timeline of her drug test, suspension order, and miscommunication. The issue has become a controversial Beijing winter Olympics highlights.
 
 
@@ -156,22 +128,19 @@ However, due to some miscommunication, she was allowed to be a participant in th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-best-frame-rate-30fps-vs-60fps-for-smooth-recordings/"><u>[New] In 2024, Best Frame Rate 30Fps vs 60Fps for Smooth Recordings</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-top-10-drones-for-dynamic-cinematic-creations/"><u>2024 Approved Top 10 Drones for Dynamic Cinematic Creations</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-unleashing-the-best-video-footage-with-gopro/"><u>2024 Approved Unleashing the Best Video Footage with GoPro</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-unlock-the-power-of-speed-in-video-production/"><u>2024 Approved Unlock the Power of Speed in Video Production</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-virtualitys-verse-inspirational-reflections-in-arvr-space/"><u>2024 Approved Virtuality's Verse Inspirational Reflections in AR/VR Space</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-wit-whisperer-visual-snap/"><u>2024 Approved Wit Whisperer Visual Snap</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/a-comprehensive-guide-to-mastering-vivocuts-new-capabilities-for-2024/"><u>A Comprehensive Guide to Mastering VivoCut's New Capabilities for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/a-guide-to-discovering-virtual-augmentations-for-2024/"><u>A Guide to Discovering Virtual Augmentations for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/androids-ultimate-fix-for-frustratingly-slow-vids-for-2024/"><u>Android's Ultimate Fix for Frustratingly Slow Vids for 2024</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/guia-facil-crea-un-usb-en-vivo-de-windows-10-con-tres-metodos-sencillos/"><u>Guía Fácil: Crea Un USB en Vivo De Windows 10 Con Tres Métodos Sencillos</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-13-pro-max-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 13 Pro Max to other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-tecno-spark-20-pro-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Tecno Spark 20 Pro to iPad | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-look-is-the-google-pixelbook-go-worth-its-premium-cost/"><u>In-Depth Look: Is the Google Pixelbook Go Worth Its Premium Cost?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-screenshots-a-step-by-step-method-for-logitech-keyboard-users/"><u>Mastering the Art of Screenshots: A Step-by-Step Method for Logitech Keyboard Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-overcoming-disconnect-issues-in-blizzard-multiplayer-games/"><u>Resolved: Overcoming Disconnect Issues in Blizzard Multiplayer Games</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2593904-9781785259906-su-horoscopo-chino-caballo/"><u>Su horóscopo chino. Caballo | Free Book</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-nubia-red-magic-9-proplus-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Nubia Red Magic 9 Pro+ Device</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-innovative-methods-for-3d-text-illustration/"><u>[New] 2024 Approved Innovative Methods for 3D Text Illustration</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-audacitys-guide-to-effortless-audio-transitions-for-2024/"><u>[New] Audacity's Guide to Effortless Audio Transitions for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-best-freefire-youtube-hashtags-and-tips-for-youtube-gaming-videos-for-2024/"><u>[New] Best FreeFire YouTube Hashtags and Tips For YouTube Gaming Videos for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-how-to-download-vlc-player-for-free-and-safe-on-mac-in-2024/"><u>[New] How to Download VLC Player for Free and Safe on Mac, In 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-ten-steps-to-keeping-vr-healthy-for-2024/"><u>[New] Ten Steps to Keeping VR Healthy for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-exploring-new-horizons-a-guide-to-top-6-nft-innovators/"><u>[Updated] 2024 Approved Exploring New Horizons A Guide to Top 6 NFT Innovators</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-top-clicker-article-titles-maker/"><u>[Updated] 2024 Approved Top Clicker Article Titles Maker</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-windows-media-creator-alternatives/"><u>[Updated] 2024 Approved Windows Media Creator Alternatives</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/improve-your-online-presence-using-innovative-cookiebot-tools/"><u>Improve Your Online Presence Using Innovative Cookiebot Tools</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Oppo A18? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-technology-review-your-source-for-pc-hardware-analysis/"><u>Inside Tom's Technology Review: Your Source for PC Hardware Analysis</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-chroma-keying-in-fcp-x-tips-tricks-and-best-practices/"><u>New In 2024, Chroma Keying in FCP X Tips, Tricks, and Best Practices</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-video-editing-on-a-mac-the-top-picks-for/"><u>New Video Editing on a Mac The Top Picks For</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/why-instagrams-videos-are-tilted-a-bug-a-glitch/"><u>Why Instagram's Videos Are Tilted - A Bug, a Glitch?</u></a></li>
 </ul></div>
 

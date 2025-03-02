@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Secrets to a Reliable Windows 11 Photo Viewer"
-date: 2025-02-08T17:59:13.335Z
-updated: 2025-02-11T18:50:32.864Z
+date: 2025-03-01T18:26:30.261Z
+updated: 2025-03-02T19:12:38.954Z
 tags: 
   - screen-recording
   - ai video
@@ -45,15 +45,7 @@ In this article, we have compiled the best solutions for you to get rid of Windo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to fix Windows 10 Photos app crashes
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Solution 1: Use the Troubleshooter
 
@@ -66,16 +58,8 @@ Here is how to troubleshoot –
 
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/Troubleshooter.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. From the list of Apps displayed on the screen, click ‘Windows Store Apps’ and press the ‘Next’ button.
 2. Now, the troubleshooter will troubleshoot every app within the Windows Store Applications and fix them in a jiffy.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Solution 2: Restore Default Libraries
 
@@ -87,10 +71,6 @@ Restoring the default libraries would resolve the Windows 10 Photos App crash is
    4. Tap ‘Restore Defaults’ from the bottom-right portion of the screen.
 
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/windows-10-photos-app-crashes-restore.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. Lastly, click on ‘Apply’ followed by ‘OK’ and the issue will be resolved.
 
@@ -159,20 +139,19 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-address-missing-watch-playback-symbol/"><u>[New] 2024 Approved Address Missing Watch Playback Symbol</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-curtail-unexpected-youtube-recommendations/"><u>[New] 2024 Approved Curtail Unexpected YouTube Recommendations</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-the-art-of-srt-to-subc-innovative-techniques-explored/"><u>[New] 2024 Approved The Art of SRT to SUBC Innovative Techniques Explored</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-discreet-methods-to-evade-educational-media/"><u>[New] Discreet Methods to Evade Educational Media</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-mastering-backtracking-in-twitch-broadcasts/"><u>[New] Mastering Backtracking in Twitch Broadcasts</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-mastering-googles-speech-to-text-conversion-techniques/"><u>[New] Mastering Google's Speech-to-Text Conversion Techniques</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-revolutionize-visual-narratives-using-prime-text-extensions/"><u>[New] Revolutionize Visual Narratives Using Prime Text Extensions</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-substitutes-for-winmovie-new-windows-editors/"><u>[New] Substitutes for WinMovie New Windows Editors</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-sharpen-focus-expert-tips-on-the-psx-eraser-tool-for-2024/"><u>[Updated] Sharpen Focus Expert Tips on the PSX Eraser Tool for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-understanding-theta-s-complete-technical-review/"><u>[Updated] Understanding Theta S Complete Technical Review</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/effortless-video-editing-on-windows-10-no-advanced-software-required/"><u>Effortless Video Editing on Windows 10 No Advanced Software Required</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-about-samsung-galaxy-a15-4g-frp-bypass-by-drfone-android/"><u>In 2024, About Samsung Galaxy A15 4G FRP Bypass</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-capturing-thrills-is-gopros-hero-black-superior-to-x1000v/"><u>In 2024, Capturing Thrills Is GoPro's Hero Black Superior to X1000V?</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/innovative-video-content-for-budding-vloggers/"><u>Innovative Video Content for Budding Vloggers</u></a></li>
-<li><a href="https://win-updates.techidaily.com/websites-wiederherstellen-professionelles-tool-zum-auffinden-und-restaurieren-geloschter-seiten-mit-myrecover/"><u>Websites Wiederherstellen - Professionelles Tool Zum Auffinden Und Restaurieren Gelöschter Seiten Mit MyRecover</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-achieving-unparalleled-detail-with-remote-screens/"><u>[New] 2024 Approved Achieving Unparalleled Detail with Remote Screens</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-perfecti-the-ultimate-guide-to-iphone-slideshows-xs-max/"><u>[New] In 2024, Perfecti The Ultimate Guide to iPhone Slideshows (XS Max)</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-the-ultimate-decipherment-insiders-look-at-xvideo-hub-review-for-2024/"><u>[New] The Ultimate Decipherment Insider's Look at XVideo Hub Review for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-a-step-by-step-approach-to-mastering-the-background-eraser-tool/"><u>[Updated] A Step-by-Step Approach to Mastering the Background Eraser Tool</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-comprehensively-reviewing-top-10-no-cost-video-communication-apps-for-professional-and-academic-needs/"><u>[Updated] In 2024, Comprehensively Reviewing Top 10 No-Cost Video Communication Apps for Professional and Academic Needs</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-digital-chuckles-the-ultimate-10-meme-guidebook/"><u>[Updated] In 2024, Digital Chuckles The Ultimate #10 Meme Guidebook</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-essential-cameras-for-cutting-edge-concert-filming-in-4khd/"><u>[Updated] In 2024, Essential Cameras for Cutting-Edge Concert Filming in 4K/HD</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-sony-a6400-why-is-my-video-playback-failed-in-2024/"><u>[Updated] Sony A6400 Why Is My Video Playback Failed, In 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/effortless-techniques-for-dividing-mpeg-videos-into-smaller-segments-using-a-computer/"><u>Effortless Techniques for Dividing MPEG Videos Into Smaller Segments Using a Computer</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-edit-like-a-pro-gopro-video-editing-on-mac-for-beginners/"><u>In 2024, Edit Like a Pro GoPro Video Editing on Mac for Beginners</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mobile-video-experience-review-report/"><u>Mobile Video Experience Review Report</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-launch-errors-in-farming-simulator-22-with-these-fixes/"><u>Overcome Launch Errors in Farming Simulator 22 with These Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-rectify-chrome-files-not-saving-on-windows/"><u>Strategies to Rectify Chrome Files Not Saving on Windows</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209914924-9780648753315-the-voice-of-spirit/"><u>The Voice of Spirit | Free Book</u></a></li>
 </ul></div>
 

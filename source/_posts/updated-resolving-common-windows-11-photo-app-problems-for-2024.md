@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Resolving Common Windows 11 Photo App Problems for 2024"
-date: 2025-02-10T16:25:50.790Z
-updated: 2025-02-11T16:35:00.970Z
+date: 2025-03-01T17:44:10.286Z
+updated: 2025-03-02T18:08:27.491Z
 tags: 
   - screen-recording
   - ai video
@@ -45,15 +45,7 @@ In this article, we have compiled the best solutions for you to get rid of Windo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to fix Windows 10 Photos app crashes
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Solution 1: Use the Troubleshooter
 
@@ -92,10 +84,6 @@ Here is how can you reset it –
 2. Hit ‘Advanced Options’ and click ‘Reset’ button thereafter.
 3. Now, you got to restart your Windows system, so that Windows 10 Photos App crashing problem can be easily resolved.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Solution 4: Repair Photos App package
 
 A corrupted Photos App package might wreak havoc in your photo viewing, as the app doesn’t buzz follow your commands. The least you can do here is repair the package to fix minor glitches within and get it going.
@@ -106,10 +94,6 @@ Let’s fix the issue by repairing the Photos App package installed on your comp
 2. Key in the command followed by ‘Enter’: Get-AppXPackage -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($\_.InstallLocation)\\AppXManifest.xml”}
 3. Allow few minutes to make the changes effective and then restart the Windows 10 computer.
 4. Now, the Windows 10 Photos App won’t crash.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Solution 5: Reinstall Windows 10 Photos app
 
@@ -127,10 +111,6 @@ Here is how to reinstall the Windows 10 Photos App –
 From the above article, we have concluded that experiencing Windows 10 Photos App crashes is not uncommon. But, resolving them shouldn’t give you nightmares as well. From the above-mentioned process guides, you can fix the Windows 10 Photos App crashes effectively without any hassle. Try following each method until you get the Photos App crash issue fixed, so you can view your photos without any trouble.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
@@ -159,18 +139,21 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-cost-effective-action-cameras-secure-your-selection-below-100/"><u>[New] In 2024, Cost-Effective Action Cameras Secure Your Selection Below $100</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-depth-assessment-the-dji-quadcopter-model-3/"><u>[Updated] In-Depth Assessment The DJI Quadcopter Model 3</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/7-crucial-gadgets-for-successful-metaverse-journey-for-2024/"><u>7 Crucial Gadgets for Successful Metaverse Journey for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/add-personal-touch-to-videos-with-text-labels-using-photos-app-windows-11/"><u>Add Personal Touch to Videos with Text Labels Using Photos App (Windows 11)</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/anonymous-legacy-non-protected-creative-pieces-for-2024/"><u>Anonymous Legacy Non-Protected Creative Pieces for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/apple-podcast-listing-essentials-for-2024/"><u>Apple Podcast Listing Essentials for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/avatar-assembly-the-no-frills-guide-to-virtual-realms-for-2024/"><u>Avatar Assembly The No-Frills Guide to Virtual Realms for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/destiny-2-pc-version-fixed-now-launching-successfully/"><u>Destiny 2 PC Version Fixed: Now Launching Successfully</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/eco-conscious-speedsters-unveiled-in-depth-analysis-of-teamgroups-t-force-vulcan-ddr5-6000-2x16gb-stick-set-a-comprehensive-review/"><u>Eco-Conscious Speedsters Unveiled: In-Depth Analysis of TeamGroup's T-Force Vulcan DDR5-6000, 2X16GB Stick Set - A Comprehensive Review</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/mastering-the-art-of-downloading-fb-status-videos/"><u>Mastering the Art of Downloading Fb Status Videos</u></a></li>
-<li><a href="https://network-issues.techidaily.com/removing-obstacles-fixing-drivers-of-r9-on-win10/"><u>Removing Obstacles: Fixing Drivers of R9 on Win10</u></a></li>
-<li><a href="https://win-net.techidaily.com/seamless-video-conversion-with-digitalmarketer-download-and-save-as-mp4-format/"><u>Seamless Video Conversion with DigitalMarketer: Download and Save as MP4 Format</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-journeying-in-chatgpt-inspired-rpgs/"><u>Step by Step: Journeying in ChatGPT-Inspired RPGs</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-discovering-chromium-phone-sonics-online/"><u>[New] 2024 Approved Discovering Chromium Phone Sonics Online</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-igtv-content-expansion-direct-sharing-on-facebook-platform-for-2024/"><u>[New] IGTV Content Expansion Direct Sharing on Facebook Platform for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-caption-crusaders-top-10-writing-tools-for-image-capture-iosandroid/"><u>[New] In 2024, Caption Crusaders Top 10 Writing Tools for Image Capture (iOS/Android)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-bite-sized-to-detailed-converting-shorts-to-editable-mp4/"><u>[New] In 2024, From Bite-Sized to Detailed Converting Shorts to Editable MP4</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-perfecting-fade-out-techniques-in-audacity/"><u>[New] In 2024, Perfecting Fade-Out Techniques in Audacity</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-immersive-chronicles-a-brief-history/"><u>[New] The Immersive Chronicles A Brief History</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-amplify-your-earnings-universal-strategies-for-youtube-revenue/"><u>[Updated] 2024 Approved Amplify Your Earnings Universal Strategies for YouTube Revenue</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-top-5-samsung-gear-360-camera-alternatives-2023-update/"><u>[Updated] 2024 Approved Top 5 Samsung Gear 360 Camera Alternatives -2023 Update</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-standout-literary-book-videos-for-2024/"><u>[Updated] Standout Literary Book Videos for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-10-best-free-mmorpg-games/"><u>[Updated] Top 10 Best Free MMORPG Games</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-note-30-pro-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Note 30 Pro?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-10-steps-to-become-a-successful-smm/"><u>In 2024, 10 Steps to Become a Successful SMM</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-comprehensive-analysis-of-directed-motion-tracking/"><u>In 2024, Comprehensive Analysis of Directed Motion Tracking</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/premium-hd-screensnap-tools-for-2024/"><u>Premium HD Screensnap Tools for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/prime-websites-boosting-youtube-video-popularity/"><u>Prime Websites Boosting YouTube Video Popularity</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/when-tech-fails-patients-why-not-trust-chatgpt/"><u>When Tech Fails Patients: Why Not Trust ChatGPT</u></a></li>
 </ul></div>
 

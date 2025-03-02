@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Troubleshooting Tips for a Stable Windows 11 Photo Experience\""
-date: 2025-02-05T20:17:27.585Z
-updated: 2025-02-11T19:53:29.875Z
+date: 2025-02-28T20:29:05.095Z
+updated: 2025-03-02T19:05:40.375Z
 tags: 
   - screen-recording
   - ai video
@@ -61,10 +61,6 @@ Here is how to troubleshoot –
 1. From the list of Apps displayed on the screen, click ‘Windows Store Apps’ and press the ‘Next’ button.
 2. Now, the troubleshooter will troubleshoot every app within the Windows Store Applications and fix them in a jiffy.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Solution 2: Restore Default Libraries
 
 Restoring the default libraries would resolve the Windows 10 Photos App crash issues. Resetting the Photo App to its default source to a valid network, path fixes the case.
@@ -75,10 +71,6 @@ Restoring the default libraries would resolve the Windows 10 Photos App crash is
    4. Tap ‘Restore Defaults’ from the bottom-right portion of the screen.
 
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/windows-10-photos-app-crashes-restore.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. Lastly, click on ‘Apply’ followed by ‘OK’ and the issue will be resolved.
 
@@ -92,10 +84,6 @@ Here is how can you reset it –
 2. Hit ‘Advanced Options’ and click ‘Reset’ button thereafter.
 3. Now, you got to restart your Windows system, so that Windows 10 Photos App crashing problem can be easily resolved.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Solution 4: Repair Photos App package
 
 A corrupted Photos App package might wreak havoc in your photo viewing, as the app doesn’t buzz follow your commands. The least you can do here is repair the package to fix minor glitches within and get it going.
@@ -106,10 +94,6 @@ Let’s fix the issue by repairing the Photos App package installed on your comp
 2. Key in the command followed by ‘Enter’: Get-AppXPackage -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($\_.InstallLocation)\\AppXManifest.xml”}
 3. Allow few minutes to make the changes effective and then restart the Windows 10 computer.
 4. Now, the Windows 10 Photos App won’t crash.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Solution 5: Reinstall Windows 10 Photos app
 
@@ -129,10 +113,6 @@ From the above article, we have concluded that experiencing Windows 10 Photos Ap
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -159,19 +139,22 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-mastering-video-cuts-for-instagram-feed/"><u>[New] 2024 Approved Mastering Video Cuts for Instagram Feed</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-step-into-professional-photoshop-mastering-luts-in-cs6cc/"><u>[New] In 2024, Step Into Professional Photoshop Mastering LUTs in CS6/CC</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-dissecting-wirecast-a-comprehensive-breakdown-and-comparisons/"><u>2024 Approved Dissecting WireCast A Comprehensive Breakdown & Comparisons</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-dive-into-title-design-adding-insights-to-visual-content-via-windows-photos-app/"><u>2024 Approved Dive Into Title Design Adding Insights to Visual Content via Windows Photos App</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-enhancing-your-creative-vision-iphones-new-camera-tools/"><u>2024 Approved Enhancing Your Creative Vision IPhone's New Camera Tools</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-how-to-harvest-huge-volumes-of-content-from-tiktok-effortlessly/"><u>2024 Approved How to Harvest Huge Volumes of Content From TikTok Effortlessly</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-humor-hacks-simplifying-the-process-of-meme-creation/"><u>2024 Approved Humor Hacks Simplifying the Process of Meme Creation</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-sierras-ultimate-guide-to-the-best-mac-video-editing-tools/"><u>2024 Approved Sierra's Ultimate Guide to the Best Mac Video Editing Tools</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-the-best-budget-camera-stabilizers-for-youtube-stars/"><u>2024 Approved The Best Budget Camera Stabilizers for YouTube Stars</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-top-notch-voice-alteration-for-valorant-players-available-at-zero-cost/"><u>2024 Approved Top Notch Voice Alteration for Valorant Players - Available at Zero Cost</u></a></li>
-<li><a href="https://program-issues.techidaily.com/eliminating-prolonged-load-times-in-star-wars-battlefront-ii-on-a-personal-computer/"><u>Eliminating Prolonged Load Times in Star Wars: Battlefront II On A Personal Computer</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/high-quality-virtual-console-imitation-software-for-pc-for-2024/"><u>High-Quality Virtual Console Imitation Software for PC for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/nostalgias-best-kept-secrets-retro-games-and-your-phone/"><u>Nostalgia's Best Kept Secrets: Retro Games & Your Phone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/openai-vs-creative-rights-the-legal-showdown-with-silverman/"><u>OpenAI Vs. Creative Rights: The Legal Showdown with Silverman</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-linking-giants-a-step-by-step-guide-to-merging-instagram-and-tiktok/"><u>[New] 2024 Approved Linking Giants A Step-by-Step Guide to Merging Instagram and TikTok</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-making-sense-of-virtual-realitys-promise-and-peril/"><u>[New] 2024 Approved Making Sense of Virtual Reality's Promise and Peril</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-quirky-quotes-iphone-laughs-galore/"><u>[New] In 2024, Quirky Quotes IPhone Laughs Galore</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-pro-timer-swiftest-time-lapse-device-for-2024/"><u>[New] Pro Timer Swiftest Time-Lapse Device for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-dawn-of-distinctive-filmmaking-with-vr/"><u>[New] The Dawn of Distinctive Filmmaking with VR</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-the-digital-deluge-examining-this-years-most-shared-videos/"><u>[New] The Digital Deluge Examining This Year's Most Shared Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-10-premium-online-vectors-image-repositories-for-2024/"><u>[Updated] 10 Premium Online Vectors Image Repositories for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-ultimate-compact-player-guide-for-on-the-go-movie-lovers/"><u>[Updated] 2024 Approved Ultimate Compact Player Guide for On-The-Go Movie Lovers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-selections-of-the-year-best-snowboard-and-ski-cams/"><u>[Updated] In 2024, Selections of the Year Best Snowboard & Ski Cams</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-the-pros-playlist-shuffle-manual/"><u>[Updated] In 2024, The Pro's Playlist Shuffle Manual</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-tips-for-embedding-music-in-social-media-videos-for-2024/"><u>[Updated] Tips for Embedding Music in Social Media Videos for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/entertainment-galore-kinemaster-the-android-game-guide-2023-for-2024/"><u>Entertainment Galore KineMaster - The Android Game Guide 2023 for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-nubia-red-magic-9-pro-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Nubia Red Magic 9 Pro Data? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-poco-f5-pro-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Poco F5 Pro 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/problem-solved-troubleshooting-techniques-for-when-windows-wont-install/"><u>Problem Solved: Troubleshooting Techniques for When Windows Won't Install</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/tech-savvy-ways-to-record-mac-lectures-for-2024/"><u>Tech-Savvy Ways to Record Mac Lectures for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-ultimate-guide-to-repairing-link-failures-in-granblue-fantasy-games/"><u>The Ultimate Guide to Repairing Link Failures in Granblue Fantasy Games</u></a></li>
 </ul></div>
 

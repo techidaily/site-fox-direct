@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Breaking Boundaries  Custom Font Use in After Effects\""
-date: 2025-02-05T17:30:56.576Z
-updated: 2025-02-11T18:05:40.039Z
+date: 2025-02-28T16:28:53.784Z
+updated: 2025-03-02T18:00:30.307Z
 tags: 
   - screen-recording
   - ai video
@@ -26,10 +26,6 @@ After Effects is one of the most promising video editing applications available 
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1\. How to add fonts to After Effects?
 
@@ -58,10 +54,6 @@ Adobe After Effects provides a ton of families of fonts that can be added and us
 
 Some of the most famous fonts such as "typewriter", "Cursive Handwriting" and many more are categorized under their family of fonts and are very easy to access. Along with this, you can also select fonts with different character strokes and can alter their features while adding to your videos.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3\. How to use text effects in After Effects?
 
 Adding text effects in Adobe After Effects is very easy and you can use these effects by following these steps:
@@ -70,17 +62,9 @@ Adding text effects in Adobe After Effects is very easy and you can use these ef
 
 ![effects and presets adobe](https://images.wondershare.com/filmora/article-images/2022/07/effects-and-presets-adobe.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Now, add that text effect to your video by clicking on it and dragging and dropping it on your video. Then select any animation preset for your text from "Adobe Bridge".
 * Then slide the keyframes to set the text effect on the section of the video where you want to add your text. You can also compose the text by clicking on it and editing it for adjusting its content, height, width, opacity, and color.
 * After you are done, save the project and your text effects will be added to the final video successfully.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4\. Alternative ways to edit text fonts
 
@@ -104,10 +88,6 @@ These features also include adding texts and changing the fonts of those texts o
 * You can drag the edges of the text effect on the timeline to edit the duration of text on your video. The text effect can also be composed in the video frame by dragging anywhere you wish.
 * When you double click on the text effect, you get more text editing tools such as "font, size, alignment, color, etc." for the text. This also provides an animation tab where you can animate your texts.
 * After you are done, click "save" and the text effects will be added to your videos successfully.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -158,18 +138,16 @@ The article discussed the detailed process of **how to add font to Adobe After E
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-full-spectrum-kinetics-examination/"><u>[New] 2024 Approved Full Spectrum Kinetics Examination</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-transforming-dull-interviews-into-engaging-assessments/"><u>[New] 2024 Approved Transforming Dull Interviews Into Engaging Assessments</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-finding-those-who-fled-my-insta-friends-for-2024/"><u>[New] Finding Those Who Fled My Insta Friends for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-unveiling-the-secrets-to-using-vivavideo-app/"><u>[New] In 2024, Unveiling the Secrets to Using VivaVideo App</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-simplify-multitasking-with-picture-in-picture-feature-ios/"><u>[New] Simplify Multitasking with Picture in Picture Feature (iOS)</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-why-does-imovie-crop-my-videos/"><u>[New] Why Does iMovie Crop My Videos?</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-core-principles-of-crafting-convincing-video-endorsements-for-2024/"><u>[Updated] Core Principles of Crafting Convincing Video Endorsements for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-monetizing-your-passion-from-youtube-gamer-to-entrepreneur/"><u>2024 Approved Monetizing Your Passion From YouTube Gamer to Entrepreneur</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/discovering-future-proof-hexadrones-for-2024/"><u>Discovering Future-Proof HexaDrones for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-lock-apps-on-poco-c55-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Poco C55 to Protect Your Individual Information</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-tidying-up-old-youtube-tracks-bar-free-viewing/"><u>In 2024, Tidying Up Old YouTube Tracks Bar-Free Viewing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transform-mkv-videos-into-gif-format-over-the-internet-without-cost-a-guide-with-movavi-converter/"><u>Transform MKV Videos Into GIF Format Over the Internet Without Cost: A Guide with Movavi Converter</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleashing-the-full-potential-of-virtual-game-archives-in-playnite/"><u>Unleashing the Full Potential of Virtual Game Archives in Playnite</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-easy-laughter-the-art-of-creating-funny-memes/"><u>[New] Easy Laughter The Art of Creating Funny Memes</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-depth-guide-to-installing-microsofts-movie-maker-for-2024/"><u>[New] In-Depth Guide to Installing Microsoft's Movie Maker for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-reinstating-old-school-windows-photo-viewer-on-modern-win10/"><u>[New] Reinstating Old-School Windows Photo Viewer on Modern Win10</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-utilizing-instagram-filters-to-elevate-your-photos/"><u>[Updated] Utilizing Instagram Filters to Elevate Your Photos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-next-level-experience-in-metaverse-with-top-8-accessories/"><u>2024 Approved Next-Level Experience in Metaverse with Top 8 Accessories</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-the-visual-dynamics-of-aspect-ratios-in-online-video-content/"><u>2024 Approved The Visual Dynamics of ASPECT RATIOS in Online Video Content</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-realme-gt-neo-5-se-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Realme GT Neo 5 SE</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-the-ultimate-screen-experience-with-hp-envy-27-display/"><u>In 2024, The Ultimate Screen Experience with HP Envy 27 Display</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-tecno-camon-20-pro-5g-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Tecno Camon 20 Pro 5G Phone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/key-factors-for-effective-and-reliable-bot-assisted-platforms/"><u>Key Factors for Effective and Reliable Bot-Assisted Platforms</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/unveiling-the-powerhouse-q500-typhoon-for-2024/"><u>Unveiling the Powerhouse Q500 Typhoon for 2024</u></a></li>
 </ul></div>
 

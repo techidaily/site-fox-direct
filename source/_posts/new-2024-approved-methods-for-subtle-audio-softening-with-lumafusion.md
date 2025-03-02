@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Methods for Subtle Audio Softening with Lumafusion\""
-date: 2025-02-05T16:13:51.957Z
-updated: 2025-02-11T17:39:46.082Z
+date: 2025-02-28T17:53:24.926Z
+updated: 2025-03-02T20:31:10.172Z
 tags: 
   - screen-recording
   - ai video
@@ -35,17 +35,9 @@ Step1 LumaFusion's default structure is comparable to that of many desktops edit
 
 ![lumafusion timeline](https://images.wondershare.com/filmora/article-images/2022/07/lumafusion-timeline.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2 LumaFusion allows for the automated synchronization of up to 12 camera sources and several audio tracks. When a clip is loaded into LumaFusion, touch on it to open it in the viewer and then adjust the start and finish points.
 
 ![edit sources luma fusion](https://images.wondershare.com/filmora/article-images/2022/07/edit-sources-luma-fusion.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step3 From the choices, choose the Cross Dissolve (Fade) transition. The transition should be placed at the very end of your music channel timeline. Tap on the Help & Settings menu to do this action. Look for Transition under the Settings menu and edit it to the appropriate duration. If you do this, your transition won't take effect until you add it again.
 
@@ -75,10 +67,6 @@ Drag and drop your sound recordings from the media library to the timeline at th
 
 ![import audios to fade](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step3 Apply Fade Effects
 
 The fade-in audio button inside your audio file may be seen when you just hover over the audio file within the timeline and look for the white circle filled with pink hue at the beginning and finish of your audio file. On the other hand, to choose the fade-out audio, click and drag the pink circle that appears on the opposite end of the audio file in the timeline that you have chosen to fade out the music file.
@@ -133,25 +121,13 @@ In that window, you can select the MP3 format in the format customization box to
 
 ## Part 3\. Related FAQs about LumaFusion
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. How do you fade in a title LumaFusion?
 
 Go to Clip Defaults to do that. You may change the Title and Transition lengths here. Check to check whether the updated defaults have been implemented by adding a new title or transition after making the necessary modifications. By cursorily browsing the title in the browser, you can get a preview.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. How do you do transitions in LumaFusion?
 
 There are several eye-catching transitions included with LumaFusion. The transition may simply be dragged into the timeline and placed between the two pertinent segments. You may modify the duration of it after it's on the timeline in the same way that you would any other clip. Simply choose Transitions from the Sources box, that's it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. How to you split audio and video in LumaFusion?
 
@@ -181,14 +157,22 @@ Within the timeline, tap anywhere and move the mouse left or right to divide a c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-accelerate-audience-engagement-with-high-impact-hash-tags/"><u>[New] 2024 Approved Accelerate Audience Engagement with High-Impact Hash Tags</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-transform-your-images-erase-backdrops-with-canva-skills/"><u>[New] 2024 Approved Transform Your Images Erase Backdrops with Canva Skills</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-embellishing-visual-narratives-with-fonts-in-ae-for-2024/"><u>[New] Embellishing Visual Narratives with Fonts in AE for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-cutting-edge-techniques-for-creating-engaging-vr-content-in-adobe-premiere/"><u>[Updated] Cutting-Edge Techniques for Creating Engaging VR Content in Adobe Premiere</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-color-mastery-simple-steps-in-photoshop/"><u>[Updated] In 2024, Color Mastery Simple Steps in Photoshop</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-stand-out-and-thrive-strategies-for-staff-recognition-at-vimeo/"><u>[Updated] In 2024, Stand Out and Thrive Strategies for Staff Recognition at Vimeo</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-substitutes-to-winmovie-making-software/"><u>[Updated] Substitutes to WinMovie Making Software</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-xiaomi-redmi-a2plus-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Xiaomi Redmi A2+ Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-6s-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 6s With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-ultimate-black-battery-setups-for-gopro-hero5-genuine-and-imitators/"><u>[New] Ultimate Black Battery Setups for GoPro Hero5 – Genuine & Imitators</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-ergonomic-excellence-and-office-dynamics-for-peak-performance/"><u>[Updated] Ergonomic Excellence and Office Dynamics for Peak Performance</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-beyond-the-screen-shaping-perceptions-on-instagram-through-captions/"><u>[Updated] In 2024, Beyond the Screen - Shaping Perceptions on Instagram Through Captions</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-essential-gaming-gear-keyboards-for-less-than-100/"><u>[Updated] In 2024, Essential Gaming Gear Keyboards for Less Than $100</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-perfect-pitch-integrating-music-with-cropping-and-editing-in-canva/"><u>[Updated] In 2024, Perfect Pitch Integrating Music with Cropping and Editing in Canva</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-ultimate-10-plugin-power-duo-for-final-cut-pro/"><u>[Updated] In 2024, The Ultimate 10 Plugin Power Duo for Final Cut Pro</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-ultimate-guide-to-android-slow-motion-video-magic-for-2024/"><u>[Updated] The Ultimate Guide to Android Slow Motion Video Magic for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-tune-in-for-free-fb-music-archive-for-2024/"><u>[Updated] Tune In for Free FB Music Archive for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-apple-iphone-15-plus-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-add-my-signature-to-word-2019-by-ldigisigner-sign-a-word-sign-a-word/"><u>How do i add my signature to Word 2019</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-giggle-engine-for-the-internet/"><u>In 2024, Giggle Engine for the Internet</u></a></li>
+<li><a href="https://facebook.techidaily.com/influential-impact-on-covid-19-beliefs-unveiled/"><u>Influential Impact on Covid-19 Beliefs Unveiled</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/mastering-the-craft-of-background-image-acquisition-for-2024/"><u>Mastering the Craft of Background Image Acquisition for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/pro-cameras-who-wins-gopro-and-garmin-virb-comparison/"><u>Pro Cameras, Who Wins? GoPro & Garmin VIRB Comparison</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/screenplay-excellence-genre-based-achievement-showcase/"><u>Screenplay Excellence Genre-Based Achievement Showcase</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-search-removing-visuals/"><u>Windows Search: Removing Visuals</u></a></li>
 </ul></div>
 

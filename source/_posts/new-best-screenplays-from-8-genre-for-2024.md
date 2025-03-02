@@ -1,7 +1,7 @@
 ---
 title: "[New] Best Screenplays From 8 Genre for 2024"
-date: 2025-02-05T19:45:16.249Z
-updated: 2025-02-11T18:58:32.135Z
+date: 2025-02-25T18:10:35.710Z
+updated: 2025-03-02T17:03:32.935Z
 tags: 
   - screen-recording
   - ai video
@@ -80,10 +80,6 @@ Part of its enduring appeal is the simplicity of its concept: A kid who murdered
 
 ![21 jump street](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Writer:** [Michael Bacall](https://en.wikipedia.org/wiki/Michael%5FBacall), [Stephen J. Cannell](https://en.wikipedia.org/wiki/Stephen%5FJ.%5FCannell)
 
 The script of 21 Jump Street gives a new twist to the Buddy action movie genre by giving comedy equal weight to action. It takes the premise of the original TV show but flips the tone from straightforward action to offbeat comedy. Always think, “How can I subvert genres? How can I mix genres and create something new?
@@ -103,10 +99,6 @@ How this amazing comedy drama script came about is a good example of a writer wh
 That's exactly what new screenwriter [**Kelly Fremon Craig**](https://en.wikipedia.org/wiki/Kelly%5FFremon%5FCraig) did when she sent a copy of the script to James L. Brooks, and he eventually became her mentor. As she says, “It was a crazy longshot I took at the beginning! And I never thought it would work. But I sent him the script and he ended up taking on the project.”
 
 **Download the script here:** <https://www.scriptslug.com/script/the-edge-of-seventeen-2016>
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best Christmas play scripts
 
@@ -202,10 +194,6 @@ When Jack meets Esther in the park one day, he swears she looks familiar. Althou
 
 **Download the script here:** <http://offthewallplays.com/wp-content/uploads/2018/12/WALK-IN-PARK-half-script-1.pdf>
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best action scripts
 
 **_1\. 2 Guns_**
@@ -274,10 +262,6 @@ The money Cinderella made from its release, subsequent record sales, publishing,
 
 ![the lion king 1994](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-16.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Like any child of the 90s, I admit to having a soft spot for The Lion King. The film was clearly heavily influenced by biblical stories, the Epic of Sundiatus and Shakespeare's Hamlet. It tells the story of Simba, the destined king of Pride Rock, who runs away guilt-ridden after "blaming" his father's death. The film is the highest-grossing hand-drawn film in history and won two Academy Awards for musical score.
 
 **Download the script here:** <https://www.studiobinder.com/blog/the-lion-king-script-screenplay-pdf-download/>
@@ -303,10 +287,6 @@ The 4K editing support feature enables users to edit and export videos at a reso
 The [color tuning](https://tools.techidaily.com/wondershare/filmora/download/) feature enables users to adjust the white balance and dynamic range of their clips. The audio mixer feature enables changing the audio of each track. The advanced text editor allows editing the color, size, font, and even animation of the text. The screen recording feature enables recording the screen of the computer and webcam efficiently. The video stabilization feature eliminates the effects of camera shake.
 
 ![color tuning](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-18.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -394,10 +374,6 @@ _**2\. Angel's Poinsettia**_
 
 ![angel's poinsettia](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Writer:** Sally Painter
 
 Angel, a child fairy, learns a valuable lesson about caring for the sick when she runs away from home. Angel ventures into the human world, only her magic goes awry and she finds herself an unloved poinsettia plant. A homeless woman rescues Angel from a trash can and takes care of her back. Angel returns home with a greater appreciation for caring and caring for others. This skit takes approximately five minutes to complete.
@@ -492,19 +468,11 @@ _**2\. Casino Royale**_
 
 ![casino royale](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-12.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Writers:** Robert Wade and Paul Haggis
 
 Secret Agent James Bond sets out on a mission as 007 in a screenplay that can show writers how to keep audiences guessing.
 
 **Download the script:** <https://thescriptlab.com/script-library/casinoroyale-pdf/>
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best thriller scripts
 
@@ -540,10 +508,6 @@ The film stands out in the now crowded genre by avoiding any cataclysmic showdow
 
 ![cinderella 1950](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-15.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Writers:** William Peet, Ted Sears, Homer Brightman, Kenneth Anderson, Erdman Penner, Winston Hibler, Harry Reeves, Joe Rinaldi
 
 The money Cinderella made from its release, subsequent record sales, publishing, and merchandise profits provided Walt Disney with the opportunity to finance a myriad of projects including starting his own distribution company, entering television production, and creating Disneyland. In 1950, the production cost of Cinderella exceeded an incredible $3 million.
@@ -563,10 +527,6 @@ Like any child of the 90s, I admit to having a soft spot for The Lion King. The 
 ## Part 3\. Make your own short movie now
 
 Have you ever stored various videos and photos on a memory card or on the computer? Why not create a movie to show them off? Once finish making a great movie, you can share it with others in a variety of ways including on YouTube, Facebook, and Instagram. Your followers will be amazed at the extraordinarily delightful works. In fact, making a movie using your own photos, videos and audio is easy.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Make a Video with Wondershare Filmora Easy Movie Maker
 
@@ -614,16 +574,21 @@ Creating video content that can potentially go viral is no longer a complicated 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-pristine-story-conception-in-eight-genre-divisions/"><u>[New] 2024 Approved Pristine Story Conception in Eight Genre Divisions</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-a-primer-on-the-language-of-immersive-technology-for-2024/"><u>[New] A Primer on the Language of Immersive Technology for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-iconic-meme-blueprints-of-the-year/"><u>[New] Iconic Meme Blueprints of the Year</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-sdr-vs-hdr-the-superiority-of-high-dynamic-range-in-video-production/"><u>[New] In 2024, SDR Vs. HDR The Superiority of High Dynamic Range in Video Production</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-audio-file-alchemy-converting-srt-to-multiple-formats-professionally/"><u>[New] The Audio File Alchemy Converting SRT to Multiple Formats Professionally</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-the-future-of-mobile-videography-6-pioneering-apps-beyond-periscope/"><u>[New] The Future of Mobile Videography 6 Pioneering Apps Beyond Periscope</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-mac-techniques-to-shorten-instagram-vids/"><u>[Updated] 2024 Approved Mac Techniques to Shorten Instagram Vids</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-mastering-instagram-stories-integrating-personalized-graphics-for-2024/"><u>[Updated] Mastering Instagram Stories Integrating Personalized Graphics for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-visual-wit-composition-kapwings-meme-workshop-for-2024/"><u>[Updated] Visual Wit Composition Kapwing’s Meme Workshop for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Oppo Reno 8T | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/top-12-tycoons-where-every-decision-forges-your-path-to-glory-for-2024/"><u>Top 12 Tycoons - Where Every Decision Forges Your Path to Glory for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-finding-and-exploring-your-own-music-selection-zone-on-youtube/"><u>[New] 2024 Approved Finding and Exploring Your Own Music Selection Zone on Youtube</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-master-the-art-of-audio-alteration-in-sony-games/"><u>[New] 2024 Approved Master the Art of Audio Alteration in Sony Games</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-boxed-bliss-reinventing-the-art-of-first-contacts-for-2024/"><u>[New] Boxed Bliss Reinventing the Art of First Contacts for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-maximizing-your-iphones-burst-photography-for-2024/"><u>[New] Maximizing Your iPhone's Burst Photography for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-synchronized-sound-and-picture-zone-online-for-2024/"><u>[New] Synchronized Sound & Picture Zone Online for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-holographic-horizons-unveiling-new-dimensions-with-sci-fi-classics/"><u>[Updated] 2024 Approved Holographic Horizons Unveiling New Dimensions with Sci-Fi Classics</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-asmr-quality-high-standards-meet-affordable-costs/"><u>[Updated] ASMR Quality High Standards Meet Affordable Costs</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-cherished-holiday-hits-our-top-10-family-friendly-films-for-2024/"><u>[Updated] Cherished Holiday Hits Our Top 10 Family-Friendly Films for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-free-programs-to-keep-your-software-updated-top-11-list/"><u>Best Free Programs to Keep Your Software Updated – Top 11 List</u></a></li>
+<li><a href="https://discover-data.techidaily.com/einfache-anleitung-zum-installieren-von-windows-11-auf-einem-usb-stick/"><u>Einfache Anleitung Zum Installieren Von Windows 11 Auf Einem USB-Stick</u></a></li>
+<li><a href="https://blog-min.techidaily.com/essential-techniques-to-upgrade-your-videos-to-60-frames-per-second/"><u>Essential Techniques to Upgrade Your Videos to 60 Frames Per Second</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-capture-and-convert-fb-videos-immediitsly-to-mp3/"><u>In 2024, Capture and Convert FB Videos Immediitsly to MP3</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ready-set-update-your-quick-dual-checklist-for-upgrading-to-windows-11-creators-edition/"><u>Ready, Set, Update! Your Quick Dual Checklist for Upgrading to Windows 11 Creators Edition</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-absent-bluetooth-symbol-issue-in-windows-11/"><u>Resolving the Absent Bluetooth Symbol Issue in Windows 11</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/sharpening-the-sight-on-minecraft-structures/"><u>Sharpening the Sight on Minecraft Structures</u></a></li>
+<li><a href="https://win-news.techidaily.com/upgrade-your-voice-discover-the-latest-karaoke-hits-on-karaoke-cloud-pro-for-december-sign-up-and-unleash-your-star-power/"><u>Upgrade Your Voice: Discover the Latest Karaoke Hits on Karaoke Cloud Pro for December – Sign Up & Unleash Your Star Power!</u></a></li>
 </ul></div>
 

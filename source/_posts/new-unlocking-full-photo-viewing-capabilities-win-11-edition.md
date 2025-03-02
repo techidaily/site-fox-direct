@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Unlocking Full Photo Viewing Capabilities  Win 11 Edition\""
-date: 2025-02-04T20:01:19.229Z
-updated: 2025-02-11T20:24:00.469Z
+date: 2025-02-23T16:06:19.271Z
+updated: 2025-03-02T18:27:38.479Z
 tags: 
   - screen-recording
   - ai video
@@ -70,10 +70,6 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2**: Click on the present photo viewer app over there and look for ‘Windows Photo Viewer’. We assume that you have upgraded from an older version on Windows and Windows Photo Viewer is there in the options.
 
 **Step 3**: Tap on ‘Windows Photo Viewer’ and then exit ‘Settings’. Now, you have successfully restored Windows Photo Viewer and you can open photos in Windows Photo Viewer.
@@ -92,21 +88,9 @@ Here is the detailed guide –
 
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-back.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Note**: If the Windows Photo Viewer isn't there, here is a backup. You need to change Windows Registry to make Windows Photo Viewer returned. You need to go to [Edwin over on Ten Forums](https://www.tenforums.com/software-apps/8930-windows-photo-viewer-gone-2.html#post290818) to add code on your PC.
 
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -115,10 +99,6 @@ From the above article, we found out that restoring Windows Photo Viewer on your
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -145,19 +125,21 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-prolive-vs-showrunner-hub/"><u>[New] 2024 Approved ProLive VS Showrunner Hub</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-comprehensible-techniques-for-effective-classroom-recordings-on-mac-for-2024/"><u>[New] Comprehensible Techniques for Effective Classroom Recordings on Mac for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-screensphere-comprehensively-global-plus-locally-connected/"><u>[New] In 2024, ScreenSphere Comprehensively Global + Locally Connected</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-virtual-world-laughter-excavating-the-best-metaverse-jokes-for-2024/"><u>[New] Virtual World Laughter Excavating the Best Metaverse Jokes for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-a-deep-dive-into-fraps-recording-capabilities/"><u>[Updated] 2024 Approved A Deep Dive Into Fraps Recording Capabilities</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-groundbreenas-choosing-first-time-gamers-editing-apps/"><u>[Updated] 2024 Approved Groundbreenas Choosing First-Time Gamers' Editing Apps</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-best-gallery-archive-websites-for-2024/"><u>[Updated] Best Gallery Archive Websites for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-from-monotonous-to-mesmerizing-grading-guidance-for-editors/"><u>[Updated] In 2024, From Monotonous to Mesmerizing Grading Guidance for Editors</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-major-listing-of-affordable-visual-content-sites/"><u>[Updated] In 2024, Major Listing of Affordable Visual Content Sites</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-perfecting-the-art-of-photo-mosaic-creation/"><u>[Updated] Perfecting the Art of Photo Mosaic Creation</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-conquering-challenges-expert-gopro-tips/"><u>2024 Approved Conquering Challenges Expert GoPro Tips</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/essential-tips-for-configuring-and-measuring-facebooks-in-stream-ads-for-2024/"><u>Essential Tips for Configuring and Measuring Facebook's In-Stream Ads for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-digital-diaspora-mixing-music-and-memory-images/"><u>In 2024, Digital Diaspora Mixing Music and Memory Images</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-6-premium-background-erasers-for-photo-professionals-for-2024/"><u>Unveiling 6 Premium Background Erasers for Photo Professionals for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-perfect-your-pixels-select-best-10-online-enhancement-apps/"><u>[New] 2024 Approved Perfect Your Pixels Select Best 10 Online Enhancement Apps</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-efficient-backup-of-camera-roll-to-share-via-snapchat/"><u>[New] Efficient Backup of Camera Roll to Share via Snapchat</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-the-ultimate-action-camera-test-xs-100-i-inside-story/"><u>[New] The Ultimate Action Camera Test - XS 100 I Inside Story</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-the-ultimate-playbook-for-attracting-hundred-thousand-on-youtube/"><u>[New] The Ultimate Playbook for Attracting Hundred Thousand on YouTube</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-unveiling-5-compelling-literary-video-tts/"><u>[New] Unveiling 5 Compelling Literary Video TTs</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-three-safe-methods-for-directly-downloading-youtubes-audios-as-mp3/"><u>[Updated] In 2024, Three Safe Methods for Directly Downloading YouTube's Audios as MP3</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-mastering-videoshow-app-a-complete-guide-for-24-for-2024/"><u>[Updated] Mastering VideoShow App - A Complete Guide for '24 for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-streaming-made-easy-with-these-11-advanced-recording-tips/"><u>[Updated] Streaming Made Easy with These 11 Advanced Recording Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/block-or-unblock-handle-twitch-conversations-smartly/"><u>Block or Unblock: Handle Twitch Conversations Smartly</u></a></li>
+<li><a href="https://win-forum.techidaily.com/discover-the-powerhouses-of-online-communities-facebook-to-youtube-explained/"><u>Discover the Powerhouses of Online Communities: Facebook to YouTube Explained!</u></a></li>
+<li><a href="https://facebook.techidaily.com/from-data-to-dollars-in-the-web-world/"><u>From Data to Dollars in the Web World</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-achieve-superior-mp4-output-from-instagram-videos-2-ways/"><u>In 2024, Achieve Superior MP4 Output From Instagram Videos 2 Ways</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-microphone-malfunctions-in-counter-strike-2-with-these-proven-techniques/"><u>Resolve Microphone Malfunctions in Counter-Strike 2 with These Proven Techniques</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-32-open-source-backup-solutions-comprehensive-rating-and-reviews/"><u>Top 32 Open-Source Backup Solutions - Comprehensive Rating & Reviews</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/visual-storytellers-unite-7-prime-3d-design-and-animation-applications-for-2024/"><u>Visual Storytellers Unite 7 Prime 3D Design & Animation Applications for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/vr-shopping-interface-prototyping-for-2024/"><u>VR Shopping Interface Prototyping for 2024</u></a></li>
 </ul></div>
 

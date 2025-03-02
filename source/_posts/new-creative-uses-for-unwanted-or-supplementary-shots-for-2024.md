@@ -1,7 +1,7 @@
 ---
 title: "[New] Creative Uses for Unwanted or Supplementary Shots for 2024"
-date: 2025-02-08T17:28:39.159Z
-updated: 2025-02-11T20:17:10.880Z
+date: 2025-02-27T18:59:52.098Z
+updated: 2025-03-02T19:44:10.794Z
 tags: 
   - screen-recording
   - ai video
@@ -27,10 +27,6 @@ Now that we know that, let's dive in!
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. B roll In TV And Movies
 
 Broll is an acronym for "background" or "behind," respectively. It usually refers to extra footage captured with a movie camera while keeping the lighting consistent between scenes in the movie industry. When the filmmaker doesn't want to show any dialogue or action on screen but needs some movement within the frame, it might be utilized as filler.
@@ -49,25 +45,13 @@ The ideal way to use B roll is to put it behind interviews. This kind of footage
 
 On the other hand, cutaways can show how different people react to what is being said in an interview. After all, transitions are commonly used to switch from one person's experience with a certain topic to another person's experience with the same topic. All of these different kinds of footage give filmmakers and videographers more freedom to tell their stories without relying too much on dialogue or narration.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. What types of b roll are there?
 
 We'll examine the top 5 uses for B rolls across a variety of video genres and discuss how to implement them effectively in your own projects.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Archival b roll footage
 
 Aerial B roll is the solution when you like to show your viewers where your film is being recorded or when you are changing locations and want them to know it. The plane takes off and lands in another city, and then shots of the city, its landmarks, its famous streets, etc. are shown. You have probably seen this type of B roll footage in movies and TV shows. These images aid in putting the viewer in the character's current location. Check out this collection of setting images from the Neighbors television series.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Visual detail b roll footage
 
@@ -86,10 +70,6 @@ This particular kind of B roll film is captured without any direction being give
 When you are sharing a narrative that has been told in the past or that has historical significance, incorporating archival material into your video gives your audience the opportunity to see the story as it occurred at the time. This is especially useful when you are discussing a narrative that has been experienced in the past or that has futuristic relevance.
 
 Have a look at the scenes from the episode "14 Peaks: Nothing Is Impossible" that can be found on Netflix. As a result of the use of archive film footage of b roll from the relevant time period in its production, the audience is able to connect with the narrative on a deeper level.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Pick-up shots
 
@@ -135,20 +115,22 @@ We sincerely hope that this post will be of use to you in making your films more
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-vegas-pro-21-the-new-standard-for-sportsbook-simplicity-and-complexity/"><u>[Updated] In 2024, Vegas Pro '21 - The New Standard for Sportsbook Simplicity & Complexity</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-the-blueprint-to-surge-in-youtubers-popularity/"><u>2024 Approved The Blueprint to Surge in Youtubers' Popularity</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-the-perfect-snap-infusing-dynamic-blur-into-faces-through-picsart-editing/"><u>2024 Approved The Perfect Snap Infusing Dynamic Blur Into Faces Through Picsart Editing</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-the-soundsmiths-scripture-on-crossfading-in-logic/"><u>2024 Approved The Soundsmith's Scripture on Crossfading in Logic</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-unveiling-vegaspro-the-19-edition/"><u>2024 Approved Unveiling VegasPro The '19 Edition</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-xiaomi-redmi-k70-pro-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Xiaomi Redmi K70 Pro System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/achieving-professional-editing-without-the-price-tag/"><u>Achieving Professional Editing Without the Price Tag</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/asus-proart-pa-329q-in-focus-the-comprehensive-4k-professional-display-analysis-for-2024/"><u>Asus ProArt PA 329Q in Focus – The Comprehensive 4K Professional Display Analysis for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/compact-powerhouse-unveiled-exploring-the-raspberry-pi-400-keyboard-pc/"><u>Compact Powerhouse Unveiled: Exploring the Raspberry Pi 400 Keyboard PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-resolving-tearing-issues-on-your-valorant-gameplay-screens/"><u>Comprehensive Guide: Resolving Tearing Issues on Your VALORANT Gameplay Screens</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/dannys-colombian-help-network-for-needy-citizens/"><u>Danny's Colombian Help Network for Needy Citizens</u></a></li>
-<li><a href="https://extra-information.techidaily.com/how-to-unlock-full-potential-with-iphone-hdr/"><u>How to Unlock Full Potential with iPhone HDR</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-best-online-choice-for-quick-hassle-free-gif-conversion-to-video/"><u>In 2024, The Best Online Choice for Quick, Hassle-Free GIF Conversion to Video</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-thrill-town-10-similar-video-games-to-gta-v/"><u>In 2024, Thrill Town 10 Similar Video Games To GTA V</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-depth-review-free2x-webcam-capturing-software-for-2024/"><u>In-Depth Review Free2X Webcam Capturing Software for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-introduction-to-interactive-graphic-design/"><u>[New] 2024 Approved Introduction to Interactive Graphic Design</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-voice-logging-and-retention-system-iphone-x2/"><u>[New] 2024 Approved Voice Logging & Retention System, iPhone X2</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-whats-new-in-big-sur-necessary-specs-and-features/"><u>[New] 2024 Approved What's New in Big Sur Necessary Specs and Features</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-enlightened-imaging-mastering-hdr-vision-in-lightroom/"><u>[Updated] Enlightened Imaging Mastering HDR Vision in Lightroom</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fine-tuning-your-audio-transitions-in-depth-insights-for-using-audacity/"><u>[Updated] Fine-Tuning Your Audio Transitions In-Depth Insights for Using Audacity</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-navigating-the-best-free-srt-translation-services/"><u>[Updated] Navigating the Best FREE SRT Translation Services</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-unveiling-trillers-unique-strategy-in-the-world-of-online-videos/"><u>[Updated] Unveiling Triller's Unique Strategy in the World of Online Videos</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-adding-drama-to-videos-strikethrough-for-emphasis-and-clarity/"><u>2024 Approved Adding Drama to Videos Strikethrough for Emphasis and Clarity</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-oppo-f23-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Oppo F23 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/bridging-the-gap-luts-from-cg-central-to-movie-colors-for-2024/"><u>Bridging the Gap Luts From CG Central to Movie Colors for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/embrace-claude-ai-transforming-business-landscapes-for-decades/"><u>Embrace Claude AI: Transforming Business Landscapes for Decades</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-to-apple-iphone-xr-drfone-by-drfone-ios/"><u>How to Mirror PC to Apple iPhone XR? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-premium-quality-transformer-for-video-enthusiasts/"><u>In 2024, Premium Quality Transformer for Video Enthusiasts</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/make-a-splash-on-social-media-adding-animated-text-to-instagram-stories/"><u>Make a Splash on Social Media Adding Animated Text to Instagram Stories</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/moneysmart-cumulus-storage-scaling-files-economically-for-2024/"><u>MoneySmart Cumulus Storage - Scaling Files Economically for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/tips-and-tricks-for-setting-up-your-sony-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Sony Phone Pattern Lock</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/uwindows-7-2/"><u>U磁気メモリでWindows 지원: 7번째에 대한 2가지 백업방법</u></a></li>
 </ul></div>
 
